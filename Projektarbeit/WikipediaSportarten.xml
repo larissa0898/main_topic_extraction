@@ -1,0 +1,4359 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>dewiki</dbname>
+    <base>https://de.wikipedia.org/wiki/Wikipedia:Hauptseite</base>
+    <generator>MediaWiki 1.37.0-wmf.12</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Diskussion</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Modul Diskussion</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget Diskussion</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget-Definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget-Definition Diskussion</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategorie:Wintersportart</title>
+    <ns>14</ns>
+    <id>697683</id>
+    <revision>
+      <id>116934915</id>
+      <parentid>87588195</parentid>
+      <timestamp>2013-04-04T03:22:57Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>1209855</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 1 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[:d:Q9198750]]) migriert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="545" xml:space="preserve">In dieser Kategorie sollen alle Sportarten gesammelt werden die
+* ausschließlich oder vorwiegend im '''Winter''' betrieben werden oder 
+* als sommerliche Entsprechung winterlicher Sportarten definiert sind und 
+* sowohl als '''Breiten'''- wie auch als '''Spitzensport''' ausgeübt werden.
+
+Keinesfalls hierher gehören Artikel über Wintersportgebiete, Skiausrüstung, Wintersportler und dergleichen.&lt;br&gt;
+Zum Thema Hundeschlittensport findet man viel Wissenswertes im Artikel [[Schlittenhund]].
+
+[[Kategorie:Sportart]]
+[[Kategorie:Wintersport]]</text>
+      <sha1>tiyjiclx7g03e2fo4f37bgpla22c9i4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Mehrkampfsportart</title>
+    <ns>14</ns>
+    <id>1338408</id>
+    <revision>
+      <id>147427075</id>
+      <parentid>147426399</parentid>
+      <timestamp>2015-10-27T11:54:11Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" xml:space="preserve">Als '''Mehrkampf''' oder '''Kombinationssportart''' werden sportliche Wettbewerbe bezeichnet, in denen von den Athleten mehrere verschiedene Sportarten oder verschiedene Disziplinen der gleichen Sportart absolviert werden, um basierend auf einer kombinierten Bewertung aller Disziplinen einen Gesamtsieger zu ermitteln.
+
+[[Kategorie:Sportart]]
+[[Kategorie:Mehrkampfsport| ]]</text>
+      <sha1>l19zn663jshd3jvqz3hd71topuycqry</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Extremsportart</title>
+    <ns>14</ns>
+    <id>1364650</id>
+    <revision>
+      <id>116566958</id>
+      <parentid>104103260</parentid>
+      <timestamp>2013-04-02T04:53:40Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>1209855</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 2 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[:d:Q6263622]]) migriert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="156" xml:space="preserve">Artikel zu einzelnen Sportarten, die dem Extremsport zugerechnet werden.
+{{Commonscat|Extreme sports}}
+
+[[Kategorie:Sportart]]
+[[Kategorie:Extremsport|Art]]</text>
+      <sha1>lo96sie4un6s5qi86qd7zczui4tklli</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Geschicklichkeitsspiel</title>
+    <ns>14</ns>
+    <id>251818</id>
+    <revision>
+      <id>139691188</id>
+      <parentid>116685615</parentid>
+      <timestamp>2015-03-11T18:16:02Z</timestamp>
+      <contributor>
+        <username>Frank C. Müller</username>
+        <id>121104</id>
+      </contributor>
+      <comment>stil.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" xml:space="preserve">Diese Kategorie enthält [[Geschicklichkeitsspiel]]e; sie ist eine Kategorie des [[Portal:Spiele]], weshalb hier bitte '''keine Computergeschicklichkeitsspiele''' einsortiert werden sollen, die gehören in die [[:Kategorie:Computer-Geschicklichkeitsspiel]].
+
+{{commonscat|Physical-skill games}}
+
+[[Kategorie:Spiel nach Anforderung]]
+[[Kategorie:Sportart]]</text>
+      <sha1>c529knqluoww059yh8iss5m1zibkq9u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Wassersportart</title>
+    <ns>14</ns>
+    <id>2458605</id>
+    <revision>
+      <id>130574260</id>
+      <parentid>30413752</parentid>
+      <timestamp>2014-05-20T09:58:46Z</timestamp>
+      <contributor>
+        <username>Gödeke</username>
+        <id>469508</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:HC|HC]]: neuer Sortierschlüssel für [[Kategorie:Wassersport]]: "Art"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" xml:space="preserve">[[Kategorie:Wassersport|Art]]
+[[Kategorie:Sportart]]</text>
+      <sha1>1xuboz0tyyf9gblnnygzffemidh1lcm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Tiersportart</title>
+    <ns>14</ns>
+    <id>2464115</id>
+    <revision>
+      <id>210152009</id>
+      <parentid>147428418</parentid>
+      <timestamp>2021-03-24T08:00:51Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" xml:space="preserve">{{Objektkategorie}}
+Hier werden Artikel zu Sportarten gesammelt, bei denen Tiere eine maßgebliche Rolle spielen. 
+
+{{Commonscat|Animal sports}}
+
+[[Kategorie:Sportart]]
+[[Kategorie:Tiersport| ]]</text>
+      <sha1>i53yclyuzg4kyxe5zubbq9mku9p016o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Kraftsportart</title>
+    <ns>14</ns>
+    <id>2464528</id>
+    <revision>
+      <id>116678969</id>
+      <parentid>88214297</parentid>
+      <timestamp>2013-04-02T21:10:36Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>901616</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Migrating 5 langlinks, now provided by Wikidata on [[d:Q8149084]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="280" xml:space="preserve">In dieser Kategorie werden Artikel zu einzelnen Kraftsportarten kategorisiert. Für Themenkategorien zu einzelnen Sportarten siehe [[:Kategorie:Kraftsport]].
+
+vgl. auch [[:Kategorie:Sportart]] und [[:Kategorie:Sport nach Sportart]]
+
+[[Kategorie:Kraftsport]]
+[[Kategorie:Sportart]]</text>
+      <sha1>9vv3hboj8li2l69f2d4eqhe1cp0uaf1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Brettsportart</title>
+    <ns>14</ns>
+    <id>2479598</id>
+    <revision>
+      <id>116521314</id>
+      <parentid>108424536</parentid>
+      <timestamp>2013-04-01T21:54:02Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>1209855</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 11 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[:d:Q7379302]]) migriert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" xml:space="preserve">[[Kategorie:Sportart]]</text>
+      <sha1>h68mr7hq98xm8bquim9jrcbpi4f4nws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Wurfsportart</title>
+    <ns>14</ns>
+    <id>2479628</id>
+    <revision>
+      <id>30708843</id>
+      <timestamp>2007-04-19T07:26:02Z</timestamp>
+      <contributor>
+        <username>Lirum Larum</username>
+        <id>285583</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quelle#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" xml:space="preserve">[[Kategorie:Sportart]]</text>
+      <sha1>h68mr7hq98xm8bquim9jrcbpi4f4nws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Leichtathletikdisziplin</title>
+    <ns>14</ns>
+    <id>2479651</id>
+    <revision>
+      <id>117695822</id>
+      <parentid>117529173</parentid>
+      <timestamp>2013-04-19T22:22:51Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>1209855</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 1 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[:d:Q7082029]]) migriert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61" xml:space="preserve">[[Kategorie:Leichtathletik|Disziplin]]
+[[Kategorie:Sportart]]</text>
+      <sha1>mg0zvlnvq0i8wy6v9ck7a1tsa2pymtx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Langstreckenlauf</title>
+    <ns>14</ns>
+    <id>2479696</id>
+    <revision>
+      <id>116351196</id>
+      <parentid>108203830</parentid>
+      <timestamp>2013-03-31T11:13:17Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>901616</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 8 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[d:Q8601990]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" xml:space="preserve">Diese Kategorie beinhaltet Artikel zu Langstreckenlauf-Disziplinen.
+
+[[Kategorie:Leichtathletik]]
+[[Kategorie:Sportart]]</text>
+      <sha1>omlo93pi3dw5mt6zrmps36x15yuw43o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Turnsportart</title>
+    <ns>14</ns>
+    <id>2480195</id>
+    <revision>
+      <id>186106091</id>
+      <parentid>186106079</parentid>
+      <timestamp>2019-02-27T21:12:28Z</timestamp>
+      <contributor>
+        <username>Didionline</username>
+        <id>73374</id>
+      </contributor>
+      <comment>bereits in einer Unterkategorie enthalten</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" xml:space="preserve">[[Kategorie:Sportart]]
+[[Kategorie:Turnen|Sportart]]</text>
+      <sha1>qssg2ea9h3jwydq5lhyl1njdr49wsp4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Natursportart</title>
+    <ns>14</ns>
+    <id>2483444</id>
+    <revision>
+      <id>147427702</id>
+      <parentid>92061660</parentid>
+      <timestamp>2015-10-27T12:16:11Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" xml:space="preserve">{{Dateikat|Natursport}}
+[[Kategorie:Sportart]]
+[[Kategorie:Natursport| ]]</text>
+      <sha1>6hybs8e15e9i9n2re09oc2e7bmq8404</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Motorsportart</title>
+    <ns>14</ns>
+    <id>2483504</id>
+    <revision>
+      <id>139158812</id>
+      <parentid>116539001</parentid>
+      <timestamp>2015-02-24T09:42:57Z</timestamp>
+      <contributor>
+        <username>Pitlane02Bot</username>
+        <id>1487502</id>
+      </contributor>
+      <minor/>
+      <comment>Hinweis, dass das [[Portal:Motorsport]] einzubinden ist.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" xml:space="preserve">{{Kategoriewartung|Portal:Motorsport}}
+Für Artikel zum Thema der aufgeführten Sportarten siehe die [[:Kategorie:Motorsport]].
+
+[[Kategorie:Sportart]]
+[[Kategorie:Motorsport|!]]</text>
+      <sha1>mdlmg0z8oa5fp4vngginv76dxlwfpeu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Kampfsportart</title>
+    <ns>14</ns>
+    <id>2483545</id>
+    <revision>
+      <id>116331549</id>
+      <parentid>98894305</parentid>
+      <timestamp>2013-03-31T07:37:46Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>901616</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 1 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[d:Q8979719]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="280" xml:space="preserve">In dieser Kategorie werden Artikel zu einzelnen Kampfsportarten kategorisiert. Für Themenkategorien zu einzelnen Sportarten siehe [[:Kategorie:Kampfsport]].
+
+vgl. auch [[:Kategorie:Sportart]] und [[:Kategorie:Sport nach Sportart]]
+
+[[Kategorie:Kampfsport]]
+[[Kategorie:Sportart]]</text>
+      <sha1>r7oinnn9wk0wfniwhehz1ycqepcka1y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Mannschaftssportart</title>
+    <ns>14</ns>
+    <id>2488550</id>
+    <revision>
+      <id>207025336</id>
+      <parentid>116512529</parentid>
+      <timestamp>2020-12-29T11:28:40Z</timestamp>
+      <contributor>
+        <username>Geher</username>
+        <id>265852</id>
+      </contributor>
+      <comment>Einleitungstext gemäß [[Portal Diskussion:Sport]] vom 28. Dezember 2020</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="412" xml:space="preserve">In dieser Kategorie sollen Sportarten einsortiert werden, die nur als [[Mannschaftssport#Reiner Mannschaftssport|Reiner Mannschaftssport]] betrieben werden können. Individualsportarten wie Tennis, Leichtathletik oder Kanusport gehören nicht in diese  Kategorie, auch wenn bestimmte Disziplinen wie Doppel, Staffel oder Zweier zu mehreren ausgeübt werden.
+
+[[Kategorie:Sportart]]
+[[Kategorie:Mannschaftssport]]</text>
+      <sha1>70mjmhkknlq9xb1fzqfhjoxa0ff8e5t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sportdisziplin</title>
+    <ns>0</ns>
+    <id>3564611</id>
+    <revision>
+      <id>186580401</id>
+      <parentid>166559851</parentid>
+      <timestamp>2019-03-14T15:35:56Z</timestamp>
+      <contributor>
+        <username>HERCVLES</username>
+        <id>1987790</id>
+      </contributor>
+      <comment>Bewertungsbaustein eingefügt.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2247" xml:space="preserve">{{Belege fehlen|2=Dieser Artikel}}
+
+Eine '''Sportdisziplin''' ist eine einzelne Wettkampfart innerhalb einer [[Sportart]]. Die '''Königsdisziplin''' ist dagegen eine besonders anspruchsvolle Disziplin. Der Begriff der ''Königsdisziplin'' ist nicht auf Sportdisziplinen begrenzt.&lt;ref&gt;[http://www.duden.de/definition/k%C3%B6nigsdisziplin Königsdisziplin] im [[Duden]]&lt;/ref&gt;
+
+In der Leichtathletik gilt der Zehnkampf als Königsdisziplin, also eine Ansammlung mehrerer in ihrer Summe Robustheit abverlangende Teildisziplinen. Beim Boxen hingegen zählt die höchste Gewichtsklasse als Königsdisziplin oder einfach nur Königsklasse.
+
+Während unter einer Sportart bestimmte Arten der körperlichen Betätigung zusammengefasst werden, werden Wettbewerbe in dieser Sportart meist in verschiedenen Disziplinen ausgetragen. Die häufigste Unterscheidung ist dabei die Trennung der Wettbewerbe in unterschiedliche Streckenlängen. In der [[Leichtathletik]] gibt es z.&amp;nbsp;B. Wettbewerbe im Laufen über 100, 200, 400, 800, 1.500, 5.000 und 10.000&amp;nbsp;m. Teilweise werden auch verschiedene Stilarten der Ausübung (z.&amp;nbsp;B. die Einzellagen im [[Schwimmsport]]), des Sportgeräts (z.&amp;nbsp;B. verschiedene Waffen im [[Schießsport]]), unterschiedliche Mannschaftsgrößen (z.&amp;nbsp;B. Einer-, Zweier- und Viererteams beim [[Bobfahren]] oder [[Kanusport]]) als einzelne Disziplinen ausgetragen.
+
+Das Programm der [[Olympische Spiele|Olympischen Spiele]] besteht so aktuell aus [[Olympische Sportarten|28 Sportarten]], in denen Medaillen in [[Medaillenspiegel der Olympischen Sommerspiele 2004|301 Disziplinen]] vergeben werden.
+
+Die Begriffe Sportart und Sportdisziplin werden im allgemeinen Sprachgebrauch allerdings nicht immer systematisch unterschieden. Zum Teil werden unterschiedliche Sparten eines Sports, z.&amp;nbsp;B. die Varianten [[Straßenradrennen]], [[Bahnradfahren]], [[Mountainbike]] und [[Kunstradfahren]] des [[Radsport]]s als eigenständige Sportarten betrachtet, zum Teil jedoch auch als Disziplinen der Sportart Radsport. Die [[Einerverfolgung]] wäre demzufolge entweder eine Disziplin der Sportart Bahnradfahren oder eine ''Teil''disziplin der Disziplin Bahnradfahren.
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Sportart|!]]</text>
+      <sha1>iec19ohxdo7lk1aq2qvh8umn2kezrwy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Olympische Sportart</title>
+    <ns>14</ns>
+    <id>3684987</id>
+    <revision>
+      <id>145220593</id>
+      <parentid>116580367</parentid>
+      <timestamp>2015-08-20T09:50:19Z</timestamp>
+      <contributor>
+        <username>Zulu55</username>
+        <id>454012</id>
+      </contributor>
+      <comment>{{Objektkategorie}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" xml:space="preserve">{{Objektkategorie}}
+Diese Kategorie enthält alle Sportarten bzw. Disziplinen, die aktuell zum [[Olympische Sportarten|Programm der Olympischen Spiele]] gehören.
+{{Commonscat|Olympic sports}}
+
+[[Kategorie:Olympische Spiele]]
+[[Kategorie:Sportart]]</text>
+      <sha1>qps7kvkip98xt9k9xp7bpt6ha32zvhu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Demonstrationssportart</title>
+    <ns>0</ns>
+    <id>3799175</id>
+    <revision>
+      <id>195644191</id>
+      <parentid>127368211</parentid>
+      <timestamp>2020-01-09T07:01:48Z</timestamp>
+      <contributor>
+        <username>Wruedt</username>
+        <id>1082151</id>
+      </contributor>
+      <minor/>
+      <comment>Abschnittlink korrigiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="614" xml:space="preserve">Als '''Demonstrationssportart''' wird eine [[Sportart]] bezeichnet, die bei einer Multisportveranstaltung nur vorübergehend in das Programm aufgenommen wird, um die Resonanz beim Publikum zu testen. Bekannte Veranstaltungen mit Demonstrationssportarten sind [[Olympische Spiele]] (hier wurden sie 1989 abgeschafft und seit 1992 nicht mehr ausgetragen) und die [[World Games]] (hier als ''Einladungssportarten'' bezeichnet). 
+
+== Siehe auch ==
+* [[Olympische Sportarten#Demonstrationssportarten|Auflistung der Olympischen Demonstrationssportarten]]
+* [[Olympische Demonstrationssportarten]]
+
+[[Kategorie:Sportart]]</text>
+      <sha1>3l1j0dhbr90z3vc6zyjdx1zl1szl7p6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Friesensport</title>
+    <ns>0</ns>
+    <id>4831111</id>
+    <revision>
+      <id>213642690</id>
+      <parentid>213642546</parentid>
+      <timestamp>2021-07-07T11:42:06Z</timestamp>
+      <contributor>
+        <ip>2A00:6020:4309:F800:4E9:EF3C:765B:664B</ip>
+      </contributor>
+      <comment>+ Überschrift</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3425" xml:space="preserve">'''Friesensport''' ist der Sammelbegriff für mehrere Sportarten, die in [[Ostfriesland]], im nordwestlichen [[Oldenburger Land]] sowie im westlichen [[Schleswig-Holstein]] (Dithmarschen und Nordfriesland) betrieben werden.
+
+Während viele der traditionellen Sportarten in Deutschland entweder verschwunden oder im unorganisierten Freizeitsport aufgegangen sind, hat sich der Friesensport ähnlich wie das [[Schützenwesen]] einerseits als organisierter Wettkampfsport mit nationalen und internationalen Meisterschaften&lt;ref&gt;Georg Coldewey: Die Klootschießer- und Boßlerbewegung in Wort und Bild. Varel i. Oldb.: Allmers, 1938&lt;/ref&gt; und andererseits als Brauchtumspflege erhalten.&lt;ref&gt;[[Arnd Krüger]]: Incorporating traditional games into modern sports. The German Experience, in: E. DE VROEDE &amp; R. RENSON (Hrsg.): Proceedings of the 2nd European Seminar on Traditional Games. Leuven 12 - 16 Sept. 1990. Löwen: Vlaamse Volkssport Centrale 1991, 45 - 54.&lt;/ref&gt;
+
+Der Friesensport ist zu unterscheiden vom [[Friesenkampf]], einer Variante des [[Moderner Fünfkampf|Modernen Fünfkampfs]].
+
+== Disziplinen und Mehrkampfwettbewerbe ==
+Die einzelnen [[Sportdisziplin]]en sind:
+* [[Klootschießen]]
+* [[Boßeln]]
+* [[Schleuderballspiel|Schleuderball]]
+* [[Besenwerfen]]
+Im traditionellen ''Friesischen Dreikampf'' muss jeder Friesensportler spezielle Disziplinen dieser vier Sportarten bestreiten, den Standkampf im Klootschießen, das Weideboßeln und den Schleuderballweitwurf. Den Dreikampf gibt es heute nur noch als Wettkampf für Jugendliche, den die [[Ostfriesische Landschaft]] jährlich zum [[Oll’ Mai]] am [[Upstalsboom]] in [[Aurich]] ausrichtet.
+Als offizieller Wettkampf hat sich allerdings der ''Friesische Mehrkampf'', oft auch als ''Friesischer Fünfkampf'' bezeichnet, durchgesetzt. Die Disziplinen dort sind neben dem Klootschießen, dem Weideboßeln und dem Schleuderballweitwurf noch zusätzlich das Gummikugel-Straßenboßeln und das Kunststoff(Holz)kugel-Straßenboßeln.
+
+== Internationale Varianten ==
+Da eine große Anzahl der Friesensport-Gemeinde auch die irische Variante des Sports (Irish Road Bowling) und die niederländische Variante (Hollandkugelwerfen) praktiziert, werden auch diese Disziplinen häufig dem Friesensport zugeordnet.
+
+== Museale Präsentation ==
+Das [[Robert von Zeppelin- und Fliegermuseum]] in [[Wittmund]] zeigt eine Dauerausstellung zur Geschichte des Friesensports.
+
+== Literatur ==
+* Ihno Alberts, Harm Wiemann, Ursula Basse-Soltau: ''Das alte Friesenspiel ist jung, Klootschießen und Boßeln einst und jetzt''. Norden 1988.
+* Bernhard Uphoff (Autor), Martin Stromann (Fotograf), Helmut Behrends (Fotograf): ''Freesensport: Klootschießen, Boßeln und Schleuderballwerfen in Ostfriesland und Oldenburg.'' Norden 2004, ISBN 3-928327-65-8.
+* Helge Kujas: ''Klootschießen, Boßeln, Schleuderball''. Oldenburg 1994, ISBN 3-89442-228-9.
+
+== Einzelnachweise ==
+&lt;references/&gt;
+
+== Weblinks ==
+*[http://www.friesensport.de Friesensport-Portal]
+*[http://www.fkv-online.de/ FKV - Friesischer Klootschießer Verband]
+*[http://www.lkv-ostfriesland.de/ Landesverband Ostfriesland]
+*[http://www.klv-oldenburg.de/ Landesverband Oldenburg]
+
+[[Kategorie:Sportart]]
+[[Kategorie:Feste und Brauchtum (Niedersachsen)]]
+[[Kategorie:Feste und Brauchtum (Schleswig-Holstein)]]
+[[Kategorie:Feste und Brauchtum (Ostfriesland)]]
+[[Kategorie:Sport (Ostfriesland)| ]]
+[[Kategorie:Friesische Kultur]]</text>
+      <sha1>smrz4qtzmx6qhnn11f882f7warxgcz5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurzzeitdisziplin</title>
+    <ns>0</ns>
+    <id>4852117</id>
+    <revision>
+      <id>137409977</id>
+      <parentid>67403835</parentid>
+      <timestamp>2015-01-04T12:19:29Z</timestamp>
+      <contributor>
+        <username>JamesP</username>
+        <id>850113</id>
+      </contributor>
+      <minor/>
+      <comment>fixed typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1453" xml:space="preserve">Den Begriff '''Kurzzeitdisziplin''' (auch '''Sprintdisziplin''') verwendet man im [[Leistungssport]] für [[Sportdisziplin|Disziplinen]], die mit hoher, das heißt annähernd maximaler Geschwindigkeit absolviert werden und demzufolge einen anderen Sportlertyp erfordern, als die sogenannten [[Ausdauersport|Ausdauerdisziplinen]]. Da hohe und maximale Geschwindigkeiten in Sportarten wie Laufen, Radrennen, Schwimmen, Rudern, Eisschnelllauf  usw. vom Sportler die Mobilisation großer Kräfte und damit der [[Muskulatur#Einteilung_der_Muskelfasertypen|schnellzuckenden Muskelfasern]] verlangen, ist [[Energiebereitstellung]] in solchen Sportarten weit in den [[Anaerobe Glykolyse|anaeroben]] Bereich verschoben, weshalb solche Leistungen stets nur über ''kurze Zeit'' erbracht werden können.
+
+Der Begriff trifft auf alle Sprintdisziplinen der erwähnten Sportarten zu, wird aber explizit in erster Linie im [[Bahnradsport]] verwendet. Die einzelnen Disziplinen werden in der Regel als [[Sprint]] bezeichnet, spezielle Bezeichnungen gibt es wiederum im Bahnradsport, dort findet weiterhin die traditionelle Bezeichnung „[[Sprint (Bahnradsport)|Fliegerrennen]]“ Anwendung. Außerdem wird der Begriff Sprint häufig auch für Disziplinen (bspw. im Skilanglauf) verwendet, die eindeutig zu den Ausdauerdisziplinen gehören, sich aber durch die Streckenlänge deutlich von den längsten Disziplinen in diesem Sport unterscheiden.
+
+[[Kategorie:Sportart]]</text>
+      <sha1>8o3x1a04rgj6bdx7tut654dt3ciu5r9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Rollsportart</title>
+    <ns>14</ns>
+    <id>5465230</id>
+    <revision>
+      <id>144713078</id>
+      <parentid>102262625</parentid>
+      <timestamp>2015-08-04T15:20:40Z</timestamp>
+      <contributor>
+        <username>91.197.junr3170</username>
+        <id>1358883</id>
+      </contributor>
+      <comment>[[d:Q7357720]]:-:     [[en:Category:Roller skating]]  [[it:Categoria:Pattinaggio a rotelle]]; +: [[Vorlage:Commonscat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" xml:space="preserve">{{Commonscat|Roller skating}}
+
+[[Kategorie:Rollsport|Sportart]]
+[[Kategorie:Sportart]]</text>
+      <sha1>gs11d7dcqkp50wsdek33g409tzk20pe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Turniertanz</title>
+    <ns>14</ns>
+    <id>5618581</id>
+    <revision>
+      <id>98795275</id>
+      <parentid>78420657</parentid>
+      <timestamp>2012-01-24T17:10:59Z</timestamp>
+      <contributor>
+        <username>Summ</username>
+        <id>225282</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" xml:space="preserve">Objektkategorie (nur Artikel über Turniertänze)
+
+Artikel zum Thema Turniertanz bitte in die [[:Kategorie:Tanzsport]]
+[[Kategorie:Tanz]]
+[[Kategorie:Tanzsport]]
+[[Kategorie:Sportart]]</text>
+      <sha1>l0sucjw0c3ox8byjo5ojrf6b9uvp6vo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Antike Sportart</title>
+    <ns>14</ns>
+    <id>5956229</id>
+    <revision>
+      <id>84384263</id>
+      <timestamp>2011-01-25T12:53:52Z</timestamp>
+      <contributor>
+        <username>Ennie</username>
+        <id>1070143</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quellen#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt: [[Kategorie:Sport in der Antike]] [[Kategorie:Sportart]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" xml:space="preserve">[[Kategorie:Sport in der Antike]]
+[[Kategorie:Sportart]]</text>
+      <sha1>lcrexe0qqe5sduf5gu2yx0a6nhv5gye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Königsdisziplin</title>
+    <ns>0</ns>
+    <id>6127411</id>
+    <redirect title="Sportdisziplin" />
+    <revision>
+      <id>119031806</id>
+      <parentid>119031802</parentid>
+      <timestamp>2013-05-30T11:16:10Z</timestamp>
+      <contributor>
+        <username>Hephaion</username>
+        <id>1160488</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:HC|HC]]: Ergänze [[Kategorie:Sportart]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" xml:space="preserve">#WEITERLEITUNG [[Sportdisziplin]]
+
+{{SORTIERUNG:Konigsdisziplin}}
+
+[[Kategorie:Sportart]]</text>
+      <sha1>6dv6mhbpad3a8pd3runwbxd38xm34fv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Radsportart</title>
+    <ns>14</ns>
+    <id>2462630</id>
+    <revision>
+      <id>124726163</id>
+      <parentid>124726034</parentid>
+      <timestamp>2013-11-22T14:56:09Z</timestamp>
+      <contributor>
+        <username>Horst Gräbner</username>
+        <id>234611</id>
+      </contributor>
+      <minor/>
+      <comment>Änderungen von [[Special:Contributions/79.216.58.196|79.216.58.196]] ([[User talk:79.216.58.196|Diskussion]]) auf die letzte Version von [[User:EmausBot|EmausBot]] zurückgesetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" xml:space="preserve">[[Kategorie:Radsport]]
+[[Kategorie:Sportart]]</text>
+      <sha1>hwu4y3kforastrmaoykkg9epokxirzo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wurfsportart</title>
+    <ns>0</ns>
+    <id>7960200</id>
+    <revision>
+      <id>212997564</id>
+      <parentid>212997435</parentid>
+      <timestamp>2021-06-16T05:10:06Z</timestamp>
+      <contributor>
+        <username>Mutter5</username>
+        <id>3310719</id>
+      </contributor>
+      <comment>/* Wurfdisziplinen */Darts hinzugefügt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2992" xml:space="preserve">[[Datei:Bundesarchiv Bild 183-48084-0034, Leipzig, Turn- und Sporttreffen, Speerwurf.jpg|miniatur|Leipzig, Turn- und Sporttreffen, Speerwurf]]
+
+Eine '''Wurfsportart''' wird in mehrere Kategorien unterteilt. Grundsätzlich geht es darum ein Objekt zu werfen. Der entscheidende Unterschied ist das Sportgerät. Ob der Treffpunkt eines Zielobjektes maßgebend ist oder die Flugweite gemessen wird, variiert ebenfalls unter den Sportarten.
+Man kann die Wurfsportarten wie folgt unterscheiden. 
+
+== Wurfdisziplinen ==
+[[Diskuswurf]], [[Hammerwurf]], [[Speerwurf]] und [[Kugelstoßen]] sind Wurfdisziplinen der [[Leichtathletik]]. Man bezeichnet sie als „monotechnische“ Sportarten, da die Bewegungsweise gleich bleibt. [[Akontion]] war eine Teildisziplin des [[Pentathlon]] und ist heute der Speerwurf.
+
+;Weitwurf: [[Kürbisweitwurf]], [[Gummistiefelweitwurf]] und [[Steinwerfen]] zählen zu den Wurfsportarten, bei denen man das Spielgerät möglichst weit wirft. 
+:Beim Gummistiefelweitwurf und beim Steinwerfen wird das Gerät jeweils vom Sportler selbst geworfen. Der Kürbisweitwurf erfolgt über [[Schleuder (Waffe)|Schleudern]] oder [[Katapult|Katapulte]]. Auch die Kinder- und Jugenddisziplin [[Ballwurf]] zählt zu den Weitwürfen der Wurfsportarten dazu.
+
+;Spiele mit Bällen oder Kugeln: [[Klootschießen]] und [[Schleuderballwurf|Schleuderball]] zählen zu den Wurfsportarten, welche man mit Bällen ausführt. 
+
+: [[Boßeln]] als übergeordnete Form der Wurfsportarten kann auch in verschiedenen Variationen ausgeübt werden beispielsweise als [[Eisboßeln]] und [[Besenwerfen]].&lt;ref&gt;[http://www.gym-sport.de/gefunden-in/wurfsportarten ''Klootschießen – Boßeln – Schleuderball''] auf gym-sport.de&lt;/ref&gt;
+
+;Zielspiele: 
+* [[Darts]] hier werden Pfeile auf Felder einer Scheibe geworfen
+* [[Axtwerfen]] ist eine Wurfsportart, bei derer man mithilfe einer Axt eine Zielscheibe treffen muss.&lt;ref&gt;[http://www.axtwerfen.de/ ''Axtwerfen''] auf axtwerfen.de&lt;/ref&gt;
+
+;Sonstige Wurfsportarten
+* [[Baumstammwerfen]]
+* [[Knittelwerfen]]
+* [[Zwergenwerfen]]
+* Beim 2006 erfundenen [[Angelgolf]] wurden zwei Sportarten kombiniert. Das Spielgerät ist eine [[Angelrute]] verbunden mit einem [[Golfball]], welcher auf einem Golfplatz durch das Schleudern der Angelrute in die dafür vorgesehenen Löcher gebracht werden muss.&lt;ref&gt; {{Webarchiv | url=http://www.angelgolf.info/index.php?id=4 | wayback=20130813180632 | text=''Wettkampfbestimmungen für den Angelgolfsport''}} auf angelgolf.info&lt;/ref&gt;
+
+== Literatur ==
+* Lothar Hinz, Heinrich Gundlach, Klaus Bartonietz: ''Leichtathletik, Wurf und Stoss. Analysen und Empfehlungen für die Disziplinen Kugelstossen, Diskuswerfen, Speerwerfen und Hammerwerfen.'' Sportverlag, Berlin 1991, ISBN 3-328-00414-9.
+* Klaus Roth, Renate Schubert, Daniel Memmert: ''Ballschule Wurfspiele.'' Hofmann, Schorndorf 2006, ISBN 3-778-00211-2.
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{SORTIERUNG:Wurfsportart}}
+[[Kategorie:Wurfsportart|!]]
+[[Kategorie:Sportart]]</text>
+      <sha1>h8lmqrucsphp5xjwpv35m9qvp05y7lu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Ballsportart</title>
+    <ns>14</ns>
+    <id>8295696</id>
+    <revision>
+      <id>131649869</id>
+      <timestamp>2014-06-27T04:10:52Z</timestamp>
+      <contributor>
+        <username>Gödeke</username>
+        <id>469508</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quellen#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt: [[Kategorie:Ballsport]] [[Kategorie:Sportart]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" xml:space="preserve">[[Kategorie:Ballsport]]
+[[Kategorie:Sportart]]</text>
+      <sha1>2j2b3fk3clzct7dqk85o3lcv67ow9xu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Funsportart</title>
+    <ns>14</ns>
+    <id>8351542</id>
+    <revision>
+      <id>132903844</id>
+      <timestamp>2014-08-08T20:24:51Z</timestamp>
+      <contributor>
+        <username>Minoo</username>
+        <id>52007</id>
+      </contributor>
+      <comment>neu</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" xml:space="preserve">[[Kategorie:Sportart]]</text>
+      <sha1>h68mr7hq98xm8bquim9jrcbpi4f4nws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kampfspiele</title>
+    <ns>0</ns>
+    <id>8276962</id>
+    <revision>
+      <id>203411473</id>
+      <parentid>197805193</parentid>
+      <timestamp>2020-09-05T09:15:13Z</timestamp>
+      <contributor>
+        <username>Asperatus</username>
+        <id>709919</id>
+      </contributor>
+      <comment>lk</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15990" xml:space="preserve">Unter der Gattungsbezeichnung '''Kampfspiele''' fasst die [[Spielwissenschaft]] eine Reihe sehr verschiedenartiger Spielformen zusammen, die nur darin übereinstimmen, dass ihr [[Spielgedanke]] der kämpferischen Auseinandersetzung und dem [[Wettkampf]]prinzip folgt. Innerhalb der Vielfalt der Erscheinungsformen der Gattung kann sich das einzelne Kampfspiel etwa als ein [[Brettspiel]], ein Sportspiel, als [[Kriegsspiele|Kriegsspiel]] oder [[Geländespiel]] darstellen. Manche historische Kampfspiele haben in jeweils zeitgemäßen Formen die Jahrtausende überdauert. So hat sich etwa das antike [[Wagenrennen]] zum modernen [[Autorennen]] verwandelt. Andere Spiele wie etwa das [[Baumstammwerfen]] beschränken sich auf eine regionale Tradition.
+
+== Charakter ==
+Die Wortbildung bringt sprachlich die für diese Spielgattung typische Verbindung von Kampf und Spiel zum Ausdruck. Alle Arten von Kampfspielen versuchen, in der Schaffung von Gegnern und der spielerischen Auseinandersetzung zwischen ihnen einen Einzel- oder Mannschaftssieger zu ermitteln. Dabei kann die Konkurrenz als [[Brettspiel]] (Schach), im Sandkasten (Ritter- oder [[Soldatenspiele]]), im Gelände ([[Manöver (Militär)|Militär-Manöver]], [[Paintball]]), auf dem Sportplatz (als Mannschaftsspiel Fußball oder [[Parteienspiele]] wie [[Völkerball]] oder Jägerball), in der Halle (Basketball), im Wasser (Wasserball), in der Arena (Stierspiele) oder in der Luft (Drachen-, Modellflugzeugwettbewerbe) ausgetragen werden. Wesentlich ist das Merkmal des Kampfes in spielerischer Form mit der Zielsetzung der Ermittlung eines Siegers unter den Kontrahenten.
+
+== Kampfspiele in der Sage ==
+=== Griechische Sage ===
+Wie der Dichter [[Homer]] in seiner [[Odyssee]] berichtet, wurden zu Ehren des griechischen Helden [[Odysseus]], den es auf dem Rückweg aus der Schlacht von [[Troja]] an die Gestade der [[Phaiaken]] verschlug, Kampfspiele veranstaltet, bei denen sich der Gast durch seine außerordentliche Kraft und Geschicklichkeit auszeichnete, was als ein Indiz und Beweis für seine edle Herkunft galt.
+
+=== Germanische Sage ===
+[[Siegfried der Drachentöter|Siegfried]] und der mit ihm nach Island auf Brautschau gezogene Burgunderkönig [[Gundahar|Gunther]] mussten nach der [[Nibelungensage]] in Kampfspielen gegen [[Brünhild]] siegen, um sie als Gattin nach Worms an den Rhein heimführen zu dürfen. Dabei hatte der Brautwerber die Gastgeberin in einem Dreikampf aus Steinstoßen, Speerwurf und Weitsprung zu besiegen.
+
+== Kampfspiele in der Geschichte ==
+=== Vorolympische Epoche der Antike ===
+Aus dem [[Altes Ägypten|alten Ägypten]] der [[Pharao]]nen, aus dem [[Antikes Griechenland|antiken Griechenland]], aus dem [[Byzantinisches Reich|Byzantinischen Reich]] wie von den [[Etrusker]]n sind [[Wagenrennen]] mit zwei- oder  vierspännigen [[Streitwagen]] als Kampfspielart des Kriegeradels überliefert, die sich bis in die römische Kaiserzeit hielt. Die älteste schriftliche Darstellung solch eines Kampfspiels verfasste der Dichter [[Homer]] in seiner [[Ilias]], wo er ausführlich einen [[Agon (Wettstreit)|Totenagon]] zu Ehren des vor Troja gefallenen [[Patroklos]] beschreibt.
+
+Neben den Wagenrennen entstanden nach und nach weitere Kampfspielarten, die die Griechen als „[[Agon (Wettstreit)|Agone]]“ (ἀγών = „Kampf“, „Wettstreit“, „Kampfspiel“) bezeichneten und bei den [[Panhellenische Spiele|Panhellenischen Spielen]] als gymnische (= athletische), hippische (= pferdesportliche) und [[Musische Agone|musische]] (= dichterische) Agone austrugen.
+
+=== Olympische Spiele ===
+{{Hauptartikel|Olympische Spiele der Antike }}
+Die seit 776 v. Chr. alle vier Jahre veranstalteten [[Olympische Spiele der Antike|Olympischen Spiele]] galten im [[Antikes Griechenland|antiken Griechenland]] als Kampfspiele und zugleich als ein Friedensfest der (griechischstämmigen) Völker, während deren Austragung alle kriegerischen Auseinandersetzungen ruhen mussten. Im Laufe ihrer dreiphasigen, über fast drei Jahrtausende verlaufenden Geschichte veränderten die olympischen Kampfspiele immer wieder ihre Gestalt und ideelle Ausrichtung.
+
+=== Gladiatorenspiele ===
+{{Hauptartikel|Gladiatorenkämpfe}}
+Die in der römischen Kaiserzeit vor allem im berühmten [[Kolosseum]] von Rom, aber auch in den Arenen der Provinzen veranstalteten [[Gladiator|Zirkusspiele mit Gladiatoren]] und wilden Tieren erfreuten sich unter der Bevölkerung einer hohen Beliebtheit. Unter dem kostenlosen Angebot „Panem et circenses“ (Brot und Spiele) konnten Senatoren Wahlen gewinnen, hielten die Kaiser die Bevölkerung ruhig. Zwischen 264 v. Chr. und 400 n. Chr. unterhielten Gladiatorenspiele in Form von Zweikämpfen, Gruppenkämpfen oder Tierkämpfen in öffentlichen Schaustellungen die römische Bevölkerung.&lt;ref&gt;Alan Baker: ''Gladiatoren. Kampfspiele auf Leben und Tod''. Goldmann Verlag, München 2002&lt;/ref&gt;
+
+[[Datei:Codex Manesse 052r Walther von Klingen (detail).jpg|mini|right|Darstellung eines Ritterspiels im [[Codex Manesse]]]]
+
+=== Ritterspiele ===
+Durch das gesamte europäische Mittelalter hindurch maßen sich die Ritter in [[Turnier]]en hinsichtlich ihrer kriegerischen Fähigkeiten miteinander und gewannen dabei Ruhm, Ehre, Ansehen beim Publikum sowie die Gunst des Kaisers und der edlen Damen. Die Akteure traten zu dem Kampfspiel einzeln oder in Gruppen an, und selbst Kaiser (wie [[Maximilian I. (HRR)|Maximilian I.]] (1459–1519), der als „letzter Ritter“ bezeichnet wurde) scheuten sich nicht, daran teilzunehmen.&lt;ref&gt;Josef Fleckenstein (Hrsg.): ''Das ritterliche Turnier im Mittelalter''. Vandenhoeck &amp; Ruprecht, Göttingen 1985&lt;/ref&gt;
+
+=== Stierkampfspiele ===
+[[Datei:Stierspringer Minoische Wandmalerei asb 2004 PICT3452.JPG|mini|hochkant=1.35|links|Minoische Wandmalerei eines Stierspiels, Knossos auf Kreta]]
+[[Datei:Corrida In Arles 2009-04-13.jpg|mini|left|Stierkampf in der Arena von Arles]]
+[[Datei:Corrida with horse.jpg|right|200px|mini|Rejoneador, Stierkampf zu Pferde]]
+[[Datei:Pega de caras.jpg|mini|right|Die Pega, spielerischer Stierkampf]]
+
+Die traditionelle, seit dem griechischen Altertum (griechisch ταυρομαχία = Tauromachia = Stierkampf) bekannte, vornehmlich in den Stierzuchtländern des Mittelmeers und Südamerikas beheimatete spielerisch kämpfende Auseinandersetzung mit einem Stier kennt zahlreiche Varianten: Im [[Knossos|Palast von Knossos]] auf [[Kreta]] ist ein Stiersprung-Fresko aus der [[Minoische Kultur|minoischen Zeit]] (1600–1450 v. Chr.) erhalten, das einen Eindruck von den Stierspielen der frühen Epoche vermittelt. Drei Artisten überspringen offenbar den anstürmenden Stier mit einem kunstvollen Salto. Das rituelle Spiel symbolisierte den Triumph des Menschen über das stärkste Tier des Mittelmeers. Spätere Stierspiele seit dem Mittelalter  stellen sich in todbringenden Kämpfen eines [[Matador (Stierkämpfer)|Matador]]s zu Fuß oder zu Pferde ([[Rejoneador]]) mit dem Stier in einer Arena dar. Sie können aber auch in unblutiger spielerischer Auseinandersetzung mit dem Stier ausgetragen werden: So versuchen bei den südfranzösischen „Courses à la Cocarde“ mutige  „Razeteurs“, dem Stier eine zwischen den Hörnern angebrachte [[Kokarde (Abzeichen)|Kokarde]] zu entreißen. In Portugal versuchen sieben sogenannte „Forcados“ ohne Waffe, nur mit Mut und körperlicher Geschicklichkeit, den Stier gemeinsam an Kopf und Schwanz niederzuwerfen.
+[[Datei:Meister der Manessischen Liederhandschrift 004.jpg|mini|hochkant|Adelige beim Schachspiel (um 1320)]]
+
+== Kampfspiele heute ==
+Das Genre der Kampfspiele präsentiert sich heute in vielfältigen Formen, etwa als Brettspiele, Gesellschaftsspiele,  Sportspiele, Geländespiele oder Kriegsspiele. Es können dazu nur einige Beispiele angeführt werden.
+
+=== Brettspiele ===
+{{Hauptartikel|Brettspiel}}
+Ein sehr altes, auf dem Spielbrett ausgetragenes Kampfspiel, bei dem man sich bis zur Weltmeisterschaftsteilnahme qualifizieren kann, ist etwa das [[Schach]]spiel. Es wurde im deutschen Mittelalter sogar vom Hochadel geschätzt.
+
+=== Gesellschaftsspiele ===
+[[Datei:Georg Schildknecht Fingerhakeln.jpg|mini|links|Fingerhakeln (Gemälde von [[Georg Schildknecht]])]]
+Das aus dem Alpenraum überlieferte [[Fingerhakeln]], das sich auch in der Redewendung „Jemanden über den Tisch ziehen“ bildlich Ausdruck verschafft, ist ein altes Wirtshausspiel, bei dem es darum geht, einen Kontrahenten mit Kraft, Geschicklichkeit, List und Tücke zu sich herüberzuziehen. Es wird heute auch in sportlichen Wettkämpfen ausgetragen.
+
+=== Sportspiele ===
+[[Datei:Jahn-Bergturnfest 2006 tug of war.jpg|mini|250px|links|Tauziehen beim [[Jahn-Bergturnfest]] auf dem [[Bückeberg (Landkreis Schaumburg)|Bückeberg]] in [[Niedersachsen]]]]
+[[Datei:Gut IMG 3905.JPG|mini|Rugby: Tackling scene]]
+
+Zu den sportlichen Kampfspielen zählen vor allem die in Meisterschaften, oft auch von professionellen Spielern ausgetragenen sogenannten „Großen Sportspiele“ Fußball, Hallenhandball, Basketball, Eishockey, Tennis oder Tischtennis. Aber auch regional bedeutsame Sportspiele wie das [[Schottland|schottische]] [[Baumstammwerfen]] („caber toss“), das in Ländern wie der Schweiz, in Schweden oder Spanien populäre [[Tauziehen]] oder das im angloamerikanischen Raum sehr verbreitete [[Rugby]] zählen zu der Kategorie der Sportspiele.
+
+=== Geländespiele ===
+In [[Afghanistan]], aber auch in [[Volksrepublik China|China]] und [[Japan]] finden in der windreichen Jahreszeit regelmäßig Kämpfe zwischen Drachenspielern statt, die darauf abzielen, den Drachen der anderen mit Geschick, Tricks und technischem Können die Halteschnüren durchzuschneiden und sie auf diese Weise vom Himmel zu holen. Der afghanisch-amerikanische Schriftsteller [[Khaled Hosseini]] hat diesem in seinem Lande beliebten und verbreiteten Kampfspiel in seinem Bestseller „Der Drachenläufer“ ein Denkmal gesetzt. Der im Jahre 2003 unter dem Titel „The Kite Runner“ (deutsch „Drachenläufer“) erschienene Roman wurde im Jahre 2007 auch verfilmt.&lt;ref&gt;Khaled Hosseini: ''Drachenläufer''. Berliner Taschenbuch-Verlag, Berlin 2003&lt;/ref&gt;
+
+=== Kriegsspiele ===
+{{Hauptartikel|Kriegsspiele}}
+Kriegsspiele lassen sich bei sämtlichen Völkern der Erde nachweisen. Sie reichen in ihrer Spannweite von den Indianer- oder Ritterspielen der Kinder bis zu den kriegerische Aktionen simulierenden Manöverspielen des Militärs. Der Wortteil „[[Krieg]]“ verführt dabei häufig zu einer Verkennung des Symbolcharakters des spielerischen Genres, einer Verwechslung mit dem realen Krieg und einer entsprechend vorschnellen grundsätzlichen Verurteilung dieser Spielformen.&lt;ref name="Warwitz"&gt;Siegbert A. Warwitz, Anita Rudolf: ''Kriegsspiele.'' In: Dies.: ''Vom Sinn des Spielens. Reflexionen und Spielideen''. 4. Auflage, Schneider, Baltmannsweiler 2016, ISBN 978-3-8340-1664-5, S. 126–145&lt;/ref&gt;
+
+== Kampfspiel und Kampfsport ==
+[[Datei:HL Damals – Buniamshof – 1925 – Kampfspiele.jpg|mini|Kampfspiele der [[Lübeck]]ischen [[Mädchenschule]]n am 13. September 1925 auf dem [[Buniamshof]]]]
+Während beim Kampfspiel ([[Autorennen]], [[Tauziehen]], [[Brennball]], [[Schlagball]], [[Schach]]) die spielerischen Momente eines Wettspiels überwiegen, eher der [[Spaß]]faktor im Vordergrund steht, zeigt sich der Kampfsport ([[Kendō]], [[Budo]], [[Boxen]], [[Ringen]], [[Fechten]], [[Karate]], [[Taekwondo]]) durch weit härtere, spezialisierte, oft von professionellen Sportlern nach hartem Training ausgeübten Auseinandersetzungen gekennzeichnet. Die Übergänge zwischen Kampfspiel und Kampfsport sind jedoch fließend und etwa an den Sportspielen (Fußball, Basketball, Hallenhandball, Eishockey) erkennbar, die schon durch die Wortverbindung ihre Zwitterstellung zwischen Spiel und Sport treffend dokumentieren.
+
+== Bewertung ==
+Kampfspiele stoßen in der öffentlichen Meinung vor allem dann auf Ablehnung, wenn sie zu groben Verletzungen führen, blutig ausgetragen oder gar auf die Tötung eines Tieres oder Menschen abzielen. Dies trifft vor allem auf historische Formen zu, etwa den Stierkampf.&lt;ref&gt;Siegbert A. Warwitz, Anita Rudolf: ''Umstrittene Spielformen.'' In: Dies.: ''Vom Sinn des Spielens. Reflexionen und Spielideen''. 4. Auflage, Schneider, Baltmannsweiler 2016, ISBN 978-3-8340-1664-5, S. 126–161&lt;/ref&gt;
+
+In neuerer Zeit spielen vorrangig psychologische und pädagogische Überlegungen zu dem Spielcharakter eine Rolle: So gerieten die Wett- und Kampfspiele etwa mit der aufkommenden [[Friedensbewegung]] zugunsten der von ihr kreierten sogenannten „alternativen Spielformen“ in den 1970er Jahren bei manchen Pädagogen in Misskredit. In Absetzung von den als übermächtig empfundenen  gesellschaftlichen Trends sollte das Gegeneinander wenigstens im Spiel dem Miteinander, die Konkurrenz und der Kampfgedanke wenigstens im Spiel der Kooperation und dem friedvollen Zusammenspiel weichen. Spiele, bei denen es keine Sieger und Verlierer und entsprechend keine Tränen geben sollte, wurden favorisiert gegenüber den sogenannten [[Nullsummenspiel]]en, bei denen die Höhe des Sieges der einen eine entsprechend harte Niederlage der anderen bedeutete. Zudem wurden [[Kriegsspiele]] aller Art geächtet.&lt;ref name="Warwitz" /&gt;
+
+Die neue Spielbewegung öffnete im pädagogischen Bereich einerseits das Bewusstsein für die Einseitigkeit ausschließlich kampf- und konkurrenzorientierten Spielens, das vor allem den starken und sieggewohnten Spielern entgegenkam und schwächere Mitspieler oft ausgrenzte.&lt;ref&gt;T. Orlick: ''Neue kooperative Spiele. Mehr als 200 konkurrenzfreie Spiele für Kinder und Erwachsene''. Weinheim und Basel. 4. Auflage 1996&lt;/ref&gt; Andererseits baute sie eine neue Einseitigkeit auf, die dem Spielen auf Dauer die zum Spiel motivierende und es tragende Spannung nahm. Außerdem wurde bei der anfangs euphorischen Propagierung der [[Friedensspiele]] übersehen, dass bei den [[Parteienspiele]]n wie den [[Mannschaftssport|Mannschaftsspiel]]en in der Regel beides, Konkurrenz und Kooperation, gefragt sind: Die Konkurrenz wird in der Gegnerschaft zu der anderen Mannschaft ausgetragen. Die Partnerschaft erweist sich im geschickten Zusammenspiel in den eigenen Reihen.
+
+Geblieben ist von der über ein Jahrzehnt geführten Debatte die Erkenntnis, dass  Kampfspiele ihre pädagogische Legitimation verlieren, wenn sie im Schul- und Erziehungsbereich in Abbildung der [[Leistungsgesellschaft|Erfolgsgesellschaft]] das [[Verteilungsprinzip#Leistungsprinzip|Leistungsprinzip]] als einzige Sinndimension des Spielens verabsolutieren und so die kulturelle Vielfalt des Spielens aus dem Blick gerät.&lt;ref&gt;Siegbert A. Warwitz, Anita Rudolf: ''Spielend sich messen – Wettspiele.'' In: Dies.: ''Vom Sinn des Spielens. Reflexionen und Spielideen''. 4. Auflage, Schneider, Baltmannsweiler 2016, ISBN 978-3-8340-1664-5, S. 57–64&lt;/ref&gt;
+
+Die heutige [[Spielpädagogik]] lehrt, dass Spielen möglichst vielseitig gestaltet und Einseitigkeiten vermieden werden sollten.
+
+== Literatur ==
+* Alan Baker: ''Gladiatoren. Kampfspiele auf Leben und Tod''. Goldmann Verlag, München 2002. ISBN 3-442-15157-0.
+* Josef Fleckenstein (Hrsg.): ''Das ritterliche Turnier im Mittelalter''. Vandenhoeck &amp; Ruprecht, Göttingen 1985, ISBN 3-525-35396-0.
+* Andreas Gutsfeld, Stephan Lehmann (Hrsg.): ''Der gymnische Agon in der Spätantike.'' Gutenberg 2013, ISBN 978-3-940598-18-9.
+* Fik Meijer: ''Gladiatoren. Das Spiel um Leben und Tod''. Patmos Verlagsgruppe, Düsseldorf 2004, ISBN 3-7608-2303-3
+* Siegbert A. Warwitz, Anita Rudolf: ''Spielend sich messen – Wettspiele.'' In: Dies.: ''Vom Sinn des Spielens. Reflexionen und Spielideen''. 4. Auflage, Schneider, Baltmannsweiler 2016, ISBN 978-3-8340-1664-5, S. 57–64.
+
+== Weblinks ==
+{{Wiktionary|Kampfspiel}}
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{Normdaten|TYP=s|GND=4163175-4}}
+
+[[Kategorie:Spiel]]
+[[Kategorie:Spielart]]
+[[Kategorie:Sportart]]
+[[Kategorie:Leistungssport]]
+[[Kategorie:Wettbewerb]]</text>
+      <sha1>azjwdm1m499l1d4nprntw2x9hnm094o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Liste von Sportarten</title>
+    <ns>0</ns>
+    <id>53200</id>
+    <revision>
+      <id>213655755</id>
+      <parentid>213654409</parentid>
+      <timestamp>2021-07-07T19:57:12Z</timestamp>
+      <contributor>
+        <username>Aka</username>
+        <id>568</id>
+      </contributor>
+      <minor/>
+      <comment>https, Links optimiert, Links normiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60292" xml:space="preserve">Dies ist eine '''Liste von [[Sportart]]en''', die alphabetisch geordnet sind.
+
+== Liste ==
+{| class="wikitable sortable"
+!olympisch
+!Herkunft/Verbreitung
+!Sportart
+!Bild
+!Typ
+! data-sort-type="number" | Teamgröße
+!Ort der Ausübung
+|- |[[7er-Rugby]]||nein (ab 2016)||Torspiel||7||Rasen||[[Schottland]]
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Aerobic]], [[Sportaerobic]]
+|[[Datei:Aerobic exercise - public demonstration01.jpg|rahmenlos]]||Turnsport, Tanzsport||  ||Hartbelag
+|-
+|nein
+|
+|[[Agility]]
+|[[Datei:Agility zielsprung.jpg|rahmenlos]]||Tiersport||  ||
+|-
+|nein
+|[[Japan]]
+|[[Aikido]]
+|[[Datei:Miyamoto Tsuruzo Sensei 2.jpg|rahmenlos]]||[[Kampfkunst]]||  ||Matte
+|-
+|nein
+|
+|[[Air Hockey]]
+|[[Datei:Ret0s AH 035.jpg|rahmenlos]]||Torspiel||1||Tisch
+|-
+|nein
+|[[Japan]]
+|[[Airsoft]]
+|[[Datei:AirsoftRockField.jpg|rahmenlos]]||Fangspiel||2 und mehr||Gelände
+|-
+|antik
+|[[Antike]]
+|[[Akontion]]
+|  ||Werfen||1||
+|-
+|nein
+|
+|[[Strongman]]
+|[[Datei:Strongman - Ystad-2018.jpg|rahmenlos]]
+|Kraftsport
+|1
+|Gelände, Rasen, Straße, Halle
+|-
+|nein
+|
+|[[Akrobatik]], [[Sportakrobatik]]
+|[[Datei:Artistik IMG 9109-2.JPG|rahmenlos]]||Turnsport, Akrobatik||1 und mehr||Halle, Rasen
+|-
+|nein
+|
+|[[Allgemeines Turnen]]
+|[[Datei:Stretching 1200830.jpg|rahmenlos]]||Turnsport||  ||
+|-
+|nein
+|
+|[[Alpinklettern]]
+|[[Datei:Hinterstoisserquergang.JPG|rahmenlos]]||Klettern, Natursport||  ||Gelände
+|-
+|nein
+|[[Schweiz]]
+|[[Amateurfunkpeilen]]
+|[[Datei:Ardf 0001.jpg|rahmenlos]]||Natursport||1||Gelände
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[American Football]]
+|[[Datei:Second half kickoff, 2010 ACC Championship Game.JPG|rahmenlos]]||Torspiel||11||Rasen/[[Kunstrasen]]
+|-
+|nein
+|[[Irland]], [[Schottland]]
+|[[American Handball]]
+|[[Datei:Handballcourt.jpg|rahmenlos]]||Rückschlagspiel||1-2||Hartbelag
+|-
+|nein
+|
+|[[Angeln (Fischfang)|Angelsport]]
+|[[Datei:Fischfang 460-2.JPG|rahmenlos]]||Jagdsport||1||Wasser
+|-
+|nein
+|
+|[[Apnoetauchen]]
+|[[Datei:Internal reflection, Anna.jpg|rahmenlos]]||[[Tauchsport]]||  ||Wasser
+|-
+|nein
+|[[Deutschland]]
+|[[Aquaball]]
+|  ||Torspiel||4||Wasser
+|-
+|nein
+|
+|[[Aquathlon]]
+|[[Datei:Defense.gov photo essay 110724-D-BC253-984.jpg|rahmenlos]]||Mehrkampfsport||1||Straße, Wasser
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Arena Football]]
+|[[Datei:Arena football Kansas City wide shot.jpg|rahmenlos]]||Torspiel||8||Hartbelag
+|-
+|nein
+|
+|[[Armdrücken]]
+|[[Datei:Armwrestle.jpg|rahmenlos]]|| Kraftsport, Kampfsport ||1||Tisch
+|-
+|nein
+|[[Victoria (Australien)|Victoria]]
+|[[Victoria (Australien)|Australian Football]]
+|
+{| class="wikitable sortable"
+|[[Datei:Aussie rules game.jpg|rahmenlos]]
+|}
+|Torspiel||18||Rasen||
+|-
+|nein
+|[[Deutschland]]
+|[[Autoball]]
+|[[Datei:Autoball10.JPG|rahmenlos]]||Motorsport, Torspiel||  ||Halle, Hartbelag
+|-
+|Ja (seit 1920)
+|
+|[[Automobilsport]]
+|[[Datei:2006 Malaysian Grand Prix.jpg|rahmenlos]]||Motorsport||  ||Rennstrecke
+|-
+|nein
+|[[Schweden]]
+|[[Axtwerfen]]
+|[[Datei:Lexington Barbecue Festival - lumberjack 1.jpg|rahmenlos]]|| Werfen ||1||
+|-
+|nein
+|
+|[[Backgammon]]
+|[[Datei:Backgammon board.jpg|rahmenlos]]||[[Denksport]]||2||
+|-
+|ja (seit 1992)
+|
+|[[Badminton]]
+|[[Datei:Badminton at the 2012 Summer Olympics 9133.jpg|rahmenlos]]|| Rückschlagspiel || 1-2 || Hartbelag
+|-
+|nein
+|
+|[[Bahnengolf]]
+|[[Datei:Bulltoftaparken, Minigolfbanan.jpg|rahmenlos]]||[[Präzisionssport]]||1|| Anlage
+|-
+|ja (seit 1896*)
+|
+|[[Bahnradsport]]
+|[[Datei:Velodrome racing.jpg|rahmenlos]]|| Radsport ||1|| Rennbahn
+|-
+|nein
+| Indien
+|[[Ballbadminton]]
+|[[Datei:Ball Badminton.webm|rahmenlos]]|| Rückschlagspiel || 3-5 || Hartbelag
+|-
+|nein
+|
+|[[Ballonfahren]]
+|[[Datei:WIM 2004 balloons.jpg|rahmenlos]]||Fliegen||  || Luftsport
+|-
+|nein
+|[[Europa]]
+|[[Ballonspiel]]
+|  || Rückschlagspiel ||3|| Rasen
+|-
+|nein
+|[[Skandinavien]]
+|[[Bandy (Sport)|Bandy]]
+|[[Datei:Gustavsberg IF vs BolticGöta.JPG|rahmenlos]]|| Torspiel||11||Eis
+|-
+|nein
+|
+|[[Bankdrücken]]
+|[[Datei:Bench press 1.jpg|rahmenlos]]|| Kraftsport ||1||
+|-
+|nein
+|
+|[[Barlauf]]
+|  || Fangspiel ||  || Rasen
+|-
+|nein
+|
+|[[Base-Jumping]]
+|[[Datei:04SHANG4963.jpg|rahmenlos]]||Springen||1|| Luftsport
+|-
+|ja (von 1992 bis 2008; seit 2020)
+|[[New York (Bundesstaat)|New York]]
+|[[Baseball]]
+|[[Datei:Typical baseball game.JPG|rahmenlos]]|| Schlagballspiel||9||[[Rasen]]/Kunstrasen und [[Tennenplatz|Tenne]]
+|-
+|ja (seit 1936)
+|[[Massachusetts]]
+|[[Basketball]]
+|[[Datei:ALBABERLIN.jpg|rahmenlos]]|| Torspiel ||5|| Hartbelag
+|-
+|nein
+|[[Schottland]]
+|[[Baumstammwerfen]]
+|[[Datei:Jahn-Bergturnfest 2006 tossing the caber.jpg|rahmenlos]]|| Kraftsport ||1||
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Beachbasketball]]
+|[[Datei:Beachbasketball.jpg|rahmenlos]]||Torspiel||3||Beach/Sand
+|-
+|nein
+|
+|[[Beachhandball]]
+|[[Datei:Día 1 - Campeonato de España de Balonmano Playa, Laredo 2014 (14803158031).jpg|rahmenlos]]||Torspiel||4||Beach/Sand
+|-
+|nein
+|[[Schweiz]]
+|[[Beachminton]]
+|  ||Rückschlagspiel||1||Beach/Sand
+|-
+|nein
+|[[Europa]]
+|[[Beachrugby]]
+|[[Datei:Spielszene BK.jpg|rahmenlos]]||Torspiel||5-7||Beach/Sand
+|-
+|nein
+|[[Brasilien]]
+|[[Beachsoccer]]
+|[[Datei:Beachsoccer.jpg|rahmenlos]]||Torspiel||5||Beach/Sand
+|-
+|ja (seit 1996)
+|[[Kalifornien]]
+|[[Beachvolleyball]]
+|[[Datei:Eilenburg 1050-Jahrfeier Festwiese Beachvolleyball6.jpg|rahmenlos]]|| Rückschlagspiel ||2||Beach/Sand
+|-
+|nein
+|
+|[[Berglauf]]
+|[[Datei:Jungfrau marathon 2004 kilometer 40.jpg|rahmenlos]]||Geschwindigkeitssport, Natursport||1||Gelände
+|-
+|nein
+|
+|[[Bergrennen]]
+|[[Datei:Andrew Gowan at Pardon Hairpin, Prescott.jpg|rahmenlos]]|| Motorsport ||  ||Rennstrecke
+|-
+|nein
+|
+|[[Bergsteigen]]
+|[[Datei:VenedigerSeilschaftAmGipfelgrat.jpg|rahmenlos]]||Natursport||  || Gelände
+|-
+|nein
+|
+|[[Biathle]]
+|  || Mehrkampfsport ||1|| Straße, Wasser
+|-
+|ja (seit 1924*)
+|[[Skandinavien]]
+|[[Biathlon]]
+|[[Datei:Tiril Eckhoff 001.jpg|rahmenlos]]||Geschwindigkeitssport, Schießsport||1||Schnee
+|-
+|nein
+|
+|[[Bikebiathlon]]
+|  || Mehrkampfsport ||1-2|| Gelände
+|-
+|nein
+|
+|[[Billard]]
+|[[Datei:Billiards balls.jpg|rahmenlos]]||Präzisionssport||1 und mehr||Tisch
+|-
+|ja (seit 2012*)
+|
+|[[Blindenfußball]]
+|[[Datei:Blindenfußball Szene.jpg|rahmenlos]]|| Torspiel ||6|| Rasen, Halle
+|-
+|nein
+|
+|[[Blindschach]]
+|  || Denksport ||2||
+|-
+|nein
+|
+|[[Blitzschach]]
+|[[Datei:DGT 2010 digital chess clock.ajb.jpg|rahmenlos]]|| Denksport ||2||
+|-
+|ja (seit 2008)
+|[[Vereinigte Staaten]]
+|[[BMX]]
+|[[Datei:BMX riders from Iran- Photograpger-Mostafa Meraji دوچرخه سواری بی ام ایکس، ایران، عکاس-مصطفی معراجی 28.jpg|rahmenlos]]|| Radsport ||1|| Rennbahn
+|-
+|ja (seit 1924*)
+|[[Schweiz]]
+|[[Bobsport|Bob]]
+|[[Datei:Kohn 4menbobsled 2005-11-02.jpg|rahmenlos]]|| Schlittensport ||2-4|| Eis
+|-
+|nein
+|
+|[[Boccia]]
+|[[Datei:Bocce players scoring.jpg|rahmenlos]]||Präzisionssport, Kugelsport||1-3||[[Boulodrome]]
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Bodybuilding]]
+|[[Datei:Posedown.jpg|rahmenlos]]|| Kraftsport ||1||
+|-
+|nein
+|[[Europa]]
+|[[Bogenlaufen]]
+|[[Datei:Felix Kröcher Bogenlauf Landesmeisterschaften 2005 in Blankenfelde.PNG|rahmenlos]]||Geschwindigkeitssport, Präzisionssport||1-3||Schießstand, Sportplatz
+|-
+|ja (seit 1900*)
+|
+|[[Bogenschießen]]
+|[[Datei:ArcheryGermanyEarly1980s-2.jpg|rahmenlos]]|| Präzisionssport, Schießsport ||1/3||Anlage/Turnhalle
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Boogie-Woogie (Tanz)]]
+|  || Tanzsport ||2||
+|-
+|nein
+|
+|[[Bootschen]]
+|[[Datei:Bootsch zielen.jpg|rahmenlos]]||Präzisionssport||1 und mehr||
+|-
+|nein
+|
+|[[Bosseln (Reha-Sport)]]
+|[[Datei:Bosseln.JPG|rahmenlos]]|| Präzisionssport ||3||
+|-
+|nein
+|[[Niedersachsen]], [[Schleswig-Holstein]]
+|[[Boßeln]]
+|[[Datei:Straßenboßler.jpg|rahmenlos]]||Kugelsport||1 und mehr||Straße
+|-
+|ja (seit 2020)
+|
+|[[Bouldern]]
+|[[Datei:Crash pad.jpg|rahmenlos]]||Klettern||  ||Gelände, Halle
+|-
+|nein
+|
+|[[Boule Lyonnaise]]
+|  ||Präzisionssport, Kugelsport||1-4||[[Boulodrome]]
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Bowling]]
+|[[Datei:Bowling - albury.jpg|rahmenlos]]||Präzisionssport, Kegelsport||1||Anlage
+|-
+|nein
+|
+|[[Bowls]]
+|[[Datei:Swifts creek bowls club.jpg|rahmenlos]]||Präzisionssport, Kugelsport||1-4||[[Boulodrome]]
+|-
+|ja (seit 1904*)
+|[[England]]
+|[[Boxen]]
+|[[Datei:Boxing080905 photoshop.jpg|rahmenlos]]|| Kampfsport ||1||Ring
+|-
+|nein
+|[[Brasilien]]
+|[[Brazilian Jiu-Jitsu]]
+|[[Datei:GABRIEL VELLA vs ROMINHO 51.jpg|rahmenlos]]||Kampfsport||1||Matte
+|-
+|nein
+|[[Deutschland]]
+|[[Brennball]]
+|  ||Schlagballspiel||3 und mehr||Hartbelag
+|-
+|nein
+|
+|[[Bridge (Kartenspiel)|Bridge]]
+|[[Datei:Bridgerunde.jpg|rahmenlos]]|| Denksport ||4||
+|-
+|nein
+|
+|[[Brieftaube]]nsport
+|[[Datei:Postduif.jpg|rahmenlos]]|| Tiersport ||  ||Luft
+|-
+|nein
+|[[Kanada]]
+|[[Broomball]]
+|[[Datei:Broomball Ball.JPG|rahmenlos]]|| Torspiel ||6|| Eis
+|-
+|nein
+|[[Skandinavien]]
+|[[Bräus|Brus]]
+|  || Denksport ||1|| Tisch
+|-
+|nein
+|[[Niederlande]], [[Niedersachsen]]
+|[[Bügelspiel]]
+|[[Datei:Bollen en ring.JPG|rahmenlos]]|| Präzisionssport ||1||
+|-
+|nein
+|
+|[[Buggykiting]]
+|  || Drachensport||1|| Beach, Wiese
+|-
+|nein
+|
+|[[Buildering]]
+|[[Datei:HausdesMeeres klettern.JPG|rahmenlos]]||Klettern||1||Stadt
+|-
+|nein
+|[[Australien]]
+|[[Bumerang]]werfen
+|[[Datei:Boomerang.jpg|rahmenlos]]||Jagdsport, Geschicklichkeitssport||1 und mehr||Gelände, Halle
+|-
+|nein
+|
+|[[Bungee-Jumping]]
+|[[Datei:Bungeejump begin Scheveningen 31 mei 2004.JPG|rahmenlos]]||Springen, Seilsport||  ||Luft
+|-
+|nein
+|[[Zentralasien]]
+|[[Buzkashi]]
+|[[Datei:Buzkashi (5458890874).jpg|rahmenlos]]|| Tiersport (Pferdesport) ||1||Gelände
+|-
+|nein
+|
+|[[Cageball]]
+|  || Torspiel ||4|| Hartbelag
+|-
+|nein
+|[[Vereinigte Staaten]], [[Osteuropa]]
+|[[Calisthenics]]
+|[[Datei:Street workout Slovenija 5.JPG|rahmenlos]]
+|Kraftsport, Akrobatik
+|1 und mehr
+|Außenanlage, Halle
+|-
+|nein
+|
+|[[Callanetics]]
+|  || Turnsport ||  ||
+|-
+|nein
+|[[Irland]]
+|[[Camogie]]
+|  || Torspiel ||12|| Rasen
+|-
+|nein
+|[[Kanada]]
+|[[Canadian Football]]
+|[[Datei:JoffreyReynolds.jpg|rahmenlos]]||Torspiel||12||Rasen
+|-
+|nein
+|
+|[[Canyoning]]
+|[[Datei:Lacapella.jpg|rahmenlos]]||Natursport||  || Gelände, Wasser
+|-
+|nein
+|[[Angola]], [[Brasilien]]
+|[[Capoeira]]
+|[[Datei:CapoeiraArmadaPulada ST 05.jpg|rahmenlos]]||Kampfsport, Tanzsport||1||
+|-
+|nein
+|
+|[[Karambolage (Billard)|Karambolage]]
+|[[Datei:Carom billiards balls.jpg|rahmenlos]]||Präzisionssport||1||Tisch
+|-
+|nein
+|
+|[[Casting (Sport)|Casting]]
+|[[Datei:Casting Fly (Sports).jpg|rahmenlos]]||Präzisionssport||1||
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Cheerleading]]
+|[[Datei:Albadancers.jpg|rahmenlos]]||Turnsport, Tanzsport, Akrobatik||2 und mehr||
+|-
+|nein
+|[[Myanmar]]
+|[[Chinlone]]
+|[[Datei:Chinlone Burma cropped.jpg|rahmenlos]]|| Tanzsport, Geschicklichkeitssport ||7||
+|-
+|nein
+|[[Türkei]], [[Zentralasien]] 
+|[[Cirit]]
+|[[Datei:Two men playing cirid.jpg|rahmenlos]]||Tiersport (Pferdesport)||6, 8, 12||Anlage
+|-
+|nein|
+|
+|[[Combatschießen]]
+|[[Datei:SCRange20034344940.jpg|rahmenlos]]|| Schießsport ||1|| Gelände
+|-
+|ehemalig (1900)
+|[[England]]
+|[[Cricket]]
+|[[Datei:CricketSCG1.jpg|rahmenlos]]||Schlagballspiel||11||Rasen
+|-
+|nein
+|[[Australien]]
+|[[Cricko]]
+|  || Schlagballspiel ||  || Rasen
+|-
+|ehemalig (1900)
+| England
+|[[Croquet]]
+|[[Datei:Croquetplayers.jpg|rahmenlos]]||Präzisionssport||1||Rasen
+|-
+|nein
+|
+|[[Crossgolf]]
+|[[Datei:Crossgolf.jpg|rahmenlos]]||Präzisionssport||1||Gelände, Stadtraum
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[CrossFit]]
+|[[Datei:Crossfit gym cz.jpg|rahmenlos]]||Mehrkampfsport||alleine oder 2 und mehr||(CrossFit-)Box
+|-
+|nein
+|[[Vereinigtes Königreich|Großbritannien]], [[Skandinavien]]
+|[[Cubbies (Sportart)|Cubbies]]
+|  || Torspiel ||1-2|| Rasen
+|-
+|ja (seit 1924*)
+|[[Schottland]], [[Kanada]]
+|[[Curling]]
+|[[Datei:Curling Torino 2006 Pinerolo Palaghiaccio scena2.jpg|rahmenlos]]||Präzisionssport||4|| Eis
+|-
+|nein
+|
+|[[Querfeldein-Rennen|Cyclocross]]
+|[[Datei:Cyclo doherty.jpg|rahmenlos]]|| Radsport ||1||Gelände
+|-
+|nein
+|
+|[[Dame (Spiel)|Dame]]
+|[[Datei:Damiera cropped mirrored.JPG|rahmenlos]]|| Denksport ||  ||
+|-
+|nein
+|
+|[[Darts]]
+|[[Datei:Harrows Bristle Board Bullseye.JPG|rahmenlos]]||Präzisionssport||1||
+|-
+|nein
+|
+|[[Double Disc Court|DDC-Frisbee]]
+|[[Datei:DDC field.png|rahmenlos]]|| Rückschlagspiel ||2||
+|-
+|nein
+|
+|[[Discdogging]]
+|[[Datei:Disk dogging 1.jpg|rahmenlos]]|| Tiersport ||1||
+|-
+|nein
+|
+|[[Discgolf]]
+|[[Datei:Disc-Golf.jpg|rahmenlos]]||Präzisionssport||1||Außenanlage
+|-
+|ja (seit 1896)
+|
+|[[Diskuswurf]]
+|[[Datei:Der Diskus. Anleitung von Christian Georg Kohlrausch, 1882, Diagramme.png|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|nein
+|
+|[[Distanzreiten]]
+|[[Datei:Endurance riding Uzes 2005 front.jpg|rahmenlos]]|| Tiersport (Pferdesport) ||1||Gelände
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Dodgeball]]
+|[[Datei:Dodgeball Opening Rush gross.jpg|rahmenlos]]|| Fangspiel ||3 und mehr|| Hartbelag
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Dogdancing]]
+|  || Tiersport, Tanzsport ||  ||
+|-
+|nein
+|
+|[[Dogging (Sport)]]
+|  || Tiersport ||1||
+|-
+|nein
+|
+|[[Downhill]]
+|[[Datei:M.Frey.jpg|rahmenlos]]|| Radsport ||1||Gelände
+|-
+|nein
+|[[China]]
+|[[Drachenboot]]
+|[[Datei:DragonboatsTaiwan.JPG|rahmenlos]]|| Bootssport || 10-50 ||Wasser
+|-
+|nein
+|Vereinigte Staaten
+|Drachenfliegen/[[Hängegleiter]]
+|
+|Flugsport
+|1-2
+|Luft
+|-
+|nein
+|
+|[[Drachen]]steigen
+|[[Datei:Lachender Drachen in Sternform.JPG|rahmenlos]]||  ||1 und mehr|| Luft (vom Boden aus)
+|-
+|nein
+|
+|[[Dragster|Drag Racing]]
+|[[Datei:ScottKalittaDragster.jpg|rahmenlos]]||Motorsport||  ||
+|-
+|ja (seit 1896)
+|
+|[[Dreisprung]]
+|[[Datei:Men's Triple Jump.webm|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|ja (seit 1912)
+|
+|[[Dressurreiten]]
+|[[Datei:WCLV07m.JPG|rahmenlos]]|| Tiersport (Pferdesport) ||1|| Anlage
+|-
+|nein
+|
+|[[Duathlon]]
+|[[Datei:Rob-woestenborghs.jpg|rahmenlos]]|| Mehrkampfsport ||1|| Straße
+|-
+|nein
+|
+|[[Eierlaufen]]
+|[[Datei:Egg &amp; spoon finish line.jpg|rahmenlos]]||Geschwindigkeitssport, Geschicklichkeitssport ||1|| Rasen
+|-
+|nein
+|
+|[[Einradbasketball]]
+|  ||Radsport, Torspiel||5||Hartbelag
+|-
+|nein
+|[[Deutschland]]
+|[[Einradhockey]]
+|[[Datei:EH DM09.jpg|rahmenlos]]||Radsport, Torspiel||5||Hartbelag
+|-
+|nein
+|[[Österreich]]&lt;ref&gt;{{Literatur |Autor=Timo Blöß |Hrsg=Spiegel online |Titel=Extremsport. Puckjagd unterm Eis |Sammelwerk= |Band= |Nummer= |Auflage= |Verlag= |Ort= |Datum=2007-02-22 |ISBN= |Seiten= |Online=[https://www.spiegel.de/sport/sonst/extremsport-puckjagd-unterm-eis-a-464851.html]}}&lt;/ref&gt;
+|[[Eishockey unter Eis]]
+|[[Datei:Redl-eistauchen-nullzeit.jpg|rahmenlos]]|| Torspiel ||2|| Wasser
+|-
+|ja (seit 1920)
+|[[Ontario]], [[Russland]]
+|[[Eishockey]]
+|[[Datei:Schweden-Lettland bei der WM 2005.jpg|rahmenlos]]||Torspiel||6|| Eis
+|-
+|nein
+|
+|[[Eisklettern]]
+|[[Datei:Eisklettern kl engstligenfall.jpg|rahmenlos]]||Bergsport||  || vereister Wasserfall, Anlage
+|-
+|ja (seit 1908)
+|[[Vereinigtes Königreich|Großbritannien]]
+|[[Eiskunstlauf]]
+|[[Datei:Isabelle Delobel &amp; Olivier Schoenfelder EX Lift - 2007 Europeans.jpg|rahmenlos]]|| Tanzsport, Akrobatik ||1-2|| Eis
+|-
+|ja (seit 1924)
+|
+|[[Eisschnelllauf]]
+|[[Datei:Jan Smeekens (23-02-2008).jpg|rahmenlos]]|| Geschwindigkeitssport ||1|| Eis
+|-
+|nein
+|
+|[[Eisspeedway]]
+|[[Datei:0641 Finallauf in der Eisspeedway-Weltmeisterschaft 2013 in Sanok.JPG|rahmenlos]]|| Motorsport ||1|| Eis
+|-
+|nein
+|[[Skandinavien]]
+|[[Eisstockschießen]]
+|[[Datei:Eisstockschiessen am Nymphenburger Kanal Wintersport.JPG|rahmenlos]]||Präzisionssport||4|| Eis/ Asphalt
+|-
+|nein
+|[[Kalifornien]]
+|[[Electric Boogie]]
+|  || Tanzsport ||1 und mehr||
+|-
+|nein
+|
+|[[Elefantenpolo]]
+|[[Datei:Elephant polo.jpg|rahmenlos]]||Tiersport, Torspiel||4||Rasen
+|-
+|nein
+|[[Niederlande]]
+|[[Elektrorollstuhl-Hockey]]
+|[[Datei:E-Hockey Ludwigshafen vs Wuerzburg.jpg|rahmenlos]]|| Torspiel, Rollstuhlsport ||5||Halle
+|-
+|nein
+|
+|[[E-Sport]]
+|[[Datei:Winter 2004 DreamHack LAN Party.jpg|rahmenlos]]|| Denksport ||1 oder mehr||Computer/Konsole
+|-
+|nein
+|[[Europa]]
+|[[Eurodance]] (Dancefloor)
+|  || Tanzsport ||1 und mehr||
+|-
+|nein
+|
+|[[Extrembügeln]]
+|[[Datei:Extermeironingrivelin.jpg|rahmenlos]]|| Extremsport, Skurrilsport ||  ||
+|-
+|nein
+|
+|[[Fahrsport]]
+|[[Datei:Bernhausen Zweispänner.jpg|rahmenlos]]|| Tiersport (Pferdesport) ||  ||
+|-
+|nein
+|[[Asien]]
+|[[Falknerei]]
+|[[Datei:Falcon Approach.jpg|rahmenlos]]|| Jagdsport, Tierwettkampf ||  ||Luft
+|-
+|nein
+|
+|[[Fallschirmspringen|Skydiving (Fallschirmspringen)]]
+|[[Datei:Skydiver exiting aircraft with static line still attached.jpg|rahmenlos]]||Springen||1-2|| Luft
+|-
+|nein
+|[[Italien]]
+|[[Faustball]]
+|[[Datei:Faustballspiel.jpg|rahmenlos]]||Rückschlagspiel||5||Rasen, Hartbelag
+|-
+|antik
+|[[Griechenland]], [[Antike]]
+|[[Antiker Faustkampf|Faustkampf (Pygme)]]
+|[[Datei:Faustkämpfer Mosaik.jpg|rahmenlos]]|| Kampfsport ||1||
+|-
+|ja (seit 1896)
+|
+|[[Fechten]]
+|[[Datei:Kovalev v Szilagyi 2013 Fencing WCH SMS-IN t194135.jpg|rahmenlos]]|| Kampfsport ||1||Fechtbahn
+|-
+|nein
+|
+|[[Federball]]
+|[[Datei:Shuttlecocks Yonex Aerosensa 20.jpg|rahmenlos]]||Rückschlagspiel||2||Rasen, …
+|-
+|nein
+|[[Südostasien]]
+|[[Federfußball]]
+|[[Datei:Federfussball Doppelturnier Hilden 2006 Nr 10.jpg|rahmenlos]]|| Rückschlagspiel ||3|| Hartbelag
+|-
+|ehemalig (1936)
+|[[Deutschland]]
+|[[Feldhandball]]
+|[[Datei:Fotothek df roe-neg 0006528 017 Handballspieler bei einem Spiel auf dem Feld.jpg|rahmenlos]]|| Torspiel ||11|| Rasen
+|-
+|nein
+|[[Deutschland]] (nur noch in [[Bayern]] verbreitet)
+|[[Korbball|Feldkorbball]]
+|[[Datei:Bayerische Meisterschaften im Feldkorbball 2016 - Frauen - SV Schraudenbach - TSV Bergrheinfeld -- DSC6981.jpg|rahmenlos]]||Torspiel||7||Rasen, Hartbelag
+|-
+|nein
+|
+|[[Fingerboard]]ing
+|[[Datei:Valler-indy.jpg|rahmenlos]]||Geschicklichkeitssport, Skating||1||Tisch
+|-
+|nein
+|[[Bayern]], [[Österreich]]
+|[[Fingerhakeln]]
+|[[Datei:Fingerhakeln.JPG|rahmenlos]]|| Kraftsport ||1|| Tisch
+|-
+|nein
+|[[England]]
+|[[Fives]]
+|[[Datei:Rugby Fives.jpeg|rahmenlos]]||Rückschlagspiel||1-2||Hartbelag
+|-
+|nein
+|
+|[[Flag Football]]
+|[[Datei:US Navy 081206-N-5328N-399 Navy quarterback Marine Corps Staff Sgt. Trevor Claypool runs through the Army defense during the 6th annual Army-Navy flag football game.jpg|rahmenlos]]|| Torspiel ||5-9|| Rasen
+|-
+|nein
+|[[Skandinavien]]
+|[[Floorball]]
+|[[Datei:Innebandy.jpg|rahmenlos]]|| Torspiel ||5||Hartbelag
+|-
+|nein
+|
+|[[Flossenschwimmen]]
+|  ||Geschwindigkeitssport||1|| Wasser
+|-
+|nein
+|
+|[[Flugmodell]]sport
+|[[Datei:MultiplexTwinStar20051014.jpg|rahmenlos]]||Modellsport||  || Luft (vom Boden aus)
+|-
+|nein
+|
+|[[Footbag]] (''Hacky Sack'')
+|[[Datei:Säckchen.jpg|rahmenlos]]||Akrobatik||1 und mehr||
+|-
+|nein
+|
+|[[Footvolley]]
+|[[Datei:Footvolley1.jpg|rahmenlos]]|| Rückschlagspiel ||2|| Beach
+|-
+|Ja (seit 1925)
+|
+|[[Formelsport]]
+|[[Datei:WernerHannelore-OlympicFormelV19690801-1.jpg|rahmenlos]]|| Motorsport ||1||Rennstrecke
+|-
+|nein
+|
+|[[Freestyle Frisbee]]
+|[[Datei:Frisbee freestyle claudio cigna 2009.jpg|rahmenlos]]|| Geschicklichkeitssport ||2-3||
+|-
+|ja (seit 1992)
+|
+|[[Freestyle-Skiing]]
+|[[Datei:Freestyle skiing jump2.jpg|rahmenlos]]|| Akrobatik ||1|| Schnee
+|-
+|nein
+|
+|[[Freiklettern]]
+|[[Datei:Kletterer in der Sächsischen Schweiz.JPG|rahmenlos]]||Klettern, Natursport||1||Gelände, Halle
+|-
+|nein
+|
+|[[Friskee]]
+|[[Datei:Spielszene vor felge.jpg|rahmenlos]]|| Torspiel ||4 und mehr|| Rasen
+|-
+|nein
+|
+|[[Fuchsjagd]]
+|[[Datei:Courbet Fox Caught in a Trap.jpg|rahmenlos]]|| Jagdsport, Pferdesport ||  ||Gelände
+|-
+|ja (seit 1900**)
+|[[England]]
+|[[Fußball]]
+|[[Datei:Football iu 1996.jpg|rahmenlos]]|| Torspiel ||11|| Rasen/Kunstrasen/Halle
+|-
+|nein
+|
+|[[Fußballtennis]]
+|[[Datei:Football Tennis.webm|rahmenlos]]|| Rückschlagspiel ||1-3|| Hartbelag
+|-
+|nein
+|[[Brasilien]]
+|[[Futsal]]
+|[[Datei:Futebol Salao Pan2007.jpg|rahmenlos]]||Torspiel||5||Hartbelag
+|-
+|nein
+|[[Irland]]
+|[[Gaelic Football]]
+|[[Datei:Gaelic Football.jpg|rahmenlos]]||Torspiel||15||Rasen
+|-
+|nein
+|[[Europa]]
+|[[Gardetanz|Garde- und Schautanz]]
+|[[Datei:Gardetanz.jpg|rahmenlos]]|| Tanzsport ||2 und mehr||
+|-
+|nein
+|[[Japan]]
+|[[Gateball]]
+|[[Datei:Playing Gate Ball.jpg|rahmenlos]]||Präzisionssport||5||Hartbelag
+|-
+|nein
+|
+|[[Gedächtnissport]]
+|[[Datei:Memory Sports.jpg|rahmenlos]]|| Denksport ||  ||
+|-
+|ja (seit 1932)
+|
+|[[Gehen (Sport)|Gehen]]
+|[[Datei:Marcheur en compétion.jpg|rahmenlos]]|| Leichtathletik ||1||Straße
+|-
+|nein
+|[[USA]]
+|[[Geocaching]]
+|[[Datei:Müncheberger Os.jpg|rahmenlos]]||Natursport||  ||Gelände
+|-
+|ja (seit 1896)
+|
+|[[Gerätturnen]]
+|[[Datei:Mattie Larson Nationals.JPG|rahmenlos]]|| Turnsport, Akrobatik ||1||
+|-
+|ja (seit 1896*)
+|
+|[[Gewichtheben]]
+|[[Datei:Weightlifting.jpg|rahmenlos]]|| Kraftsport ||1||
+|-
+|nein
+|
+|[[Gleitschirmfliegen]]
+|[[Datei:Gleitschirm im Flug.jpg|rahmenlos]]||Fliegen||1-2|| Luft
+|-
+|nein
+|
+|[[Go (Spiel)|Go]]
+|[[Datei:Go board.jpg|rahmenlos]]|| Denksport ||2||
+|-
+|nein
+|
+|[[Goalball]]
+|[[Datei:Goalball vid Paralympics i Aten.jpg|rahmenlos]]|| Torspiel ||  || Halle
+|-
+|ja (seit 1900*)
+|[[Schottland]]
+|[[Golf (Sport)|Golf]]
+|[[Datei:Golfer swing.jpg|rahmenlos]]||Präzisionssport||1||Außenanlage
+|-
+|nein
+|[[Russland]]
+|[[Gorodki]]
+|[[Datei:Gorodki site.jpg|rahmenlos]]||Präzisionssport||1 oder mehr||
+|-
+|nein
+|
+|[[Grasski]]
+|[[Datei:Jakub Nekvapil Grass Skiing World Championships 2009 Slalom.jpg|rahmenlos]]||Geschwindigkeitssport||1||Gras
+|-
+|nein
+|[[Finnland]]
+|[[Gummistiefelweitwurf]]
+|[[Datei:Boot throwing.ogv|rahmenlos]]||Werfen||1||
+|-
+|nein
+|
+|[[Guts]]
+|[[Datei:Guts Frisbee German Nationalteam 2016.jpg|rahmenlos]]|| Geschicklichkeitssport ||5|| Rasen
+|-
+|nein
+|
+|[[Gymnastik]]
+|[[Datei:Turnhalle15.jpg|rahmenlos]]|| Turnsport ||  ||Matte
+|-
+|nein
+|
+|[[Hahnenkampf]]
+|[[Datei:COCK FIGHT.JPG|rahmenlos]]|| Tierwettkampf ||  ||
+|-
+|nein
+|
+|[[Hallenfußball]]
+|[[Datei:Hallenfussball soccer D-Jugend Wacker Muenchen.jpg|rahmenlos]]||Torspiel||  ||Hartbelag
+|-
+|nein
+|[[Mittel- und Osteuropa]]
+|[[Hallenhockey]]
+|[[Datei:Österreichische Hallenhockeyliga D 2018 HC Wels vs AHTC-3809.jpg|rahmenlos]]||Torspiel||6||Hartbelag
+|-
+|nein
+|[[Deutschland]]
+|[[Korbball|Hallenkorbball]]
+|[[Datei:Deutsche Meisterschaften im Hallenkorbball 2018 - Halbfinale Frauen - TuS Eisbergen - SV Scraudenbach -- DSC7912.jpg|rahmenlos]]||Torspiel||5||Halle
+|-
+|ja (seit 1896)
+|
+|[[Hammerwurf]]
+|[[Datei:John Flanagan.jpg|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|ja (seit 1936*)
+|[[Deutschland]], [[Schweden]]
+|[[Handball]]
+|[[Datei:DEN - ESP (01) - 2010 European Men's Handball Championship.jpg|rahmenlos]]|| Torspiel ||7|| Hartbelag
+|-
+|ja (seit 1896)
+|
+|[[Hindernislauf]]
+|[[Datei:Osaka07 D1M W3000M Steeplechase Heat.jpg|rahmenlos]]|| Leichtathletik ||1||Rennbahn
+|-
+|ja (seit 1896)
+|
+|[[Hochsprung]]
+|[[Datei:Osaka07 D3M Stefan Holm.jpg|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|ja (seit 1908*)
+|[[England]]
+|[[Hockey|Hockey (Feldhockey)]]
+|[[Datei:Feldhockey2.jpg|rahmenlos]]|| Torspiel ||11|| Kunstrasen, früher Rasen
+|-
+|nein
+|
+|[[Hohe Schule (Reitkunst)|Hohe Schule]]
+|[[Datei:Cadre noir - croupade à la main.jpg|rahmenlos]]|| Tiersport (Pferdesport) ||  ||
+|-
+| nein
+|
+|[[Höhlenwandern]]
+|[[Datei:Alabama cave 2005-04-24.km.jpg|rahmenlos]]|| Natursport ||  ||Gelände
+|-
+|nein
+|[[Schweiz]]
+|[[Hornussen (Sport)|Hornussen]]
+|[[Datei:Hornussen catching.jpg|rahmenlos]]||Schlagballspiel||16-20||Wiese
+|-
+|nein
+|
+|[[Horseball]]
+|[[Datei:PonteDeLima Horseball03.jpg|rahmenlos]]|| Tiersport (Pferdesport), Torspiel||4||Rasen
+|-
+|nein
+|
+|[[House-Running]]
+|[[Datei:Houserunning.JPG|rahmenlos]]||Seilsport||1||Stadt
+|-
+|nein
+|
+|[[Hunderennen]]
+|[[Datei:Greyhounds Rennbahn.jpg|rahmenlos]]|| Tierwettkampf ||  ||
+|-
+|ja (seit 1896)
+|
+|[[Hürdenlauf]]
+|[[Datei:Naisten 400 m aidat.jpg|rahmenlos]]|| Leichtathletik ||1||Rennbahn
+|-
+|nein
+|[[Irland]]
+|[[Hurling]]
+|[[Datei:Hurling Ball and Hurley.JPG|rahmenlos]]||Torspiel||15||Rasen
+|-
+|nein
+|[[Europa]], [[Japan]]
+|[[Indiaca]]
+|[[Datei:Indiaca-Spiel.jpg|rahmenlos]]||Rückschlagspiel||5||Hartbelag
+|-
+|nein
+|
+|[[Indoorcycling]]
+|[[Datei:Spinbikes.jpg|rahmenlos]]|| Radsport ||  ||Halle
+|-
+|nein
+|
+|[[Inlinehockey]]
+|[[Datei:Armyinlinestortini.JPG|rahmenlos]]||Torspiel, Skating||6||Hartbelag
+|-
+|nein
+|Europa
+|[[Inline-Skaterhockey]]
+|[[Datei:Bully beim Inline-Skaterhockey.jpg|rahmenlos]]||Torspiel, Skating||5||Hartbelag
+|-
+|nein
+|
+|[[Inlineskaten|Inlineskating]]
+|[[Datei:2008-06-28 Muenchen inlineslalommeisterschaft 002.JPG|rahmenlos]]||Skating||1||Straße
+|-
+|nein
+|
+|[[Inline-Speedskating]]
+|[[Datei:Mundial Italia 2012.jpg|rahmenlos]]||Skating, Geschwindigkeitssport||1 und mehr||Halle, Hartbelag, Straße
+|-
+|nein
+|
+|[[Intercrosse]]
+|[[Datei:Intercrosse.jpg|rahmenlos]]||Torspiel||5||Hartbelag
+|-
+|nein
+|[[Australien]], [[Irland]]
+|[[International Rules Football]]
+|  || Torspiel ||  || Rasen
+|-
+|nein
+|[[Irland]]
+|[[Irish Handball]]
+|  || Rückschlagspiel ||  || Hartbelag
+|-
+|nein
+|
+|[[Jahn-Wettkämpfe]]
+|  || Mehrkampfsport ||1||
+|-
+|nein
+|[[Baskenland]], [[Vereinigte Staaten]]
+|[[Jai Alai]]
+|[[Datei:Miami Jai Alai fronton.jpg|rahmenlos]]||Rückschlagspiel||1||Hartbelag
+|-
+|nein
+|
+|[[Jass]]
+|[[Datei:Einfachdeutsche Jasskarten.JPG|rahmenlos]]|| Denksport ||  ||
+|-
+|nein
+|
+|[[Jeu de palets]]
+|[[Datei:Palets.JPG|rahmenlos]]||Präzisionssport||1||
+|-
+|ehemalig (1908)
+|
+|[[Jeu de Paume]] (Real Tennis)
+|[[Datei:Real-tennis-rackets-balls.jpg|rahmenlos]]||Rückschlagspiel||1-2||Hartbelag
+|-
+|nein
+|
+|[[Jeu Provençal]]
+|  ||Präzisionssport, Kugelsport||1-3||[[Boulodrome]]
+|-
+|nein
+|[[Portugal]]
+|[[Jogo do pau]]
+|[[Datei:Malta do Ateneu 1.jpg|rahmenlos]]||Kampfsport||1||
+|-
+|nein
+|[[Deutschland]]
+|[[Jokeiba]]
+|[[Datei:Jokeibafeld.svg|rahmenlos]]
+|Torspiel
+|5
+|Rasen
+|-
+|ja (seit 1964*)
+|[[Japan]]
+|[[Judo]]
+|[[Datei:Haraigoshi.jpg|rahmenlos]]|| Kampfsport ||1|| Matte
+|-
+| nein
+|[[Südafrika]], [[Namibia]]
+|[[Jukskei]]
+|  || Wurfsport || 4 || Sand, Rasen
+|-
+|nein
+|[[Deutschland]]
+|[[Jugger]]
+|[[Datei:Jugger-Spiel Vogelperspektive.jpg|rahmenlos]]||Torspiel||5||Rasen
+|-
+|nein
+|[[Japan]]
+|[[Jiu-Jitsu]]
+|[[Datei:JUJITSU (AND RIFLES) in an agricultural school.jpg|rahmenlos]]|| Kampfsport ||  ||[[Dōjō]]
+|-
+|nein
+|[[Deutschland]]
+|[[Ju-Jutsu]]
+|[[Datei:Jujutsuka 1.jpg|rahmenlos]]|| Kampfsport ||  ||[[Dōjō]]
+|-
+|nein
+|[[Belgien]]
+|[[Kaatsen]]
+|[[Datei:PC2010 FolkertvanderWei.JPG|rahmenlos]]|| Rückschlagspiel ||3||
+|-
+|nein
+|[[Indien]], [[Südostasien]]
+|[[Kabaddi]]
+|[[Datei:A Kabaddi match at 2006 Asian Games.jpg|rahmenlos]]||Fangspiel||12||Rasen, Beach/Sand
+|-
+|nein
+|[[Arabische Halbinsel|Arabien]], [[Australien]]
+|[[Kamelrennen]]
+|[[Datei:Dubai camel race.jpg|rahmenlos]]|| Tiersport ||1||
+|-
+|nein
+|[[Schweden]]
+|[[Kaninhop]]
+|[[Datei:Kaninhoppning-king of joyride.jpg|rahmenlos]]|| Tiersport ||1||
+|-
+|nein
+|
+|[[Kanupolo]]
+|[[Datei:Kanupolo WM 2010.JPG|rahmenlos]]||Bootssport, Torspiel||5||Wasser
+|-
+|ja (seit 1936)
+|
+|[[Kanurennsport]]
+|[[Datei:Kajak (1).jpg|rahmenlos]]|| Bootssport ||1-8|| Wasser
+|-
+|ja (seit 1972*)
+|
+|[[Kanuslalom]]
+|[[Datei:Kanuslalom.jpg|rahmenlos]]|| Bootssport ||1-2|| Wasser
+|-
+|ja (seit 2020)
+|[[Japan]]
+|[[Karate]]
+|[[Datei:Kata1.jpg|rahmenlos]]|| Kampfsport ||  ||[[Dōjō]]
+|-
+|nein
+|
+|[[Kartsport]]
+|[[Datei:Kart Racing 1.jpg|rahmenlos]]|| Motorsport ||1||Rennstrecke
+|-
+|nein
+|
+|[[Kegelbillard]]
+|[[Datei:Birilli with 9 pins 2.jpg|rahmenlos]]||Präzisionssport||1||Tisch
+|-
+|nein
+|[[Deutschland]], [[Amerika]]
+|[[Kegeln]]
+|[[Datei:Kegeln-Kugel.jpg|rahmenlos]]||Präzisionssport, Kegelsport||6||Anlage
+|-
+|nein
+|[[Japan]]
+|[[Kendo]]
+|[[Datei:Noma Dojo, 2006.JPG|rahmenlos]]||Kampfsport||1||
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Kickball]]
+|  || Schlagballspiel ||  || Rasen
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Kickboxen]]
+|[[Datei:2010-02-20-kickboxen-by-RalfR-01.jpg|rahmenlos]]||Kampfsport||1|| Matten, Boxring
+|-
+|nein
+|[[Estland]]
+|[[Kiiking]]
+|[[Datei:Kiiking Tartus.JPG|rahmenlos]]||Kraftsport||1 und mehr||Anlage
+|-
+|nein
+|[[Kanada]]
+|[[Kin-Ball]]
+|[[Datei:20e journée du championnat de france 2013-2014 de Kin-Ball 120.jpg|rahmenlos]]||Schlagballspiel||4||Hartbelag
+|-
+|nein
+|
+|[[Kitesurfen]]
+|[[Datei:KiteBoardingCRGorge.jpg|rahmenlos]]||Drachensport, Brettsport||1|| Wasser
+|-
+|nein
+|
+|[[Kitelandboarding]]
+|[[Datei:Kiteboarden 1.jpg|rahmenlos]]||Drachensport, Brettsport||1|| Land
+|-
+|nein
+|
+|[[Klettern]]
+|[[Datei:Kletterer in der Sächsischen Schweiz.JPG|rahmenlos]]||Bergsport||  || Gelände, Anlage
+|-
+|nein
+|
+|[[Klippenspringen]]
+|[[Datei:Gunnarseq.jpg|rahmenlos]]||Springen||1||Wasser
+|-
+|nein
+|[[Niedersachsen]]
+|[[Klootschießen]]
+|  ||Kugelsport||1 und mehr||
+|-
+|nein
+|
+|[[Klotstockspringen]]
+|[[Datei:Fierljeppen in Heerenveen.JPG|rahmenlos]]||Natursport||1|| Gelände
+|-
+|nein
+|
+|[[Kniebeugen]]
+|[[Datei:Squats.svg|rahmenlos]]|| Kraftsport ||1||
+|-
+|nein
+|[[Deutschland]]
+|[[Korbball]]
+|[[Datei:Deutsche Meisterschaften im Hallenkorbball 2018 - Halbfinale Frauen - TuS Eisbergen - SV Scraudenbach -- DSC7912.jpg|rahmenlos]]||Torspiel||5-7||Halle, Rasen, Hartbelag
+|-
+|nein
+|[[Schweiz]]
+|[[Korbball (Schweiz)]]
+|  ||Torspiel||5-6||Halle, Rasen
+|-
+|nein
+|
+|[[Korfball]]
+|[[Datei:UKSA-partit.jpg|rahmenlos]]||Torspiel||8||Hartbelag
+|-
+|nein
+|
+|[[Kraftdreikampf]]
+|  || Mehrkampfsport, Kraftsport ||1||
+|-
+|nein
+|
+|[[Kreuzheben]]
+|[[Datei:Deadlift illustration.jpg|rahmenlos]]|| Kraftsport ||1||
+|-
+|nein
+|[[Skandinavien]]
+|[[Kubb]]
+|[[Datei:Kubbwiki.JPG|rahmenlos]]||Präzisionsspiel||2 und mehr||Rasen
+|-
+|ja (seit 1896)
+|
+|[[Kugelstoßen]]
+|[[Datei:Shotput.jpg|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|nein
+|[[China]]
+|[[Kung Fu]]
+|[[Datei:Demonstrating Kung Fu at Daxiangguo Monestary, Kaifeng, Henan.JPG|rahmenlos]]|| Kampfsport ||1||
+|-
+|ja (seit 1904)
+|
+|[[Kunst- und Turmspringen]]
+|[[Datei:Reverse 5391.JPG|rahmenlos]]|| Akrobatik ||1|| Wasser
+|-
+|nein
+|
+|[[Kunstflug]] (Flugakrobatik)
+|[[Datei:ILA Aerobatics.jpg|rahmenlos]]||Fliegen||1|| Luft
+|-
+|nein
+|[[Europa]]
+|[[Kunstradfahren]]
+|[[Datei:Richard Steyer.jpg|rahmenlos]]|| Radsport ||1-6|| Hartbelag
+|-
+|nein
+|
+|[[Kürbisweitwurf]]
+|[[Datei:Pomslinger.jpg|rahmenlos]]|| Werfen ||1||
+|-
+|nein
+|[[Deutschland]]
+|[[Kutterpullen]]
+|[[Datei:Seemannsschule Priwall - Rudern auf dem Pötenitzer Wiek - 1955.png|rahmenlos]]|| Bootssport ||11-15|| Wasser
+|-
+|nein
+|[[Japan]]
+|[[Kyūdō]]
+|[[Datei:Kyudo Kriegsschießen.jpg|rahmenlos]]|| Präzisionssport, Schießsport ||  ||
+|-
+|ehemalig (von 1904 bis 1908)
+|[[Kanada]], [[Vereinigte Staaten]] (indianisch)
+|[[Lacrosse]]
+|[[Datei:Lacrosse dive shot.jpg|rahmenlos]]||Torspiel||10||Rasen
+|-
+|nein
+|[[Dänemark]]
+|[[Langbold]]
+||| Schlagballspiel ||  || Rasen
+|-
+|ja (seit 1896)
+|
+|[[Langstreckenlauf]]
+|[[Datei:800m at 2011 German Athletics Championships.jpg|rahmenlos]]|| Leichtathletik ||1||Straße, Rennbahn
+|-
+|nein
+|[[Russland]]
+|[[Lapta (Spiel)]]
+|[[Datei:Игра в лапту в России.jpg|rahmenlos]]|| Schlagballspiel ||  || Rasen
+|-
+|nein
+|
+|[[Lasergame]]
+|[[Datei:LaserTag Vest.png|rahmenlos]]|| Fangspiel, Schießsport ||2 und mehr|| Gelände
+|-
+|nein
+|
+|[[Lateinamerikanische Tänze]]
+|[[Datei:Tanzturnier 51.JPG|rahmenlos]]|| Tanzsport ||2|| Parkett
+|-
+|ja (seit 1896)
+|
+|[[Leichtathletik]]
+|  || Leichtathletik ||1-4|| Außenanlage
+|-
+|nein
+|
+|[[Loheland-Gymnastik]]
+|  || Turnsport ||1||
+|-
+|nein
+|[[Ungarn]]
+|[[Longaméta]]
+|  || Schlagballspiel ||  || Rasen
+|-
+|nein
+|[[Europa]]
+|[[Luftkissen-Schlitten|Luftkissen-Schlitteln]]
+|[[Datei:Picswiss BE-96-41 Airboard in Fahrt auf dem Schlittelweg Lenk.jpg|rahmenlos]]||Schlittensport||1||Schnee
+|-
+|nein
+|[[Brasilien]]
+|[[Luta Livre]]
+|[[Datei:Lutadores.jpg|rahmenlos]]||Kampfsport||1||Matte
+|-
+|nein
+|[[Brasilien]]
+|[[Maculelê]]
+|[[Datei:Maculele in New York.jpg|rahmenlos]]||Kampfsport, Tanzsport||1||
+|-
+|nein
+|[[Österreich]]
+|Moroken
+|
+|Rutschsport
+|1
+|Schnee, Schneebahn
+|-
+|nein
+|
+|[[Merkball]]
+|  ||Fangspiel||1||
+|-
+|nein
+|[[Lateinamerika]] (indianisch)
+|[[Mesoamerikanisches Ballspiel]]
+|[[Datei:Monte Albán-12-05oaxaca024.jpg|rahmenlos]]||Torspiel||  ||
+|-
+|nein
+|[[Schweiz]]
+|[[Minigolf]]
+|[[Datei:Bulltoftaparken, Minigolfbanan.jpg|rahmenlos]]||Präzisionssport||1|| Anlage
+|-
+|ja (seit 1896)
+|
+|[[Mittelstreckenlauf]]
+|  || Leichtathletik ||1||Rennbahn
+|-
+|nein
+|
+|[[Mixed-Klettern]]
+|  || Bergsport ||  ||Gelände
+|-
+|nein
+|[[Europa]]
+|[[Moderne Schwertkunst]]
+|  || Kampfsport ||1||
+|-
+|ja (seit 1912)
+|
+|[[Moderner Fünfkampf]]
+|[[Datei:Modern pentathlon pictogram.svg|rahmenlos]]|| Mehrkampfsport ||1|| Außenanlage
+|-
+|nein
+|[[Finnland]]
+|[[Mölkky]]
+|[[Datei:Mölkkyspiel 0001.jpg|rahmenlos]]|| Geschicklichkeitssport || 1 und mehr || Rasen / Sand
+|-
+|nein
+|
+|[[Monoski]]
+|[[Datei:Monoski.JPG|rahmenlos]]||Brettsport||1|| Schnee
+|-
+|nein
+|[[Deutschland]], [[Frankreich]], [[Niederlande]], [[Russland]], [[Ukraine]], [[Weißrussland]]
+|[[Motoball]]
+|[[Datei:Motoballendspiel 2007.jpg|rahmenlos]]|| Motorsport, Torspiel ||5|| Hartbelag
+|-
+|ehemalig (1908)
+|
+|[[Motorbootsport]]
+||| Motorsport ||  ||Wasser
+|-
+|Ja (seit 2000)
+|
+|[[Motorradsport]]
+|[[Datei:Motogp rossi 300.jpg|rahmenlos]]|| Motorsport ||1-2||Rennstrecke
+|-
+|ja (seit 1996)
+|
+|[[Mountainbike]]
+|[[Datei:Bulls Wild Cup 1 (Modell 2010) 20100814.jpg|rahmenlos]]|| Radsport ||1|| Gelände
+|-
+|nein
+|
+|[[Mountainbike-Orienteering]]
+|[[Datei:Wilimy.jpg|rahmenlos]]|| Radsport ||1||Gelände
+|-
+|nein
+|[[Thailand]]
+|[[Muay Thai]]
+|[[Datei:Muay Thai-Training with Pads, Van Nuys, California, 1992.jpg|rahmenlos]]|| Kampfsport ||  ||
+|-
+|nein
+|
+|[[Mühle (Spiel)|Mühle]]
+|[[Datei:Nine Men's Morris board.svg|rahmenlos]]|| Denksport || 2 ||
+|-
+| nein
+|[[Japan]]
+|[[Naginata]]
+|[[Datei:Antique Japanese (samurai) naginata blade.jpg|rahmenlos]]|| Kampfsport || 1-5 || Halle
+|-
+| nein
+|
+|[[Naturbahnrodeln]]
+|[[Datei:Luge natural track on wheels luge camp.jpg|rahmenlos]]|| Schlittensport || 1-2 || Eis
+|-
+|nein
+|[[Australien]], [[Neuseeland]], [[Südafrika]]
+|[[Netball]]
+|[[Datei:MalawiFijiNetball.jpg|rahmenlos]]|| Torspiel ||7|| Hartplatz
+|-
+|nein
+|[[Australien]]
+|[[Nippers]]
+|[[Datei:NippersBeforeSwim.jpg|rahmenlos]]|| Geschwindigkeitssport ||1|| Wasser
+|-
+|nein
+|
+|[[Nordic Walking]]
+|[[Datei:Nordic Walkers near Ilkley 020.JPG|rahmenlos]]||Natursport||1||Gelände
+|-
+|ja (seit 1924)
+|[[Skandinavien]]
+|[[Nordische Kombination]]
+|[[Datei:Nordic combined pictogram.svg|rahmenlos]]||Mehrkampfsport||1|| Schnee
+|-
+|nein
+|[[Lettland]]
+|[[Novuss]]
+|[[Datei:Old novuss table.jpg|rahmenlos]]||Präzisionssport||1-2||Tisch
+|-
+|nein
+|[[Rumänien]]
+|[[Oină (Sport)|Oină]]
+|[[Datei:TimbruOina.png|rahmenlos]]|| Schlagballspiel ||11|| Rasen
+|-
+|nein
+|[[Türkei]]
+|[[Öl-Ringkampf]]
+|[[Datei:Yagli gures3.JPG|rahmenlos]]|| Kampfsport ||1||
+|-
+|nein
+|
+|[[Orientierungslauf]]
+|[[Datei:Orienteer river3.JPG|rahmenlos]]||Geschwindigkeitssport||1-3|| Gelände
+|-
+|nein
+|
+|[[Orientierungstauchen]]
+|[[Datei:Stamps of Germany (DDR) 1985, MiNr 2962.jpg|rahmenlos]]||Tauchsport||1|| Wasser
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Paintball]]
+|[[Datei:SupAir Player.jpg|rahmenlos]]||Fangspiel||2 und mehr||Gelände
+|-
+|nein
+|[[Europa]]
+|[[Paille-Maille|Pall Mall]]
+|[[Datei:Pall Mall - Project Gutenberg eText 14315.jpg|rahmenlos]]|| Präzisionssport ||1||
+|-
+|nein
+|[[Toskana]]
+|[[Palla eh!]]
+|[[Datei:Pallaeh vetulonia 2001 (a).jpg|rahmenlos]]|| Rückschlagspiel ||3-5|| Straße
+|-
+|antik
+|[[Griechenland]]
+|[[Pankration]]
+|[[Datei:Pankratiasten in fight copy of greek statue 3 century bC.jpg|rahmenlos]]|| Kampfsport || 1 || Stadion
+|-
+|nein
+|[[Frankreich]]
+|[[Parkour]]
+|[[Datei:Daniel Ilabaca.jpg|rahmenlos]]||Springen, Körperkontrolle||1||Stadt, Gelände
+|-
+|nein
+|[[Argentinien]]
+|[[El Pato|Pato]]
+|[[Datei:Patogame.JPG|rahmenlos]]|| Torspiel ||  || Rasen
+|-
+|ehemalig (1900)
+|[[Baskenland]], [[Mittelamerika]] (indianisch)
+|[[Pelota]]
+|[[Datei:Fronton Adarraga.JPG|rahmenlos]]||Rückschlagspiel||1-7||Hartbelag
+|-
+|nein
+|[[Asien]]
+|[[Penspinning]]
+|[[Datei:Thumbaroundpentrick.JPG|rahmenlos]]|| Geschicklichkeitssport ||1||
+|-
+|antik
+|[[Antike]]
+|[[Pentathlon]]
+|[[Datei:Pentathlon athlets Staatliche Antikensammlungen 2637.jpg|rahmenlos]]|| Mehrkampfsport ||1||
+|-
+|nein
+|[[Finnland]]
+|[[Pesäpallo]]
+|[[Datei:Siipen nuoret pelaamassa pesapalloa.jpg|rahmenlos]]|| Schlagballspiel ||9|| Rasen
+|-
+|nein
+|
+|[[Pétanque]]
+|[[Datei:Padrom3.jpg|rahmenlos]]||Präzisionssport, Kugelsport||1-3, oder mehrere [[Pétanque#Formationen|Formationen]]||[[Boulodrome]]
+|-
+|Ja (seit 1910)
+|
+|[[Pferderennen]]
+|[[Datei:Horse-racing-1.jpg|rahmenlos]]|| Tiersport (Pferdesport) ||1||
+|-
+|nein
+|[[Schweiz]]
+|[[Platzgen]]
+|  || Präzisionssport ||1||
+|-
+|nein
+|
+|[[Plinking]]
+|[[Datei:Tannerite explosion full 2.jpg|rahmenlos]]|| Schießsport ||1||
+|-
+|nein
+|
+|[[Poker]]
+|[[Datei:Holdem.jpg|rahmenlos]]|| Denksport ||1||
+|-
+|ehemalig (von 1900 bis 1936*)
+|[[Iran|Persien]]
+|[[Polo (Sport)|Polo]]
+|[[Datei:Polo3-1-.jpeg|rahmenlos]]||Tiersport (Pferdesport), Torspiel||4||Rasen
+|-
+|nein
+|[[Australien]]
+|[[Polocrosse]]
+|[[Datei:Polocrosse 2.jpg|rahmenlos]]|| Tiersport (Pferdesport), Torspiel ||3|| Rasen
+|-
+|nein
+|[[Schweiz]]
+|[[Pontoniersport]]
+|[[Datei:Übersetzboot.jpg|rahmenlos]]|| Bootssport ||2-4|| Wasser
+|-
+|nein
+|
+|[[Pole Dance]]
+|  || Acrobatic, Kraftsport, Ausdauersport, Turnen ||1 und mehr||Halle
+|-
+|nein
+|
+|[[Poolbillard]]
+|[[Datei:PoolTablewithEquipment-non.jpg|rahmenlos]]||Präzisionssport||1 und mehr||Tisch
+|-
+|nein
+|[[Deutschland]]
+|[[Prellball]]
+|[[Datei:Prellball-Spiel.JPG|rahmenlos]]||Rückschlagspiel||3-4||Hartbelag
+|-
+|nein
+|[[Niederlande]]/[[Niedersachsen]]/[[Schleswig-Holstein]]
+|[[Pultstockspringen]]/[[Klotstockspringen]]
+|[[Datei:Naturerlebnisraum Elbmarschenhaus, IMG 9014.JPG|rahmenlos]]|| Natursport ||1|| Gelände
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Muggel-Quidditch|Quidditch]]
+|[[Datei:Muggle Quidditch.jpg|rahmenlos]]|| Torspiel ||6/7|| Rasen
+|-
+|nein
+|[[Skandinavien]]
+|[[Racketlon]]
+|[[Datei:Racketlon balls.jpg|rahmenlos]]||Rückschlagspiel, Mehrkampfsport||1-2||Hartbelag
+|-
+|ehemalig (1908)
+|[[England]]
+|[[Rackets]]
+|[[Datei:Racquet Hall, end wall, Eglinton.JPG|rahmenlos]]|| Rückschlagspiel ||1-2|| Hartbelag
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Racquetball]]
+|[[Datei:Racquetball - Schläger und Ball.jpg|rahmenlos]]||Rückschlagspiel||1-3||Hartbelag
+|-
+|nein
+|
+|[[Radball]]
+|[[Datei:Radballszene.jpg|rahmenlos]]|| Radsport, Torspiel ||2-5||Hartbelag
+|-
+|nein
+|
+|[[Radpolo]]
+|[[Datei:Bike Polo AUT-HUN.jpg|rahmenlos]]||Radsport, Torspiel||2||Hartbelag
+|-
+|ja (seit 1896)
+|
+|[[Radsport]]
+|[[Datei:Fabian Wegmann 03.jpg|rahmenlos]]|| Radsport ||1||
+|-
+|nein
+|
+|[[Rafting]]
+|[[Datei:Rafting em Brotas.jpg|rahmenlos]]||Bootssport, Natursport||4-12|| Wasser
+|-
+|nein
+|[[Osteuropa]]
+|[[Raketenmodellsport]]
+|  ||Modellsport||  || Luft (vom Boden aus)
+|-
+|nein
+|
+|[[Rallye]]
+|[[Datei:Neste Oil Rally 2010 - Jari-Matti Latvala in shakedown.jpg|rahmenlos]]|| Motorsport ||2||Straßen/Wege
+|-
+|nein
+|
+|[[Rasenkraftsport]]
+|  || Mehrkampfsport, Kraftsport ||1||
+|-
+|nein
+|[[Europa]], [[Vereinigte Staaten]]
+|[[Rasenmähertreckerrennen]]
+|[[Datei:2007 swifts creek lawnmower races07.jpg|rahmenlos]]||Motorsport||meist 1||Wiese, Acker
+|-
+|nein
+|
+|[[Red Bull Air Race Weltmeisterschaft]]
+|[[Datei:Klaus Schrodt.jpg|rahmenlos]]|| Luftsport ||1|| Luft
+|-
+|nein
+|
+|[[Reifenrodeln]]
+|  || Schlittensport ||1 und mehr|| Schnee
+|-
+|ja (seit 1900*)
+|
+|[[Pferdesport|Reiten]]
+|[[Datei:CSIO4 Linzer Pferdefestival 2017-Davide Sbardella- Triomphe van Schuttershof-6055.jpg|rahmenlos]]|| Tiersport (Pferdesport) ||1|| Anlage
+|-
+|ja (seit 1964)
+|
+|[[Rennrodeln]]
+|[[Datei:Natural luge double.jpg|rahmenlos]]|| Schlittensport ||1-2|| Eis
+|-
+|nein
+|
+|[[Rettungssport]]
+|[[Datei:Rettungsschwimmen1.jpg|rahmenlos]]||Geschwindigkeitssport||1||Wasser
+|-
+|nein
+|[[Deutschland]]
+|[[Rhönrad]]turnen
+|[[Datei:96-Wheels-SpindleBridge.jpg|rahmenlos]]|| Turnsport ||1-2||Hartbelag
+|-
+|ja (seit 1984)
+|[[Russland]]
+|[[Rhythmische Sportgymnastik]]
+|[[Datei:Training of young gymnasts (Angarsk, Russia).jpg|rahmenlos]]|| Turnsport, Tanzsport ||1||
+|-
+|nein
+|
+|[[Ricochet (Sport)|Ricochet]]
+|[[Datei:Ricochet01.JPG|rahmenlos]]||Rückschlagspiel||1||Hartbelag
+|-
+|ja (von 1896*)
+|[[Antike]], [[Griechenland]]
+|[[Ringen]]
+|[[Datei:Sanchez Ramis v Riviere Tournoi GPSO 2014 t135146.jpg|rahmenlos]]|| Kampfsport, Kraftsport ||1|| Matte
+|-
+|nein
+|[[Kanada]]
+|[[Ringette]]
+|  || Torspiel ||6|| Eis
+|-
+|nein
+|[[Dänemark]], [[Norddeutschland]]
+|[[Ringreiten]]
+|[[Datei:Ringridning.5.jpg|rahmenlos]]|| Tiersport (Pferdesport), Präzisionssport ||1||
+|-
+|nein
+|
+|[[Ringtennis]]
+|[[Datei:Ringtennis-WM 2006 Spielszene Herrendoppel 1.jpg|rahmenlos]]|| Rückschlagspiel ||1-2|| Hartbelag
+|-
+|nein
+|
+|[[Rinkball]]
+|  || Torspiel||  ||Eis
+|-
+|nein
+|
+|[[Roboterfußball]]
+|[[Datei:Robocup 2005 Aibos.jpg|rahmenlos]]|| Maschinensport ||0||
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Rock ’n’ Roll (Tanz)]]
+|[[Datei:Rocknroll-dancing-somersault-worldgames2005.jpg|rahmenlos]]|| Tanzsport ||2||
+|-
+|nein
+|[[Brasilien]], [[Vereinigte Staaten]]
+|[[Rodeo]]
+|[[Datei:Brawley roundup.jpg|rahmenlos]]|| Jagdsport, Tiersport ||  ||Gelände
+|-
+|ehemalig (1992)
+|[[Südeuropa]]
+|[[Rollhockey]]
+|[[Datei:ERG-Iserlohn1.JPG|rahmenlos]]||Torspiel||5||Hartbelag
+|-
+|nein
+|
+|[[Rollkunstlauf]]
+|[[Datei:Frank Albiez.jpg|rahmenlos]]||Tanzsport, Akrobatik||1||
+|-
+|nein
+|
+|[[Rollstuhlbasketball]]
+|[[Datei:2015 Army Trials 150331-A-HV508-134.jpg|rahmenlos]]||Torspiel, Rollstuhlsport||5||Hartbelag
+|-
+|nein
+|
+|[[Rollstuhlrugby]]
+|[[Datei:Wheelchair rugby game 2.jpg|rahmenlos]]||Torspiel, Rollstuhlsport||  ||Hartbelag
+|-
+|nein
+|[[Schweden]]
+|[[Rollstuhltanz]]
+|[[Datei:Sivak.jpg|rahmenlos]]|| Tanzsport ||2 und mehr||Halle
+|-
+|ehemalig (1904)
+|
+|[[Roque]]
+|[[Datei:Roque competition during 1904 Summer Olympics.jpg|rahmenlos]]|| Präzisionssport ||1|| Hartbelag
+|-
+|nein
+|[[Vereinigtes Königreich|Großbritannien]]
+|[[Rounders]]
+|[[Datei:SMATrinitasKasti2.JPG|rahmenlos]]|| Schlagballspiel ||  || Rasen
+|-
+|ja (seit 1900)
+|
+|[[Rudern]]
+|[[Datei:Achter.jpg|rahmenlos]]|| Bootssport ||1-9|| Wasser
+|-
+|nein
+|[[England]]
+|[[Rugby League]]
+|[[Datei:Lance hohaia running into the defence (rugby league).jpg|rahmenlos]]||Torspiel||13||Rasen
+|-
+|ehemalig, als 15er-Variante (von 1900 bis 1924*)
+Ja, als 7-Variante (seit 2016)
+|[[England]]
+|[[Rugby Union]]
+|[[Datei:General Rugby Union backplay.JPG|rahmenlos]]
+|Torspiel||15||Rasen
+|-
+|nein
+|[[Dänemark]]
+|[[Rundbold]]
+|  || Schlagballspiel ||  || Rasen
+|-
+|nein
+|
+|[[Russisches Kegeln]]
+|[[Datei:Bundesarchiv Bild 183-P0302-0007, Berlin, Volkspark Friedrichshain, Kegeln.jpg|rahmenlos]]||Präzisionssport, Kegelsport||1||
+|-
+|nein
+|[[Frankreich]]
+|[[Savate]]
+|[[Datei:Savate fouetté figure 1.JPG|rahmenlos]]|| Kampfsport ||  || Ring
+|-
+| nein
+|[[Vereinigte Staaten]]
+|[[Segwaypolo]]
+|[[Datei:Hemer-SegwaypoloWM2017-1-Asio.JPG|rahmenlos]]|| Torspiel || 5 || Rasen
+|-
+|nein
+|
+|[[Speedway (Bahnsport)|Sandbahnrennen]]
+|[[Datei:Speedway Extraliiga 22. 5. 2010 - Joni Keskinen erässä 4.jpg|rahmenlos]]|| Motorsport ||1|| Sand
+|-
+|nein
+|
+|[[Sandboarding]]
+|[[Datei:Sandboarding in Dubai.jpg|rahmenlos]]||Brettsport||1||Sand (Gelände)
+|-
+|nein
+|
+|[[Schach]]
+|[[Datei:ChessStartingPosition.jpg|rahmenlos]]|| Denksport ||4-8 ([[Mannschaftsschach]]) oder 2 ([[Tandemschach]])|| Gebäude, Halle, selten auch im Freien (Freischach)
+|-
+|nein
+|
+|[[Schachboxen]]
+|[[Datei:Schachboxen1.jpg|rahmenlos]]|| Mehrkampfsport ||1||
+|-
+|nein
+|
+|[[Schlagball]]
+|[[Datei:Schlagball.jpg|rahmenlos]]||Schlagballspiel||12||Rasen
+|-
+|nein
+|[[Deutschland]]
+|[[Schleuderballspiel|Schleuderball]]
+|  ||Torspiel||8||Rasen
+|-
+|nein
+|
+|[[Schnorcheln]]
+|[[Datei:Sea Garden of BUNAKEN.jpg|rahmenlos]]||Tauchsport||  || Wasser
+|-
+|ja (seit 2020)
+|
+|[[Schwierigkeitsklettern]]
+|  ||Klettern||  || Halle, Gelände
+|-
+|ja (seit 1896)
+|
+|[[Schwimmsport|Schwimmen]]
+|[[Datei:11th FINA World Championships.JPG|rahmenlos]]|| Geschwindigkeitssport ||1|| Wasser
+|-
+|nein
+|[[Schweiz]]
+|[[Schwingen]]
+|[[Datei:Die Gartenlaube (1858) b 013.jpg|rahmenlos]]||Kampfsport||1||Sägemehl
+|-
+|nein
+|
+|[[Scoutball]]
+|  || Torspiel ||5 und mehr|| Rasen
+|-
+|nein
+|
+|[[Scrabble]]
+|[[Datei:Scrabble 2.jpg|rahmenlos]]|| Denksport ||2-4||
+|-
+|nein
+|
+|[[Seesport]]
+|[[Datei:Seesport-Kuttersegeln.jpg|rahmenlos]]||Mehrkampfsport||1||Wasser
+|-
+|nein
+|
+|[[Segelflug|Segelfliegen]]
+|[[Datei:Glider at Mont Blanc.jpg|rahmenlos]]||Fliegen||1 und mehr|| Luft
+|-
+|ja (seit 1900*)
+|
+|[[Segeln]]
+|[[Datei:Laser Radial 160588 02.jpg|rahmenlos]]|| Bootssport ||  ||Wasser
+|-
+|ehemalig (bis 1932*)
+|[[Tschechien]]
+|[[Seilklettern]]
+|[[Datei:Rope Climbing.jpg|rahmenlos]]|| Klettern ||1 ||Halle
+|-
+|nein
+|
+|[[Seilspringen]]
+|[[Datei:Cest is d'Best 20160530 DSC 5129.jpg|rahmenlos]]|| Turnsport ||1||
+|-
+|nein
+|[[Südostasien]]
+|[[Sepak Takraw]]
+|[[Datei:Sepak takraw.jpg|rahmenlos]]|| Rückschlagspiel, Akrobatik ||  ||
+|-
+|nein
+|[[Niederlande]]
+|[[Shaolin Kempo]]
+|  || Kampfsport ||  || Matte
+|-
+|nein
+|[[Schottland]]
+|[[Shinty]]
+|[[Datei:CabersGlasgow.jpg|rahmenlos]]|| Torspiel ||12|| Rasen
+|-
+|nein
+|[[Japan]]
+|[[Shōgi]]
+|[[Datei:Shogi.jpg|rahmenlos]]|| Denksport || 1 || Tisch
+|-
+|ja (seit 1992)
+|
+|[[Shorttrack]]
+|[[Datei:Yuri confortola 2006.jpg|rahmenlos]]|| Geschwindigkeitssport ||1|| Eis
+|-
+|nein
+|
+|[[Shuffleboard]]
+|[[Datei:Shuffleboard1.jpg|rahmenlos]]||Präzisionssport||1||
+|-
+|nein
+|
+|[[Sitzball]]
+|[[Datei:Sitting volleyball player.jpg|rahmenlos]]||Rückschlagspiel||5||Hartbelag
+|-
+|nein
+|
+|[[Sitzfußball]]
+|  ||Torspiel||  ||Hartbelag
+|-
+|nein
+|
+|[[Sitzvolleyball]]
+|  ||Rückschlagspiel||  ||Hartbelag
+|-
+|nein
+|[[Deutschland]]
+|[[Skat]]
+|[[Datei:Skatblatt Turnierbild.jpg|rahmenlos]]|| Denksport ||3 und mehr||Tisch
+|-
+|ja (seit 2020)
+|[[Vereinigte Staaten]]
+|[[Skateboard]]ing
+|[[Datei:Skatboardfahren.JPG|rahmenlos]]||Brettsport, Akrobatik||1||Stadt
+|-
+|ja (seit 1928*)
+|
+|[[Skeleton (Sportart)|Skeleton]]
+|[[Datei:Brady Canfield skeleton start 2.jpg|rahmenlos]]|| Schlittensport ||1|| Eis
+|-
+|ja (seit 1936)
+|
+|[[Ski Alpin]] ([[Abfahrtslauf]], [[Super-G]], [[Slalom]] &amp; [[Riesenslalom]])
+|[[Datei:Lauberhorn slalom 2011 wengen2.jpg|rahmenlos]]||Geschwindigkeitssport||1|| Schnee
+|-
+|nein
+|[[Schweiz]], [[Österreich]], [[Deutschland]]
+|[[Skibergsteigen]]
+|[[Datei:Wdomenada2003b.jpg|rahmenlos]]|| Brettsport, Natursport ||1 und mehr||Schnee
+|-
+|nein
+|[[Skandinavien]]
+|[[Skijöring]]
+|[[Datei:Skijoring.jpg|rahmenlos]]|| Schlittensport ||  ||Schnee
+|-
+|ja (seit 1924)
+|[[Skandinavien]]
+|[[Skilanglauf]]
+|[[Datei:Cross-country skiing Schwedentritt.jpg|rahmenlos]]||Geschwindigkeitssport||1|| Schnee
+|-
+|nein
+|
+|[[Skimboarden]]
+|[[Datei:Detail-Jump.jpg|rahmenlos]]||Brettsport ||1 ||Wasser
+|-
+|nein
+|[[Österreich]], [[Schweiz]], [[Deutschland]]
+|Skirodeln
+|
+|[[Rodeln|Rodelsport]], (Skisport)
+|1
+|Schnee
+|-
+|ja (seit 1924)
+|[[Skandinavien]]
+|[[Skispringen]]
+|[[Datei:FIS Ski Weltcup Titisee-Neustadt 2016 - Noriaki Kasai3.jpg|rahmenlos]]||Springen||1|| Schnee
+|-
+|nein
+|
+|[[Skwal]]
+|[[Datei:Skwal.jpg|rahmenlos]]|| Brettsport ||1|| Schnee
+|-
+|nein
+|
+|[[Slackline]]
+|[[Datei:Rodeo slackline graz.jpg|rahmenlos]]|| Akrobatik ||1||
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Slamball]]
+|[[Datei:Corey vs Ivan in 2008.jpg|rahmenlos]]|| Torspiel ||4|| Hartbelag
+|-
+|nein
+|[[Schweden]]
+|[[Sledge-Eishockey]]
+|[[Datei:Sledge hockey player.jpg|rahmenlos]]|| Torspiel ||  || Eis
+|-
+|nein
+|
+|[[Volleyball|Smashball]]
+|[[Datei:Brazil 3 vs 1 China (5968924300) (3).jpg|rahmenlos]]||Rückschlagspiel||  ||Hartbelag
+|-
+|nein
+|[[Polen]], [[Schweiz]]
+|[[Smolball]]
+|[[Datei:Smollball action2.jpg|rahmenlos]]||Torspiel||4||
+|-
+|Ja (seit 1927)
+|[[Vereinigtes Königreich]]
+|[[Snooker]]
+|[[Datei:Jan Verhaas and Mark Selby at Snooker German Masters (DerHexer) 2013-01-30 02.jpg|rahmenlos]]||Präzisionssport||2||Tisch
+|-
+|ja (seit 1998)
+|[[Vereinigte Staaten]]
+|[[Snowboard]]
+|[[Datei:Picswiss SZ-27-20.jpg|rahmenlos]]||Brettsport||1|| Schnee
+|-
+|nein
+|
+|[[Snowkiting]]
+|[[Datei:Snowkiting am Feldberg.jpg|rahmenlos]]||Drachensport, Brettsport||1||Schnee
+|-
+|nein
+|
+|[[Soccergolf]]
+|[[Datei:Footgolf ball and hole.jpg|rahmenlos]]|| Präzisionssport ||1|| Rasen
+|-
+|ja (von 1996 bis 2008; seit 2020)
+|[[Vereinigte Staaten]]
+|[[Softball]]
+|[[Datei:AggieSoftball.jpg|rahmenlos]]|| Schlagballspiel||9||Rasen
+|-
+|nein
+|[[Münsterland]]
+|[[Speckbrett]]
+|  || Rückschlagspiel ||1-2|| Sand
+|-
+|nein
+|
+|[[Speed Flying]]
+|[[Datei:Francois Bon.jpg|rahmenlos]]|| Fliegen ||1|| Schnee, Luft
+|-
+|nein
+|
+|[[Speed Badminton]]
+|[[Datei:Speed Badminton Set.jpg|rahmenlos]]||Rückschlagspiel||1||Hartbelag
+|-
+|ja (seit 2020)
+|
+|[[Speedklettern]]
+|[[Datei:Speedcup Finals women 5794.JPG|rahmenlos]]||Klettern||1||Halle, Gelände
+|-
+|ja (seit 1896)
+|
+|[[Speerwurf]]
+|[[Datei:Erik Lemming.jpg|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|nein
+|
+|[[Holzfäller|Sportholzfällen]]
+|[[Datei:Corte hachu.jpg|rahmenlos]]||Geschicklichkeitssport||1 und mehr||
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Sport Stacking]]
+|[[Datei:Speed-Stacking-Cups.jpg|rahmenlos]]||Geschicklichkeitssport||1-4||Tisch
+|-
+|ja (seit 2020)
+|
+|[[Sportklettern]]
+|[[Datei:Climbing in St. Lorenz - Wachau, Austria.jpg|rahmenlos]]||Klettern, Natursport||1|| Anlage, Gelände
+|-
+|ja (seit 1896*)
+|
+|[[Sportschießen|Schießen]]
+|[[Datei:Hattie Johnson 2.jpg|rahmenlos]]|| Präzisionssport, Schießsport ||3 bzw. 5|| Anlage
+|-
+|nein
+|
+|[[Sportwagenrennen]]
+|[[Datei:Gtp sports cars.jpg|rahmenlos]]|| Motorsport ||1-3||Rennstrecke
+|-
+|ja (seit 1900*)
+|
+|[[Springreiten]]
+|[[Datei:Hamina bastioni horse festival.jpg|rahmenlos]]|| Tiersport (Pferdesport) ||1|| Anlage
+|-
+|ja (seit 1896)
+|
+|[[Sprint]]
+|[[Datei:Stamps of Germany (DDR) 1968, MiNr 1404.jpg|rahmenlos]]|| Leichtathletik ||1||Rennbahn
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Square Dance]]
+|[[Datei:Square Dance Group.jpg|rahmenlos]]|| Tanzsport ||8 und mehr||
+|-
+|nein
+|[[England]]
+|[[Squash]]
+|[[Datei:Squash in Glasscourt.jpg|rahmenlos]]||Rückschlagspiel||1-2||Hartbelag
+|-
+|ja (seit 1896)
+|
+|[[Stabhochsprung]]
+|[[Datei:Stabhochsprung Lattenueberquerung.JPG|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|nein
+|[[Antike]]
+|[[Stadionlauf]]
+|  || Geschwindigkeitssport ||1||
+|-
+|ja (seit 1912)
+|
+|[[Staffellauf]]
+|[[Datei:Flickr cc runner wisconsin u.jpg|rahmenlos]]|| Leichtathletik ||4||Rennbahn
+|-
+|nein
+|
+|[[Standardtanz]]
+|[[Datei:Ballroom dance exhibition.jpg|rahmenlos]]|| Tanzsport ||2|| Parkett
+|-
+| nein
+|[[Hawaii]]
+|[[Stand Up Paddling|Stehpaddeln]]
+|[[Datei:Stehpaddler Bielersee.jpg|rahmenlos]]|| Bootssport, Brettsport || 1 || Wasser
+|-
+|nein
+|
+|[[Steinstoßen]]
+|[[Datei:CH-NB - Sport, ländlicher- Steinstossen - Collection Gugelmann - GS-GUGE-VOGEL-A-1.tif|rahmenlos]]|| Kraftsport, Werfen ||1|| Rasen
+|-
+|nein
+|
+|[[Steinwerfen]]
+|[[Datei:A man is running with a large stone in his hand, another man Wellcome V0040459.jpg|rahmenlos]]|| Werfen ||1||
+|-
+|nein
+|[[Spanien]]
+|[[Stierkampf]]
+|[[Datei:Corrida In Arles 2009-04-13.jpg|rahmenlos]]|| Kampfsport, Jagdsport ||  ||
+|-
+|nein
+|[[Amerika]] (indianisch)
+|[[Choctaw (Volk)#Stockball|Stockball]]
+|[[Datei:Stickballequipmentbytribe.png|rahmenlos]]||Torspiel||20 und mehr||
+|-
+|nein
+|
+|[[Stockschießen]]
+|[[Datei:Eisstock.jpg|rahmenlos]]||Präzisionssport||1-4|| Eis
+|-
+|nein
+|[[England|Südengland]]
+|[[Stoolball]]
+|[[Datei:Smallfield Ladies Stoolball Team playing at Dorking, in the shadow of Box Hill - geograph.org.uk - 1386612.jpg|rahmenlos]]|| Schlagballspiel ||11|| Rasen
+|-
+|nein
+|
+|[[Strandsegeln]]
+|[[Datei:Quend 14 char a voile.jpg|rahmenlos]]||Geschwindigkeitssport ||  || Beach/Sand
+|-
+|nein
+|
+|[[Straßenfußball]]
+|[[Datei:Caracas 2010 Series.jpg|rahmenlos]]||Torspiel||2 und mehr||Hartbelag
+|-
+|ja (seit 1896*)
+|
+|[[Radrennen|Straßenrennen]]
+|[[Datei:Astana - Tour de Romandie 2009-2.jpg|rahmenlos]]|| Radsport ||1|| Straße
+|-
+|ja (seit 2020)
+|
+|[[Streetball]]
+|[[Datei:Hoopfest 2008 (2).jpg|rahmenlos]]|| Torspiel ||3|| Hartbelag
+|-
+|nein
+|
+|[[Streethockey]]
+|[[Datei:Organized Dek Hockey League.jpg|rahmenlos]]||Torspiel||4-6||Hartbelag
+|-
+|nein
+|[[England]]
+|[[Subbuteo]]
+|[[Datei:Germany Subbuteo P1010300.JPG|rahmenlos]]|| Präzisionsspiel, Torspiel ||1 (4)|| Tisch
+|-
+|nein
+|
+|[[Sudoku]]
+|[[Datei:Sudoku problem 1.svg|rahmenlos]]|| Denksport ||  ||
+|-
+|nein
+|
+|[[Surf Ski]]
+|[[Datei:Kayaking surf Australia.jpg|rahmenlos]]||Bootssport||1||Wasser
+|-
+|nein
+|[[Frankreich]]
+|[[Swingolf]]
+|[[Datei:Swingolf Kurpark Braunlage.JPG|rahmenlos]]||Präzisionssport||1||Außenanlage
+|-
+| nein
+|[[Japan]]
+|[[Sumō]]
+|[[Datei:Sumo-Japan.jpg|rahmenlos]]|| Kampfsport || 1 || Ring
+|-
+|nein
+|[[Nordamerika]], [[Skandinavien]]
+|[[Synchroneiskunstlauf]]
+|[[Datei:Synchronizedskating1.jpg|rahmenlos]]|| Tanzsport, Akrobatik ||12-20|| Eis
+|-
+|ja (seit 1984)
+|
+|[[Synchronschwimmen]]
+|[[Datei:Synchronized swimming - Russian team.jpg|rahmenlos]]||Turnsport, Tanzsport||1-8|| Wasser
+|-
+|nein
+|
+|[[Tae Bo]]
+|[[Datei:Tae Bo - Billy Blanks.jpg|rahmenlos]]|| Turnsport ||  ||
+|-
+|ja (seit 2000)
+|[[Korea]]
+|[[Taekwondo]]
+|[[Datei:PAT 5159.JPG|rahmenlos]]|| Kampfsport ||1||Matte
+|-
+|nein
+|
+|[[Tag Rugby]]
+|  || Torspiel ||7|| Rasen
+|-
+|nein
+|[[China]]
+|[[Taiji Bailong Ball]]
+|  || Turnsport ||1 und mehr||
+|-
+|nein
+|[[Italien]]
+|[[Tamburello]]
+|[[Datei:Tambourin02.png|rahmenlos]]|| Rückschlagspiel ||5|| Hartbelag
+|-
+|nein
+|
+|[[Tanzsport]] ([[Turniertanz]])
+|[[Datei:MIT 2006 Latin Intermediate.jpg|rahmenlos]]|| Tanzsport ||2|| Halle
+|-
+|nein
+|[[Europa]]
+|[[Taubenschießen]]
+|[[Datei:Rock dove - natures pics.jpg|rahmenlos]]|| Jagdsport, Schießsport ||  ||
+|-
+|nein
+|
+|[[Tauchen]]
+|[[Datei:Hobby diver.jpg|rahmenlos]]||Tauchsport, Natursport||  || Wasser
+|-
+|ehemalig (von 1900 bis 1920)
+|
+|[[Tauziehen]]
+|[[Datei:Tug of war 2.jpg|rahmenlos]]||Kraftsport||6-8||Rasen, seltener Halle
+|-
+|nein
+|[[Schweiz]], [[Republik China (Taiwan)|Taiwan]]
+|[[Tchoukball]]
+|[[Datei:Tchoukball.jpg|rahmenlos]]|| Torspiel ||2-12|| Halle
+|-
+|nein
+|[[Skandinavien]]
+|[[TeamGym]]
+|[[Datei:Team-Turnen Minitramp TSLustenau.jpg|rahmenlos]]|| Turnsportart ||6-12|| Halle
+|-
+|ja (seit 1896*)
+|[[England]]
+|[[Tennis]]
+|[[Datei:Doubles Knock-Up Centre Court.JPG|rahmenlos]]|| Rückschlagspiel ||1-2|| Hartbelag, Rasen, Kunstrasen, Sand, Teppich, Teppich mit Granulat
+|-
+|nein
+|
+|[[Tipp-Kick]]
+|[[Datei:Spielszene Tipp Kick.JPG|rahmenlos]]|| Präzisionsspiel, Torspiel ||1|| Tisch
+|-
+|nein
+|
+|[[Tischeishockey]]
+|[[Datei:Table hockey playing.JPG|rahmenlos]]|| Torspiel ||1|| Tisch
+|-
+|nein
+|
+|[[Tischfußball]]
+|[[Datei:Bonzini style table goalkeeper.jpg|rahmenlos]]||Torspiel||1-2||Tisch
+|-
+|ja (seit 1988)
+|[[England]]
+|[[Tischtennis]]
+|[[Datei:2012 Summer Olympics Men's Team Table Tennis Final 1.jpg|rahmenlos]]|| Rückschlagspiel ||1-2||Tisch
+|-
+|nein
+|[[Amerika]] (indianisch)
+|[[Toboggan]]
+|[[Datei:Toboggan (PSF).png|rahmenlos]]|| Schlittensport ||  || Schnee
+|-
+|nein
+|
+|[[Torball]]
+|[[Datei:Torball Moldova.JPG|rahmenlos]]|| Torspiel ||3|| Hartbelag
+|-
+|nein
+|[[Australien]]
+|[[Touch (Sport)]]
+|[[Datei:Trai dominating at a local touch carnival.jpg|rahmenlos]]|| Torspiel ||6|| Rasen
+|-
+|nein
+|
+|[[Tourenwagen]]
+|[[Datei:Vauxhall astra brands hatch.jpg|rahmenlos]]|| Motorsport ||1-4||Rennstrecke
+|-
+|nein
+|
+|[[Tractorpulling|Tractor Pulling]]
+|[[Datei:Super.jpg|rahmenlos]]||Motorsport||  ||
+|-
+|ja (seit 2000)
+|
+|[[Trampolinturnen]]
+|[[Datei:Trampaufbau.jpg|rahmenlos]]|| Turnsport, Akrobatik ||1||
+|-
+|nein
+|
+|[[Trekking]]
+|[[Datei:Hardangerjokulen Westseite.jpg|rahmenlos]]||Natursport||  || Gelände
+|-
+|nein
+|[[Niederlande]], [[Finnland]], [[Tschechien]]
+|[[Tretroller#Sport|Tretrollersport]]
+|  ||Ausdauersport||1 und mehr|| Straße
+|-
+|nein
+|
+|[[Tretze]]
+|  || Geschicklichkeitssport ||3 und mehr||
+|-
+|nein
+|
+|[[Trial (Sport)#Fahrrad-Trial|Trials]]
+|[[Datei:MTB Trials 4 Stevage.jpg|rahmenlos]]|| Radsport ||1||Gelände
+|-
+|ja (seit 2000)
+|
+|[[Triathlon]]
+|[[Datei:Kids-Triathlon.jpg|rahmenlos]]|| Mehrkampfsport ||1||Straße, Wasser
+|-
+|nein
+|
+|[[Truck-Grand-Prix]]
+|[[Datei:Kerlabo 056.jpg|rahmenlos]]|| Motorsport ||1||Rennstrecke
+|-
+|nein
+|
+|[[Tumbling (Turnen)|Tumbling]]
+|  || Turnsport, Akrobatik ||1||Halle
+|-
+|nein
+|[[Vereinigte Staaten]]
+|[[Twirling]]
+|[[Datei:Baton twirling-01.jpg|rahmenlos]]|| Tanzsport ||  ||
+|-
+|nein
+|[[Amerika]] (indianisch)
+|[[Ulama (Ballspiel)]]
+|[[Datei:Pok ta pok ballgame maya indians mexico 4.jpg|rahmenlos]]|| Torspiel ||  ||
+|-
+|nein
+|
+|[[Ultimate]]
+|[[Datei:Flying Disc - Ultimate Frisbee - World Games 2005 (1).jpg|rahmenlos]]||Torspiel||7||Rasen
+|-
+|nein
+|[[Skandinavien]], [[Schweiz]]
+|[[Unihockey]]
+|[[Datei:Innebandy.jpg|rahmenlos]]||Torspiel||4-6||Hartbelag
+|-
+|nein
+|
+|[[Unterwasserhockey]]
+|[[Datei:Underwater Hockey.jpg|rahmenlos]]|| Torspiel ||6|| Wasser
+|-
+|nein
+|[[Deutschland]]
+|[[Unterwasserrugby]]
+|[[Datei:UW-rugby match 1 box.jpg|rahmenlos]]||Torspiel||6||Wasser
+|-
+|nein
+|
+|[[Urban Exploration]]
+|[[Datei:Urban explorers.jpg|rahmenlos]]|| Geländesport ||mind. 2|| urbanes Gelände
+|-
+|nein
+|
+|[[Urban Freeride]]
+|[[Datei:Specialized Pitch left.jpg|rahmenlos]]|| Radsport ||1|| Straße
+|-
+|nein
+|
+|[[Vielseitigkeitsprüfung (Angeln)]]
+|  || Präzisionssport ||3|| Anlage + Wasser
+|-
+|ja (seit 1912)
+|
+|[[Vielseitigkeitsreiten]] (Military)
+|  || Tiersport (Pferdesport) ||1|| Anlage
+|-
+|nein
+|
+|[[Vierkampf]]
+|  || Tiersport (Pferdesport) ||4|| Anlage + Wasser
+|-
+|nein
+|[[Australien]]
+|[[Vigoro]]
+|  || Schlagballspiel ||  || Rasen
+|-
+|nein
+|[[Europa]]
+|[[Völkerball]]
+|[[Datei:Wegscheide völkerball.jpg|rahmenlos]]||Fangspiel||3 und mehr||Hartbelag
+|-
+|ja (seit 1964)
+|[[Massachusetts]]
+|[[Volleyball]]
+|[[Datei:Volleyball-Europameisterschaft der Frauen 2013 by Moritz Kosinsky2103.jpg|rahmenlos]]|| Rückschlagspiel ||6|| Hartbelag
+|-
+|nein
+|
+|[[Volleyclub]]
+|  || Rückschlagspiel, Akrobatik ||2-3||
+|-
+|ehemalig (1920)
+|[[Europa]]
+|[[Voltigieren]]
+|[[Datei:Vlag Equestrian vaulting.jpg|rahmenlos]]|| Tiersport (Pferdesport), Turnsport ||1, 2, 6 oder 8||Halle, (Außenanlage)
+|-
+|nein
+|[[Schweiz]]
+|[[Waffenlauf (Schweiz)|Waffenlauf]]
+|  || Laufsport ||1|| Straße
+|-
+|nein
+|[[Antike]]
+|[[Wagenrennen]]
+|[[Datei:Puy-du-Fou-4.JPG|rahmenlos]]|| Tiersport (Pferdesport) ||1||
+|-
+|nein
+|
+|[[Wakeboard]]ing
+|[[Datei:Wakeboard05.jpg|rahmenlos]]||Brettsport||1||Wasser
+|-
+|nein
+|
+|[[Wandern]]
+|[[Datei:Alta via meranese 2005-05.JPG|rahmenlos]]||Natursport||  || Gelände
+|-
+|nein
+|
+|[[Wanderreiten]]
+|[[Datei:Manfred Schulze.jpg|rahmenlos]]|| Tiersport (Pferdesport), Natursport ||  ||Gelände
+|-
+|ja (seit 1900*)
+|[[England]]
+|[[Wasserball]]
+|[[Datei:RIAN archive 421039 Water polo. USSR vs. Hungary.jpg|rahmenlos]]|| Torspiel ||7|| Wasser
+|-
+|nein
+|[[Schweiz]]
+|[[Wasserfahren]]
+|[[Datei:Limmatclub01.JPG|rahmenlos]]|| Bootssport ||1-2|| Wasser
+|-
+|nein
+|
+|[[Wasserski]]
+|[[Datei:Water skiing on the yarra02.jpg|rahmenlos]]||Brettsport||1|| Wasser
+|-
+|ja (seit 1896)
+|
+|[[Weitsprung]]
+|[[Datei:Women heptathlon LJ French Athletics Championships 2013 t144221.jpg|rahmenlos]]|| Leichtathletik ||1|| Außenanlage
+|-
+|ja (ab 2020)
+|[[Hawaii]]
+|[[Wellenreiten]]
+|[[Datei:Surfing in Hawaii.jpg|rahmenlos]]||Brettsport, Natursport||1|| Wasser
+|-
+|nein
+|
+|[[Westernreiten]]
+|[[Datei:RbtB2006 059-1.JPG|rahmenlos]]|| Tiersport (Pferdesport), Natursport ||  ||Gelände
+|-
+|ja (seit 1984)
+|[[Vereinigte Staaten]]
+|[[Windsurfen]]
+|[[Datei:DSCF1252.JPG|rahmenlos]]|| Brettsport, Natursport ||1|| Wasser
+|-
+|nein
+|[[China]]
+|[[Wing Tsun]]
+|[[Datei:Samuel Kwok Chi Sao.jpg|rahmenlos]]||Kampfsport||1||
+|-
+|nein
+|[[Deutschland]]
+|[[Wok-WM|Wokfahren]]
+|[[Datei:Wok WM 2006 SEAT-Hackl-4er-Wok-Team im Zieleinlauf (cropped).jpg|rahmenlos]]|| Schlittensport ||1-4|| Eis
+|-
+|ja
+|
+|[[Wurfscheibenschießen]]
+|[[Datei:Trap shooting at WPFG (18652772364).jpg|rahmenlos]]|| Schießsport ||1||Gelände
+|-
+|nein
+|[[China]]
+|[[Wushu]]
+|[[Datei:Cai Jia Nanquan.JPG|rahmenlos]]|| Kampfsport || 2 ||
+|-
+|nein
+|
+|[[Jo-Jo]]
+|[[Datei:Mexican yoyos.jpg|rahmenlos]]||Geschicklichkeitssport||1||
+|-
+| nein
+|[[Japan]]
+|[[Yukigassen]]
+|[[Datei:Kemijärvi Yukigassen 2011 Final.webm|rahmenlos]]|| Fangspiel || 7 || Schnee
+|-
+|ja (seit 1896)
+|
+|[[Zehnkampf]], [[Siebenkampf]]
+|  || Leichtathletik, Mehrkampfsport ||1|| Außenanlage
+|-
+|nein
+|[[Australien]], [[Vereinigte Staaten]]
+|[[Zwergenwerfen]]
+|  || Werfen ||2||
+|}
+
+&lt;nowiki&gt;*&lt;/nowiki&gt; mit Unterbrechungen&lt;br /&gt;
+&lt;nowiki&gt;**&lt;/nowiki&gt; Beim Fußballturnier der Herren sind maximal 3 Spieler über 23 Jahren pro Mannschaft erlaubt.
+
+== Siehe auch ==
+* [[Olympische Sportarten]]
+* [[Liste der vom IOC anerkannten internationalen Verbände]]
+* [[Behindertensport]]
+* [[Meisterschaft (Sport)]]
+* [[Paralympische Sportarten]]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Liste (Sport)|!Sportarten]]
+[[Kategorie:Sportart|!]]
+[[Kategorie:Wikipedia:Artikel mit Video]]</text>
+      <sha1>2acogeqc9gujtgyfmmndalasjmebdwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Variante einer Sportart</title>
+    <ns>14</ns>
+    <id>9033766</id>
+    <revision>
+      <id>165145919</id>
+      <parentid>147447273</parentid>
+      <timestamp>2017-05-03T12:36:38Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <comment>+</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" xml:space="preserve">Diese Kategorie enthält Kategorien und Artikel über Varianten von Sportarten.
+[[Kategorie:Sportart| ]]</text>
+      <sha1>fl67bfed7b00pevocium4gtuv8k88ey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Randsportart</title>
+    <ns>14</ns>
+    <id>9135760</id>
+    <revision>
+      <id>149654087</id>
+      <parentid>149654081</parentid>
+      <timestamp>2016-01-01T09:01:45Z</timestamp>
+      <contributor>
+        <username>Label5</username>
+        <id>373462</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" xml:space="preserve">Sammlung von Randsportarten bzw. lokalen Sportarten
+[[Kategorie:Sportart]]</text>
+      <sha1>it07wsiyrp0kncqq402fqu6zlfr73ls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mauerlauf</title>
+    <ns>0</ns>
+    <id>9687988</id>
+    <revision>
+      <id>206811782</id>
+      <parentid>203583889</parentid>
+      <timestamp>2020-12-23T07:47:30Z</timestamp>
+      <contributor>
+        <username>Georg Hügler</username>
+        <id>2234691</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1255" xml:space="preserve">'''Mauerlauf''' (auch '''Wandlauf''') war ein aus Wehrübungen entstandener mittelalterlicher Wettkampf, der im Zuge der „Versportung“ geübt und exakt gemessen wurde, indem ein in die Wand geschlagener Nagel mit dem Fuß herausgetreten werden musste.&lt;ref&gt;[[Arnd Krüger]], [[John McClelland (Kulturhistoriker)|John McClelland]] (Hrsg.): ''Die Anfänge des modernen Sports in der Renaissance'' (= ''Beiträge und Quellen zu Sport und Gesellschaft'', Band 2). Arena Publ., London 1984, ISBN 0-902175-45-9.&lt;/ref&gt; Hierbei wurde mit Anlauf an einer senkrechten Wand hochgelaufen und zum Schluss mit gestrecktem Bein ein Ziel (hier Nagel) berührt.&lt;ref&gt;Gustav Bayr: ''Springen : Grundlagen für eine natürliche Lehrweise.'' Wien: Deutscher Verlag f. Jugend u. Volk 1930&lt;/ref&gt; Die beste überlieferte Leistung erbrachte [[Christoph der Starke]] mit 12 [[Fuß (Einheit)|Fuß]] (ca. 3,60&amp;nbsp;m). Die Übung eignet sich auch zur Vorbereitung des Saltos rückwärts.&lt;ref&gt;Johann Georg Paschen (1666): ''Vollständiges Fecht, Ringe und Voltigierbuch.'' Hall in Sachsen: Buchdr. Melchior Oelschlegel.&lt;/ref&gt;
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Sportart]]
+[[Kategorie:Sport nach Jahrhundert]]
+[[Kategorie:Ritterturnier]]
+[[Kategorie:Frühe Neuzeit]]</text>
+      <sha1>elru21z7jg9ej4ssvtquyfsevzagj26</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Corsa camarguenca</title>
+    <ns>0</ns>
+    <id>9975293</id>
+    <revision>
+      <id>213471212</id>
+      <parentid>206521249</parentid>
+      <timestamp>2021-07-01T19:15:51Z</timestamp>
+      <contributor>
+        <username>Phzh</username>
+        <id>1029574</id>
+      </contributor>
+      <minor/>
+      <comment>Form, typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45336" xml:space="preserve">Die '''Corsa camarguenca''' ([[Provenzalische Sprache|provenzalisch/okzitanisch]]; [[Französische Sprache|französisch]]: ''Course camarguaise'' (''[[Genus#Maskulinum, Femininum, Neutrum, Utrum|f]]'')&lt;ref&gt;Im Folgenden werden im Haupttext, wenn nicht weiter ausdrücklich gekennzeichnet, die französischen Bezeichnungen verwendet. – Im sich anschließenden [[#Glossar|Glossar]] finden sich auch Bezeichnungen in der [[Provenzalische Sprache|provenzalischen Sprache]].&lt;/ref&gt;) ist eine Sportart. Bei ihr geht es darum, Trophäen von der [[Stirn]] und den [[Horn|Hörnern]] eines Stieres herunterzuholen, was nach einem Punktesystem bewertet wird. Dabei stehen sich im kritischen Moment jeweils ein ''[[#raseteur|raseteur]]'' ('Stierstreifer') und der ''[[#cocardier|cocardier]]'' (d.&amp;nbsp;h. ein die ''[[#cocarde|cocarde]]'' tragender [[#cocardier|Camargue-Stier]]) gegenüber. Der [[Sport]] zählt zum ''[[#Immaterielles Kulturerbe Frankreichs|Immateriellen Kulturerbe Frankreichs]]''. Das riskante Spiel ist im Laufe der Zeit zu einem [[Berufssport]] geworden, der zahlreichen [[Spielregel|Regeln]] unterliegt.
+[[Datei:Raseteur.jpg|mini|Zwei Akteure in Aktion]]
+[[Datei:Course camarguaise attributs.jpg|mini|Drei Arten von zu ergatternden Trophäen (''[[#Attributs (Trophäen)|attributs]]''): (a) mitten auf der Stirn die ''[[#cocarde|cocarde]]'', (b) an den Hörnern eines der weißen ''[[#gland|glands]]'' (Pompons) und (c) ''[[#ficelles|ficelles]]'' (Schnüre). – Die vierte Trophäe, ein von hinten (''de dos'') zwischen den Hörnern gespannter Faden (''[[#frontal|frontal]]''), ist auf dem Foto nicht zu sehen.]]
+[[Datei:Parc naturel régional de Camargue.svg|mini|Logo des [[Regionaler Naturpark Camargue|Regionalen Naturparks Camargue]] ([[Lyra (Zupfinstrument)|lyraförmige]] Stierhörner und&lt;!--dem Anschein nach--&gt; ein ''[[#gland|gland]]'' (Pompon), eine der an den Hörnern angebrachten Trophäen)]]
+[[Datei:Camargue map.png|mini|hochkant=1.5|Camargue und Petite Camargue]]
+[[Datei:Le Grau Du Roi 2011 410 Courses Camargueses.jpg|mini|außergewöhnlich hoch über die Umrandung (''[[#barricade|barricade]]'') nachspringender Stier]]
+[[Datei:Razet Face Face.JPG|mini|Auge in Auge (Stier und ''[[#tourneur|tourneur]]'') – eine Ablenkungsaktion, um dem ''[[#raseteur|raseteur]]'' eine gute Ausgangsposition für seinen Lauf zum Zweck des ''[[#raset|raset]]'' zu verschaffen (auf der Nackenseite des Stieres zu erkennen der ''[[#frontal|frontal]]'', eine der vier Arten von Trophäen).]]
+[[Datei:Coursecarg2.png|mini|Raseteur, der bei einem ''[[#raset|raset]]'' mit dem ''[[#crochet|crochet]]'' ('Haken') versucht, an die Trophäen (''[[#Attributs (Trophäen)|attributs]]'') zu gelangen]]
+[[Datei:Course camarguaise Attaque franche du taureau.jpg|mini|Der Stier schlägt mit der Brust gegen die Bretter (''[[#coup de barrière|coup de barrière]]'').]]
+[[Datei:Course camarguaise Taureau derrière les talanquères.jpg|mini|Stier im Umlauf (''[[#contrepiste|contrepiste]]'') hinter der Umrandung (''[[#barricade|barricade]]'')]]
+[[Datei:Course camarguaise Razet réussi.jpg|mini|Gelungene Aktion (''[[#raset|raset]]'') mit dem Stier dicht an den Fersen.]]
+[[Datei:Course camarguaise Alès.JPG|mini|Über die ''[[#barricade|barricade]]'' springender Stier (direkt neben der [[Erste Hilfe|Ersten Hilfe]])]]
+[[Datei:Opening Ceremony Cocarde dOr 2006.jpg|mini|Eröffnungszeremonie der 75. ''[[#Cocarde d'or|Cocarde d’or]]'' (2006) in Arles]]
+[[Datei:BullJumpingOverFenceInCourseCamarguaise.ogv|mini|Über die Umrandung (''[[#barricade|barricade]]'') springender Stier (in einem Kurzfilm)]]
+[[Datei:Course camarguaise - Capelado Le Cailar 2013.jpg|mini|Unterschiedliche rote und schwarze Namenszüge auf dem Rücken der Shirts (womit die unterschiedlichen Funktionen der Akteure eines Stierkampfes gekennzeichnet werden) bei der ''[[#capelado|capelado]]'' in dem kleinen Ort [[Le Cailar|Cailar]], wo die Stierkampfarenen auf der Liste der ''[[Monument historique|Monuments historiques]]'' stehen.&lt;ref&gt;[http://patrimoine-de-france.com/gard/le-cailar/arenes-1.php patrimoine-de-france.com]&lt;/ref&gt;]]
+[[Datei:Saintes Maries de la Mer - Arènes.jpg|mini|Arena von [[Saintes-Maries-de-la-Mer]] vor der sich die Statue des ''[[#cocardier|cocardiers]]'' Vovo befindet, Manade Aubanel Baroncelli Santenco]]
+[[Datei:Hadrien Poujol.jpg|mini|Hadrien Poujol, der Präsident der ''[[#Fédération française de la course camarguaise|Fédération française de la course camarguaise]]'' (FFCC), auf der Flucht]]
+[[Datei:120614-Mouries-06.jpg|mini|''Course de taureaux'' heute in der Arena (Ankündigungsplakat über einer Straße)]]
+[[Datei:Le Grau Du Roi 2011 320.jpg|mini|[[Le Grau-du-Roi]], [[Département Gard|Dép. Gard]], temporäres Straßenschild mit der dreisprachigen Aufschrift: „Manifestation taurine / Attention / Danger; Danger! Watch out bull demonstration; Gefahr! Achtung Stier auf der Straße“]]
+[[Datei:Calvisson - Abrivado 2.JPG|mini|''[[#abrivado|abrivado]]'' in [[Calvisson]]]]
+[[Datei:Manade du Marquis Folco de Baroncelli-Javon.jpg|mini|''[[#manade|Manade]]'' von Marquis Folco de Baroncelli-Javon bei einer ''[[#abrivado|abrivado]]'' (um 1900–1910)]]
+
+Es ist ein traditionelles [[Fest]] bzw. ein traditioneller [[Sport]], der in [[Südfrankreich]] in einem Gebiet ausgetragen wird, das sich vom [[Languedoc]] bis in die [[Provence]] erstreckt, von [[Département Hérault|Hérault]] bis [[Département Vaucluse|Vaucluse]]. Er wird in den vier [[Frankreich|französischen]] [[Département]]s [[Département Gard|Gard]] (30), [[Département Hérault|Hérault]] (34), [[Département Bouches-du-Rhône|Bouches-du-Rhône]] (13) und [[Département Vaucluse|Vaucluse]] (84) ausgetragen. Die Courses finden während der ''[[#temporade|temporade]]'', d.&amp;nbsp;h. der Jahreszeit der traditionellen Stierkämpfe (''année de traditions taurines''&lt;!-- ???--&gt;) von März bis September statt.&lt;ref&gt;[http://nimes-metropole.fr/fileadmin/mediatheque/Dossier-commun/Documentations/lexique-course-camarguaise.pdf La course camarguaise] (PDF) nimes-metropole.fr&lt;/ref&gt;
+
+Diese Form des Stierkampfes unterscheidet sich von der traditionell aus [[Spanien]] bekannten Form, dem [[Stierkampf#Spanischer Stierkampf („Corrida de Toros“)|spanischen Stierkampf]] ([[Spanische Sprache|span.]] ''Corrida de Toros''), mit der [[Hausrind|Rinderrasse]] namens [[Spanisches Kampfrind]] (span. ''toro de lidia''), die ebenfalls in [[Südfrankreich]] veranstaltet wird. Für die hier behandelte provenzalische Form wird eine kleinere, halbwilde Rinderrasse namens [[#Camargue (Rinderrasse)|Camargue]] verwendet. Außerdem werden die Tiere nicht getötet, sondern nach dem Kampf auf die [[Weide (Grünland)|Weide]] zurückgeführt. Die Tiere kommen über Jahre zum Einsatz und werden teilweise hoch prämiert.
+
+== Geschichte ==
+
+Die Anfänge dieser alltäglichen Tradition reichen weit zurück. Ein altes Zeugnis liegt vor über einen Course im Jahr 1402 in [[Arles]], der zu Ehren des Grafen [[Ludwig II. (Anjou)|Ludwigs&amp;nbsp;II.]] der Provence gefeiert wurde, dabei fand ein Kampf zwischen einem [[Löwe]]n und einem [[Ochse]]n statt. Bei diesem Stierkampfspiel fanden aber im Laufe der Zeit ständig Veränderungen statt.&lt;ref&gt;Zu den stattfindenden Veränderungen, siehe beispielsweise auch die Karikatur von Eddie Pons: ''{{Webarchiv |url=http://eddieapons.midiblogs.com/archive/2009/11/02/expo-camargue1.html |text=Expo Camargue |wayback=20170821212534 |archiv-bot=2019-08-30 15:05:10 InternetArchiveBot}}''.&lt;/ref&gt; Trotz eines Erlasses im Jahr 1662 wegen einer erheblichen Zahl von Toten und Verletzten, wurden die blutigen Spiele im Geheimen bis ins 19. Jahrhundert fortgeführt. Gegen Ende des 19. Jahrhunderts begann man damit, verschiedene ''[[#attributs|attributs]]'' an den Hörnern der Stiere anzubringen (Blumen, Tücher u.&amp;nbsp;a.), um von jungen Amateuren heruntergeholt zu werden. Seit Jahr 1890 richten die Rinderzüchter ihr besonderes Augenmerk auf die Rinderrasse ''Camargue''. Dann fanden die Wettkämpfe in improvisierten Arenen statt. Man begann damit, ''cocardes'' an den Hörnern zu befestigen und zahlte Prämien an denjenigen, der die Trophäen (''attributs'') davonträgt. Dies war die Geburt des ''course libre'' (Freien Wettkampfs). Dann wurden die ''attributs'' und der ''[[#crochet|crochet]]'' („Haken“) reglementiert.
+
+1975 wurde die ''Fédération française de la course camarguaise''&lt;ref&gt;[http://www.ffcc.info/ FFCC] – offizielle Website&lt;/ref&gt; gegründet unter dem [[Gesetz vom 1. Juli 1901]]. Am 10. Oktober 1975 wurde die ''Fédération française de la course camarguaise'' (FFCC) vom Ministerium zugelassen. Die ''Course camarguaise'' wurde vom ''Secrétariat d’État à la jeunesse et aux sports'' als Sport anerkannt. Seit 1975 heißt die Course nun ''Course Camarguaise''. Sie wurde offiziell als Sport anerkannt. Bis 1966 wurde sie ''Course libre'' genannt, danach ''Course à la cocarde''. Der derzeitige Präsident der ''Fédération française de la course camarguaise'' ist Hadrien Poujol.
+
+== Course ('Rennen') ==
+
+=== Vorprogramm ===
+
+Der ''Course'' voraus geht der ''[[#abrivado|abrivado]]'', dies ist die 'Ankunft’ der Stiere in der Stierkampfarena. Dabei werden sie von den Weiden in der Herde von ''[[#gardian|gardians]]'' (Hütern) auf ''[[#manade|manade]]''-Pferden begleitet. Die Straßen werden dafür freigehalten mit Schildern, zum Beispiel mit der Aufschrift: ''Vous êtes sur le Parcours des [[#abrivado|Abrivados]] et [[#bandido|Bandidos]]''. Ihre Rückkehr auf die Weiden nach der Course unter den gleichen Bedingungen wird die ''[[#bandido|bandido]]'' genannt. Das Ziel der ''gardians'' (Hüter) ist dabei, die Pferde und die Stiere zusammen zu halten, das Ziel der Menschen auf der Straße (''[[#attrapaïre|attrapaïres]]'') ist es, die Stiere abzulenken und ihre Marschordnung aufzulösen. Bei den großen Veranstaltungen in den großen Arenen gibt es ein großes Vorprogramm, mit Aufmärschen, Tänzen von in historischen Kostümen gekleideten Personen usw.
+
+== Arena (''piste'') ==
+
+In der Größe sind die Arenen sehr unterschiedlich. Es gibt sie in großen und kleinen Orten. Die Arena ist von einer stabilen Umzäunung umgeben, die etwa brusthoch ist, hinter die sich die Kämpfer durch einen kräftigen Sprung flüchten können, wenn sie – wie dies in der Regel der Fall ist – vom Stier bei ihren Aktionen attackiert werden. Dahinter befindet sich ein Umlauf (''[[#contrepiste|contrepiste]]''). Viele Kämpfer, die aus Erfahrung wissen, dass der Stier manchmal in diesen Umlauf hinterherspringt, flüchten sich aus diesem Umlauf sofort weiter hoch in die Seitenwand, wenn sie dies bereits vermuten.
+
+Der Präsident der jeweiligen Veranstaltung sitzt in der Arena beim ''[[#toril|toril]]'', der Unterbringung für die Stiere während der Veranstaltung in der Arena, wenn sie nicht zum Kampf in der Arena sind. Er eröffnet die Veranstaltung mit dem Satz: „Messieurs les raseteurs, en place pour la capelado!“
+
+== Verlauf ==
+
+Eine [[Trompete]] (''[[#trompette|trompette]]'') verkündet den Anfang und das Ende des jeweiligen Durchgangs (''[[#passage du taureau|passage du taureau]]'') für den einzelnen Stier. Eine ''course'' umfasst in der Regel sechs Stiere, mit jeder 15 min in der Arena.&lt;ref&gt;[http://nimes-metropole.fr/fileadmin/mediatheque/Dossier-commun/Documentations/lexique-course-camarguaise.pdf La course camarguaise] (PDF) nimes-metropole.fr&lt;/ref&gt;
+
+Der Stier wird in die Arena gelassen, dann gibt man ihm etwas Zeit, sich zu orientieren und zurechtzufinden. Nach ca. einer Minute beginnt das Spiel. Dabei ist eine Anzahl von Männern anwesend, die unterschiedliche Aufgaben haben. Sie sind einheitlich schlicht weiß gekleidet. Die Kleidung ist so beschaffen, dass sich der Stier mit seinen Hörnern nicht einhaken kann, sie hat zum Beispiel keine Taschen oder Gürtel. Die eigentlichen Stierkämpfer unterscheiden sich dabei im Äußeren nicht von den Personen, die andere Funktionen ausüben, lediglich an der Farbe der Namensaufschrift (rot und schwarz).
+
+Während des Ganzen gibt ein Stadionsprecher durch, wenn das Preisgeld für eine Trophäe erhöht wird. In den Veranstaltungen kämpfen in der Regel sechs Stiere jeweils zu fünfzehn Minuten.&lt;ref&gt;[http://www.deutschlandfunk.de/course-camarguaise-mensch-und-stier.1773.de.html?dram:article_id=293203 „Course Camarguaise“ – Mensch und Stier] (DLF), am Beispiel Arles&lt;/ref&gt;
+
+Wenn es dem Stier gelingt, seine Trophäen zu verteidigen, verlässt dieser nach fünfzehn Minuten als Sieger die Arena und der nächste Stier kommt an der Reihe.
+
+=== ''Raset'' ===
+Beim ''raset'' streift der Kämpfer mit dem ''[[#crochet|crochet]]'' ('Haken') die Stirn oder die Basis der Hörner des Stieres, um von ihm die Trophäen (''[[#Attributs|attributs]]'') zu ergattern.
+
+Ein erfolgreicher ''raset'' hängt für den über den Platz laufenden ''[[#raseteur|raseteur]]'' im Wesentlichen von einer guten Berechnung der Wegbahn bzw. -länge ab. In dem Moment, in dem der Stier vom ''[[#tourneur|tourneur]]'' abgelenkt ist, läuft der ''[[#raseteur|raseteur]]'' auf eine möglichst erfolgsversprechende Weise durch die Arena. Der Stier verfolgt diesen in der Regel, sobald er loszulaufen beginnt. Der ''raseteur'' läuft dabei auf eine vorherberechnete Kontaktzone los, einen Bereich, wohin sich der Stier nach seiner Einschätzung auch bewegen wird, und wo der ''raset'' nach seinen Erfahrungen am besten gelingt. Wenn der Raseteur bei seinem Lauf über den Platz einen zu kurzen Bogen macht, holt ihn der Stier ein, auch wenn sein Weg zu lang ist. Wenn der Stier nicht wie erwartet hinterherläuft, weicht der Raseteur dem Stier mit einem Abbruch des ''raset''-Versuches aus.&lt;ref&gt;[http://st.marin.free.fr/tutorial.htm Traditions camarguaises en images] (Stephan Marin) – Mit einer Skizze zu den verschiedenen 'Laufbahnen' des Raseteurs.&lt;/ref&gt;
+
+=== ''Attributs'' (Trophäen) ===
+&lt;!-- vgl. http://www.bouvine.info/attributs---&gt;
+
+Die ''glands'', die ''cocarde'', die ''ficelles'' und der ''[[#frontal|frontal]]'' sind verschieden bepunktet&lt;ref&gt;vgl. [http://st.marin.free.fr/tutorial.htm Traditions camarguaises en images] (Stephan Marin)&lt;/ref&gt; und haben bei dem Spiel jeweils einen Geldwert, der vom Präsidenten und der Jury der bestimmt wird. Die wertvollsten werden im Laufe des Kampfes vom Präsidenten hinzugefügt, unter Angabe der Sponsoren (Firmen, Stier-Clubs oder Liebhaber), von denen sie stammen. Die Preise betragen zum Teil mehrere tausend Euro.
+
+Die Trophäen ([[Provenzalische Sprache|provenzalisch/okzitanisch]] ''los atributs'') heißen auf provenzalisch/okzitanisch: ''la cocarda'', ''l’agland'', ''la faissèla'', auf französisch: ''la cocarde'', ''le gland'' und ''les ficelles''. Außerdem gibt es noch den ''[[#frontal|frontal]]''.
+
+Diese Trophäen (''[[#attributs|attributs]]'') sind Gegenstände, die an den Hörnern und auf der Stirn des kastrierten Bullen (''[[#jingoistic|jingoistic]]'' oder ''[[#biòu|biòu]]'') befestigt werden, die die [[#raseteur|Raseteure]] (mit schwarzem Namensschild) dem Tier abnehmen müssen. Dies geschieht mit Hilfe einer speziellen handähnlichen Eisenkralle (''crochet'' – wörtlich: „Haken“), die sie mit sich führen, um für den Gewinn entsprechende Punkte und Boni zu erhalten. Die Trophäen sind jeweils mit einer bestimmten Punktzahl versehen.
+
+Die ''cocarda'' (wörtlich: Kokarde) ist anders als ihr Name vermuten lässt, ein kleines rotes Tuch, ca. fünf bis sechs Zentimeter lang und einen Zentimeter breit. Es ist genau in der Mitte der Stirn des Stieres befestigt. Zwei kleine weiße Pompons / Quasten (provenzal. ''agland'' / frz. ''gland'') befinden sich an Fäden an der Basis der Hörner, dazu die ''ficelles'', d.&amp;nbsp;h. an der Basis der Hörner befestigte Fäden.
+
+Die anderen ''[[#attributs|attributs]]'' befinden sich an der Basis der Hörner.
+
+Die Trophäen müssen vom ''[[#raseteur|raseteur]]'' in einer festgelegten Reihenfolge heruntergeholt werden.&lt;ref&gt;[http://st.marin.free.fr/tutorial.htm Traditions camarguaises en images] (Stephan Marin)&lt;/ref&gt;
+
+== Beteiligte und Zubehör ==
+
+Bei der Course stehen sich bei großen Veranstaltungen wie beispielsweise in der großen Arena von Arles etwa ein Dutzend Raseteure, einige Tourneure und der Stier gegenüber. Während die Tourneure den Stier ablenken, versuchen die Raseteure, diesem die kleinen Trophäen von der Stirn bzw. den Hörnern zu reißen.
+
+=== Kleidung ===
+
+Die Akteure tragen alle weiße Kleidung. Sie haben Turnschuhe an, eine weiße Hose und ein weißes Shirt. Die Raseteure und Tourneure unterscheiden sich in der Kleidung nur durch die Farbe der Aufschrift ihres Namens auf dem Shirt. Die Raseteure haben den '' [[#crochet|crochet]]'' (wörtlich: „Haken“) in der Hand, eine kleine [[metall]]ene Kralle, womit die Trophäen von den Hörnern heruntergeholt werden. Sie tragen Schienbeinschoner, ihre Finger sind mit weißem Stoff umwickelt.
+
+=== Die Raseteure ===
+
+Der Raseteur führt einen ''[[#raset|raset]]'' (etwa: Streifzug) durch, wobei er den Stier an der Stirn bzw. der Basis seiner Hörner „streift“, um von ihm die Trophäen (''[[#attributs|attributs]]'') zu ergattern. Sein Komplize, der ''[[#tourneur|tourneur]]'', lenkt den Stier dabei ab, um den Raseteur für seine Aufgabe in eine günstige Position zu bringen. Der ''[[#biòu|bioù]]'' jagt in der Regel dem ''raseteur'' hinterher und manchmal rammt er die Barrikade der Arena dabei, hinter die sich der Raseteur vor ihn geflüchtet hat. Dies wird als ''[[#coup de barrière|coup de barrière]]'' bezeichnet. Bisweilen überspringt der Stier diese auch und befindet sich dann in dem Umlauf dahinter, der als ''[[#contrepiste|contrepiste]]'' bezeichnet wird. Es werden unterschiedliche Punktzahlen für die verschiedenen Trophäen vergeben.&lt;ref&gt;[http://st.marin.free.fr/tutorial.htm Traditions camarguaises en images Stephan Marin] (Skizzen): «Il est à noter que si un taureau est facile, il aura un nombre de tours de ficelle plus important, pouvant aller jusqu'à 30 tours.»&lt;/ref&gt; Die Raseteurs werden das Jahr über an den Schulen für Raseteurs (''écoles de raseteurs'') ausgebildet. Es gibt sechzehn dieser Schulen, die Ausbildung dauert 3 bis 5 Jahre.&lt;ref&gt;[http://www.culture.gouv.fr/mpe/ethno_spci/pdf2/redon_course_camarguaise.pdf culture.gouv.fr] (PDF)&lt;/ref&gt;
+
+Die Raseteure sind bei einem Kampf eingeteilt in zwei Gruppen, die als ''droitiers'' und ''gauchers'' bezeichnet werden und sich in Gruppen an verschiedenen Seiten rechts und links in der Arena aufhalten.
+
+=== Die Tourneure ===
+
+Die Tourneure (''[[#tourneur|tourneur]]'') helfen dabei dem ''[[#raseteur|raseteur]]'' (bzw. den Raseteuren) bei seinem Ziel, die Trophäen (''[[#attributs|attributs]]'') vom Stier zu erlangen und lenken dessen Aufmerksamkeit ab beziehungsweise versuchen, ihn in der Arena in eine Position zu bringen, bei der ein ''[[#raseteur|raseteur]]'' von links oder rechts sich ihm vorteilhaft annähern kann. Der Name steht jeweils rot auf dem Rücken seines Trikots. Ein Tourneur trägt außerdem keinen ''[[#crochet|crochet]]'' ('Haken') mit sich.
+
+=== ''Crochet'' („Haken“) ===
+[[Datei:Razet.jpg|mini|''Crochet'' („Haken“)]]
+Der ''Crochet'' (wörtlich: „Haken“), eine spezielle handähnliche Metallkralle, um die als ''[[#attributs|attributs]]'' bezeichneten Trophäen zu ergattern, ist reglementiert. &lt;!-- Ausbauen ???--&gt;
+
+=== ''Cocardier'' ===
+''Cocardier'' oder ''[[#Biòu|biòu]]'' sind auf [[provenzalisch]] die Bezeichnungen für die als ''[[#Camargue (Rinderrasse)|Camargue]]'' bezeichnete Hausrindrasse der Camargue, die speziell für den ''Course camarguaise'' verwendet wird. Das die ''[[#cocarde|cocarde]]'' tragende Tier wird ''[[#taureau cocardier|taureau cocardier]]'' genannt. Die für den Kampf verwendeten Ochsen (''bœuf'' / ''biòu'') werden im Alter von einem Jahr kastriert. Der provenzalische ''cocardier'' ist etwas kleiner als die spanische für Stierkämpfe verwendete Rinderrasse, dafür drahtiger und schneller als sein spanischer Verwandter, und seine Hörner sind [[Lyra (Zupfinstrument)|lyraförmig]] gebogen oder hoch aufgerichtet (auf französisch heißen die drei Formen: Lyre – Gobelet – (am üblichsten) – Larguet). Der beste ''cocardier'' der Saison empfängt jedes Jahr einen Preis, den von einer Jury bestimmten ''[[#Biòu d’or|Biòu d’or]]'' („Goldener Stier“).
+
+== Nach dem Kampf ==
+
+Nach dem Kampf kommen die Stiere zunächst zurück in den ''[[#toril|toril]]'' und werden am Ende der Veranstaltung in der Arena geschlossen auf die Weiden zurückgetrieben.
+
+== Camargue-Stier ==
+
+Der [[#Camargue (Rinderrasse)|Camargue-Stier]] wird von Meike Droste (''Arles: Gallula Roma'') folgendermaßen beschrieben:
+{{Zitat
+ |Text=Die camarguesischen Stiere zählen zu den ältesten Tierarten Europas und gehen auf eine uralte Rasse zurück […]. Sie waren schon bei den römischen Gladiatorenkämpfen sehr beliebt. Die Körperformen der camarguesischen Stiere erinnern in auffälliger Weise an Rinder Kleinasiens, Ägyptens, des alten ägäischen Reiches, Kretas, Griechenlands und Nordafrikas. Es ist ein ''mittelmeerisches'' Tier und kein Abkömmling des Auerochsen oder des Bos primigenius (beide sind größer und massiger und gleichen eher dem spanischen Typ). Besondere Kennzeichen des Tieres sind die in griechischer Lyraform (Harfe) gebogenen Hörner. Ihre Glieder sind anders als beim Zugochsen und nicht für die Feldarbeit geschaffen.
+ |ref=&lt;ref&gt;Meike Droste: ''Arles: Gallula Roma.'' 2003, S. 112 ([https://books.google.de/books?id=fflnAAAAMAAJ&amp;q=%22Die+K%C3%B6rperformen+der+camarguesischen+Stiere%22&amp;dq=%22Die+K%C3%B6rperformen+der+camarguesischen+Stiere%22&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiHgru61YPVAhVEvhQKHVvuBe4Q6AEIJDAA Teilansicht])&lt;/ref&gt;}}
+
+== Berühmte Stiere ==
+[[Datei:La tombe du taureau camarguais le Sanglier, de la manade Fernand Granon..jpg|mini|Grab des Camargue-Stiers Sanglier von der ''manade'' Fernand Granon mit der Aufschrift: ''Aficionados! Ici est enterré Le Sanglier de la manade F. Granon-Combet 1916–1933'' („Aficionados! Hier ist Sanglier begraben von der ''manade'' F. Granon-Combet 1916–1933)“]]
+[[Datei:Statue de Vovo, aux Saintes-Maries. Vue 2.jpg|mini|Statue von Vovo in [[Saintes-Maries-de-la-Mer]], die Barriere durchbrechend]]
+[[Datei:Mauguio Muscadet.JPG|mini|[[Mauguio]] (Hérault) – Statue zu Ehren des [[#cocardier|cocardiers]] Muscadet, [[#Biòu d’or|Biòu d’or]], aus der Manade Rouquette, 1998]]
+
+In einigen Ortschaften gibt es Denkmäler berühmter Stiere, wie beispielsweise für den Stier namens Goya. Andere haben ihre Grabstätte auf dem Mas (Bauernhof), auf dem sie ihr ganzes Leben verbracht haben.
+
+Ein berühmter Stier beispielsweise war der ''[[#cocardier|cocardier]]'' namens Vovo, von dem sich eine Statue vor der Arena von [[Saintes-Maries-de-la-Mer]] befindet. Er stammte aus der ''[[#manade|manade]]'' Aubanel Baroncelli Santenco.
+
+Ein anderer berühmter Stier war der ''[[#cocardier|cocardier]]'' Muscadet, ein ''[[#Biòu d’or|bióu d’or]]'' aus der ''Manade Rouquette'' im Jahr 1998, zu dessen Ehren in [[Mauguio]] (Hérault) eine Statue errichtet wurde.
+
+Es gab und gibt viele weitere berühmte Tiere.
+
+== Wettbewerbe für Raseteure ==
+Es gibt die ''[[#Trophées des As|Trophées des As]]'' für die Elite der „Stierstreifer“ und die ''[[#Trophée de l’Avenir|Trophée de l’Avenir]]'' für deren junge Nachfolger. Jedes Jahr ziehen drei Veranstaltungen die Aufmerksamkeit der ''[[#Afeciouna|afeciounados]]'' (das provenzalische Äquivalent zum [[Spanische Sprache|spanischen]] ''[[Aficionado#Aficionado als Stierkampfliebhaber|aficionado]]'') auf sich. Nach dem provenzalischen Dichter [[Frédéric Mistral]] (1830–1914) bedeutet das ''afeciounado'': ''passion'', ''zélé'' und ''qui a du goût pour''.&lt;ref&gt;zitiert nach [http://www.mudaison.fr/culture/festivites-traditions/ mudaison.fr]. – Vgl. die Definitionen des Provenzalisch-französischen Wörterbuchs: ''Lou Trésor dou Félibrige ou Dictionnaire provençal-français'' – [http://gallica.bnf.fr/ark:/12148/bpt6k74854/f44.image Digitalisat]&lt;/ref&gt; Der wichtigste Termin mit dem prestigereichsten Wettkampf all dieser Turniere ist am ersten Montag im Juli, wo die ''[[#Cocarde d’Or|Cocarde d’Or]]'' (Goldene Kokarde) als Abschluss der Feste in Arles (gegründet 1931) stattfindet. Andere sind die ''[[#Palme d'or|Palme d’or]]'' von [[Beaucaire (Gard)|Beaucaire]] und das Finale der ''[[#Trophée des As|Trophée des As]]'', das abwechselnd in [[Nîmes]] und [[Arles]] stattfindend. Diese drei Courses sind die wichtigsten, aber es gibt zahlreiche weitere prämierte.&lt;ref&gt;Zu weiteren Terminen, siehe z.&amp;nbsp;B. [http://www.provence-pays-arles.com/de/page-th%C3%A9matique/stiere-und-stierrennen Stiere und Stierrennen] (provence-pays-arles.con)&lt;/ref&gt;
+
+== Anfänger ==
+[[Datei:Lâcher de taureaux dans l'arène, Arles.jpg|mini|Auf der Flucht vor dem Stier in [[Amphitheater von Arles|der Arena]] von [[Arles]]]]
+Wenn Schüler kämpfen, werden die Hörner der Stiere umwickelt, damit sie stumpf sind. Für den jungen Nachwuchs unter den ''[[#raseteur|raseteurs]]'' gibt es den Preis ''[[#Trophée de l’Avenir|Trophée de l’Avenir]]''.
+
+== Museum ==
+In der Stadt [[Nîmes]] wurde 2002 das ''[[#Musée des Cultures Taurines|Musée des Cultures Taurines]]'', ein Museum der Stierkampf- und Stierkulturen eingeweiht, das sich mit der regionalen Kultur, insbesondere mit dem [[Stierkampf]] befasst.
+
+== Arenen ==
+[[Datei:Arènes du Cailar.jpg|mini|Szene aus der Arena im Ort [[Le Cailar]] ([[Département Gard|Gard]])]]
+
+Die Arenen sind über das ganze Gebiet verstreut, auch in kleineren Ortschaften. Es gibt über hundert Stück davon.&lt;ref&gt;Die Website [http://www.bouvine.info/spip.php/?page=arenes Bouvine et Traditions] (Stand: 16. Juli 2017) listet 107 Orte mit Arenen auf.&lt;/ref&gt; Einige Stierkampfarenen stehen auf der Liste der französischen Denkmalsliste (''[[Monument historique|Monuments historiques]]''). Die größte Arena ist das unter anderem auch zu diesem Zweck genutzte [[Amphitheater von Arles]], wo auch die spanische Form des Stierkampfes stattfindet.
+
+== Musik ==
+Eine für die Veranstaltungen in den Arenen herausgegebene Sammlung von Musikstücken enthält die folgenden Werke:
+
+{{Zitat
+ |Text=Avant la course; Prélude à l’acte I Carmen / Orchestre national Bordeaux Aquitaine; Le Sanglier / Les négresses vertes; Lou Bandot / Goran Brégovic, Il faut arroser la piste / Chris Gonzales; Paint it black / Pascal Comelade; Le théâtre aux taureaux / Crhis Gonzales; Le taureau qui entre en piste; Wedding Cocek / Chris Gonzales; La bête / Dupain; Vovo te bacellaïre / Pascal Comelade; Les grenouilles, Infidèle cervelle; La cabane / Stéfane Mellino; Avant le déjeuner aux près; Le déjeuner aux près / Chris Gonzales; Après le déjeuner aux près / Pascal Comelade; Messieurs les rasereurs; Dernière minute de course / Goran Brégovic; Si je m’en vais / Les négresses vertes; Les arènes en fanfare.
+ |Sprache=fr
+ |ref=&lt;ref&gt;''Arenes, musique pour la course camarguaise'' [S.l.]: Naïve; Fondation de France; Cercle d’art contemporain du Cailar, 2001 (nach [http://catalogue.bm-grenoble.fr/in/faces/details.xhtml?id=p%3A%3Ausmarcdef_0000585229&amp; catalogue.bm-grenoble.fr])&lt;/ref&gt;}}
+
+== Film ==
+Der Film ''D’où viens-tu Johnny?'' zeigt einen Course begleitet von dem speziell von Eddie Vartan komponierten ''Paso de l’abrivado''.&lt;ref&gt;[https://www.youtube.com/watch?v=3Md_KinJAHc Klangbeispiel]&lt;/ref&gt;
+
+== Glossar ==
+Das folgende [[Glossar]] liefert einige Beispiele für die [[Provenzalische Sprache|provenzalische/okzitanische]] und [[Französische Sprache|französische]] [[Terminologie]] zusammen mit einigen kurzen Erläuterungen.&lt;ref&gt;Zur Terminologie, vgl. das Glossar und die Skizzen bei [http://nimes-metropole.fr/fileadmin/mediatheque/Dossier-commun/Documentations/lexique-course-camarguaise.pdf nimes-metropole.fr] (La course camarguaise), die beiden Glossare bei arlestourism.com ([http://www.arlestourisme.com/fr/lexique-taurin.html lexique taurin]; [http://www.arlestourisme.com/de/das-lexikon-der-stierwelt.html Das Lexikon der Stierwelt]) und das bei [http://www.bouvine.info/Vade-Mecum bouvine.info] (Glossaire), außerdem das Wörterbuch des ehemaligen Raseteurs Jacky Siméon: ''Dictionnaire de la course camarguaise.''&lt;/ref&gt;
+
+{{Anker|abrivado}}'''''abrivado''''' ('Ankunft'). Bei der ''abrivado'' der Stiere in Richtung der Stierkampfarena werden diese typischerweise von den [[Weide (Grünland)|Weiden]] in der [[Herde]] von ''[[#gardian|gardians]]'' (Hütern) auf ''[[#manade|manade]]''-Pferden begleitet. Ihre kollektive Rückführung nach dem Kampf nennt man ''[[#bandido|bandido]]''. Siehe auch ''[[#encierro|encierro]]'' (Stierrennen in den Straßen).
+
+{{Zitat
+ |Text=Les abrivados les plus typiques se déroulent aux villages du Cailar et d’Aigues-Mortes où les taureaux partent des prés et, comme jadis, les gens suivent avec des vélos, des attelages, des chevaux mais il y a aussi, hélas! des véhicules à moteur.
+ |Sprache=fr
+ |Übersetzung=Das typischsten ''abrivados'' finden in den Dörfern von [[Cailar]] und [[Aigues-Mortes]] statt, wo die Stiere die Weiden auf traditionelle Weise verlassen, die Menschen folgen ihnen auf Fahrrädern, Kutschen, Pferden, aber es gibt leider auch Kraftfahrzeuge.
+ |ref=&lt;ref&gt;Jacky Siméon: ''Dictionnaire de la course camarguaise.''&lt;/ref&gt;}}
+
+{{Anker|afeciouna}}'''''afeciouna'''''. Ein von der Leidenschaft zum Stier und dem Stierkampf Besessener. &lt;!--???--&gt;
+
+{{Anker|Arena}}'''''Arena''''' ([[Deutsche Sprache|dt.]]; frz. hier: ''piste'') ist von einer stabilen Barrikade (''[[#barricade|barricade]]''), einer hölzernen rotfarbigen Umzäunung in etwa in Brusthöhe umgeben, hinter die sich die Akteure vor dem nachsetzenden Stier flüchten können, wenn sie vom Stier bei ihren Aktionen attackiert werden. Dahinter befindet sich ein Umlauf (''[[#contrepiste|contrepiste]]''). (Siehe auch den Abschnitt zu den Arenen.)
+
+{{Anker|attrapaïre}}'''''attrapaïre''''' ist die Bezeichnung für junge Leute, die die Stiere auf der Strecke des ''[[#abrivado|abrivado]]'' einzufangen versuchen.
+
+{{Anker|attributs}}'''''attributs''''' (provenzal. ''Los atributs''), die Trophäen, heißen auf provenzalisch: ''la cocarda'', ''l’agland'', ''la faissèla'', auf französisch ''la cocarde'', ''le gland'' und ''les ficelles''. Sie sind auf der Stirn (die ''cocarda'') und an den Stierhörnern angebracht (die ''glands'' bzw. ''ficelles''). Die ''[[#cocarde|cocarde]]'' ist ein kleines Stück rotes Tuch zwischen den Hörnern des Stiers, die ''glands'' (kleine wollene Quasten/Pompons/Troddel) werden an der Basis eines jeden Horns angebracht. Der ''[[#frontal|frontal]]'' ist ein Faden, der an der Nackenseite von Horn zu Horn gespannt ist. Eine ''[[#Ficelle|ficelle]]'' wird um die Basis eine jeden Hornes gewickelt
+
+{{Anker|bandido}}'''''bandido'''''. Die Rückführung der Stiere auf die Weiden nach der Veranstaltung unter den gleichen Bedingungen wie bei ihrer Ankunft (''[[#abrivado|abrivado]]'') wird die ''bandido'' genannt.
+
+{{Anker|barricade}}'''''barricade''''' (dt. Barrikade) ist die rote in etwa Brusthohe Seitenwand der Arena (''[[#piste|piste]]'') aus Brettern. Hinter dieser befindet sich der Umlauf (''[[#contrepiste|contrepiste]]'').
+
+{{Anker|barricadier}}'''''barricadier'''''. Als ''barracadier'' wird ein Stier bezeichnet, der dem ''[[#raseteur|raseteur]]'' während dessen Aktion soweit bis zur Barrikade nachfolgt, dass er auf dem Hindernis aufschlägt. Dieser Stiertyp wird vom Publikum besonders geschätzt.
+
+{{Anker|biòu}}'''''biòu''''', dt. Ochse, frz. ''bœuf'', in der Camargue und im Stierkampf-Milieu (''[[#bouvine|bouvine]]'') im weiteren Sinne die Bezeichnung für den Stier im Allgemeinen. Für den Kampf verwendete Tiere wurden im Alter von einem Jahr kastriert.
+
+{{Anker|Biòu d’or}}'''''Biòu d’or''''' (Goldener Stier), Name eines renommierten Wettbewerbs.
+
+{{Anker|bouvine}}'''''bouvine''''' (''f''). Als ''bouvine'' wird die Gesamtheit von Traditionen und sportlichen Praktiken der ''tauromachie camarguaise'', d.&amp;nbsp;h. der für die Region der [[Camargue]] typischen Form des Stierkampfes, bezeichnet.
+
+{{Anker|Camargue (Rinderrasse)}}'''''Camargue''''' ist der Name der für den Kampf verwendeten Rinderrasse aus der Camargue. [[Camargue-Pferd|Camargue]] ist auch der Name einer dort heimischen [[Pferderasse]].
+
+{{Anker|capelado}}'''''capelado''''' (das provenzalische Äquivalent zum ''paseo'' der Corrida, der spanischen Form des Stierkampfes) ist die Eröffnung der ''Course camarguaise'' mit einem Aufmarsch in zwei Reihen zu Klängen der [[Ouverture]] der Oper ''[[Carmen]]'' von [[Georges Bizet]] und der Begrüßung der ''[[#raseteur|Raseteure]]'' vor dem Präsidenten.
+
+{{Anker|Carmen}}'''''Carmen''''' ([[Oper]] von [[Georges Bizet|Bizet]]). Ein Auszug aus der Oper [[Carmen]], das ''Toreador-Lied'', wird während der ''[[#capelado|capelado]]'' gespielt oder als Belohnung nach einem Stoß gegen die Einzäunung (''[[#coup de barrière|coup de barrière]]'') oder beim Auszug eines würdigen Stieres.
+
+{{Anker|cocarde}}'''''cocarde'''''. Die ''cocarde'' (dt. in etwa: Kokarde) ist anders als ihr Name vermuten lässt (der eher auf eine runde Form schließen lässt), ein kleines rotes Tuch, ca. fünf bis sechs cm lang und einen cm breit. Es ist genau in der Mitte der Stirn des Stieres befestigt (siehe das Foto zu den ''[[#attributs|attributs]]'').
+
+{{Anker|Cocarde d’or}}'''''Cocarde d’or''''' (Goldene Cocarde), der wichtigste und prestigeträchtigste Wettbewerb in [[Arles]]
+
+{{Anker|cocardier}}'''''cocardier''''' bzw. '''''biòu''''' ist auf provenzalisch die Bezeichnung für eine Hausrindrasse der [[Camargue]], die speziell für den ''Course camarguaise'' verwendet wird, der [[#Camargue (Rinderrasse)|Camargue]]-Stier, der in der Arena (''[[#piste|piste]]'') seine Qualitäten unter Beweis stellt und seine Bravour zeigt.
+
+{{Anker|contrepiste}}'''''contrepiste''''' bezeichnet den Umlauf zwischen der eigentlichen Arena (''[[#piste|piste]]'') und dem Publikum.
+
+{{Anker|Corsa camarguenca}}'''''Corsa camarguenca''''' ([[Provenzalische Sprache|provenzalisch]]; frz. ''Course camarguaise''). Im Deutschen begegnen viele Übersetzungsversuche.
+
+{{Anker|coup de barrière}}'''''coup de barrière''''' (Stoß gegen die Einzäunung). In dem Moment, wo der ''[[#raseteur|raseteur]]'' an den Barrikaden ankommt und sie überspringt, setzt ihm der Stier bisweilen so dicht nach, dass er mit seiner Brust gegen die Bretter schlägt. Dies ist der ''coup de barrière''.
+
+{{Anker|crochet}}'''''crochet''''' („Haken“). Mit dem ''crochet'', einer kleinen, stumpfen metallenen Kralle, versucht der ''[[#raseteur|raseteur]]'', dem Stier die Trophäen (''[[#attributs|attributs]]'') abzunehmen.
+
+{{Anker|encierro}}'''''encierro'''''. Der [[Stierlauf]], das [[Stierrennen]], bei dem die Stiere über öffentliche Straßen und Plätze getrieben werden. Dabei kann sich das Publikum beteiligen kann. Bei dem ''encierro'' ist das Ziel des Laufes in der Regel die Arena, wo die Kämpfe stattfinden. Anders als bei ''[[#abrivado|abrivado]]'' und ''[[#bandido|bandido]]'' sind bei diesem Ereignis keine Reiter beteiligt. Die Dorfbewohner flüchten sich dabei auf aufgetürmte Strohballen oder hinter Absperrungen.
+
+{{Anker|Fédération française de la course camarguaise}}'''''Fédération française de la course camarguaise''''' (FFCC). Die ''Französische Vereinigung für die Course camarguaise'' wurde 1975 gegründet und ist der größte Stierkampf-Verband für diesen Sport.
+
+{{Anker|ferrade}}'''''ferrade'''''. Eine ''ferrade'' ist die Aktion, bei der Stiere oder Pferde mit einem [[Brandzeichen]] versehen werden, insbesondere in der [[Camargue]] und in der Petite Camargue.
+
+{{Anker|ficelles}}'''''ficelles'''''. ''Ficelles'' sind an der Basis der Hörner befestigte Fäden, die zu den Trophäen (''[[#attributs|attributs]]'') zählen.
+
+{{Anker|frontal}}'''''frontal''''', eine der Trophäen (''[[#attributs|attributs]]''), ein Faden, der auf der Nackenseite von Horn zu Horn gespannt ist.
+
+{{Anker|gardian}}'''''gardian'''''. Die ''[[gardian]]s'' (Hüter) auf ihren Camargue-Pferden sind die berittenen Pferde- und Rinderhirten Südfrankreichs. Sie reiten das [[Camargue-Pferd]]. Pferde und Rinder leben in der Camargue halbwild in Herden. Die ''Bruderschaft der Stierhüter des [[Georg (Heiliger)|heiligen Georg]]'' (''Confrérie des Gardians de Saint Georges''&lt;ref&gt;vgl. [http://www.tradicioun.org/Les-cinq-siecles-de-la-Confrerie Les cinq siècles de la Confrérie des Gardians de Saint Georges]&lt;/ref&gt;) wurde 1512 gegründet, sie organisiert jedes Jahr am 1. Mai in Arles das Fest der Gardians.&lt;ref&gt;[http://www.provence-pays-arles.com/de/page-th%C3%A9matique/stiere-und-stierrennen provence-pays-arles.com]&lt;/ref&gt;
+
+{{Anker|gland}}'''''gland'''''. Zwei kleine weiße Pompons/Quasten/Troddel (provenzal. ''agland'' / frz. ''gland'') befinden sich an Fäden an der Basis der Hörner, sie zählen zu den Trophäen (''[[#attributs|attributs]]''). Siehe auch das Logo des [[Regionaler Naturpark Camargue|Regionalen Naturparks Camargue]], auf dem in weißer Farbe die [[Lyra (Zupfinstrument)|lyraförmigen]] Stierhörner und ein ''gland'' (Pompon) auf grünem Hintergrund zu sehen sind.
+
+{{Anker|Immaterielles Kulturerbe Frankreichs}}'''''Immaterielles Kulturerbe Frankreichs''''', frz. ''Inventaire du patrimoine culturel immatériel en France''
+
+{{Anker|jingoistic}}'''''jingoistic''''' (oder ''biòu'') ist ein [[Kastration|kastriertes]] männliches Rind der für die Kämpfe verwendeten [[#Camargue (Rinderrasse)|Camargue-Rinderrasse]].
+
+{{Anker|manade}}'''''manade'''''. Rinder- oder Pferdeherde oder der Ort, wo sie weidet. &lt;!-- auch die Bezeichnung für den Besitzer bzw. „Stall“ ???---&gt;
+
+{{Anker|Musée des Cultures Taurines}}'''''Musée des Cultures Taurines''''', ein Museum der Stierkampf- und Stierkulturen in der Stadt [[Nîmes]].
+
+{{Anker|passage du taureax}}'''''passage du taureau''''' ist der jeweilige Durchgang für einen einzelnen Stier, der jeweils 15 min beträgt.
+
+{{Anker|piste}}'''''piste'''''. Bezeichnung für die Arena bzw. Manege, wo die Kämpfe stattfinden.
+
+{{Anker|raset}}'''''raset''''' (provenzalisch ''rasa''), siehe ''[[#raseter|raseter]]''.
+
+{{Anker|raseter}}'''''raseter''''' Einen ''[[#raset|raset]]'' (provenzalisch ''rasa'') machen, sich haarscharf am Stier vorbeibewegen (zum Zweck der Erlangung der ''[[#attributs|attributs]]'').
+
+{{Anker|raseteur}}'''''raseteur''''' (von ''raser'' = sich dicht an etwas vorbeibewegen; streifen; antippen. – Vgl. die Wiktionary-Definition: „[[wikt:fr:raser|Passer tout près, effleurer.]]“.) In weiß gekleidet, die Hauptperson des Ereignisses. Er versucht dem Stier die sich an dessen Stirn und Hörnern befindlichen Trophäen (''[[#attributs|attributs]]'') abzunehmen. Dafür verwendet er eine eiserne Kralle mit der Bezeichnung ''[[#crochet|crochet]]'' (Haken).
+
+{{Anker|Sanglier}}'''''Le Sanglier''''' (1916–1933). Ein berühmter Stier.
+
+{{Anker|taureau}}'''''taureau''''', [[Plural|pl.]] ''taureaux''. Stier, Bulle bzw. der für den Kampf verwendete Ochse (d.&amp;nbsp;h. das kastrierte männliche Rind).
+
+{{Anker|taureau cocardier}}'''''taureau cocardier'''''. Das die ''[[#cocarde|cocarde]]'' tragende Tier wird ''taureau cocardier'' genannt. Die ''cocarde'' ist eine der Trophäen (''[[#attributs|attributs]]'').
+
+{{Anker|temporade}}'''''temporade'''''. Die Jahreszeit der traditionellen Stierkämpfe. Vgl. Das spanische Wort.
+
+{{Anker|toril}}'''''toril'''''. Der Ort in der Arena, wo die Stiere vor bzw. nach ihrem Kampf vorübergehend untergebracht werden.
+
+{{Anker|tourneur}}'''''tourneur'''''. Der ''tourneur'' ist der Verbündete des [[#raseteur|Raseteurs]]. Er ist ebenfalls in weiß gekleidet. Er hilft und arbeitet dem jeweils im Einsatz befindlichen ''raseteur'' zu, indem er die Position des Stieres festlegt, um die ''[[#raset|rasets]]'' zu erleichtern.
+
+{{Anker|trompette}}'''''trompette''''' (Trompete). Die Trompete verkündet den Anfang und das Ende eines jeweiligen Durchgangs (''[[#passage du taureax|passage du taureau]]'') für den einzelnen Stier.
+
+{{Anker|Trophée de l’Avenir}}'''''Trophée de l’Avenir'''''. Ein über die gesamte Saison stattfindendes, auf viele Orte verteiltes Ereignis von Kämpfen, wobei für belegte Plätze Punkte vergeben werden. Der ''[[#raseteur|raseteur]]'' mit den meisten erzielten Punkten ist der Gewinner. Dieser Wettbewerb ist für junge ''[[#raseteur|raseteurs]]'' unter 24 Jahren.
+
+{{Anker|Trophée des As}}'''''Trophée des As'''''. Eine zu den gleichen Bedingungen wie andere Trophäen verliehene Auszeichnung, aber die Teilnehmer stammen aus der von der ''Commission du Trophée des As'' als Kategorie 1 klassifizierten Kategorie.
+
+{{Anker|Trophée taurin camarguais}}'''''Trophée taurin camarguais'''''. Name eines Stierkampf-Wettbewerbs.
+
+{{Anker|Vovo}}'''''Vovo'''''. Ein berühmter Stier. (Siehe auch den Abschnitt: Berühmte Stiere)
+
+== Siehe auch ==
+* [[Course Landaise]]
+
+== Literatur ==
+&lt;small&gt;(siehe auch die Literaturangaben unter [http://www.culture.gouv.fr/mpe/ethno_spci/pdf2/redon_course_camarguaise.pdf culture.gouv.fr] (PDF) oder [http://www.bouvine.info/Bibliographie,8763 bouvine.info])&lt;/small&gt;
+
+* Jacky Siméon: ''Dictionnaire de la course camarguaise.'' Au diable vauvert, Vauvert 2013, ISBN 978-2-84626-424-2.
+* René Domergue, Patrick Ouradou: ''Avise, le biòu! petit vocabulaire illustré de la course camarguaise.'' Selbstverlag, Montpezat 2008 ([http://www.ctlacledabouillargues.com/pages/le-coin-des-livres/petit-vocabulaire-illustre-de-la-course-camarguaise.html Illustrationsbeispiele]).
+* Sébastien Fournier: ''Tauromachies, sport, cultureregards croisés sur le public.'' 2èmes Journées d’Études Universitaires, 3 et 4 juin 2005, Centre Universitaire Vauban-Nîmes. Journées d’Études Universitaires &lt;2, 2005, Nîmes&gt; Impressum: Paris u. a.; Harmattan; 2006
+* Frédéric Saumade: ''Des sauvages en occident, les cultures tauromachiques en Camargue et en Andalousie.'' Paris, Mission du patrimoine ethnologique, 1994 et 1995, ISBN 2-7351-0587-3.
+* S. Popovitch: ''Course camarguaise.'' Librairie Lacour, 1993, ISBN 2-904725-12-1.
+* Christian Louis Sourina: ''La course camarguaise.'' Toulouse, Ecole Nat. Vét., Diss. 1984.
+* Lise Gros: ''La corsa camarguenca.'' Calendreta Aimat Serre, 1996 (provenzalisch)
+* Richard Holt: ''Sport and Society in Modern France.'' 1981 ([https://books.google.de/books?id=hheyCwAAQBAJ&amp;pg=PA114 Auszug])
+* Nicola Williams, Miles Roddis: ''Languedoc-Roussillon''. 2009 ([https://books.google.de/books?id=ujWKhaWJ7IQC&amp;pg=PA91 Teilansicht])
+
+== Weblinks ==
+{{Commonscat|Course camarguaise}}
+* [http://nimes-metropole.fr/fileadmin/mediatheque/Dossier-commun/Documentations/lexique-course-camarguaise.pdf La course camarguaise] (PDF) nimes-metropole.fr (mit verschiedenen Skizzen)
+* [http://st.marin.free.fr/tutorial.htm Traditions camarguaises en images] (Stephan Marin, mit verschiedenen Skizzen, auch zu den verschiedenen Wegbahnen des Raseteurs)
+* [http://www.culture.gouv.fr/mpe/ethno_spci/pdf2/redon_course_camarguaise.pdf La Course camarguaise] (PDF) [[Ministerium für Kultur und Kommunikation|Ministère de la Culture]] (mit umfangreichen Literaturangaben)
+* [http://www.bouvine.info/Bibliographie,8763 Bibliographie]
+* [http://www.parc-camargue.fr/getlibrarypublicfile.php/01764fa0faf20ebd173d0d2d575e6376/parc-camargue/_/collection_library_fr/201100039/0001/standard_taureau_rac_+Camar.pdf Standard de la race autochtone de taureau appelée “raço di biòu”] (PDF)
+* [http://www.mudaison.fr/culture/festivites-traditions/ Fête de Mudaison juin 2015]
+* [http://www.locongres.org/oc/actualitat/institucion-socis/9950-lexic-frances-occitan-de-la-corsa-camarguenca Lexic francés-occitan de la corsa camarguenca]
+* [http://www.ieo-oc.org/Edicion-d-un-novel-lexic-franco Edicion d’un novèl lexic franco-occitan: la corsa camarguenca] ([[Institut d’Estudis Occitans]])
+* [http://www.renedomergue.com/aviseinfo.htm Avise, le biòu!]
+* [http://occitanica.eu/omeka/items/browse?tags=Corsas+taurinas+%3D+Courses+taurines occitanica.eu]
+* [http://www.arlestourisme.com/de/der-camarguestierkampf.html Der Camarguestierkampf]
+* [http://www.bouvine.info/Arenes-d-Eyguieres Bouvine et traditions]
+* [http://www.midilibre.fr/2012/08/18/picasso-nimes-et-les-toros,549750.php Picasso, Nîmes et les toros]
+* [http://www.bonjour-frankreich.com/forum/nachricht-1643.html Bonjour Frankreich]
+
+'''Videos'''
+&lt;!--es gibt zahlreiche bessere / andere--&gt;
+* [https://www.youtube.com/watch?v=Vgxw7Pk_SUE Video] (Paluds-de-Noves)
+* [https://www.youtube.com/watch?v=SNK0cB_o878 Arles – Wissenswertes über den Stierkampf in der Provence (Stierkämpferschule von Arles u.&amp;nbsp;a.)]
+* [https://www.youtube.com/watch?v=SlPlcMLlKYg Course Camarguaise: Jubilé Christian Garrido]
+
+== Einzelnachweise und Fußnoten ==
+&lt;references /&gt;
+
+[[Kategorie:Stierkampf]]
+[[Kategorie:Sportart]]
+[[Kategorie:Département Gard]]
+[[Kategorie:Département Hérault]]
+[[Kategorie:Département Bouches-du-Rhône]]
+[[Kategorie:Département Vaucluse]]
+[[Kategorie:Feste und Brauchtum (Frankreich)]]
+[[Kategorie:Kultur (Frankreich)]]
+[[Kategorie:Okzitanien]]
+[[Kategorie:Extremsportart]]
+[[Kategorie:Tiersportart]]</text>
+      <sha1>fnqlwmyyjlrts3rnvgb6a00fmkudilj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Systema</title>
+    <ns>0</ns>
+    <id>10443133</id>
+    <revision>
+      <id>195465900</id>
+      <parentid>194493008</parentid>
+      <timestamp>2020-01-03T14:59:35Z</timestamp>
+      <contributor>
+        <username>Tsungam</username>
+        <id>1400726</id>
+      </contributor>
+      <comment>Änderung 194493008 von [[Special:Contribs/213.33.84.14|213.33.84.14]] rückgängig gemacht; Werbelink</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1568" xml:space="preserve">'''Systema''' ({{ruS|Система}}, wörtlich übersetzt ''Das System'') ist eine russische [[Kampfkunst]].&lt;ref&gt;Giuseppe Filotto: ''Systema : The Russian Martial System''. Way of Systema, o. O. 2011, ISBN 978-1-4609-2587-4.&lt;/ref&gt;
+
+Das Training beinhaltet, ist aber nicht beschränkt auf: Hand-zu-Hand-Kampf, [[Grappling]], Messerkampf und Waffenausbildung.&lt;ref&gt;Robert Poyton: ''Systema Solo Training''. 2017, ISBN 978-0-995645-43-1.&lt;/ref&gt;
+In Systema muss der Körper frei von Spannungen, voller Ausdauer, Flexibilität, müheloser Bewegung und explosivem Potential sein; der „Geist“ oder psychische Zustand muss ruhig, frei von Wut, Irritation, Angst, Selbstmitleid, Wahn, Ego und Stolz sein. 
+Systema entstand aus den traditionellen Kampfstilen der [[Kosaken]] und [[Slawen]]. 
+
+Systema hat vier Säulen – Atmung, Entspannung, Körperhaltung und Bewegung, sowie die Nutzung des Impulses eines Angreifers gegen ihn und die Steuerung der sechs Körperhebel (Ellbogen, Hals, Knie, Taille, Knöchel und Schultern) durch Druckpunktanwendung, Schlag und Waffenanwendungen.&lt;ref&gt;Vladimir Vasiliev, Scott Meredith'': Strikes: Soul Meets Body''. Russian Martial Art, 2015, ISBN 978-0-9781-0492-4.&lt;/ref&gt;
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+== Weblinks ==
+* {{Internetquelle|url=http://www.fr.de/panorama/russische-kampfkunst-systema-einstecken-statt-austeilen-a-297948|titel=Russische Kampfkunst Systema: Einstecken statt Austeilen|werk=Frankfurter Rundschau|datum=2016-11-01|autor=Christian Esch|zugriff=2018-08-19}}
+
+[[Kategorie:Kampfkunst]]
+[[Kategorie:Sportart]]</text>
+      <sha1>3vporx3l864qq9n9vewqb4jvmy66oca</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pickleball</title>
+    <ns>0</ns>
+    <id>10570935</id>
+    <revision>
+      <id>212783854</id>
+      <parentid>212776541</parentid>
+      <timestamp>2021-06-08T12:04:09Z</timestamp>
+      <contributor>
+        <username>Bernhard Wallisch</username>
+        <id>290567</id>
+      </contributor>
+      <minor/>
+      <comment>Änderungen von [[Special:Contributions/78.94.200.2|78.94.200.2]] ([[User talk:78.94.200.2|Diskussion]]) auf die letzte Version von [[:Benutzer:2A02:810D:8AC0:2862:F42A:82FB:FA34:4249|2A02:810D:8AC0:2862:F42A:82FB:FA34:4249]] zurückgesetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4012" xml:space="preserve">'''Pickleball''' ist eine in den USA entstandene [[Ball- und Kugelsportart|Ballsportart]], die Elemente des [[Badminton]], [[Tennis]] und [[Tischtennis]] verbindet. Es unterscheidet sich in der moderateren Geschwindigkeit des Balles, der Größe des Platzes und dem dynamischen Spielablauf.
+
+== Geschichte ==
+Pickleball wurde 1965 in [[Bainbridge Island]] von drei Vätern, [[Joel Pritchard]], Bill Bell und Barney McCallum, zur Beschäftigung ihrer Kinder kreiert. Derweil hat sich Pickleball zu einem populären Sport auch außerhalb der USA und Kanada entwickelt.
+
+In den ersten Jahren gab es keine offizielle Bezeichnung für das Spiel. Als das Spiel bekannter wurde, benannte man es nach der Aussage von Joan Prichard, der Frau von Joel Prichard: „after I said it reminded me of the Pickle Boat in crew where oarsmen were chosen from the leftovers of other boats. Somehow the idea the name came from our dog Pickles was attached to the naming of the game, but Pickles wasn't on the scene for two more years. The dog was named from the game.“&lt;ref&gt;{{cite web |url= https://www.usapa.org/history-of-the-game/ |title=History of the Game | publisher= Official USAPA Website | accessdate=2018-12-01}}&lt;/ref&gt;
+
+* 1965: Gründung durch Joel Pritchard, einem Kongressabgeordneten aus [[Seattle]]
+* 1972: Gründung einer Gesellschaft zum Schutz der neuen Sportart
+* 1975: erster Artikel über Pickleball im National Observer
+* 1984: Gründung der USA Pickleball Association (USAPA)
+* 1990: Pickleball wird in allen 50 Staaten der USA gespielt
+* 2009: das erste USAPA-Turnier mit fast 400 Spielern aus 26 Staaten der USA und Kanada
+* 2013: Gründung des ersten Pickleball Clubs in Deutschland
+* 2014: Pickleball ist in Deutschland eine offizielle Sportart, anerkannt durch den Bayrischen Tennisverband und den Bayrischen Landessportverband
+* 2016: das erste US OPEN Pickleball Championship fand in [[Naples (Florida)|Naples]], Südwest-Florida, statt
+*2018: Gründung des Deutschen Pickleball Bund e.V., anerkannt durch den Internationalen Pickleball Verband (IFP)
+*2019: Die ersten German Open finden in Essen statt mit über 350 Spielern aus 29 Nationen.
+
+=== Schläger ===
+Der Schläger ist in vielen verschiedenen Ausführungen erhältlich. Die ersten Schläger bestanden aus Holz. Neuere Schläger bestehen aus einem Wabenkern mit verschiedenen Werkstoffkombinationen: Einige haben einen Aluminium-Kern andere einen aus [[NOMEX]]. Dieses Material ist ein synthetisches aromatisches Polyamidpolymer (Aramid), das mit Papier zu einem Wabenkern verarbeitet ist. Die Oberfläche der Schläger besteht entweder aus einer Glasfaser-, Aluminium- oder einer Graphitschicht.
+
+=== Feld ===
+Die Größe des Feldes entspricht knapp einem Drittel der gesamten Fläche eines Tennisplatzes oder der Größe eines [[Badminton#Spielfeld|Badmintonfeldes]].
+
+[[Datei:Aerial Pickleball Courts.jpg|mini|Luftaufnahme von Pickleball-Feldern]]
+
+=== Ball ===
+Es gibt Indoor-Bälle und Outdoor-Bälle, die bei Turnierspielen den Anforderungen des amerikanischen Pickleball-Verbandes entsprechen müssen. Die Bälle werden in einem rotierenden Spritzgussverfahren randlos hergestellt. Die Löcher werden nachträglich in den abgekühlten Ball eingebohrt.
+
+[[Datei:Pickle Ball.jpg|mini|Pickleball]]
+
+=== Spiel ===
+Pickleball kann mit zwei oder vier Spielern gespielt werden. Vor jedem Aufschlag erfolgt die Punktestandankündigung.
+
+== Literatur ==
+* USA Pickleball Association: ''Pickleball Fundamentals'' Human Kinetics Pub Inc, ISBN 978-1-4925-0413-9.
+* Ron Elbe: ''Pickleball Pointers: A PLAYER’S GUIDE TO IMPROVING YOUR SKILLS''Independently published (20. September 2018), ISBN 978-1-72028-661-5.
+
+== Weblinks ==
+* [https://www.youtube.com/channel/UCHuN2VCgXnwESfgmDTF-Ldg Tutorial von Sarah Ansboury]
+* [https://racquetsworld.com/how-to-play-pickleball/ Die Regeln von Pickleball]
+*Deutscher Pickleball Bund e.V. 
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Ballspiel]]
+[[Kategorie:Rückschlagspiel]]
+[[Kategorie:Sportart]]</text>
+      <sha1>hj2wz88omox1wwwdpfx6jy9uzbf6q3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hyrox (Sportart)</title>
+    <ns>0</ns>
+    <id>10681524</id>
+    <revision>
+      <id>212751713</id>
+      <parentid>212751696</parentid>
+      <timestamp>2021-06-07T09:04:12Z</timestamp>
+      <contributor>
+        <username>Nordprinz</username>
+        <id>2496699</id>
+      </contributor>
+      <minor/>
+      <comment>[[Hilfe:Wiederherstellen|Revert]] – [[Wikipedia:Vandalismus|Vandalismus]] entfernt ([[Wikipedia:Huggle|HG]]) (3.4.10)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3416" xml:space="preserve">'''Hyrox''' (auch mit Versalien als '''HYROX''' geschrieben) ist eine [[Wettkampf#Sport_als_Wettkampfkultur|wettkampforientierte]] [[Eventsport|Event-]] und [[Fitness]]-[[Sportart]].&lt;ref&gt; Der ursprüngliche Name „Curox“ wird nicht mehr verwendet, womöglich aus namensrechtlichen Gründen, siehe die Chemikalie CUROX von [[United Initiators]]&lt;/ref&gt;
+
+==Entstehung, Herkunft==
+Hyrox existiert seit 2017 und durchläuft in der Saison 2018/19 neun Städte deutschlandweit. Beim ersten Event im April 2018 in Hamburg starteten 750 Teilnehmer. 
+
+==Regeln, Ausgestaltung==
+Der Wettbewerb findet als Indoorwettbewerb in großen Hallen statt und besteht aus einer Kombination von leichtathletischen und geräteorientierten, athletischen Sportübungen, wie sie vor allem in [[Fitnesscenter]]n betrieben werden. Das Konzept zielt auf eine Mischung von [[Breitensport|Breiten-]] und [[Spitzensport]] und unterscheidet nicht zwischen [[Profisport|Profis]] und [[Amateursport|Amateuren]], zwischen Anfängern und Fortgeschrittenen; die Veranstalter sprechen daher auch von einem „Jedermann-Event“&lt;ref&gt;[https://www.fitforfun.de/hyrox/hyrox-die-neue-fitness-competition.html Webseite Fitforfun „Wer steckt hinter Hyrox?“]&lt;/ref&gt;.
+
+Es handelt sich dabei um einen Fitness-Wettkampf für Frauen und Männer, gestuft nach Geschlecht und Altersklassen. Es zählt nur die Zeit, die man für den [[Parcours]] benötigt, der aus [[Kraftsport|Kraft-]], [[Ausdauersport|Ausdauer-]] und [[Laufsport|Laufeinheiten]] besteht. Insgesamt müssen die Teilnehmer 8&amp;nbsp;×&amp;nbsp;1000 Meter laufen, nach jedem Laufabschnitt kommt die so genannte „Roxzone“, in der nacheinander die acht [[Workout]]-Stationen absolviert werden. Während die Laufstrecke auf Außenbahnen absolviert wird, stehen in den Innenbereichen die Fitnessgeräte. Eine Teilnahme als [[Doppel (Sport)|Duo]] oder im [[Team]] ist möglich.
+
+Die [[Wettkampf]]dauer beträgt zwischen 70 und 120 Minuten, wobei zur Vermeidung von Staus an den Gerätestationen jeweils in Wellen gestartet wird.
+
+Der Veranstalter erhebt Teilnahmegebühren.&lt;ref&gt;[https://hyrox.com/events/oberhausen-01/ Gebühren 2019]&lt;/ref&gt;
+
+==Organisatoren, Gründer==
+Der [[Eventsport]] wurde 2017 von dem Hamburger Unternehmer Christian Toetzke (CEO Upsolute Event)&lt;ref&gt;[https://www.fitforfun.de/hyrox/10-hyrox-facts-das-musst-du-ueber-hyrox-wissen-265157.html Webseite]; Upsolute Event ist seit 2007 Teil der französischen Firmengruppe [[Groupe Lagardère]]&lt;/ref&gt; ins Leben gerufen, der bereits 1995/96 den Radsportevent [[Cyclassics Hamburg]] und 2002 den [[Hamburg Triathlon]] ins Leben gerufen hatte. 
+
+Als sportliche Berater sind der zweifache Olympia-Goldmedaillengewinner im [[Hockey]], der Hamburger [[Moritz Fürste]], sowie die Athletentrainerin des [[Deutscher Olympischer Sportbund|Deutschen Olympischen Sportbundes (DOSB)]], Mintra Mattison, tätig.
+
+==Anmerkungen==
+&lt;references/&gt;
+
+==Weblinks==
+* [https://hyrox.com/concept/ Hyrox-Webseite/Konzept]
+* [https://www.fitforfun.de/hyrox/hyrox-die-neue-fitness-competition.html Webseite von Hyrox Fit for Fun]
+* [https://www.welt.de/regionales/hamburg/article167811065/Cyclassics-Erfinder-plant-neues-Fitness-Event-in-Hamburg.html WELT] vom {{FormatDate|2017-08-18}}
+* [https://www.abendblatt.de/hamburg/article213993211/Hyrox-eine-Hamburger-Idee-geht-um-die-Welt.html Hamburger Abendblatt] vom {{FormatDate|2018-04-12}}
+
+[[Kategorie:Sportart]]</text>
+      <sha1>sr3v0raj6ki22uc0bq33mquf3sl3af4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Ballspiel</title>
+    <ns>14</ns>
+    <id>251850</id>
+    <revision>
+      <id>213055754</id>
+      <parentid>186106281</parentid>
+      <timestamp>2021-06-17T21:56:28Z</timestamp>
+      <contributor>
+        <username>Didionline</username>
+        <id>73374</id>
+      </contributor>
+      <comment>+Objektkategorie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" xml:space="preserve">{{Objektkategorie}}
+{{Commonscat|Ball games}}
+
+[[Kategorie:Sportart]]
+[[Kategorie:Ballsport]]</text>
+      <sha1>a1enywqx503g2ccny6bo1tkzsjfilxx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fantasy Sport</title>
+    <ns>0</ns>
+    <id>10755114</id>
+    <revision>
+      <id>213839744</id>
+      <parentid>191268958</parentid>
+      <timestamp>2021-07-13T17:50:49Z</timestamp>
+      <contributor>
+        <username>Aka</username>
+        <id>568</id>
+      </contributor>
+      <minor/>
+      <comment>/* Geschichte */ https</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6219" xml:space="preserve">Als '''Fantasy Sport''' (auch: '''Rotisserie''') wird eine Kategorie von meist online betriebenen Spielen bezeichnet, bei denen jeweils 8 bis 12 Teilnehmer eine „Liga“ bilden. Jedes Mitglied stellt zu Beginn ein virtuelles Team aus real existierenden Spielern einer Profiliga der jeweiligen Sportart zusammen. Im weiteren Verlauf erhalten die virtuellen Teams Punkte, die sich nach den Leistungen der realen Spieler im laufenden Spielbetrieb bemessen. Dabei wird im Vorhinein festgelegt, welche statistisch erfassbaren Spielerleistungen in die Wertung einfließen sollen (beispielsweise erzielte Tore, Punkte, Laufstrecken, Ballbesitz usw.) Ebenso wie im realen Sport kann vor jedem Spieltag aus dem vorhandenen Kader eine neue Mannschaftsaufstellung gebildet werden; ebenso kann die Zusammensetzung des Kaders im Laufe einer Spielzeit in gewissen Grenzen verändert werden (sog. „Transfers“). Sieger ist der Spieler, der am Ende die höchste Punktzahl erreicht. Das Spiel erstreckt sich entweder über eine ganze Spielzeit, über eine Woche oder einen einzelnen Spieltag (sog. ''Daily Leagues'').
+
+Fantasy Sport-Ligen waren ursprünglich Gruppen von Bekannten, bei denen ein „Ligaverwalter“ nach festgelegten Regeln manuell die Punkte ausrechnete und vergab. Ihren eigentlichen Aufschwung nahmen die Fantasy Sports aber erst mit der Verbreitung des Internets. Die weitaus meisten Fantasy Sports werden heute online gespielt. Kommerzielle Anbieter wie ''FanDuel'' und ''DraftKings'' stellen Online-Plattformen zur Spielteilnahme bereit. Die Spielteilnahme ist entweder kostenlos oder erfolgt gegen Geldeinsätze, aus denen Geldpreise für die Sieger ausgezahlt werden. Die Höhe der Einsätze kann dabei stark variieren.
+
+Die am weitesten verbreitete Sportart im Fantasy Sport ist [[American Football]] als [[Fantasy Football]]; Fantasy Sport gibt es aber auch für zahlreiche andere Sportarten wie z. B. [[Fußball]], [[Basketball]], [[Baseball]], [[Eishockey]], [[Golf (Sport)|Golf]] und [[Automobilsport|Autorennen]].
+
+Der US-Branchenverband für Fantasy Sports, die ''Fantasy Sports &amp; Gaming Association (FSGA)'' (bis 2019: ''Fantasy Sports Trade Association (FSTA)''), nannte 2017 die Zahl von annähernd 59,3 Millionen Spielern allein in den USA und Kanada, die durchschnittlich 556 US-Dollar pro Jahr dafür ausgeben und einen jährlichen Gesamtumsatz der Industrie von 7,2&amp;nbsp;Milliarden Dollar generieren.&lt;ref&gt;Laut Pressemitteilung der FSGA: {{Internetquelle |url=https://thefsga.org/press-release-fantasy-sports-now-a-7-billion-industry/ |titel=Fantasy Sports Now a $7 Billion Industry |datum=2017-06-20 |zugriff=2019-05-03 |sprache=en}}&lt;/ref&gt;
+
+== Geschichte ==
+Als hauptsächlicher Erfinder des Fantasy Sports gilt Wilfred Winkenbach, ein Geschäftsmann aus [[Oakland]], [[Kalifornien]]. Er entwarf bereits in den 50er Jahren des 20. Jahrhunderts Regeln für Fantasy Golf, eine wegen des einfachen Kriteriums der Schlagzahl besonders leicht zu spielende Fantasy-Sportart. 1962 entwickelte Winkenbach, der damals Teilhaber des American-Football-Teams [[Oakland Raiders]] war, mit zwei befreundeten Sportjournalisten die ersten Regeln für Fantasy Football und sie bildeten mit Freunden 1963 die erste Liga.&lt;ref&gt;Corinne Green: {{Webarchiv | url=http://www.newsnet5.com/sports/wink-wilfred-bill-winkenbach-invented-fantasy-football-way-back-in-1962-with-gopppl-in-oakland | wayback=20150929163914 | text='Wink': Wilfred 'Bill' Winkenbach invented Fantasy Football way back in 1962 with GOPPPL in Oakland}} auf news5.com&lt;/ref&gt; William Gamson, Soziologe an der [[Harvard University]] und später an der [[University of Michigan]], bildete 1960 mit Kollegen eine Fantasy Baseball-Liga. In Michigan lernte David Okrent das Spiel kennen, der später als Sportjournalist in [[Manhattan]] arbeitete und dort 1980 mit Freunden und Kollegen die erste Fantasy Baseball-Liga gründete, die größere Bekanntheit erlangte, die ''Rotisserie League'', benannt nach dem Restaurant ''La Rotisserie Française'', in dem sich die Teilnehmer trafen. Davon leitet sich die alternative Bezeichnung ''Rotisserie'' oder ''Roto'' für Fantasy Sports ab. 1989 wurde die erste Zeitschrift für Fantasy Sports, das ''Fantasy Sport Magazine'' gegründet und die ersten Bücher und Computerprogramme zum Thema wurden veröffentlicht.
+
+1995 lancierte das kanadische Unternehmen ''Molson Breweries'' im Rahmen einer Werbekampagne die erste Plattform, auf der Fantasy Eishockey online gespielt werden konnte.&lt;ref&gt;{{Internetquelle |autor=Patti Summerfield |url=https://strategyonline.ca/1995/10/16/11295-19951016/ |titel=Hockey Net in Canada: Molson scores with fantasy league |werk=Strategy |datum=1995-10-16 |zugriff=2019-05-03 |sprache=en }}&lt;/ref&gt; In den 1990er Jahren entstanden zahlreiche Webanbieter, die gegen Bezahlung statistische Informationen und Ergebnisberechnungen für Fantasy Sport-Spieler bereitstellten. [[Yahoo]] integrierte 1999 kostenloses Fantasy Baseball in sein Webangebot.&lt;ref&gt;{{Webarchiv | url=http://yhoo.client.shareholder.com/press/ReleaseDetail.cfm?ReleaseID=173646| wayback=20071031081947 | text=Yahoo! Sports Hits Home Run With Free Fantasy Baseball}} (Pressemitteilung vom 23. Februar 1999)&lt;/ref&gt; Die schnell wachsende Verbreitung von Fantasy Sports führte dazu, dass große Sportverbände wie die [[National Football League|NFL]] und kommerzielle Medienanbieter im Bereich des Sports wie [[Columbia Broadcasting System|CBS]] oder [[ESPN]] sie als Marketinginstrument und Mittel zur Zuschauerbindung entdeckten und förderten.
+
+== Weblinks ==
+* ''[https://kurier.at/sport/fantasy-sport-echtes-geld-durch-unechte-spiele/284.881.086 Fantasy Sport: Echtes Geld durch unechte Spiele.]'' Artikel auf kurier.at vom 7. September 2017, abgerufen am 3. Mai 2019
+
+== Literatur ==
+* Andrew C. Billings, Brody J. Ruihley: ''The Fantasy Sport Industry. Games Within Games.'' Routledge, London und New York 2014, ISBN 9780415525183 (Routledge Research in Sport, Culture and Society) (englisch)
+** [https://idrottsforum.org/klesha_billings-ruihley141003/ Rezension von Shawn E. Klein] auf idrottsforum.org (englisch)
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Sportart]]
+[[Kategorie:Computerspiel-Genre]]</text>
+      <sha1>069kmb4mbp4g3jmlgm06kwoxfaxdaul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Randsportart</title>
+    <ns>0</ns>
+    <id>454672</id>
+    <revision>
+      <id>208056206</id>
+      <parentid>208053820</parentid>
+      <timestamp>2021-01-25T12:21:38Z</timestamp>
+      <contributor>
+        <username>Immanuel Giel</username>
+        <id>31087</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3046" xml:space="preserve">[[Datei:Futebol Salao Pan2007.jpg|mini|[[Futsal]] ist im deutschsprachigen Raum kaum bekannt. In Südamerika, Süd- und Osteuropa hingegen ist es eine Massensportart.]]
+'''Randsportart''' bezeichnet jene Sportarten, die von [[Massenmedien]] und der Öffentlichkeit nur ''am Rande'' wahrgenommen werden.
+
+== Medieninteresse ==
+Welche Sportarten dazugehören, ist regional unterschiedlich. [[Baseball]], in den [[USA]] neben [[American Football]], [[Eishockey]] und [[Basketball]] Hauptmedienereignis mit entsprechenden Milliardenumsätzen, ist in Europa eine wenig beachtete Randsportart. Dagegen wird in den USA der [[Fußball]] in den Medien kaum wahrgenommen. In Deutschland zählt auch das [[Schießsport|Sportschießen]] zu den Randsportarten, obwohl die Mitgliedszahlen der [[Schützenverband|Schießsportverbände]] bei Statistiken regelmäßig auf dem dritten oder vierten Platz liegen.&lt;ref&gt;{{Internetquelle |autor=General-Anzeiger |url=http://www.general-anzeiger-bonn.de/sport/regio-sport/Die-Definition-von-Randsport-article1084454.html |titel=Die Definition von Randpsort |werk= |hrsg= |datum=2013-06-27 |abruf=2019-07-16 |sprache=}}&lt;/ref&gt;
+
+Mit dem Begriff der Randsportart verbindet sich der Blickwinkel der Medien – bezogen auf die ökonomische Verwertbarkeit dieser Sportart. Zwischen Publikumsinteresse und Medienpräsenz gibt es dabei komplexe Wechselwirkungen.
+
+Sportarten, die bevorzugt von [[Elite|elitären]] Kreisen gepflegt werden, fallen, auch bei mangelndem Publikums- und Medieninteresse, nicht unter diese Bezeichnung, so zum Beispiel [[Golf (Sport)|Golf]], Hochsee-Yachting, [[Polo (Sport)|Polo]] oder [[Dressurreiten]].
+
+Randsportarten sind Sportarten, die von vergleichsweise wenigen Menschen betrieben werden und/oder ein geringes öffentliches Interesse genießen. Zumeist werden Randsportarten von [[Sportler]]n betrieben, die ihrem Sport als [[Amateur]]e nachgehen.
+
+== Beispiele für Randsportarten ==
+
+{|class="wikitable"
+|-
+| [[Datei:Futsal pictogram.svg|70px]]
+| [[Datei:Basque pelota pictogram.svg|70px]]
+| [[Datei:Water skiing pictogram.svg|70px]]
+| [[Datei:Roller hockey pictogram.svg|60px]]
+| [[Datei:Korfball pictogram.svg|60px]]
+| [[Datei:Kaatsen pictogram.svg|70px]]
+|-
+| [[Futsal]] 
+| [[Pelota]] 
+| [[Wasserski]] 
+| [[Rollhockey]] 
+| [[Korfball]] 
+| [[Kaatsen]]
+|}
+
+== Literatur ==
+* Frank Huber, Heike Kircher, Isabel Matthes: ''Randsportarten erfolgreich vermarkten: Gestaltung von Fernsehformaten mit Prominenten''. Gabler, 2008, ISBN 978-3834909244.
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+== Weblinks ==
+{{Wiktionary}}
+* [http://www.wienerzeitung.at/dossiers/olympia_2012/475394_216-plus-zwei.html Olympia - die Chance für "Randsportler"]
+* [http://randsportarten.info/randsportarten/ Sportverein Randsportarten]
+* [https://www.pulstreiber.de/stories-lesen/ueber-das-schattendasein-von-randsportarten.html Über das Schattendasein von Randsportarten]
+* [https://www.tagesspiegel.de/sport/randsportarten-wo-ist-die-nische/249340.html Randsportarten: Wo ist die Nische?]
+
+[[Kategorie:Sportart|!]]</text>
+      <sha1>77gbdociwmo7dfa8dringlqg4y7o985</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sportart</title>
+    <ns>0</ns>
+    <id>4960</id>
+    <revision>
+      <id>212579260</id>
+      <parentid>212579234</parentid>
+      <timestamp>2021-06-01T15:00:08Z</timestamp>
+      <contributor>
+        <username>Hoppla Schorsch</username>
+        <id>3474093</id>
+      </contributor>
+      <comment>Änderung [[Spezial:Diff/212579234|212579234]] von [[Special:Contribs/2001:16B8:6668:900:6DB8:9794:E2E2:EC28|2001:16B8:6668:900:6DB8:9794:E2E2:EC28]] rückgängig gemacht; Unfug</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7975" xml:space="preserve">{{Belege fehlen|2=Dieser Artikel}}
+
+Eine '''Sportart''' ist ein durch bestimmte [[Regel (Richtlinie)|Regeln]] strukturiertes Teilgebiet des [[Sport]]s, siehe auch [[Liste von Sportarten]]. Innerhalb einer Sportart werden häufig verschiedene [[Sportdisziplin|Disziplinen]] unterschieden.
+
+== Kategorien von Sportarten ==
+Sportarten lassen sich nach bestimmten Gesichtspunkten in verschiedene Kategorien einteilen. Es gibt aber keine offiziellen Klassifikationen. 
+Einige Ordnungsmöglichkeiten: 
+* ''nach Teilnehmern nach dem Beruf'': [[Arbeitersport in Deutschland|Arbeitersport]], [[Betriebssport]], [[Behindertensport]], [[Feuerwehrsport]], [[Hochschulsport]], [[Militärsport]], [[Polizeisport]], [[Jugendsportart|Jugendsport]] und [[Seniorensport]], [[Frauensport]] (z. B. [[Roller Derby]]) und [[Männersport]] (z. B. [[Skifliegen]]) [[Amateursport]] und [[Profisport]]
+* ''nach der Organisationsform'': [[Mannschaftssport]], [[Individualsport]]
+* ''nach dem Sportgerät'': [[Ballsportart|Ballsport]], [[Hockeysport]], [[Radsport]], [[Rollsport]], [[Skisport]]
+* ''nach dem Austragungsort'': (Ort der Ausübung) [[Hallensport]], [[Feldsport]] (z. B. [[Feldhandball]]), [[Wassersport]], [[Bergsport]], [[Luftsport]], [[Beachsport]] (z. B. [[Beachsoccer]]), [[Rasensport]]
+* ''nach Jahreszeiten'': [[Wintersport]], Sommersport
+* ''nach der Art der Durchführung'': [[Sportspiel]], [[Kraftsport]], [[Ausdauersport]], [[Präzisionssport]], [[Sprint]]
+* ''nach der Art der Auseinandersetzung'': [[Kampfsport]], [[Rennsport]] 
+* ''nach der Region'': autochthone Sportarten, [[Sport in den Vereinigten Staaten|US-Sportarten]]
+* ''nach der Hauptbeanspruchung'': (Typ) [[Denksport]], Körperlicher Sport, [[Motorsport]], [[Tiersport]] (z. B. [[Pferdesport]] und [[Hundesport]])
+* ''nach Zweck und Intensität:'' [[Breitensport]] und [[Leistungssport]]
+
+Keine Einteilungsmöglichkeit kann ausschließen, dass eine Sportart in mehreren Kategorien auftaucht: [[Radpolo]] etwa ist sowohl eine Ball- als auch eine Radsportart.
+
+== Systematisierung der Sportarten ==
+Ausgehend von der psychomotorischen Bedeutung des Sports hat [[Pierre Parlebas]] ein System der [[Praxeologie (Sozialtheorie)|Praxeologie]] des Sports aufgestellt, in dem jede Sportart(-disziplin) auf maximal drei Koordinaten dargestellt werden kann.  Parlebas steht damit in einer langen Tradition französischer Sportpädagogen, die einen soziologischen und psychomotorischen Ansatz verfolgen&lt;ref&gt;Réflexion sur la place du sport dans l'éducation : l'exemple de l’Agence Pour l’Education par Le Sport (APELS)&lt;/ref&gt;:  
+
+*Individuell (der [[Psychomotorik]] zugeordnet) oder Mannschaft (der [[Soziomotorik]] zugeordnet); 
+*Anwesenheit von Partner(n)(=P) oder Gegner(n)(=A);  
+*Ungewissheit durch Umgebung/Spielfeld (=I). 
+[[Fußball]] ist damit heute eine PA-Sportart (ohne I, da die Fußballplätze standardisiert sind).
+
+Generell gibt es eine Tendenz, die Sportarten immer stärker zu standardisieren, wodurch in einer Gegenrichtung immer mehr neue [[Trendsportart]]en entstehen, die durch Auseinandersetzung mit der [[Natur]] der Standardisierung entgegenwirken.&lt;ref&gt;[[Arnd Krüger]], [[Roland Naul]]: ''Geturniert wart den Sumer vil..." - Theorie und Praxis der traditionellen Formen aus Leichtathletik und Bewegungsspiel.'' In: Ulrich Becker (Hrsg.): ''Leichtathletik im Lebenslauf.'' Meyer &amp; Meyer, Aachen 1994, ISBN 3-89124-200-X, S. 3395–3400.&lt;/ref&gt; So waren im 19. Jahrhundert [[Crosslauf]] und Bahn-[[Leichtathletik]] annähernd gleichberechtigt. Die Aschenbahnen wurden immer besser, bis durch die Kunststoffbahnen kaum noch saisonklimatische Unterschiede feststellbar sind.
+
+== Populäre Sportarten ==
+{{Überarbeiten}}
+Die Popularität von Sportarten ist teilweise sehr stark national geprägt. Nur wenige Sportarten können eine weltweite Bedeutung vorweisen. Grundsätzlich muss dabei zwischen der Ausübung und dem Zuschauen einer Sportart unterschieden werden, wobei zweifelsohne ein Zusammenhang besteht zwischen der eigenen Ausübung eines Sports und deren Anhängerschaft.
+
+Der weltweit populärste Zuschauersport ist eindeutig [[Fußball]]. Wie nur wenige andere Disziplinen gehört der Fußball in fast allen Teilen der Welt zu den beliebtesten Sportarten. Nur in [[Nordamerika]], [[Australien]] und Südasien ist der Fußball auf eine untergeordnete Rolle reduziert. Andere annähernd weltweit verbreitete Sportarten sind weitere [[olympische Sportarten]], darunter neben den Kerndisziplinen [[Leichtathletik]] und [[Schwimmsport|Schwimmen]] das [[Boxen]] und [[Tennis]] sowie als Mannschaftssportarten [[Basketball]] und [[Volleyball]].
+
+[[Europa]]s Sportmarkt wird die letzten Jahrzehnte immer stärker vom Fußball dominiert, der mittlerweile in allen europäischen Staaten zumindest die zweitbeliebteste Sportart darstellt. Dies schlägt sich auch in der Berichterstattung und der öffentlichen Förderung nieder. In großem Abstand folgt [[Eishockey]], dicht gefolgt von [[Handball]] und [[Basketball]]. 
+Innerhalb Europas gibt es regionale Unterschiede, die teilweise durch Nationalstaaten verlaufen. So ist Eishockey zwar in weiten Teilen Europas beliebt, aber kaum im Süden. Handball in Nordeuropa und Norddeutschland, Basketball und Wasserball im gesamten südeuropäischen Raum bzw. Basketball außerdem insbesondere auch in [[Litauen]], [[Radsport]] in West- und Südwesteuropa, [[Baseball]] fast nur in den Niederlanden und in Italien, [[Rugby Union]] in Westeuropa, [[Rugby League]] nur in [[Vereinigtes Königreich|Großbritannien]] und [[Frankreich]], [[Skisport]] in der Alpenregion und in Nordeuropa, [[Unihockey]] in der Schweiz, Tschechien und den skandinavischen Staaten.
+
+In Nordamerika hat sich ein eigenes System von Sportarten entwickelt. Im Mittelpunkt stehen hier vier Mannschaftssportarten, die unter [[US-Sport]]arten zusammengefasst werden können. [[Baseball]] ist die älteste amerikanische Nationalsportart, musste aber in den 1970ern den Titel der beliebtesten Sportart an [[American Football]] abgeben, [[Basketball]] und [[Eishockey]] stehen hinter diesen, wobei Basketball die beliebtere der beiden ist. Hinter diesen erfreuen sich weitere Mannschaftssportarten wie zum Beispiel [[Lacrosse]], [[Fußball]] und [[Rugby Union|Rugby]] regem Zuspruch.
+
+Mit [[Rugby Union|Rugby]] und [[Cricket]] haben sich zwei weitere Sportarten neben dem Fußball mit dem [[Commonwealth]] verbreitet, die weltweit recht populär sind. Rugby Union zum Beispiel im gesamten Ozeanien, Argentinien, Japan, Südafrika aber auch außerhalb des Commonwealth wie in Frankreich und Italien. Cricket zum Beispiel in Indien, Pakistan, Australien und dem südafrikanischen Raum. Trotz dieser Beliebtheit haben die nationalen olympischen Verbände international lange nicht durchsetzen können, dass diese Sportarten olympisch werden. Bei Rugby ist dies allerdings zwischenzeitlich geschehen. [[Rugby League]] hat es durch das Commonwealth außerhalb des Mutterlandes nur in Australien und Neuseeland zu einer größeren Sportart geschafft. Die Ausbreitung des Sports wird mit dem anglo-amerikanischen Kulturimperialismus in Zusammenhang gebracht.&lt;ref&gt;Brian Stoddart: Sport, Cultural Imperialism, and Colonial Response in the British Empire. ''Comparative Studies in Society and History'' 30 (1988), 4,649-673.&lt;/ref&gt;
+
+In asiatischen Ländern zählen [[Badminton]] und [[Tischtennis]] zu den beliebtesten Sportarten. Beide Sportarten werden in der Spitze der Weltranglisten von Asiaten dominiert. Sowohl Badminton als auch Tischtennis zählen in Deutschland und in den meisten europäischen Ländern allerdings nur zu den Randsportarten. Lediglich Dänemark stellt eine europäische Ausnahme in der Sportart Badminton dar. Über viele Jahre gehören die Dänen zu den einzigen Europäern, die sich dauerhaft in der Weltspitze festsetzen konnten.
+
+== Siehe auch ==
+* [[Training (Sport)]]
+
+== Einzelnachweise ==
+&lt;references/&gt;
+
+{{Normdaten|TYP=s|GND=4182433-7}}
+
+[[Kategorie:Sportart|!]]</text>
+      <sha1>34tmn8d4up7rmpwl4d8sua5kmfbqmbi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Königsklasse</title>
+    <ns>0</ns>
+    <id>10321127</id>
+    <revision>
+      <id>211676484</id>
+      <parentid>211676442</parentid>
+      <timestamp>2021-05-06T18:49:56Z</timestamp>
+      <contributor>
+        <username>Carol.Christiansen</username>
+        <id>197646</id>
+      </contributor>
+      <minor/>
+      <comment>Änderungen von [[Special:Contributions/Mediakonz|Mediakonz]] ([[User talk:Mediakonz|Diskussion]]) auf die letzte Version von [[:Benutzer:Krdbot|Krdbot]] zurückgesetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" xml:space="preserve">Als '''Königsklasse''' wird die höchste Klasse einer Sportart bezeichnet.&lt;ref&gt;[[Duden]]: [https://www.duden.de/rechtschreibung/Koenigsklasse ''Königsklasse'']&lt;/ref&gt;
+
+== Beispiele ==
+* [[Formel 1]] (Auto)
+* [[MotoGP]] (Motorrad)
+* [[UEFA Champions League]] (Fußball)
+* [[EHF Champions League]] (Handball)
+* [[Champions Hockey League]] (Eishockey)
+* [[Volleyball Champions League]] (Volleyball)
+
+== Siehe auch ==
+* [[König-Klasse]], vier Großlinienschiffe der deutschen Kaiserlichen Marine
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Sportart|!]]
+{{SORTIERUNG:Konigsklasse}}</text>
+      <sha1>4jpxfit4tamyrxx78145x2waxas23p0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Hockeysportart</title>
+    <ns>14</ns>
+    <id>11710349</id>
+    <revision>
+      <id>210150510</id>
+      <timestamp>2021-03-24T07:02:56Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quellen#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt: [[Kategorie:Sportart]] [[Kategorie:Hockeysport|Art]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" xml:space="preserve">[[Kategorie:Sportart]]
+[[Kategorie:Hockeysport|Art]]</text>
+      <sha1>i80b3es2qpvsv8fweoax2i1yr4qbuq3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Luftsportart</title>
+    <ns>14</ns>
+    <id>11710394</id>
+    <revision>
+      <id>210152403</id>
+      <timestamp>2021-03-24T08:19:40Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quellen#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt: [[Kategorie:Sportart]] [[Kategorie:Luftsport|Art]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="50" xml:space="preserve">[[Kategorie:Sportart]]
+[[Kategorie:Luftsport|Art]]</text>
+      <sha1>qm7c57irm4our8b2espkfzppdtkmi4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Beachsportart</title>
+    <ns>14</ns>
+    <id>11710403</id>
+    <revision>
+      <id>210152755</id>
+      <timestamp>2021-03-24T08:33:37Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quellen#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt: [[Kategorie:Sportart]] [[Kategorie:Beachsport|Art]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51" xml:space="preserve">[[Kategorie:Sportart]]
+[[Kategorie:Beachsport|Art]]</text>
+      <sha1>no4bly2i5b7ssuxlassu66xyiyprrye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Behindertensportart</title>
+    <ns>14</ns>
+    <id>11710412</id>
+    <revision>
+      <id>210152938</id>
+      <timestamp>2021-03-24T08:41:33Z</timestamp>
+      <contributor>
+        <username>DynaMoToR</username>
+        <id>296024</id>
+      </contributor>
+      <comment>[[Hilfe:Zusammenfassung und Quellen#Auto-Zusammenfassung|AZ]]: Die Seite wurde neu angelegt: [[Kategorie:Sportart]] [[Kategorie:Behindertensport|Art]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" xml:space="preserve">[[Kategorie:Sportart]]
+[[Kategorie:Behindertensport|Art]]</text>
+      <sha1>enur6v7c0z0utm8sdflaak1hv9fcs62</sha1>
+    </revision>
+  </page>
+</mediawiki>

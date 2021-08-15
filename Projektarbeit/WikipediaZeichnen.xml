@@ -1,0 +1,1738 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>dewiki</dbname>
+    <base>https://de.wikipedia.org/wiki/Wikipedia:Hauptseite</base>
+    <generator>MediaWiki 1.37.0-wmf.12</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Diskussion</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Modul Diskussion</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget Diskussion</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget-Definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget-Definition Diskussion</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concept Art</title>
+    <ns>0</ns>
+    <id>147244</id>
+    <revision>
+      <id>199811117</id>
+      <parentid>193307482</parentid>
+      <timestamp>2020-05-10T15:56:38Z</timestamp>
+      <contributor>
+        <username>Pintsknife</username>
+        <id>2937641</id>
+      </contributor>
+      <comment>/* Bekannte Illustratoren/ Concept Artists */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7135" xml:space="preserve">{{Dieser Artikel|beschäftigt sich mit Illustrationen; für den Kunststil siehe [[Konzeptkunst]]}}
+
+'''Concept Art''' bezeichnet eine Form der [[Illustration]], die ein Konzept visuell veranschaulichen soll, bevor es in ein Endprodukt umgesetzt wird. Zum Einsatz kommen diese visuellen Umsetzungen zum einen in der Entwicklung von Ideen, Designvorstellungen oder Stimmungen in der Produktion von Kino[[film]]en, [[Videospiel]]en oder [[Comic]]s, zum anderen in der expliziten Ausführbarkeit von zu produzierenden [[Assets]], [[Requisiten]], [[Filmsets]], [[Items]], [[Levelelementen]] und [[Charakteren]].
+
+''Concept Art'' ist ein aus dem amerikanischen Englisch übernommener Begriff, der von der [[Trickfilm]]industrie seit den 1930er Jahren für [[Skizze|Konzeptskizzen]] verwendet wird. Diese gezeichneten oder gemalten Bilder sollen das Design, den generellen Look, die Stimmungen, die Farben u. a. eines geplanten Werkes illustrieren. Später übernahm die Spieleindustrie den Begriff, als die gesteigerten visuellen Anforderungen an [[Computerspiel]]e eine sorgfältigere Planung notwendig machten.
+
+''Concept Art'' bezeichnet eine vorbereitende visuelle Beschreibung innerhalb der Unterhaltungsindustrie. Bevor Charaktere, Spielwelten oder Einzelheiten ausgearbeitet werden, zeigen Bilder, meist basierend auf den Angaben der Drehbuchautoren (in der [[Filmproduktion]]), wie diese Dinge aussehen könnten; in der [[Games-Branche]] wird in der Regel das [[Entwurf|Konzept]] des [[Game Designer]]s vom [[Game Artist]] interpretiert und zu ausführbaren Arbeitsaufträgen für die Bereiche [[3D-Modeling]], [[Texturierung]] und [[Animation]] ausgearbeitet. Concept Art beschreibt damit nicht nur die visuelle Umsetzung und Ausarbeitung von Ideen, sondern definiert – in der Regel in der Verbindung mit [[Regisseur]] oder Game Designer in iterativen Designprozessen –, was tatsächlich zu produzieren ist.
+
+Ein wichtiges Element in der Entwicklung der Ideen ist für die [[Illustrator]]en und Animationskünstler die Anfertigung von [[Fotografie|Standfotos]] von gebauten Modellen. Auf diesem Wege wurden z.&amp;nbsp;B. die Elbenschwerter für die Verfilmung des [[Herr der Ringe]] aus Blattformen entwickelt.
+
+Seit Mitte der 1990er Jahre arbeiten die meisten Illustratoren überwiegend [[Grafiksoftware|digital]]. Hier ist als neue Darstellungsform eine [[Computergrafik|3D-Modellierung]] möglich.
+
+== Geschichte ==
+Die Entstehung der ''Concept Art'' ist eng verbunden mit der Geschichte der Filmgestaltung.
+
+Die Veröffentlichung von ''[[Das Cabinet des Dr. Caligari]]'' (1920) leistete einen wesentlichen Beitrag zur Anerkennung des Films als eigener Kunstgattung.&lt;ref name="New Rebublic"&gt;{{Literatur |Autor=Virginia Woolf |Titel=The Movies and Reality |Sammelwerk=[[The New Rebublic]] |Datum=1926-08 |Seiten=308–310}}&lt;/ref&gt; Das außergewöhnliche [[Production Design]] dieses Films zeichnete sich nicht nur dadurch aus, die Handlung sinnvoll zu unterstützen, sondern zugleich auch wirkungsvoll den expressionistischen Kunsttrend der damaligen Zeit widerzuspiegeln. [[Robert Wiene]]s Entwürfe dienten dabei als [[Concept Design]]s für die [[Filmarchitektur]]. Diese wird selbst zur [[Metapher]] und die Räume symbolisieren Schreie, Angst und Furcht.&lt;ref name="Filmarchitektur"&gt;{{Literatur |Autor=Dietrich Neumann, Kaes, Vidler, Webb, Albrecht |Titel=Filmarchitektur |Verlag=[[Prestel-Verlag]] |Datum=1996 |ISBN=978-3-7913-1605-5 |Seiten=7/8}}&lt;/ref&gt;
+
+Seither wird Skizzen, [[Gemälde]]n und Modellen der Concept Artists größere Aufmerksamkeit zuteil, und technische Neuerungen, wie Kamerabewegung, [[Überblendung (Film)|Überblendung]] und [[Filmmontage|Montage]] bereiten den Weg für mehr gestalterische Freiheit.&lt;ref name="Baukunst"&gt;{{Literatur |Autor=[[Heinrich de Fries]] |Titel=Raumgestaltung im Film |Sammelwerk=Wasmuths Monatshefte für Baukunst 1/2 |Datum=1921-01 |Seiten=63–82}}&lt;/ref&gt;
+Sorgfältig geplante Set Designs werden nicht selten zu einem zentralen Bestandteil des Films (''[[Metropolis (Film)|Metropolis]]'', 1927). Dabei wird die reale Entwicklung der Architektur schnell überholt und dient den Concept Artists als Experimentierfeld. Zukunftsvisionen und deren Design entpuppen sich als Kassenmagneten (''[[Der letzte Mann (1924)|Der letzte Mann]]'', ''[[Asphalt (1929)|Asphalt]]'') – eine Entwicklung, die bis in die 1970er Jahre anhielt und mit [[Ralph McQuarrie]]s Concept Paintings für ''[[Star Wars]]'' (1977) ihren Höhepunkt erreichte.
+
+Eine allgemeine Enttäuschung über die Resultate der Moderne wendete die Zukunftsbegeisterung der Künstler bald ins Gegenteil. [[Dystopie|Negative Utopien]] rückten in den Vordergrund, und mit ''[[Blade Runner]]'' (1982) wurde der [[Cyberpunk]] geboren. [[Ridley Scott]] setzt auf Reizüberflutung als Ausdruck des Grauens, und sein Visual Futurist [[Syd Mead]] überzeugt durch bildliche und assoziative Vielschichtigkeit.&lt;ref name="Interview"&gt;Interview mit [[Ridley Scott]] geführt von ''The Ladd Company'', 1982.&lt;/ref&gt;&lt;ref name="Visual Futurist"&gt;Joaquin Montalvan: ''Visual Futurist: The Art &amp; Life of Syd Mead'' (DVD, 107 min), 2006.&lt;/ref&gt; Die Wirklichkeit wird übersteigert, aber nicht mehr idealisiert dargestellt.
+
+Weitere künstlerische Stilmittel entstehen durch Paralleluniversen und [[Kontrafaktische Geschichte|kontrafaktische]] Visionen nach dem Motto: Was wäre wenn … sich New York ohne Bauvorschriften entwickelt hätte (''[[Batman]]'', 1989) oder wenn die amerikanische Wirtschaftskrise oder der Zweite Weltkrieg nicht stattgefunden hätten&lt;ref name="Filmarchitektur" /&gt; ([[Dick Tracy]] 1990, siehe auch [[Raymond Loewy]], [[Luigi Colani]]).
+
+Damit geht auch die Ära der traditionellen Filmeffekte zu Ende, und die der [[Computer Generated Imagery|computergenerierten]] beginnt. Parallel dazu stellen zunehmend komplexer gestaltete [[Computerspiel]]e in künstlerischer und technischer Hinsicht neue Anforderungen an den Concept Artist. Zu Gunsten eines effektiveren [[Workflow]] verdrängt der Computer die klassischen Handwerkszeuge wie Stift und Papier.
+
+== Bekannte Illustratoren/ Concept Artists ==
+* [[Syd Mead]]
+* [[Craig Mullins]]
+* [[Ralph McQuarrie]]
+* [[Scott Robertson]] ([[Videospiel|Games]])
+* [[Feng Zhu]] (Games, [[Filmproduktion]])
+* [[Daniel Lieske]] (Games), aus Deutschland
+* [[Helge C. Balzer]] (Games), aus Deutschland
+
+== Siehe auch ==
+* [[Storyboard]]
+* [[Speedpainting]]
+* [[Digitales Malen]]
+
+== Literatur ==
+
+* Christoph Metzger (Hrsg. und Kurator): ''Conceptualisms – in Musik, Kunst und Film.'' Pfau-Verlag, Saarbrücken 2003, ISBN 3-89727-235-0. (Ausst. Katalog und Kongressbericht).
+* Scott Robertson, ''How to Draw: Drawing and Sketching Objects and Environments'', USA: Design Studio Press 2013, ISBN 978-1-933492-73-5
+
+== Weblinks ==
+* [http://www.turtleart.net/artists.php concept artist link collection]
+* [http://www.cgtalk.com/ CGTalk]
+* [http://www.igda.org/ International Game Developers Association]
+* [http://www.characterdesigns.com/ Character Designs]
+* [http://www.artstation.com/ Art Station]
+
+== Fußnoten ==
+&lt;references /&gt;
+
+[[Kategorie:Grafikdesign]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>48yeck9rh8n5hyoo0sqfotn8aub5vk0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Zeichenwerkzeug</title>
+    <ns>14</ns>
+    <id>1604834</id>
+    <revision>
+      <id>159379445</id>
+      <parentid>142089980</parentid>
+      <timestamp>2016-11-04T19:12:22Z</timestamp>
+      <contributor>
+        <username>JohanahoJ</username>
+        <id>1667159</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:HC|HC]]: Ergänze [[Kategorie:Künstlermaterial]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="445" xml:space="preserve">'''Zeichenwerkzeug''' ist zum größten Teil, aber nicht ausschließlich [[Handwerkzeug]] und wird daher sowohl in der Kategorie ''Werkzeug'' als auch in der Kategorie ''Handwerkzeug'' aufgeführt.
+
+Siehe auch [[:Kategorie: Schreibgerät]] und [[:Kategorie: Schreibmaterial]]
+
+{{commonscat|Drawing materials}}
+
+[[Kategorie:Handwerkzeug nach Verwendung|Zeichnen]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Büromaterial]]
+[[Kategorie:Künstlermaterial]]</text>
+      <sha1>n09kt70usfcbrn1eh6gmml02cftau5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Technisches Zeichnen</title>
+    <ns>14</ns>
+    <id>1431079</id>
+    <revision>
+      <id>166811214</id>
+      <parentid>116799063</parentid>
+      <timestamp>2017-06-29T00:23:53Z</timestamp>
+      <contributor>
+        <username>HvW</username>
+        <id>983538</id>
+      </contributor>
+      <minor/>
+      <comment>kat änd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="574" xml:space="preserve">{{Kategoriegraph}}
+Kategorie für alles was mit [[Technisches Zeichnen|Technischen Zeichnen]] zu tun hat. Das umfasst sowohl den Bereich des [[Maschinenbau]]s als auch den des [[Bauwesen]]s ([[Bauzeichnung]]en), der [[Elektrotechnik]], der [[Installationstechnik]] und der [[Softwaremodellierung]].
+
+
+Verwandte Kategorien: 
+* [[:Kategorie:Architekturdarstellung]]
+* [[:Kategorie: Geometrie]]
+&lt;!--{PortalBot}{{Portallink|Maschinenbau}}--&gt;
+{{Commonscat|Technical drawing}}
+
+[[Kategorie:Konstruktionslehre]]
+[[Kategorie:Technik]]
+[[Kategorie:Bauplanung]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>9n59toclmui8svzucfofn1r6oc39pgs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Umrisszeichnung</title>
+    <ns>0</ns>
+    <id>1526018</id>
+    <revision>
+      <id>184599785</id>
+      <parentid>184599713</parentid>
+      <timestamp>2019-01-10T20:26:31Z</timestamp>
+      <contributor>
+        <username>Alfred Löhr</username>
+        <id>819212</id>
+      </contributor>
+      <comment>/* Siehe auch */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2667" xml:space="preserve">[[Datei:Lavater Umrisszeichnung.jpg|mini|Umrisszeichnung: Porträt Johann Caspar Lavater]]
+Die '''Umrisszeichnung''' ist eine klassizistische Darstellungstechnik. Ihr entspricht der [[Umriss]]&lt;nowiki/&gt;stich bzw. die Umrissradierung als [[Reproduktion]]sverfahren. Sie ist deutlich vom [[Schattenriss]] abzugrenzen, welcher eher aufgrund einer [[Inverskopie]] auf gedrucktem Papier, einem [[Negativfilm|Negativ]] eines [[Foto]]s bzw. einem [[Scherenschnitt]] bei beleuchteten oder angestrahlten Körpern ähnelt.
+
+Die Umrisszeichnung bzw. der Umriss- oder Konturenstich gibt nur die strengen Konturen der Komposition wieder – ohne Binnenzeichnung und dadurch ohne plastische Modellierung und Schattengebung, die beim [[Kupferstich]] durch ein System von Kreuzlagen erreicht werden. Beim Umriss- oder Konturenstich liegen allenfalls die Figuren etc. zur besseren Abhebung vom weißen Papiergrund einer partiellen schraffierten Hintergrundfläche auf.
+
+Vor dem [[Klassizismus]] vor allem in der Porträtsammlung [[Johann Caspar Lavater]]s und sonst höchstens zur Illustrierung im Sach- und Fachbuchbereich verwendet, führte [[John Flaxman]] (1755–1826) vor 1800 Umrisszeichnung – und zu deren Vervielfältigung den Umrissstich – als neue Manier bei seinen [[Illustration]]sfolgen zu [[Dante Alighieri|Dante]], [[Homer]] etc. ein. Er fand bald auch in Deutschland zahlreiche Nachahmer in dieser für die Verbreitung von Werken kostengünstigen Stich-, Radier- und Lithotechnik im Illustrationsbereich. Hervorzuheben sind u.&amp;nbsp;a. [[Bonaventura Genelli]], [[Julius Nisle]], [[Moritz Retzsch]] und [[Johann Christian Ruhl]].
+
+Der Schweizer [[Johann Ludwig Aberli]] (1723–1786) verwendete die Umrisstechnik schon in den 1760er Jahren für seine Landschaftsfolgen, deren Blätter er selbst oder seine Gehilfen tuschten oder [[Kolorieren|kolorierten]]. Diese ''Aberlische Manier'' fand in der Kunstindustrie Verbreitung und Nachfolge in vielen Ländern.
+
+Verwandt mit dem linearen Konturenstich ist der ebenfalls um 1800 als adäquates Reproduktionsmittel –&amp;nbsp;z.&amp;nbsp;B. für gezeichnete [[Karton (Kunst)|Entwurfskartons]]&amp;nbsp;– entwickelte Kartonstich, bei dem eine Andeutung von Licht und Schatten nur durch das An- und Abschwellen der Linien mit dem [[Grabstichel (Werkzeug)|Grabstichel]] erreicht wurde. Bahnbrechend im Kartonstich waren [[Julius Thaeter]] (1804–1870) und seine Schüler ([[Johann Burger (Kupferstecher)|Johann Burger]]).
+
+== Siehe auch ==
+* [[Physionotrace]]
+* [[Scherenschnitt]]
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Personendarstellung (Bildende Kunst)]]
+[[Kategorie:Bildgattung]]
+[[Kategorie:Technik der Malerei|Umrisszeichnung]]</text>
+      <sha1>mvw82id32wd8jxudyqh0agnvl22zvas</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unterzeichnung</title>
+    <ns>0</ns>
+    <id>1187824</id>
+    <revision>
+      <id>213552979</id>
+      <parentid>197158106</parentid>
+      <timestamp>2021-07-04T16:11:42Z</timestamp>
+      <contributor>
+        <username>Mateus2019</username>
+        <id>3179872</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:HC|HC]]: Entferne [[Kategorie:Malerei]]; Ergänze [[Kategorie:Maltechnik]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8513" xml:space="preserve">{{Dieser Artikel|handelt von der Zeichnung in der Kunst; zur [[Unterschrift]] siehe dort, zur Unterzeichnung von Wertpapieremissionen siehe [[Überzeichnung]].}}
+[[Datei:Reiter Unterzeichnung.jpg|mini|Mit Hilfe der Infrarotreflektografie wird die Unterzeichnung mit schwarzer Kreide (?) unter der Malerei sichtbar.]]
+Die '''Unterzeichnung''' ist eine Vorzeichnung, die sich auf der [[Grundierung]] oder der [[Imprimitur]] eines Gemäldes befindet und von einer oder mehreren Farbschichten bedeckt ist. Sie ist der erste künstlerische Arbeitsvorgang, der vom Künstler auf einem grundierten Bildträger vorgenommen wurde. Sie fixiert die wesentlichen Merkmale der mit Farbe auszuführenden Bildkomposition.
+
+Der Terminus „Unterzeichnung“ ersetzt seit einiger Zeit den in der Kunstgeschichte ursprünglich verwendeten Begriff „Vorzeichnung“. Letzterer wurde für die Gemäldeforschung zu ungenau, weil er sowohl die [[Skizze]], das heißt, den Bildentwurf auf Papier oder Karton beinhaltet, als auch die Vorzeichnung direkt auf dem Bildträger.
+
+== Entwicklung    ==
+[[Datei:Unterzeichnung Rand.jpg|mini|Das Gemälde wurde nach der Unterzeichnung und vor der malerischen Ausführung auf den Keilrahmen gespannt. Dadurch ist auf dem Umschlag die Unterzeichnung sichtbar.]]
+Bis etwa zur Mitte des 15. Jahrhunderts bildeten Vorzeichnung und Unterzeichnung noch eine Einheit. Die Komposition wurde vom Künstler direkt auf der Bildtafel entworfen. Entsprach sie seinen Vorstellungen begann die farbige Ausführung. Etwa gegen Ende des 15. Jahrhunderts geschah die Bildvorbereitung immer häufiger über Entwürfe und Studien außerhalb des Bildträgers auf Papier oder Karton. Erst die fertig durchgestaltete Vorzeichnung wurde auf den Bildträger übertragen. Im Laufe des 16. Jahrhunderts nahm die Unterzeichnung an Detailgenauigkeit ab. Unterzeichnungstechniken wurden variiert. Vereinzelt findet man lavierte Unterzeichnungen.&lt;ref&gt;{{Literatur |Autor=z.&amp;nbsp;B. [[Lucas van Leyden]] |Titel=Jüngstes Gericht |Hrsg= |Sammelwerk= |Band= |Nummer= |Auflage= |Verlag= |Ort=Rijksmuseum Amsterdam |Datum= |ISBN= |Seiten=}}&lt;/ref&gt; Anstelle ihrer ursprünglichen Funktion, unsichtbar die Formen zu fixieren, nahm die Unterzeichnung malerische Züge an und wurde in den Malprozess integriert.
+
+== Technik ==
+[[Datei:Unterzeichnung Vorritzung.jpg|mini|Bei Goldgrundtafeln wurde die Unterzeichnung an der Grenze zwischen Vergoldung und Farbauftrag in der Regel vorgeritzt.]]
+Jedes Gemälde ist in der Regel in irgendeiner Form unterzeichnet. Die Kunstgeschichte unterscheidet zwei Unterzeichnungstechniken: 1. die Ritzung mit einer Nadel, die z.&amp;nbsp;B. an mittelalterlichen [[Goldgrundbild]]ern nachzuweisen ist und 2. die Verwendung von [[Unterzeichnungsmittel]]n, wie sie für [[Handzeichnung]]en üblich sind. Erst seit Anwendung der [[Gemäldeuntersuchung mit Infrarotstrahlung|Infrarotuntersuchung]] (IR) im Rahmen der naturwissenschaftlichen Gemäldeflächenuntersuchung in den 1930er Jahren ist man in der Lage, in einem gewissen Umfang durch opake Farbschichten hindurch zu „sehen“, also Unterzeichnungen sichtbar zu machen und mit kunstwissenschaftlichen Methoden auszuwerten. Bis dahin waren sie nur an unfertigen Bildern sichtbar, wurden hier und da von einem Fachmann „erahnt“ oder an Bildern erkannt, die durch chemische oder physikalische Einflüsse in ihrem Aufbau gelitten hatten, etwa durch Verseifung  bleiweißhaltiger Farbschichten oder durch Verputzung, d.&amp;nbsp;h., der teilweisen Zerstörung bei der Firnisabnahme. Nur bei einer der seltenen Gemäldeübertragungen von einem zerstörten Bildträger auf einen neuen wurden sie gelegentlich als Ganzes – seitenverkehrt – sichtbar.
+
+== Erforschung ==
+Eine intensive Erforschung der Unterzeichnung und der Unterzeichnungstechnik begann erst in den 1950er Jahren mit den grundlegenden Untersuchungen Johannes Tauberts.&lt;ref&gt;{{Literatur |Autor=Johannes Taubert |Titel=Zur kunstwissenschaftlichen Auswertung von naturwissenschaftlichen Gemäldeuntersuchungen |Hrsg= |Sammelwerk= |Band= |Nummer= |Auflage= |Verlag= |Ort=Dissertation, Msch. Ms., Marburg |Datum=1956 |ISBN= |Seiten=}}&lt;/ref&gt; Ein weiterer entscheidender Fortschritt gelang J.R.J. van Asperen de Boer mit der Entdeckung der Infrarotreflektografie (IRR) und ihrer Möglichkeiten für die Gemäldeforschung. Die Auswertung der sichtbar gemachten Unterzeichnung erweitert die Möglichkeiten der stilkritischen Analyse und damit auch die Zuschreibung eines Gemäldes an einen Künstler.&lt;ref&gt;{{Literatur |Autor=J.R.J. van Asperen de Boer |Titel=Recent Developments in Infrared Reflektography of Paintings and its Applications in Art History |Hrsg=International Council of Museums Committee for Conservation |Sammelwerk= |Band= |Nummer= |Auflage= |Verlag= |Ort=Madrid |Datum=1972 |ISBN= |Seiten=}}&lt;/ref&gt; Sie kann aber auch einen Einblick in den Ablauf einer Bildentstehung geben. So hat man vereinzelt unter der Malschicht mittelalterlicher Tafelbilder in der Unterzeichnung Buchstabenkürzel entdeckt, die vermuten lassen, dass diese Vermerke für die Mitarbeiter der Werkstatt gedacht waren, in welcher Farbe sie die einzelnen Farbflächen ausführen sollten. Der Meister entwarf mit Hilfe der Unterzeichnung die Komposition, machte die notwendigen Angaben zur Farbgebung und begleitete deren Ausführung bis zur Fertigstellung des Gemäldes.
+
+[[Datei:IRR-untersuchung-cranach-hamburg.jpg|mini|Infrarotreflektographische Untersuchung zur Darstellung der Unterzeichnung eines Gemäldes von [[Lucas Cranach der Jüngere|Lucas Cranach]] („Caritas“) in der [[Hamburger Kunsthalle|Kunsthalle Hamburg]] mit IRR-Kamera Opus Osiris]]
+Oftmals wurde die Unterzeichnung in der mittelalterlichen Malerei nicht vollständig verborgen, wofür verschiedene Gründe angeführt werden. Zum einen könnte der nicht ganz deckende Farbauftrag eine Methode gewesen sein, das in aufwendiger Farbschichtmalerei angelegte Bild schneller trocknen zu lassen und damit Zeit und Kosten einzusparen. Zum anderen wäre es möglich gewesen, die Schatten[[schraffur]] absichtlich als Schattenzone der Malschicht zu verwenden, um die Kosten für dunkle Pigmenten einzusparen. In den meisten Fällen sind die Unterzeichnungen vermutlich aber nur durch Verseifungsprozesse der [[bleiweiß]]haltigen Farbtöne heute wieder mit bloßem Auge zu sehen.
+
+Die Unterzeichnung kann heute mit dem technischen Verfahren der [[Infrarot]]reflektografie (oder vormals Infrarotfotografie) mehr oder weniger gut sichtbar gemacht werden. Dazu bestrahlt zunächst eine Infrarotlichtquelle das Untersuchungsobjekt. Die Reflexion der weißen Grundierung und der darauf befindlichen dunkleren Unterzeichnungslinien wird von einer Infrarotkamera aufgenommen und in einem angeschlossenen PC verarbeitet. Die resultierenden Einzelbilder werden mit Grafikprogrammen zu einem sogenannten Infrarotreflektografiemosaik zusammengesetzt.
+
+Die kunsthistorische Forschung erhofft sich mit dieser vergleichsweise jungen technischen Hilfestellung die Zuschreibung von Gemälden zu einzelnen Malern verbessern zu können, indem u.&amp;nbsp;a. charakteristische Merkmale der Unterzeichnung mit namentlich überlieferten Handzeichnungen der Künstler verglichen werden.
+
+Zudem können auch Argumente für Erstversionen und Duplikate von der Hand desselben Künstlers oder von Schülern gesammelt werden. Existieren zwei nahezu gleichartige Tafelmalereien eines Künstlers, so kann man annehmen, dass eine Version, in der die Unterzeichnung sich von der finalen Malausführung  z.&amp;nbsp;B. in der Komposition des Motivs oder kleiner Details unterscheidet, während der Herstellung vom Urheber neu entworfen und im Prozess spontan verbessert wurde (sogenannte ''Second Thoughts''). Ein Duplikat (oder eine Kopie) enthält demgegenüber meist keine von der Unterzeichnung unterschiedenen, nachträglichen Verbesserungen in der Malschicht, da das gesamte Motiv bereits einmal zufriedenstellend entworfen und ausgeführt war, und die Unterzeichnung nur noch diese Vorlage kopierte.
+
+== Literatur ==
+* David Bomfort (Hrsg.): ''Underdrawings in Renaissance Paintings'' (= ''Art in the making.''). National Gallery Comp., London 2002, ISBN 1-85709-987-7.
+* Knut Nicolaus: ''DuMont's Bild-Lexikon zur Gemäldebestimmung.'' DuMont Buchverlag, Köln 1982, ISBN 3-7701-1243-1
+* Knut Nicolaus: ''DuMont`s Handbuch der Gemäldekunde.'' DuMont Buchverlag, Köln 2003, ISBN 3-8321-7288-2
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Maltechnik]]</text>
+      <sha1>r9xbu0hekq8w54vmvxp5lvac5ttx0a9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Karikatur</title>
+    <ns>14</ns>
+    <id>1873072</id>
+    <revision>
+      <id>116854932</id>
+      <parentid>108622934</parentid>
+      <timestamp>2013-04-03T18:31:17Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>1209855</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: 25 [[Hilfe:Internationalisierung|Interwiki-Link(s)]] nach [[WP:Wikidata|Wikidata]] ([[:d:Q7321854]]) migriert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" xml:space="preserve">{{Commonscat|Caricatures}}
+{{Dateikat|Karikatur}}
+{{Doppelkategorisierung|}}
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Bildende Kunst nach Gattung]]
+[[Kategorie:Satire|!Karikatur]]
+[[Kategorie:Humor]]</text>
+      <sha1>hpgx4xug7ni1mxonqrr3yym5stuokcq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prospekt (Ansicht)</title>
+    <ns>0</ns>
+    <id>2386225</id>
+    <revision>
+      <id>208812053</id>
+      <parentid>203778130</parentid>
+      <timestamp>2021-02-14T17:48:16Z</timestamp>
+      <contributor>
+        <username>Aka</username>
+        <id>568</id>
+      </contributor>
+      <minor/>
+      <comment>https, deutsch</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="736" xml:space="preserve">{{Belege fehlen||2=Dieser Artikel}}
+[[Datei:GER — BY— EBE — Steinhöring (Ansicht gen Süden).jpg|mini|Ortsprospekt von [[Steinhöring]]]]
+Bei einem '''Prospekt''' (lat. ''prospectus'') handelt es sich um eine gezeichnete Ortsansicht mit starker Übertreibung der [[Perspektive|perspektivischen]] Konstruktion, die vor allem in der [[Landschaftsmalerei]] angewendet wird. Bei letztgenannten ist der Begriff [[Vedute]] üblich.
+
+== Weblinks ==
+* {{Internetquelle | url=https://www.duden.de/rechtschreibung/Prospekt | titel=Prospekt | titelerg=Wortdefinition im Duden| hrsg=Bibliographisches Institut | zugriff=2014-11-12}}
+
+[[Kategorie:Malerei]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Künstlerische Technik]]
+[[Kategorie:Perspektive]]</text>
+      <sha1>pknm4tysutgkkg2inhl05ulok8p8pli</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfslinie</title>
+    <ns>0</ns>
+    <id>439072</id>
+    <revision>
+      <id>194984134</id>
+      <parentid>194984117</parentid>
+      <timestamp>2019-12-17T14:39:21Z</timestamp>
+      <contributor>
+        <username>Matzematik</username>
+        <id>141771</id>
+      </contributor>
+      <minor/>
+      <comment>Änderungen von [[Special:Contributions/37.138.177.216|37.138.177.216]] ([[User talk:37.138.177.216|Diskussion]]) auf die letzte Version von [[:Benutzer:79.246.25.159|79.246.25.159]] zurückgesetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1461" xml:space="preserve">[[File:Ledger lines.svg|thumb|200px|Ein Beispiel von Hilfslinien]]
+
+Als '''Hilfslinien''' bezeichnet man geradlinige [[Technische Zeichnung|Zeichenhilfen]]. 
+
+== Darstellende Geometrie ==
+In der [[darstellende Geometrie|darstellenden Geometrie]] sind sie als Orientierung bei Konstruktionen oder [[Perspektive|perspektivischen]] Zeichnungen nützlich. Während diese Linien nicht Teil der eigentlichen Zeichnung sind, tragen Hilfslinien dazu bei, eine Figur konstruieren zu können.
+
+== Noten in der Musik ==
+In der musikalischen [[Notation (Musik)|Notation]] dienen sie dazu, Töne darzustellen, die außerhalb der Linien des [[Notensystem (Musik)|Notensystems]] liegen. Sie werden dementsprechend für besonders hohe oder tiefe Töne verwendet.
+
+In den [[Etüde|Klavieretüden]] von [[Frédéric Chopin]], die den [[virtuose]]n Pianisten „quer durch die [[Register (Musik)|Register]] jagen“, finden sich zahlreiche Beispiele für den exzessiven Einsatz von Hilfslinien, zum Beispiel im Schluss der  ''Revolutionsetüde''.
+
+Um möglichst wenige Hilfslinien zu benötigen, kann man in manchen Fällen den [[Notenschlüssel]] wechseln oder die Anweisung zum [[Oktavierung|Oktavieren]] hinzufügen.
+
+== Literatur ==
+* Don Michael Randel (Hrsg.): ''The Harvard Dictionary of Music.'' 4th edition. Belknap Press of Harvard University Press, Cambridge MA u. a. 2003, ISBN 0-674-01163-5, S. 459.
+
+[[Kategorie:Schriftzeichen (Notenschrift)]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>ec6zn3cyogya66qd6dqc3vhv3xrgrn3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rötel</title>
+    <ns>0</ns>
+    <id>111574</id>
+    <revision>
+      <id>211428055</id>
+      <parentid>206794952</parentid>
+      <timestamp>2021-04-29T13:30:49Z</timestamp>
+      <contributor>
+        <username>Florean Fortescue</username>
+        <id>240531</id>
+      </contributor>
+      <minor/>
+      <comment>/* Geschichte */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13724" xml:space="preserve">{{Dieser Artikel|behandelt die Mineralfarbe. Siehe auch: [[Röthel]], [[Röteln]].}}
+[[Datei:Haematit faserig - Mineralogisches Museum Bonn (7272).jpg|mini|Rötel (Hämatit), Fundort Irrgang ([[Bludná]]) in Böhmen]]
+'''Rötel''' (auch „roter [[Ocker]]“, „roter Eisenocker“ und '''Rötelstein''' genannt) gehört zu den [[Mineralfarben]] und besteht aus einer weichen Mischung von [[Ton (Bodenart)|Ton]] und [[Hämatit]] (Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;), einem [[Eisenoxidpigment|Eisenoxidmineral]]. Der Hämatit verursacht dabei die tiefrote Farbe.
+
+== Verwendung ==
+=== Früh- und Vorgeschichte ===
+Rötel wurde von [[Neandertaler]]n seit 250.000 bis 200.000 Jahren verwendet.&lt;ref&gt;Marin Cârciumaru, Elena-Cristina Niţu, Ovidiu Cîrstina: ''A geode painted with ochre by the Neanderthal man.'' In: ''Comptes Rendus Palevol.'' Band 14, Nr. 1, 2015, S. 31–41.&lt;/ref&gt;&lt;ref&gt;[[Wil Roebroeks]], Mark J. Sier, Trine Kellberg Nielsen, Dimitri De Loecker, Josep Maria Parés, Charles E. S. Arps, Herman J. Mücher: ''Use of red ochre by early Neandertals''. In: ''[[PNAS]]'', 109, Nr. 6, 7. Februar 2012, S. 1889–1894, {{doi|10.1073/pnas.1112261109}}.&lt;/ref&gt;
+[[Datei:Venus von Mauern 6.jpg|mini|hochkant|Mit Rötel gefärbte [[Venus von Mauern]]]]
+Rötel wurde seit mindestens 100.000 Jahren von ''[[Mensch|Homo sapiens]]'' zur Körperfärbung verwendet.&lt;ref&gt;Christopher S. Henshilwood, Francesco d’Errico, Karen L. van Niekerk, Yvan Coquinot, Zenobia Jacobs, Stein-Erik Lauritzen, Michel Menu, Renata García-Moreno: ''A 100,000-year-old ochre-processing workshop at Blombos Cave, South Africa.'' In: ''[[Science]].'' Band 334, Nr. 6053, 2011, S. 219–222, [[doi:10.1126/science.1211535]].&lt;/ref&gt;&lt;ref&gt;Ian Watts: ''Red ochre, body painting, and language: interpreting the Blombos ochre.'' In: ''The cradle of language 2.'' 2009, S. 93–129.&lt;/ref&gt; Die Körperbemalung diente der Geruchsunterdrückung bei der Jagd und als Schutz vor Wind, Sonne, Pflanzen und Kälte.&lt;ref&gt;Helmut Tributsch: ''Ochre bathing of the bearded vulture: A bio-mimetic model for early humans towards smell prevention and health.'' In: ''Animals.'' Band 6, Nr. 1, 2016, S. 7.&lt;/ref&gt;&lt;ref&gt;István E. Sajó, János Kovács, Kathryn E. Fitzsimmons, Viktor Jáger, György Lengyel, Bence Viola, Sahra Talamo, Jean-Jacques Hublin: ''Core-shell processing of natural pigment: upper Palaeolithic red ochre from Lovas, Hungary.'' In: ''PloS one.'' Band 10, Nr. 7, 2015, S. e0131762, [[doi:10.1371/journal.pone.0131762]].&lt;/ref&gt; Diskutiert wird auch eine Verwendung, um Tierhäute haltbarer zu machen.&lt;ref&gt;Ian Watts: ''Ochre in the Middle Stone Age of Southern Africa: Ritualised display or hide preservative?'' In: ''The South African Archaeological Bulletin''. 57, Nr. 175, 2002, S. 1–14, {{doi|10.2307/3889102}}.&lt;/ref&gt; Da eine Rötelbedeckung die Griffigkeit von Gegenständen erhöht,&lt;ref&gt;Marlize Lombard: ''The gripping nature of ochre: The association of ochre with Howiesons Poort adhesives and Later Stone Age mastics from South Africa'' In: ''Journal of Human Evolution'', 53, Nr. 4, 1. Oktober 2007, S. 406–419, {{doi|10.1016/j.jhevol.2007.05.004}}.&lt;/ref&gt; wurde Rötel als Additiv bei Verklebungstechniken zur [[Schäftung (Vor- und Frühgeschichte)|Schäftung]] im [[Middle Stone Age]] Südafrikas eingesetzt.&lt;ref&gt;Lyn Wadley, Bonny Williamson, und Marlize Lombard: ''Ochre in hafting in Middle Stone Age Southern Africa: A practical role'' In: ''Antiquity'' 78, Nr. 301, September 2004, S. 661–675, {{doi|10.1017/S0003598X00113298}}.&lt;/ref&gt;&lt;ref&gt;Lyn Wadley: ''Putting ochre to the test: Replication studies of adhesives that may have been used for hafting tools in the Middle Stone Age'' In: ''Journal of Human Evolution'', 49, Nr. 5, November 2005, S. 587–601, {{doi|10.1016/j.jhevol.2005.06.007}}.&lt;/ref&gt;&lt;ref&gt;Marlize Lombard: ''Direct evidence for the use of ochre in the hafting technology of Middle Stone Age tools from Sibudu Cave'' In: ''Southern African Humanities'' 18, Nr. 1, 1. November 2006, S.&amp;nbsp;57–67.&lt;/ref&gt; Zur Haltbarmachung einer Rötelbemalung wurden bereits vor 49.000 Jahren Bindemittel z.&amp;nbsp;B. aus Milchprodukten verwendet, lange bevor Milchtiere gehalten wurden.&lt;ref&gt;Paola Villa, Luca Pollarolo, Ilaria Degano, Leila Birolo, Marco Pasero, Cristian Biagioni, Katerina Douka, Roberto Vinciguerra, Jeannette J. Lucejko, Lyn Wadley: ''A milk and ochre paint mixture used 49,000 years ago at Sibudu, South Africa.'' In: ''PLOSone.'' 30. Juni 2015, [[doi:10.1371/journal.pone.0131273]] (PDF).&lt;/ref&gt; Rötel war neben Kalk und Holzkohle eine der bei [[Höhlenmalerei]]en eingesetzten Farben.
+
+Die frühe Verwendung von Rötel wird mit rituellen Handlungen und mit dem Symbolismus in Zusammenhang gebracht.&lt;ref name="Petru" /&gt;&lt;ref&gt;[[Erella Hovers]], Shimon Ilani, Ofer Bar‐Yosef, Bernard Vandermeersch: ''[https://dash.harvard.edu/bitstream/handle/1/12211574/375869.pdf?sequence=2 An early case of color symbolism: Ochre use by modern humans in Qafzeh Cave 1.]'' In: ''[[Current Anthropology]].'' Band 44, Nr. 4, 2003, S. 491–522.&lt;/ref&gt;&lt;ref&gt;Alexander Marshack: ''On Paleolithic ochre and the early uses of color and symbol.'' In: ''Current Anthropology.'' Band 22, Nr. 2, 1981, S. 188–191, [[doi:10.1086/202650]].&lt;/ref&gt;
+
+Rötel wurde auch zur Färbung der Verstorbenen und ihrer Gräber in der [[Bandkeramische Kultur|Bandkeramik-]] und in der [[Jamnaja-Kultur|Jamnaja-]] oder Ockergrabkultur verwendet. Daneben benutzte man die unterschiedlichsten Mineralien, nachgewiesen sind [[Ocker]] in Rixheim, [[Hämatit]] in Elsloo, [[Mangan]] in thüringischen Gräbern und eventuell [[Eisenhydroxid]] in Halle.
+
+=== Geschichte ===
+Die Germanen benutzten Rötel, um Runen zu färben und ihnen damit für magische Zwecke Leben einzuhauchen. Die Griechen verwendeten Rötel als Farbe zum wasserfesten Anstrich von Schiffen. Die Römer verschönerten Häuser, Türpfosten und Deckenbalken mit Rötel. Bei Ausgrabungen im römischen [[vicus Wareswald]] bei [[Tholey]] wurde eine im 4.&amp;nbsp;Jh.&amp;nbsp;n.&amp;nbsp;Chr. eingerichtete Rötelstiftmanufaktur entdeckt.&lt;ref&gt;Eric Glansdorp: ''Römerzeitliche Rötelstift- und Rötelpulverproduktion im nördlichen Saarland. [Rötelstifte aus dem römischen vicus Wareswald bei Oberthal].'' In: E. u. E. Glansdorp (Hrsg.): ''Vor- und frühgeschichtliche Spuren im mittleren Primstal. Archäologische Ausstellungen im Heimatmuseum Neipel von 1997 bis 2012.'' (= ''Archäologische Funde im Saarland.'' 2). Tholey, 2013, ISBN 978-3-00-039212-2, S. 253–271.&lt;/ref&gt; Der in der Nähe bis ins 20.&amp;nbsp;Jh. abgebaute (und schon 1544 von [[Sebastian Münster]]&lt;ref&gt;Sebastian Münster: ''Cosmographia.'' Petri, Basel 1544, S. 321 ([https://www.e-rara.ch/zut/content/zoom/2502628 online] bei [[E-rara]]): ''In der rifier bey Sant Wendel grebt man'' […] ''gůt rötelstein.''&lt;/ref&gt; sowie 1546 von [[Georgius Agricola]] erwähnte&lt;ref&gt;Georg Agricola: ''De natura fossilium libri X.'' Froben, Basel 1546, S. 204 ([http://digitale.bibliothek.uni-halle.de/vd16/content/pageview/9635190 online] bei [[Universitäts- und Landesbibliothek Sachsen-Anhalt]]), nennt Vorkommen in der ''[[Germania prima]]'' bei der Stadt [[St. Wendel]] (''ad oppidum, cui nomen est divus Vendelinus'').&lt;/ref&gt;) Rötel aus dem St. Wendeler Land wurde von Rötelkrämern aus [[Oberthal (Saar)|Oberthal]]&lt;ref&gt;Karl Heinz Klein: ''Die Oberthaler Rötelkrämer.'' In: [[Heimatbuch des Landkreises St. Wendel]] 22 (1987/88), S. 111–115.&lt;/ref&gt; und Umgegend in ganz Europa gehandelt.
+
+=== Kunst ===
+Rötel, seit dem Mittelalter&lt;ref&gt;Dieter Lehmann: ''Zwei wundärztliche Rezeptbücher des 15. Jahrhunderts vom Oberrhein. Teil I: Text und Glossar.'' (= ''Würzburger medizinhistorische Forschungen.'' 34). Horst Wellm, Pattensen/Han. 1985, ISBN 3-921456-63-0, S. 241.&lt;/ref&gt; auch als ''Rötelstein'' (und ''Rote Erde''&lt;ref&gt;Bernhard D. Haage: ''Ein neues Textzeugnis zum Pestgedicht des Hans Andree.'' In: ''Fachprosaforschung – Grenzüberschreitungen.'' Band 8/9, 2012/2013, S. 267–282, hier: S. 279 (''rot erde'').&lt;/ref&gt;) bezeichnet, wurde seit der [[Renaissance]] als Stift zum [[Zeichnung (Kunst)|Zeichnen]], vor allem für Skizzen und Entwürfe, verwendet, aber auch schon in der [[Höhle von Altamira]] bei Höhlenmalereien verarbeitet. Auch im [[Barock]] und [[Rokoko]] schätzten Künstler den rötlichen Farbstich. Die Rötelzeichnung ist nicht wischfest und muss [[Fixativ|fixiert]] werden. Heute ist sie weniger gebräuchlich.
+
+Rötel eignet sich besonders für feine Strichzeichnungen, Porträts, Aktzeichnungen und figürliche Darstellungen. Das heute in der Kunst verwendete Rötel ist ein feinkörniges Mineralgemenge aus Tonblättchen ([[Silikat|Schichtsilikaten]]), [[Quarz]]- und [[Feldspat]]körnchen sowie Hämatit als Farbpigment. Im Handel wird Rötel in der Form von Vierkantstäbchen, als Mine für Klemmstifte und als Holzstift mit einem runden Kern aus Rötel angeboten.
+
+== Gewinnung ==
+Rötelabbau, teilweise auch bergmännisch, fand seit der [[Altsteinzeit]] statt,&lt;ref&gt;Ernst E. Wreschner, Ralph Bolton, Karl W. Butzer, Henri Delporte, Alexander Häusler, Albert Heinrich, Anita Jacobson-Widding, Tadeusz Malinowski, Claude Masset, Sheryl F. Miller, Avraham Ronen, Ralph Solecki, Peter H. Stephenson, Lynn L. Thomas, Heinrich Zollinger: ''Red ochre and human evolution: A case for discussion [and comments and reply].'' In: ''Current Anthropology.'' Band 21, Nr. 5, Oktober 1980, S. 631–644.&lt;/ref&gt; in allen Teilen der Welt.&lt;ref&gt;Michael D. Stafford, George C. Frison, Dennis Stanford, George Zeimans: ''Digging for the color of life: Paleoindian red ochre mining at the Powars II site, Platte County, Wyoming, USA.'' In: ''Geoarchaeology.'' Band 18, Nr. 1, 2003, S. 71–90, [[doi:10.1002/gea.10051]].&lt;/ref&gt; [[Frühe Bronzezeit|Frühbronzezeitliche]] Rötelgruben sind u.&amp;nbsp;a. von der griechischen Insel [[Thasos]] bekannt.&lt;ref&gt;Nerantzis, Stratis Papadopoulos: ''Copper production during the Early Bronze Age at Aghios Antonios, Potos on Thasos.'' In: E. Photos-Jones in collaboration with Y. Bassiakos, E. Filippaki, A. Hein, I. Karatasios, V. Kilikoglou, E. Kouloumpi (Hrsg.): ''BAR S2780 Proceedings of the 6th Symposium of the Hellenic Society for Archaeometry.'' British Archaeological Reports, 2016, ISBN 978-1-4073-1430-3, S. 89–94.&lt;/ref&gt;
+
+== Forschung ==
+Da Eisen je nach Feuchtigkeit in verschiedenen Oxidationsstufen vorkommen kann, welche unterschiedliche Pigmenttöne abgeben,&lt;ref&gt;Rochelle M. Cornell, Udo Schwertmann: ''The iron oxides: structure, properties, reactions, occurrences and uses.'' John Wiley &amp; Sons, 2003.&lt;/ref&gt; ist bei Betrachtung und Bewertung älterer oder gar prähistorischer Darstellungen mittels Rötel nicht gewiss, ob dort Gelb-, Rot-, Braun- oder Schwarztöne dargestellt werden sollten.&lt;ref name="Petru"&gt;Simona Petru: ''Red, black or white? The dawn of colour symbolism.'' In: ''Documenta Praehistorica.'' Band 33, 2006, S. 203–208.&lt;/ref&gt;&lt;ref&gt;Michael Balter: ''On the origin of art and symbolism.'' In: ''Science.'' Band 323, Nr. 5915, 2009, S. 709–711.&lt;/ref&gt;&lt;ref&gt;Robert G. Bednarik: ''A taphonomy of palaeoart.'' In: ''Antiquity.'' Band 68, Nr. 258, 1994, S. 68–74.&lt;/ref&gt; Dies erschwert oft die Identifizierung der Bedeutung und erfordert Rekonstruktionen der Oxidationsprozesse.&lt;ref&gt;Robert G. Bednarik, Kulasekaran Seshadri: ''Digital colour reconstitution in rock art photography.'' In: ''Rock Art Research: The Journal of the Australian Rock Art Research Association (AURA).'' Band 12, Nr. 1, 1995, S. 42.&lt;/ref&gt;
+
+== Galerie ==
+[[Datei:Zamek w Amboise.jpg|mini|links|650px|[[Skizze]], Schule von da Vinci, 1517]]
+{{Absatz}}
+
+&lt;gallery&gt;
+Baci-4s.jpg|Prähistorische Höhlenzeichnung in Cueva de Bacinete ([[Los Barrios]])
+Leonardo da Vinci - Self-Portrait - WGA12798.jpg|[[Leonardo da Vinci]], ''[[Selbstbildnis (Leonardo da Vinci)|Selbstbildnis]]'', ca. 1512–1515
+Johann Heinrich Füssli 013.jpg|[[Johann Heinrich Füssli]], ''Der Künstler verzweifelnd angesichts der Größe der antiken Trümmer'', ca. 1778–1780
+Studie zum Gemälde 'Entführung des Ganymed' (1887).jpg|[[Hans von Marées]], Studie zum Gemälde ''Entführung des Ganymed'', 1887
+&lt;/gallery&gt;
+&lt;!--
+== Literatur ==
+???
+* Chaido Chrysanthaki-Koukouli und Gerhard Weissgerber (1999): ''Prehistoric Ochre Mines on Thasos''. Ergebnis Internationales Kolloquium Limenaria/Thasos (1995)
+???
+
+heißt der (Zweit ???)-Autor nicht [[Gerd Weisgerber]] ???
+
+unter google Scholar erscheint nur ein (1) Autorenname, Vorname nicht ausgeschrieben:
+Weisgerber, G. "Prehistoric ochre mines on Thasos." (1999): 129-144.
+
+Ebenso in einer Reihe Zitate in anderen Veröffentlichungen (was aber nicht beweisend ist)
+
+Autorenname "Chaido Chrysanthaki-Koukouli" erscheint ganz überwiegend ohne ausgeschriebenen Vornamen
+
+Übrigens - wie wichtig ist diese Publikation, wenn sie nicht einsehbar ist?
+--&gt;
+== Weblinks ==
+{{Commonscat|Red chalk drawings|Rötelzeichnungen}}
+* [http://www.oberthal.de/Kultur_Tourismus/Roetel.htm Informationen zu Rötel auf Oberthal Tourismus]
+*[https://www.outdooractive.com/de/route/wanderung/saarland/der-roetelsteinpfad-nahe-oberthal/1398974/ Rötelsteinpfad - Wanderweg] 
+*[http://translate.google.nl/translate?js=y&amp;prev=_t&amp;hl=nl&amp;ie=UTF-8&amp;layout=1&amp;eotf=1&amp;u=http%3A%2F%2Fmembers.ziggo.nl%2Fjcdhollander%2Froodkrijt%2Findex.html&amp;sl=nl&amp;tl=en Rötel: Geschichte, Material und Anwendung in der Kunst, J. den Hollander] 
+*[https://www.google.com/maps/d/edit?mid=1TUSm56km2pHYYCKhzzszItpl_uNSNR0a&amp;ll=41.91305860451427%2C6.48881365455054&amp;z=6 Rötel: Historische Abbaugebiete mit Angabe der Quellenliteratur, J. den Hollander, B. Reissland, N. Wichern, I. Joosten (2019)]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{SORTIERUNG:Rotel}}
+[[Kategorie:Anorganisches Pigment]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>344pqsu2cchmkqv9k1err2s0w7hujq2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rotstiftfunktion</title>
+    <ns>0</ns>
+    <id>2257529</id>
+    <revision>
+      <id>190290702</id>
+      <parentid>157761969</parentid>
+      <timestamp>2019-07-10T06:26:28Z</timestamp>
+      <contributor>
+        <username>Leavingspaces</username>
+        <id>3040234</id>
+      </contributor>
+      <minor/>
+      <comment>Typos</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2443" xml:space="preserve">Die '''Rotstiftfunktion''' oder auch '''Redlining'''-Funktion ({{enS|''to redline''}} – Korrigieren von Zeichnungen und Dokumenten) genannt, bezeichnet in der elektronischen Bearbeitung von [[Technische Zeichnung|Zeichnungen]] und [[Elektronisches Dokument|elektronischen Dokumenten]] die Möglichkeit, diese mit Änderungshinweisen und Anmerkungen für den Ersteller zu versehen, ohne die Originaldatei zu verändern. Das ermöglicht die [[Gruppenarbeit (Arbeitsorganisation)|Zusammenarbeit]] verschiedener an einem Produktionsprozess Beteiligter.
+
+== Textverarbeitung ==
+Microsoft unterstützt mit dem [[Microsoft Word|Word Programm]] Anmerkungen, mit deren Hilfe die Korrektur und Zusammenarbeit verschiedener Autoren an einem Dokument vereinfacht. Dabei ist es möglich verschiedene Versionen eines Absatzes zu betrachten und Kommentare hierzu darzustellen.&lt;ref&gt;{{Literatur |Autor=Dennis M. Kennedy, Tom Mighell |Titel=The lawyer’s guide to collaboration tools and technologies. Smart ways to work together |Verlag=American Bar Association |Ort=Chicago |Datum=2008 |ISBN=978-1-59031-979-6 |Seiten=}}&lt;/ref&gt;
+
+== Computer-aided design (CAD) ==
+Bei dem Prozess der Erstellung und Pflege von [[CAD]]-Zeichnungen werden diese dabei zunächst mit einem CAD-Zeichenprogramm erstellt. Das Lesen und Prüfen der Zeichnungen erfolgt dann mit CAD-[[Dateibetrachter|Betrachter]]-Programmen, mit denen keine Änderungen an der ursprünglichen Zeichnung möglich sind. Die Rotstiftfunktion der Betrachter ermöglicht dann durch einfaches intuitives Freihandzeichnen mit der Maus oder durch Texteingabe die Eintragung von Änderungshinweisen und Anmerkungen für die Zeichnungsüberarbeitung.
+
+Das technische Fundament für die Kommentierungstechnik bildet ein leistungsfähiger Viewer, der den Import zahlreicher Dateiformate ermöglicht. Ohne das Originaldokument zu verändern, wird gezeichnet wie auf einer Folie, die über dem Original liegt. Original und Einfügungen können dann in ein neues Dokument gespeichert werden.&lt;ref&gt;{{Webarchiv | url=http://www.fme.de/Glossar.70.0.html | wayback=20070313045211 |text=fme.de }}&lt;/ref&gt;&lt;ref&gt;{{Webarchiv | url=http://www.pia.de/deu/pages/content04_03.html | wayback=20070930074948 |text=pia.de }}&lt;/ref&gt;
+
+== Quellen ==
+&lt;references /&gt;
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Geometrische Modellierung]]
+[[Kategorie:Computer Aided Engineering]]
+[[Kategorie:Technisches Zeichnen]]
+[[Kategorie:Konstruktionslehre]]</text>
+      <sha1>ho7oflmyyjqymujhh39t059c7oc91vi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drudel</title>
+    <ns>0</ns>
+    <id>731703</id>
+    <revision>
+      <id>201936105</id>
+      <parentid>178341449</parentid>
+      <timestamp>2020-07-16T17:26:56Z</timestamp>
+      <contributor>
+        <username>Till.niermann</username>
+        <id>217731</id>
+      </contributor>
+      <minor/>
+      <comment>/* Wortableitung */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2797" xml:space="preserve">[[Datei:Drudelmexikaner1.svg|thumb|''Ein Mexikaner mit [[Sombrero]] brät sich zwei Spiegeleier'']]
+Der oder das '''Drudel''' ist ein [[Bilderrätsel]], bei dem aus einer [[Zeichnung (Kunst)|Zeichnung]] das Dargestellte herausgelesen werden muss, wobei die Darstellung oft eine ungewöhnliche oder extreme Perspektive oder einen extremen Ausschnitt verwendet.
+
+Beispiel: ein Kasten, in dem zwei parallele, schräge Linien gezeichnet sind; zwischen den Linien sind Flecken zu sehen. Lösung: eine Giraffe, die an einem Fenster vorbeigeht (Kasten = Fenster, schräge Linien = Hals der Giraffe).
+
+== Geschichte ==
+Das originäre ''Drudel''-Konzept wurde von dem [[USA|US-amerikanischen]] [[Autor]], [[Zeichner]] und [[Verleger]] [[Roger Price]] erfunden, der seine ersten Drudel 1950 in einem Buch namens ''Droodle'' veröffentlichte.
+[[Datei:Drudelhexe.svg|thumb|Das ''Zappadrudel'' in einer Nachbildung.]]
+Price hatte vorher als Autor für Fernsehserien gearbeitet. Nach der Schöpfung des Drudels erfand er außerdem zusammen mit [[Leonard Stern]] die im angelsächsischen Sprachraum seit den 50er Jahren beliebten [[Mad Libs]]. Es handelt sich um Lückentexte, bei denen man blind Wörter einfüllt, um eine unsinnige, hoffentlich lustige und meist auch etwas abartige Geschichte zu erzeugen. Der kommerzielle Erfolg dieser Arbeiten führte zur Gründung des Verlagshauses [[Price-Stern-Sloan]].
+
+Eines von Prices originalen Drudeln mit einem großen geneigten und einem kleinen Dreieck diente als Cover für [[Frank Zappa]]s 1982er [[Musikalbum|Album]] ''[[Ship Arriving Too Late to Save a Drowning Witch]]'' (''Schiff, das zu spät kommt, um eine ertrinkende Hexe zu retten'').
+
+Vorläufer sind besonders Bilderrätsel des 17. Jahrhunderts, die auf Zeichnungen des [[Annibale Carracci]] zurückgehen. Es sind äußerst reduzierte, einfache Linien, die aber schon ganz im Sinne von Roger Price funktionieren.
+
+== Wortableitung ==
+Das Wort ''Drudel'' ist die eingedeutschte Form des rechtlich geschützten englischen [[Kunstwort]]es ''droodle'', eines [[Kofferwort]]es, welches aus den Bestandteilen ''doodle'' für „Kritzelei“ und ''riddle'' für „Rätsel“ gebildet wurde. Demnach ist ein Drudel also ein Kritzelrätsel.
+
+&lt;gallery&gt;
+ Datei:Four-elephants-and-orange.svg|''Vier Elefanten beschnüffeln eine Orange'' oder ''Toter Moment beim Billard''
+ Datei:Double-martini.svg|''Ein doppelter Martini dry''. Auf dem Kopf: ''typisches Mitglied des Ku-Klux-Klans''
+&lt;/gallery&gt;
+
+== Literatur ==
+* Roger Price: ''Sämtliche Drudel''. Diogenes, Zürich 1970; Neuauflage als: ''Der kleine Psychologe. Sämtliche Drudel in einem Band'', Diogenes, Zürich 1991, ISBN 3-257-05509-9.
+
+== Weblinks ==
+{{commonscat|Droodle|Drudel}}
+
+[[Kategorie:Rätsel]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Kofferwort]]</text>
+      <sha1>ljotfncjjdwi7i620usywax0hfopw9v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Zeichner</title>
+    <ns>14</ns>
+    <id>246282</id>
+    <revision>
+      <id>198052079</id>
+      <parentid>135221102</parentid>
+      <timestamp>2020-03-24T02:05:51Z</timestamp>
+      <contributor>
+        <username>Bibliotaker</username>
+        <id>3432864</id>
+      </contributor>
+      <comment>{{Kategorie Person}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="128" xml:space="preserve">{{Kategorie Person}}
+{{TOC_Kategorie}}
+
+{{Commonscat|Drawers (artists)}}
+
+[[Kategorie:Grafiker|Zeichner]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>2kt6n2m3xt8kl8jpstdo8jkjqgu5tno</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scribble (Kreation)</title>
+    <ns>0</ns>
+    <id>3472128</id>
+    <revision>
+      <id>209124286</id>
+      <parentid>209122651</parentid>
+      <timestamp>2021-02-23T11:19:05Z</timestamp>
+      <contributor>
+        <username>NiTenIchiRyu</username>
+        <id>28720</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3385" xml:space="preserve">[[Datei:Scribble für eine Webseite.jpg|miniatur|Scribble einer [[Webseite]]]]
+Ein '''Scribble''' (englisch für „Kritzelei“, „Schmiererei“ oder „unsauber Geschriebenes“) ist ein grobe Ideen[[skizze]], die als [[Zeichnung (Kunst)|Zeichnung]] in Strichmanier oder rudimentär gestalteter Grafik[[entwurf]] die wichtigsten Gestaltungselemente in [[Syntax|syntaktischer]] Zuordnung zeigt und proportional mit dem beabsichtigten Originalformat übereinstimmen sollte.&lt;ref&gt;[[Siegfried J. Schmidt]] (Hrsg.): ''Handbuch Werbung''. Lit. Verlag Münster, 2004, ISBN 978-3-82587-540-4, S. 163.&lt;/ref&gt;&lt;ref name="SEEBOHN"&gt;Joachim Seebohn: ''Gabler Kompakt-Lexikon Werbung.'' 4. Auflage, Gabler Verlag, Wiesbaden, 2011, ISBN 978-3-8349-0148-4, Stichwort: ''Layout'', S. 128.&lt;/ref&gt; Es ermöglicht sehr schnell und ohne großen Aufwand die grundsätzliche Darstellung von unterschiedlichen Entwurfsideen und Lösungsvarianten, ohne dabei einen Anspruch an eine detailgetreue Ausarbeitung zu haben. 
+
+Der Begriff wird vor allem in der [[Werbung|Werbe-]] und [[Kreativwirtschaft]] sowie der [[Kunst]] verwendet. Dort bezeichnete er einen meist per [[Stift (Werkzeug)|Stift]] auf [[Papier]] angerissenen oder angedeuteten Grobentwurf beispielsweise für eine [[Illustration]], eine [[Grafik]], eine [[Anzeige (Medien)|Anzeige]] oder ein [[Plakat]], das [[Layout]] einer [[Zeitschrift]], einer [[Zeitung]], einer [[Webseite]] oder Ähnliches. Moderne Scribbles werden heute mehrheitlich mit aktuellen Software-Tools, wie z.&amp;nbsp;B. [[Photoshop]] oder [[Indesign]] erstellt. In Bezug auf den eigentlichen Zeichenprozess sind zwei verschiedene Entwicklungen zu beobachten: Dem Einsatz von Papier und Bleistift stehen momentan auch die steigenden Möglichkeiten von [[Grafiktablett]]s gegenüber. Die Scribbles werden so zwar noch mit Stift, aber unmittelbar digital in entsprechender [[Grafiksoftware]] gezeichnet. Alternativ dazu wird im Print- und Webbereich, wo der Fokus primär auf der Platzierung, Größe und Anordnung von Objekten statt Objektinhalt (bspw. ein ausgearbeitetes Logo) liegt, werden softwareinterne Platzhalterelemente oder rudimentäre Rahmen- und Formkonstruktionen genutzt.
+
+Scribbles werden am Anfang eines [[Projekt]]es zur Visualisierung während der Phase der [[Ideenfindung]] genutzt, können aber auch der internen [[Kommunikation]] im [[Team|Arbeitsteam]] dienen, seltener auch der Präsentation von Zwischenergebnissen beim [[Auftraggeber]]. Die verschiedenen Entwurfsvarianten können zunächst einer kritischen Auswahl unterzogen werden, wobei man neben der Bewertung der Harmonie und Gesamtgestaltung auch die technische Realisierbarkeit prüft.&lt;ref name="SEEBOHN" /&gt; Danach können die favorisierten Entwürfe in einem Rohlayout konkretisiert werden und damit als Grundlage für eine weitere Ausarbeitung bei der [[Reinzeichnung]] dienen.&lt;ref name="SEEBOHN" /&gt; Scribbles erfüllen eine wichtige Funktion in der kreativen ersten Phase eines Projektes. In Form oftmals kleinformatiger Zeichnungen können mit wenig Arbeitsaufwand viele verschiedene Bild- und Kompositionsideen zu Papier gebracht werden. Die Technik eignet sich daher besonders gut, um den spontanen Ideenfluss des Kreativen lebendig zu halten.
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Grafikdesign]]
+[[Kategorie:Planung und Organisation]]
+[[Kategorie:Werbung]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>ozzrp0xybpx42vviokdzy4pfby5qjss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Körperproportion</title>
+    <ns>0</ns>
+    <id>1129534</id>
+    <revision>
+      <id>212768862</id>
+      <parentid>212768834</parentid>
+      <timestamp>2021-06-07T19:43:02Z</timestamp>
+      <contributor>
+        <username>RoBri</username>
+        <id>13625</id>
+      </contributor>
+      <comment>/* Einleitung */ teilrevteil</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4705" xml:space="preserve">[[Datei:Da Vinci Vitruve Luc Viatour 2.svg|mini|hochkant|[[Der vitruvianische Mensch|Vitruvianischer Mann]] aus ''Divina proportione'' von Leonardo da Vinci (1490)]]
+Die '''Körperproportionen''' bezeichnen die Längen- und Größenverhältnisse eines Körpers im [[Quotient|relativen Verhältnis]] zueinander. Sie sind ein wichtiges Hilfsmittel in der [[Malerei]] und beim [[Zeichnung (Kunst)|Zeichnen]]. Mittels leicht einprägbarer Verhältnisse zwischen den Längen verschiedener Körperteile kann der Künstler einen lebensechten [[Mensch]]en darstellen.
+
+Mit dem Entwurf ästhetischer bzw. natürlicher Körperproportionen haben sich besonders [[Leonardo da Vinci]] [[Der Vitruvianische Mensch|(Vitruvianischer Mann)]] und [[Le Corbusier]] ([[Modulor]]) hervorgetan. Kritisiert wurde an beiden, dass sie die Proportionen von Männern als Maß aller Dinge betrachteten.
+
+In der [[Medizin]] sind die Körperproportionen für die Definition von [[Großwuchs|Groß-]] oder [[Kleinwüchsigkeit]] von Bedeutung. Weitere mögliche Abweichungen von den Durchschnittproportionen sind das asymmetrische Wachstum der Körperhälften sowie die [[Akromegalie]]. Letztere kann sich in punktuell verzerrten Körperproportionen oder in generellem Großwuchs äußern.
+
+== Der Körper ==
+[[Datei:Human body proportions2.svg|mini|Körperproportionen]]
+Die folgenden Angaben helfen, einen aufrecht stehenden Menschen in Bezug auf die Größenverhältnisse korrekt zu zeichnen:
+* Die durchschnittliche erwachsene Figur ist sieben bis 7,5 Kopfgrößen groß. Die idealisierte, „heldenhafte“ Größe – z. B. für Skulpturen – ist acht Köpfe groß:
+** vom Scheitel bis zum Kinn (Kopflänge)
+** von dort bis zur Mitte der Brust (ungefähr in der Höhe der Brustwarzen)
+** von dort bis zum Bauchnabel
+** von dort bis zur Schamgegend
+** von dort bis zur Mitte des Oberschenkels
+** von dort bis knapp unterhalb des Knies
+** von dort bis zur Mitte der Waden
+** von dort bis zur Fußsohle
+
+* Die Schamgegend befindet sich in der Mitte des Körpers.
+* Der Unterschenkel ist genauso lang wie der Oberschenkel.
+* Die schlaff herunterhängenden Arme sind so lang, dass die Fingerspitzen die Mitte der Oberschenkel erreichen. Die Spannweite der Arme (von Fingerspitze des Mittelfingers zu Fingerspitze) entspricht der gesamten Körpergröße.
+* Die Fußlänge ist etwa so lang wie der Unterarm ohne die Hand.
+
+== Kopf und Gesicht ==
+[[Datei:Human head proportions.svg|mini|Proportionen des Kopfes und des Gesichts]]
+Um das Volumen des Hirnschädels zu bestimmen, zeichnet man ein Rechteck mit dem Seitenverhältnis 2:3. Dann teilt man die Länge in drei gleiche Abschnitte und schlägt einen Kreis mit dem Radius von einem Drittel der Länge. Der Durchmesser entspricht der größten Schädelbreite. Das Grundvolumen des kleineren Gesichtsschädels wird durch einen Kreis gewonnen, dessen Mittelpunkt zwischen Augenachse und Kinnspitze liegt. Die Grundform des Gesichts wird durch tangentiale Verbindungen zwischen den beiden Kreisen gebildet.
+Der Kopf ist so breit wie fünf Augen. Die Augenachse befindet sich auf der halben Höhe des Kopfes; der Abstand zwischen den Augen beträgt eine Augenbreite.
+Das Gesicht kann dreigeteilt werden: Vom Scheitel bis zur Augenbraue, von dort zur Nasenunterseite und von dort zum Kinn.
+Die Distanz vom Mundwinkel bis zum Augenwinkel ist so groß wie das Ohr hoch ist. Die Nasenbasis ist so breit wie ein Auge.
+
+== Klinische Bedeutung ==
+Die Körperproportionen können in vielfältiger Weise verändert sein:&lt;ref&gt;F. Hefti: ''Kinderorthopädie in der Praxis''. Springer 1998, S.&amp;nbsp;647, ISBN 3-540-61480-X.&lt;/ref&gt;
+
+* Kurzer Rumpf ([[Brachyolmie]])
+* kurze Extremitäten bei [[Achondroplasie]], [[Ellis-van-Creveld-Syndrom]], [[Hypochondroplasie]]
+* kurze Oberarme und Oberschenkel ([[Rhizomelie]])  bei [[Chondrodyplasia punctata, rhizomeler Typ]]
+* Kurze Unterarme und Unterschenkel ([[Mesomelie]]) bei [[Dyschondrosteose Léri Weill]]
+* Sich mit dem Wachstum ändernde Körperproportionen („Metatropie“) bei [[Metatropischer Zwergwuchs|Metatropischem Zwergwuchs]]
+
+== Siehe auch ==
+* [[Taille-Hüft-Verhältnis]]
+* [[Bauchumfang]]
+* [[Kindchenschema]]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+== Literatur ==
+* Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' Verlag Otto Maier GmbH, Ravensburg 1990, ISBN 3-473-48341-9.
+* Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' Verlag Otto Maier GmbH, Ravensburg 1993, ISBN 3-473-48374-5.
+* Louise Gordon: ''Anatomie und figürliches Zeichnen.'' Bauverlag GmbH, Wiesbaden und Berlin 1981, ISBN 3-7625-1393-7.
+
+{{SORTIERUNG:Korperproportionen}}
+[[Kategorie:Malerei]]
+[[Kategorie:Technik der Malerei]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>fo3jh8lg557uveigw7w61mo3ws7hoz0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zeichenschule</title>
+    <ns>0</ns>
+    <id>5252904</id>
+    <revision>
+      <id>190302725</id>
+      <parentid>186512432</parentid>
+      <timestamp>2019-07-10T14:30:36Z</timestamp>
+      <contributor>
+        <username>Bwbuz</username>
+        <id>589455</id>
+      </contributor>
+      <comment>fix [[WP:WLW]] +1lf; 1 externer Link geändert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1884" xml:space="preserve">'''Zeichenschulen''' waren mit der einsetzenden [[Industrialisierung]] im 18. Jahrhundert geschaffene Ausbildungsstätten zur Hebung der handwerklichen und künstlerischen Ausbildung der Handwerkerschaft. Sie entstanden auf Initiative von Fürsten und Unternehmern. Diese Institute, die zunächst vornehmlich als Sonntags- und [[Abendschule]]n organisiert waren, schuf man neben den akademisch ausgerichteten [[Kunstschule]]n. 
+
+Bekannte Zeichenschulen waren
+*[[Akademie der Bildenden Künste Nürnberg#Geschichte|Zeichenschule für Handwerkslehrlinge]] (1716) gegründet von [[Johann Daniel Preißler]] in [[Nürnberg]] 
+*[[Goldschmiedeschule mit Uhrmacherschule Pforzheim|Zeichenschule Pforzheim]] (1767), 
+*[[Staatliche Zeichenakademie Hanau|Großherzoglich Hessische Academie der Zeichenkunst]] in [[Hanau]] (1772) 
+*[[Fürstliche freie Zeichenschule Weimar]] (1776), 
+*Zeichenschule der [[Patriotische Gesellschaft von 1765|Hamburgischen Gesellschaft zur Beförderung der Küste und nützlichen Gewerbe]], 
+*[[Elementar-Zeichenschule für Bauleute und Professionalisten]], Köln, (1786) von [[Egidius Mengelberg]] 
+*[[Zeichenschule für Handwerker an der Akademie der Künste Berlin]] (1786) 
+*[[Kunstgewerbe- und Handwerkerschule Magdeburg|Zeichenschule Magdeburg]] (1793). 
+
+Im 19. Jahrhundert erfolgte eine Differenzierung dieser Einrichtungen in  [[Kunstgewerbeschule]]n, [[Berufsschule|Gewerbeschule]]n, oder auch [[Werkkunstschule]]n. Im 20. Jahrhundert gingen sie in Hochschulen bzw. Fachhochschulen auf. 
+
+== Weblinks ==
+* {{Webarchiv | url=http://www.uni-kiel.de/gza/8/kapitel/2themen/21handwerkfoerder/allg/mainframe1.htm | wayback=20091014213605 | text=Förderung des Handwerks im Kaiserreich am Beispiel Flensburg}}
+
+[[Kategorie:Handwerk (Deutschland)]]
+[[Kategorie:Ehemalige Schule in Deutschland|*]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Berufsbildung in Deutschland]]</text>
+      <sha1>nijtx9rycox1uouq4688uqtqwvy2qst</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aktzeichnen</title>
+    <ns>0</ns>
+    <id>614191</id>
+    <revision>
+      <id>199167966</id>
+      <parentid>196907050</parentid>
+      <timestamp>2020-04-22T14:45:37Z</timestamp>
+      <contributor>
+        <username>Petermichaelgenner</username>
+        <id>2248264</id>
+      </contributor>
+      <minor/>
+      <comment>Zu langes Wort</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17705" xml:space="preserve">Unter '''Aktzeichnen''' versteht man die bildnerische Darstellung des [[Nacktheit|nackten]] menschlichen Körpers. Als Vorlage wird in der Regel ein  [[Aktmodell]] – [[Frauen in der Kunst|Frauen]] und Männer – gewählt, in Kursen für Laien oftmals eine [[Statue]]. Die Abbildung des unbekleideten Körpers ist eine schwierige künstlerische Aufgabe und dient oft als Übung für Proportionsstudien. Das Ergebnis des Aktzeichnens bezeichnet man als [[Akt (Kunst)|Akt]].
+[[Datei:Lesson of nude drawing2.jpg|mini|Maler und Modell]]
+
+== Ort und Teilnehmer ==
+[[Datei:Martin Ferdinand Quadal 001.jpg|miniatur|''Der Aktsaal der Wiener Akademie'', Gemälde von [[Martin Ferdinand Quadal]], 1787]]
+[[Datei:2009-08-31-akt-muehle-055.jpg|mini|rechts|Zeitgenössischer Aktzeichensaal]]
+
+Aktzeichnen findet an Kunstakademien und Universitäten in der Regel im Rahmen eines Kurses oder eines Tutoriums statt, sowie an Zeichenschulen oder Volkshochschulen. Die Sitzordnung im Aktzeichensaal ist je nach Raumgröße und Zuschnitt unterschiedlich. Meistens werden die Plätze kreisförmig um das sich in der Mitte befindliche [[Aktmodell|Modell]] verteilt, doch sind auch halbkreisförmige oder andere Gruppierungen möglich. Die Teilnehmer können je nach Belieben sitzen und mit Hilfe eines stabilen Zeichenbretts arbeiten. Andere bevorzugen es, an einer [[Staffelei]] zu stehen. Weniger günstig ist das Malen auf einer waagrechten Tischplatte im Sitzen, da so die Proportionen nicht im richtigen Verhältnis gesehen werden können. Im Raum befinden sich außer einem Stuhl und einer Liege für das Modell manchmal eine Vorrichtung zur Fixierung der Stellung sowie ein künstliches [[Skelett]] zur Analyse des Bewegungsapparats. Wichtig ist eine Heizmöglichkeit, da große Säle meist zu kühl sind und nicht dem Wärmebedarf eines nackten Menschen entsprechen.&lt;ref name="usa"&gt;[http://www.shortnews.de/start.cfm?ide=453122 www.shortnews.de: ''USA: Aktmodelle gehen in die Gewerkschaft - die Räume sind zu kalt.''], abgerufen am 22. März 2010&lt;/ref&gt; Eine Wasserstelle im Raum erleichtert das Malen mit Aquarellfarben, Tusche oder Tinte.
+
+Aktzeichnen zählt an Akademien, Kunsthochschulen und Universitäten zur freiwilligen künstlerischen Grundausbildung, aber auch an Volkshochschulen oder Zeichenschulen werden Aktkurse für Laien und Hobbykünstler angeboten.
+
+== Aktmodell ==
+[[Datei:Geoffrey and Patricia.jpg|mini|Doppelakt]]
+
+Ein Aktmodell ist eine unbekleidete Person, die von Künstlern abgebildet wird. Der Körper wird in seiner äußeren Erscheinung studiert und nicht bewertet. Es gibt keine Vorgaben zum Aussehen, Alter oder Geschlecht des Aktmodells. Zum Studium der Muskulatur sind durchtrainierte Personen von Vorteil.
+Oft wird das Modellstehen als Teilzeitarbeit oder vorübergehende Tätigkeit ausgeübt, auch von Studenten aus Gründen des Nebenerwerbs. Manche Modelle bringen Requisiten mit wie einen Stab, einen Speer, ein Musikinstrument, einen Krug oder ein Tuch. Damit können ausgefallene und nicht alltägliche Stellungen eingenommen werden.&lt;ref&gt;Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' S. 54–60 &lt;/ref&gt;
+In der Regel ist Modellstehen sehr anstrengend, vor allem bei unbequemen und komplizierten [[Positur|Posen]]. Daher wird mit Ruhestellungen im Liegen oder Sitzen abgewechselt. Die Dauer variiert von Sekunden bis zu etwa 45 Minuten. Pausen dienen zur Entspannung der Muskulatur und zur Erfrischung.
+
+Stehen zwei Personen Modell wird die Konstellation Doppelakt genannt. Hierbei gibt es verschiedene Wege der Darstellung der zwischenmenschlichen Kommunikation: Bei zwei gleichzeitig anwesenden Modellen ist ein gelungenes äußeres und inneres Zueinander wichtig. Kein Körperteil darf nach Möglichkeit vom Zeichnenden aus ganz verdeckt sein; der Doppelakt sollte Nähe und Entfernung, Trennung und Verbindung der Figuren verdeutlichen. Durch gut gewählte Überschneidungen entstehen optimale Brücken und Zwischenräume.&lt;ref&gt;Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' S. 126 und 127 &lt;/ref&gt;
+
+== Proportionen ==
+
+Aktzeichnen ist ein figürliches Naturstudium, um die [[Körperproportionen|Proportionen]] und die [[Anatomie]] der menschlichen Gestalt kennenzulernen und künstlerisch umzusetzen. Dabei werden die Teile des Körpers in ihrem Aufbau, ihrer Funktion und ihrer räumlichen Ausdehnung betrachtet und der körperlichen Gesamtgebärde untergeordnet. Die Begrenzung auf einfache Formen erleichtert das Verständnis funktioneller Vorgänge des Knochengerüsts und zum Verhalten der Weichteile. Da jeder Mensch anders ist, gibt es keine starren Größenverhältnisse, doch ist die Kenntnis einer idealen Proportionslehre anfangs sehr dienlich.
+
+=== Körper ===
+[[Datei:Vitruvianischer Mann.jpg|mini|[[Leonardo da Vinci]]: Der Vitruvianische Mensch]]
+
+Als erste wichtige Grundorientierung wird der Körper als gegliederte Ganzheit mit Haupt- und Nebenformen erkannt, die leicht einprägbar ist. Wie Leonardo da Vincis [[Der Vitruvianische Mensch|Vitruvianischer Mensch]] zeigt, entspricht die Gesamthöhe eines Menschen der Breitenausdehnung mit ausgestreckten Armen, sodass er in einem Kreis oder ein Quadrat eingeschlossen werden kann.
+
+Die Totalhöhe des Körpers vom Scheitel bis zur Sohle wird in acht gleich große Teile durch Horizontalachsen gegliedert, wobei der Abstand von einer Achse zur anderen einer Kopflänge (KL) entspricht.&lt;ref name="autogenerated1"&gt; Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' S. 9 &lt;/ref&gt;
+* KL0 = Scheitel
+* KL1 = Kinn
+* KL2 = ungefähre Höhe der Brustwarzen
+* KL3 = Taille
+* KL4 = Schambein
+* KL5 = Mitte des Oberschenkels
+* KL6 = Kniespalt (Unterrand der Kniescheibe)
+* KL7 = Mitte des Unterschenkels
+* KL8 = Fußsohle&lt;ref&gt; Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' S. 14 und 16 &lt;/ref&gt;
+[[Datei:Human body proportions2 svg.svg|mini|Körperproportionen]]
+Die größte Breitenausdehnung des Rumpfes in Hüfthöhe ist bei den Geschlechtern verschieden und beträgt bei der Frau etwa zwei Kopflängen, beim Mann weniger. Fettablagerungen am weiblichen Körper, wie an der Brust, am Bauch, in der Hüftgegend und am Oberschenkel bilden charakteristische Formen aus und prägen die individuelle Proportion.&lt;ref&gt; Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' S. 20 &lt;/ref&gt; Wichtig sind außerdem die skeletalen Messpunkte Gehörgangsöffnung, Schultergelenk, Ellenbogengelenk, Hüftgelenk, Kniegelenk und Sprunggelenk.&lt;ref name="autogenerated1"/&gt; Der Schwerpunkt befindet sich zwischen dem ersten und zweiten Kreuzbeinwirbel. In der Profilansicht knickt der Oberkörper gegen das Becken mit einem flachen stumpfen Winkel nach vorne und hinten ab. Hüftregion und Brustkorb sind konstante Formen und können sich in ihrer Lage zueinander durch Beugung und Bewegung stark verändern.
+
+Wegen der fundamentalen Wichtigkeit dieser architektonischen Struktur beginnt das Aktzeichnen in Anfängerkursen meistens mit der Höhengliederung der stehenden Gestalt durch die Horizontalachsen. Erst nach dem flächigen Anlegen der groben Körperformen erfolgt das Zeichnen des Umrisses, man baut die Figur also aus der Tiefe auf. Die Skelettformen sind dabei wichtiger als die Muskulatur, sodass es oft von Nutzen ist, stark vereinfachte Knochen als gerade Striche in die Umrisse einzuzeichnen, damit die Mechanik des Körpers verstanden wird. Außerdem ist die Aufschlüsselung der Figur in räumliche Formen wie Kubus, Kugel, Halbkugel und Walze hilfreich.
+
+=== Kopf ===
+[[Datei:Human head proportions.svg|mini|Proportionen des Kopfes]]
+
+Im Aktzeichnen wird üblicherweise auf die Ausgestaltung des Kopfes im Sinne einer Porträtstudie kein Wert gelegt. Dafür gibt es eigene Kurse, wie ''Studienkopf'' oder ''Porträtzeichnen''. Die Länge des Kopfes von einem Achtel der Körpergröße ist jedoch eine wichtige Maßeinheit. Als Zusatzübung kann man sich auch mit den Proportionen des [[Schädel]]s beschäftigen. Der kuppelförmige Hirnschädel und der vorne abgeflachte Gesichtsschädel formen den Kopf. Die Augenachse befindet sich in der Mitte der Kopfhöhe. Die Strecke vom Scheitel bis zum Kinn kann dreigeteilt werden. Die Nasenspitze reicht bis etwas unterhalb des zweiten Drittels, der Mundspalt liegt in der Mitte des unteren Drittels. Das Ohr erstreckt sich vom Augenoberlid bis zur Nasenspitze.&lt;ref&gt; Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' S. 64 &lt;/ref&gt; Diese Orientierungspunkte sind nur ungefähre Richtwerte, da es gerade beim Gesicht stark abweichende Proportionen und [[Physiognomie]]n gibt. Durch Beugung, Streckung, Drehung und Neigung des Halses ergeben sich verkürzte Ansichten.&lt;ref&gt; David K. Rubins: ''Anatomie für Künstler.'' S. 18 und 19 &lt;/ref&gt;
+
+=== Hand, Fuß, Torso ===
+
+Entscheidend für das Gelingen einer Aktzeichnung ist das proportional korrekte Abbilden von Händen und Füßen. Die Hand reicht vom Kinn etwa bis zum Haaransatz. Der Fuß ist ungefähr so lang wie der Unterarm ohne die Hand. Wichtig bei beiden ist der skeletale Aufbau, um eine unklare und formlose Darstellung zu vermeiden. [[Torso]]s werden vor allem in der Bildhauerei gestaltet, aber auch beim Zeichnen kann die Konzentration auf die Körpermitte und deren Muskulatur als Übung dienen.
+
+== Stellungen ==
+
+=== Ruhehaltung im Stehen, Sitzen und Liegen ===
+[[Datei:Lisa, blue.jpg|mini|120px|links|Rückenansicht im Stand]]
+
+Bei der geraden Standhaltung mit Verteilung des Körpergewichts auf beide Füße ist es wichtig, die Plastizität der einzelnen Körpermassen in der frontalen oder rückwärtigen Ansicht eindeutig herauszuarbeiten. In der Standbein-Spielbeinhaltung stellt sich das Standbein schräg, das Becken sinkt zur Erhaltung des Gleichgewichts nach der nicht unterstützten Seite und der Oberkörper biegt sich nach der Standbeinseite. Der Aufbau dieser [[Klassischer Kontrapost|Kontrapoststudie]] beginnt mit dem Ziehen einer senkrechten Linie vom Scheitel über den Schwerpunkt bis zur einseitig belasteten Sohle, um die Standfähigkeit überzeugend darzustellen.&lt;ref&gt; Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' S. 33–40 &lt;/ref&gt; Durch Körperverdrehungen, Heben oder Verschränken der Extremitäten und andere Haltungen entstehen Stauungen und Dehnungen. Die äußeren Formen sollten nicht einfach abgezeichnet werden, vielmehr geht es um die Verdeutlichung der Beziehungen zwischen ihnen. Eine Darstellung im Profil zeigt ein ganz anderes Bild des Körpers. Überschneidungen und Verkürzungen ergeben sich bei einem halbseitlichen Blickwinkel.
+
+Die Sitzhaltung ermöglicht durch besondere Arm- und Beinstellungen vielfältige Gestaltungen. Die Bauchdecke wird gedehnt oder gestreckt, der Schultergürtel verhält sich unterschiedlich je nach Lage der Arme. Jede Körperhaltung hat im Übrigen nicht nur einen mechanischen, sondern auch einen psychischen Aspekt, wie ''[[Der Denker]]'' von [[Auguste Rodin]] zeigt.
+
+In der Rückenlage sinkt die Bauchdecke ein. Beim weiblichen Modell geben die Brüste je nach Größe unter ihrem eigenen Gewicht nach. Durch Verdrehen von Becken oder Brustkorb ändern sich die Weichformen unterschiedlich nach ihrer Funktion. Bei Übergangsformen zwischen Sitzen und Liegen übernehmen Arm, Ellenbogen oder Gesäß Stützfunktionen, die nicht gestützte Seite verhält sich dagegen nachgiebig.
+
+=== Bewegung und Dynamik ===
+[[Datei:Three positions.jpg|mini|Bewegungsablauf]]
+
+Ein Modell kann in einer Bewegungsposition nicht lange verharren. Rasch nacheinander folgende Haltungen lebhafter Gebärden werden häufig auf einem Blatt vereint. Oft herrscht ein gestörtes Gleichgewicht, bei dem der Körperschwerpunkt verlagert wird, dadurch entstehen Augenblicksdarstellungen von Schritt, Lauf oder Geste. Die Vorwärtsbewegung ist vor allem im Profil glaubhaft darzustellen im Sinne von gelassen, zögernd, schleichend oder geziert bis zu eilig, forsch, temperamentvoll, fröhlich oder tänzerisch.&lt;ref&gt;Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' S. 32 &lt;/ref&gt; Bewegte Posen bedeuten oft eine Überforderung für den Anfänger, der noch funktionelle und räumlich-körperliche Probleme mit den Proportionen hat. In dynamischen Stellungen ändern sich Lage und Form von Ober- und Unterkörper, durch Drehungen, Beugungen und andere Aktivitäten entstehen schwierig zu zeichnende Verkürzungen.
+
+Bei Tanz, Sport und Spiel oder bei der Arbeit nimmt der Mensch jeweils charakteristische Haltungen ein. Es ist etwas anderes, eine Kiste hochzuheben, zu tragen, zu ziehen oder zu schieben, eine Treppe hinaufzugehen oder eine Leiter zu besteigen. Jedes Musikinstrument, jedes Werkzeug verlangt eine eigene Körperhaltung, wozu typische Bein-, Arm- und Handstellungen gehören. Schon mit einem einfachen Stab können vielfältige Tätigkeiten simuliert werden wie fechten, schießen, rudern, Speer werfen oder Holz hacken.&lt;ref&gt; Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' S. 55–59 &lt;/ref&gt;
+
+== Übungen ==
+[[Datei:Knut with skeleton.jpg|mini|120px|links|Akt in einem angedeuteten Raum mit Skelett]]
+
+Vorzeichnen ist im Allgemeinen nicht erwünscht, der Schüler sollte den Körper des Modells sowohl räumlich wie auch umrisshaft unmittelbar begreifen. Viele Kursleiter schlagen spezielle Übungen vor, um das Vorstellungsvermögen zu schärfen, die Malhand zu lockern und flüssige Bewegungsabläufe zu gewährleisten. Gut geeignet hierfür sind rasche Stellungswechsel, wobei der Zeichner gezwungen ist, den Haltungsausdruck im Ganzen rasch zu erfassen und nur knappe lineare oder flächige Andeutungen aufs Blatt zu setzen. Anatomische Einzelheiten werden dabei zugunsten des Bewegungsausdrucks vernachlässigt, die Zeichnung nähert sich der Abstraktion.
+Ebenfalls zu mehr Beobachtungsfähigkeit führt es, das Modell nur kurz zu studieren und dann ohne weitere Betrachtung zu skizzieren. Dies ist auch mit geschlossenen Augen möglich, was manchmal zu dichteren Aussagen und besseren Formulierungen führt. Ein Malen aus der Vorstellung heraus, ganz ohne Modell, ist vor allem für Fortgeschrittene wichtig, die damit ihre innere Anschauung und Kenntnis der Proportionen überprüfen können.
+
+Die Verknüpfung des Modells mit einem umgebenden Raum führt zu neuen Erkenntnissen. Dies reicht von der Einbindung der Figur in eine starre Form, etwa ein Rechteck, bis zur Ergänzung des Ambientes, also des Saales, der anderen Schüler oder des Demonstrationsskelettes. Um die Körperformen klar zu umreißen, ist die Darstellung als positive und negative Form eine gute Übung.&lt;ref&gt; Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' S. 29 &lt;/ref&gt; Bei einer kreisförmigen Anordnung der Malplätze ist es möglich, eine Stellung aus verschiedenen Blickrichtungen abzubilden.
+
+== Materialien und Techniken ==
+[[Datei:Otto Sohn-Rethel, Junge Akt 1924.jpg|miniatur|hochkant|Rötelzeichnung [[Otto Sohn-Rethel]], 1924]]
+[[Bleistift]]e unterschiedlicher Härtegrade eignen sich nicht nur zum Zeichnen vom Umrissen, sondern erlauben als Linienbündel oder [[Schraffur]] auch die Wiedergabe von plastischen Formen. Durch starken oder schwachen Druck und einen Wechsel von hell zu dunkel entsteht Raumtiefe. [[Zeichenkohle]], Sepia- und [[Rötel]]stifte können zusätzlich weich verwischt werden. Der gleiche Effekt entsteht beim Auftragen von Kreidestaub mit dem Finger. Breitkantige Kohle- oder Graphitstücke gestatten die abstrahierende Darstellung von Flächen oder plastischen Formen. Klare Linien entstehen bei Feder- oder Filzstiftzeichnungen.
+
+Andere Ausdrucksmöglichkeiten als der Stift bieten [[Pinsel]] in verschiedenen Stärken. Sie werden sowohl linear als auch flächig eingesetzt. Mit diesem Werkzeug werden [[Aquarell]]- und Deckfarben, Tinte, Tusche, [[Gouache]]- und Ölfarben aufgetragen, wobei man je nach gewünschter Wirkung mit viel oder wenig Wasser und Bindemittel arbeitet. Unterschiedlich starkes Aufdrücken oder das Malen mit einem halb trockenen Borstenpinsel ergeben abweichende Resultate. Mit Hilfe einer Zahnbürste und der Finger oder eines Siebes spritzt man flüssige Farben auf. [[Wachsmalstift]]e oder [[Ölkreide]]n eignen sich auch zur Ausspartechnik, wobei der Umriss mit der fetthaltigen Kreide angelegt und mit einer wasserlöslichen Farbe flächig übermalt wird. Mit einem Stempeldruck werden die Proportionen der einzelnen Körperteile gut veranschaulicht.&lt;ref&gt; Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' S. 23 &lt;/ref&gt;
+
+Weiße, farbige oder schwarze Hintergrundpapiere sowie die Begrenzung auf wenige Tonwerte oder auf zwei [[Komplementärfarben]] ermöglichen variantenreiche Darstellungen. All diese Materialien und Techniken stellen nur einen kleinen Ausschnitt aus der Fülle der Möglichkeiten dar.
+
+== Literatur ==
+
+* Gottfried Bammes: ''Studien zur Gestalt des Menschen.'' Verlag Otto Maier GmbH, Ravensburg 1990, ISBN 3-473-48341-9.
+* Gottfried Bammes: ''Arbeitsbuch zur Künstleranatomie.'' Verlag Otto Maier GmbH, Ravensburg 1993, ISBN 3-473-48374-5.
+* Louise Gordon: ''Anatomie und figürliches Zeichnen.'' Bauverlag GmbH, Wiesbaden und Berlin 1981, ISBN 3-7625-1393-7.
+* David K. Rubins: ''Anatomie für Künstler.'' Verlag Otto Maier GmbH, Ravensburg 1970, ISBN 3-473-48234-X.
+* Werner Maier: ''Die Kunst-Akademie. Faszination Aktzeichnen. Ausdrucksstark und konzentriert.'' Englisch Verlag, Wiesbaden 2007, ISBN 978-3-8241-1382-8.
+
+== Siehe auch ==
+
+* [[Akt (Kunst)]]
+* [[Mädchenakt]]
+* [[Aktmodell]]
+* [[Aktfotografie]]
+* [[Körperproportionen]]
+
+== Einzelnachweise ==
+&lt;references/&gt;
+
+== Weblinks ==
+
+{{Commonscat|Nude females in drawings}}
+{{Commonscat|Nude males in drawings}}
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Nacktheit]]
+
+[[fr: Représentation artistique du nu]]
+[[pt: Desenho de modelo vivo]]
+[[sv: Kroki]]</text>
+      <sha1>7558ruac0yrfptajastwezxv2ae97m1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pinselzeichnung</title>
+    <ns>0</ns>
+    <id>5689858</id>
+    <revision>
+      <id>142121812</id>
+      <parentid>134102422</parentid>
+      <timestamp>2015-05-16T12:27:46Z</timestamp>
+      <contributor>
+        <username>Summ</username>
+        <id>225282</id>
+      </contributor>
+      <comment>kein Pinsel</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1352" xml:space="preserve">[[Datei:Por liberal.jpg|thumb|Pinselzeichnung von [[Francisco de Goya]] (''Weil sie liberal war'', 1814–1820, Tusche mit [[Sepia (Farbstoff)|Sepia]])]]
+Eine '''Pinselzeichnung''' ist eine [[Zeichnung (Kunst)|Zeichnung]], die ausschließlich oder überwiegend mit dem [[Pinsel]] ausgeführt wird. Dabei können sowohl [[Farbmittel|Farbe]] als auch [[Tusche]]n verwendet werden. Die Besonderheit der Pinselzeichnung besteht darin, dass der an sich ursprünglich für die [[Malerei]] gedachte Pinsel für die Technik der Zeichnung eingesetzt wird. 
+
+Die [[Tradition]] der Pinselzeichnung entstand im [[Ostasien|ostasiatischen Raum]], insbesondere in [[China]] und [[Japan]]. Dort hat sich seit der [[Tang-Dynastie]] im 6. Jahrhundert eine Zeichenkunst entwickelt, die sich nur noch bedingt in die europäischen Kategorien von Zeichnung und Malerei einordnen lässt. Die Pinselzeichnung stellt eine Verbindung oder Schnittstelle zwischen Zeichnung und Malerei dar und hat, ausgehend von der europäischen Begeisterung für die asiatische Kunst Anfang des [[20. Jahrhundert]]s, Eingang auch in die europäische Kunst gefunden, wo sie bis in die Gegenwart eine Rolle spielt.
+
+== Siehe auch ==
+* [[Zeichnung (Kunst)#Geschichte|Ostasiatische Kunst]]
+* [[Pinselduktus]]
+* [[Sumi-e]]
+* [[Tuschmalerei]]
+
+[[Kategorie:Technik der Malerei]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>5nf94k9mogsrqt1tgrkx12o85mqc3ha</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prinzipskizze</title>
+    <ns>0</ns>
+    <id>5645480</id>
+    <revision>
+      <id>202503997</id>
+      <parentid>181378045</parentid>
+      <timestamp>2020-08-04T18:59:16Z</timestamp>
+      <contributor>
+        <username>Orthographus</username>
+        <id>3348819</id>
+      </contributor>
+      <minor/>
+      <comment>Rechtschreibung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6185" xml:space="preserve">'''Prinzipskizzen''' sind einfache graphische [[Darstellung (Wiedergabe)|Darstellungen]] zur [[Veranschaulichung]] von [[Sachverhalt]]en und deren [[Ausprägung]]en. Sie werden eingesetzt um [[Design]], [[Funktion (Objekt)|Funktion]], [[Logik]], Zusammenhänge, [[Kausalität|Wirkung]] und dergleichen von bereits existierenden oder geplanten [[Gegenstand|Gegenständen]] oder [[Betrachtung]]en sichtbar und verständlich zu machen.&lt;ref&gt;{{Internetquelle |autor=Prof. Dr. M. Meier, Prof. E. Leidich, Dipl. ing. Martin Schütz |url=https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/148872/eth-28130-01.pdf |titel=Technisches Zeichnen |hrsg=Eidgenössische Technische Hochschule Zürich |seiten=59 |zugriff=2016-12-29 |format=PDF, 15 MB}}&lt;/ref&gt;
+
+== Berufsgruppen ==
+Beliebt sind Prinzipskizzen bei Designern, Ingenieuren, Architekten, Ärzten, Wissenschaftlern, Künstlern zunehmend aber auch bei [[Manager (Wirtschaft)|Managern]].
+
+== Erstellung und Ausführung ==
+Man kann unterscheiden zwischen freihändig gezeichneten [[Skizze]]n, digital am Computer frei erstellten oder mithilfe eines bestimmten [[Metamodell]]s zusammengestellte – also wieder nach einem bestimmten Prinzip erstellte Skizzen. Der Name und die Bedeutung kommen aber vom Prinzip des Dargestellten, also eine gewisse Vereinfachung und Reduktion auf wesentliche [[Merkmal]]e.
+
+== Abgrenzung ==
+Der Versuch einer Abgrenzung zu anderen graphischen Darstellungen zeigt auf der einen Seite, dass [[Technische Zeichnung]]en und [[Diagramm]]e wesentlich detailreicher und exakter sind als Prinzipskizzen, da diese als Vorlage für bestimmte [[Ablaufsteuerung|Arbeitsschritte]] und Berechnungen eingesetzt werden, also bereits ein fertiges Ergebnis darstellen.
+
+Auf der anderen Seite gibt es graphische Darstellungen, die das [[Kriterium]] der Darstellung eines Prinzip|Prinzips nicht erfüllen, also nicht systematisch einen bestimmten Sachverhalt darstellen, da sie keine Sache konkret darstellen oder in Beziehung zu anderen Sachen setzen. Diese Abgrenzung ist sicherlich fließend, es zeigt sich aber, dass zum Beispiel [[Powerpoint|Powerpoint Folien]] und [[Mind Map]]s eher zur Darstellung temporärer und sporadischer Daten herangezogen werden. Das heißt, es werden eher [[Prozess]]e von kurzer Lebensdauer unterstützt, wie zum Sammeln von Daten, die dann später erst in eine systematische Form gebracht werden müssen, oder zur unterstützenden Visualisierung anderer [[Informationskanal|Informationskanäle]] wie einer Rede.
+
+== Digitale Variante ==
+Interessant ist die Variante der Prinzipskizze in digitaler Form mithilfe eines bestimmten Metamodells wegen ihrer einfachen Erstellung durch [[Wiederverwendung]] von bereits vorhandenen [[Begrifflichkeit]]en und Darstellungen und der damit verbundenen Möglichkeit einer Vernetzung mit anderen Prinzipskizzen auf denen diese Teile ebenfalls verwendet werden bzw. auch die gesamte Prinzipskizze als Teil eingebettet oder referenziert werden kann.
+Dadurch entsteht ein ähnlicher Mechanismus wie in einem – hier graphischen – [[Wiki]] oder dem [[Web]] als solches mit seiner [[Markup Language]] und den [[Hyperlink|Links]].
+Jede Prinzipskizze mit gleichen Inhalten oder [[Teilmenge]]n von Inhalten kann in Zusammenhang mit allen anderen Prinzipskizzen auch als [[Betrachtung]]sebene für die dahinterliegende Begriffswelt angesehen werden. Wobei die [[Ausprägung]] – also die graphische Darstellung in jeder Betrachtungsebene – unterschiedliche sein kann, je nach dargestelltem Prinzip [Lage, Ansicht, Funktion, Zeitachse etc.]
+
+== Weiterführende Vergleiche und Möglichkeiten ==
+Durch die [[Katalogisierung]] von Begriffsklassen für entsprechende Metamodelle entsteht eine [[Ontologie]] entsprechende einem Klassenmodell mittels einer [[Programmiersprache]] oder dem [[Sprachschatz]] einer [[Firmenkultur]].
+Die Anwendung und [[Konkretisierung]] dieser Metamodelle entspricht einer [[Objekt (Programmierung)#Instanziierung|Instanziierung]] des Klassenmodells, also das Befüllen von [[Variable (Mathematik)|Variablen]] mit Daten.
+Werden die Daten der Prinzipskizzen als [[XML]]-Darstellung repräsentiert, ist das Vergleichbar mit einem [[Semantic Web]]. Als Visualisierung ist daher auch der XML-basierende Grafikstandard [[SVG]] naheliegend.
+Um so einen graphischen [[Sprachschatz]] lokal in einer [[Organisation]], einem [[Unternehmen]] oder einem [[Projekt]] einzusetzen, kommen auch [[objektorientiert]]e und objektrelationale [[Datenbank]]en zum Einsatz.
+
+== Wirtschaftliche Bedeutung ==
+[[Volkswirtschaft]]lich gesehen besteht die Chance Kommunikationswege abzukürzen indem Informationen über komplexe Zusammenhänge systematisch, übersichtlich und nachhaltig geordnet und fortschreibbar aufbereitet und zur Verfügung gestellt werden können.&lt;ref&gt;{{Literatur |Autor=Bernd Bertsche, Peter Göhner, Uwe Jensen, Wolfgang Schinköthe, Hans-Joachim Wunderlich |Titel=Zuverlässigkeit Mechatronischer Systeme |Verlag=Springer Verlag |Ort=Berlin, Heidelberg |Datum=2009 |ISBN=978-3-540-85091-5 |Seiten=158 |Kommentar=illustriert |Online={{Google Buch | BuchID = kHllB1kNPtIC |Seite=158}} |Abruf=2016-12-29}}&lt;/ref&gt;
+
+Der Einsatz als internes und externes [[Beratung]]swerkzeug wird durch Visualisierung und Adaptierung der Metaebene ermöglicht. Damit kann gesteuert werden, welche Darstellungs- und damit auch welche [[Kommunikationsmodell]]e zweckmäßig zur Behandlung von bestimmten Sachverhalten sind und in welchen Prozessen diese sinnvollerweise eingesetzt werden können und sollen.
+Anhand der geplanten Verknüpfungen im Metamodell kann im Vergleich mit den tatsächlich verwendeten Verknüpfungen der Kommunikationspfad innerhalb einer [[Organisation]] optimiert werden, ähnlich den Trampelpfaden in der Wildnis – je breiter ausgetrampelt (je mehr Daten), umso wichtiger.
+
+== Literatur ==
+* Alan Pipes: ''Zeichnen für Designer: Zeichenfertigkeiten, Konzeptskizzen, Computersysteme, Illustration, Werkzeuge und Materialien, Präsentationen, Produktionstechniken'', Stiebner Verlag GmbH, 2008, ISBN 3-8307-1347-9
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Pädagogische Methode/Lehre]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>ljetihgr7glcohzn4peexfiyatrjqg0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Angebliche Fahrradzeichnung Leonardo da Vincis</title>
+    <ns>0</ns>
+    <id>6735681</id>
+    <revision>
+      <id>207902281</id>
+      <parentid>207898265</parentid>
+      <timestamp>2021-01-21T13:52:47Z</timestamp>
+      <contributor>
+        <username>Aka</username>
+        <id>568</id>
+      </contributor>
+      <minor/>
+      <comment>/* Fundgeschichte */ [[Benutzer:Aka/Tippfehler entfernt|Tippfehler entfernt]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3810" xml:space="preserve">[[Datei:Atlanticus Folio 132 133.jpg|mini|Abbildung des Fahrrades im Seitenzusammenhang]]
+Das '''Fahrrad''' ist eine Zeichnung auf der Rückseite eines Skizzenblattes von [[Leonardo da Vinci]], die 1974 im [[Codex Atlanticus]] gefunden wurde. Würde die Zeichnung von da Vinci stammen, wäre er der Erfinder des [[Fahrrad]]s gewesen. Allerdings kamen früh Zweifel an der Zuschreibung auf; die Skizze gilt heute als Fälschung.
+
+== Fundgeschichte ==
+Die Skizze wurde 1974 in Leonardos ''Codex Atlanticus'' gefunden, einer im 16. Jahrhundert zusammengestellten Sammlung von losen Blättern Leonardos. Sie fand sich dort auf der Rückseite eines Manuskripts von Leonardo. Eine Gruppe von Mönchen unter Leitung des [[Lexikografie|Lexikographen]] [[Augusto Marinoni]] schloss eine Restaurierung des Codex ab und präsentierte in dem Zuge den Fund der Zeichnung eines fahrradähnlichen Gefährts.
+
+== Beschreibung ==
+Die Zeichnung wird mit dem Rest des Codex in der [[Biblioteca Ambrosiana]] in Mailand aufbewahrt.
+
+Die Bleistiftzeichnung zeigt ein Gefährt mit zwei Rädern. Bei beiden sind je acht Speichen dargestellt. Es verfügt über Gabel, Pedale, eine Kette, starre Lenkstange und einen Sattel. Durch die starre Lenkstange scheint eine Lenkung unmöglich. Die Geometrie macht ein Treten ebenfalls unmöglich.
+
+== Wirkung ==
+[[Datei:da Vinci bicycle.JPG|mini|Der Skizze entsprechender Nachbau]]
+
+Das Fahrrad wurde aufgrund der von Leonardo abweichenden Zeichnungsart schnell seinem Schüler [[Francesco Melzi]] zugeschrieben. Beispielsweise übernahm das [[Nachrichtenmagazin]] ''[[Der Spiegel]]'' 1974 diese These.&lt;ref&gt;{{Der Spiegel |ID=41652211 |Titel=Nur selten kehre ich zurück |Nr=42 |Jahr=1974 |Seiten=150–156 |Datum=1974-10-14}}&lt;/ref&gt;
+
+Das Fahrrad ist häufig nachgebaut worden, unter anderem von dem Modellbauer [[Giovanni Sacchi]].
+
+1993 verfasste der mexikanische Autor [[Paco Ignacio Taibo II]] den Roman ''La bicicleta de Leonardo'' ''(Das Fahrrad des Leonardo da Vinci)'',&lt;ref&gt;dt. von J. Alberts; Berlin: Eisbär 1997, ISBN 3-930057-15-8.&lt;/ref&gt; für den er 1994 den Preis [[Premio Hammett]] erhielt.
+
+== Nachweis der Fälschung ==
+Mittlerweile gilt als anerkannt, dass es sich bei der Zeichnung um eine Fälschung handelt. So wurde der die Zeichnung enthaltende Codex bereits in den 1960er Jahren von [[Carlo Pedretti]] durchgesehen, dabei aber nichts von einer Zeichnung eines Fahrrades erwähnt.&lt;ref&gt;{{Internetquelle |url=http://leo.skyar.com/fahrrad.htm |archiv-url=https://web.archive.org/web/20030706132625/http://leo.skyar.com/fahrrad.htm |archiv-datum=2003-07-06 |autor=Peter Michalski |werk=[[Berliner Morgenpost]] |datum=1997-10-17 |titel=Professor aus Mannheim stößt Leonardo da Vinci aus dem Sattel – Fahrrad-Zeichnung eine Fälschung |zugriff=2014-07-31}}&lt;/ref&gt;
+
+Im Rahmen der Internationalen Fahrradgeschichtekonferenz an der Glasgow School of Art 1997 wies der Forscher [[Hans-Erhard Lessing]] diesen Sachverhalt nach&lt;ref&gt;Hans-Erhard Lessing: [http://www.cyclepublishing.com/history/leonardo%20da%20vinci%20bicycle.html ''The Leonardo da Vinci Bicycle Hoax.''] In: ''Cycle Publishing'', 1997.&lt;/ref&gt; und nahm an, dass eine von Leonardo gezeichnete Brunneneimerkette die Fälschung inspiriert habe.&lt;ref&gt;{{Der Spiegel |ID=25211866 |Titel=Falsches Fahrrad in der Pinakothek |Nr=39 |Jahr=2002 |Seiten=187 |Datum=2002-09-21}}&lt;/ref&gt;
+
+== Weblinks ==
+{{Commonscat|Bicycles by Leonardo da Vinci|Nachbauten von Fahrrädern, die Leonardo da Vinci zugeschrieben wurden|3=S}}
+* [http://www.fahrradmonteur.de/Fahrradzeichnung_Leonardo_da_Vinci Erläuterungen zur Fahrradzeichnung von Leonardo da Vinci]
+
+== Fußnoten ==
+&lt;references /&gt;
+
+[[Kategorie:Fahrradgeschichte]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Leonardo da Vinci]]
+[[Kategorie:Geschichtsfälschung]]
+[[Kategorie:Zeichnung (Werk)]]</text>
+      <sha1>oa5xeyy50favx1quaey470aow3z7lba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zeichnung (Kunst)</title>
+    <ns>0</ns>
+    <id>36885</id>
+    <revision>
+      <id>213416139</id>
+      <parentid>212470260</parentid>
+      <timestamp>2021-06-29T19:49:17Z</timestamp>
+      <contributor>
+        <username>Gak69</username>
+        <id>2286542</id>
+      </contributor>
+      <minor/>
+      <comment>Abschnittlink korrigiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30525" xml:space="preserve">[[Datei:Da Vinci Vitruve Luc Viatour.jpg|mini|[[Vitruvianischer Mensch]] von [[Leonardo da Vinci]] ([[Federkiel#Der Federkiel als Schreibgerät|Feder]] und [[Tinte]], 1509)]]
+
+Eine '''Zeichnung''' ist ein [[Abbild|(Ab-)Bild]], das ein [[Motiv (bildende Kunst)|Motiv]] ([[Sujet]]) in vereinfachender Weise mit Linien und Strichen darstellt. Dies unterscheidet Zeichnungen von der [[Malerei]], welche ein Motiv durch den flächenhaften Einsatz von [[Farbe]]n und [[Tonwert]]en darstellt.
+
+Seit dem 19.&amp;nbsp;Jahrhundert hat sich als [[Terminus|Fachausdruck]] für alle nichtmalerischen zweidimensionalen Darstellungen der Ausdruck ''[[Grafik]]'' etabliert, der auch verdeutlicht, dass „zeichnen“ [[Begriffsgeschichte|begriffsgeschichtlich]] mit „[[Zeichen]]“ verwandt ist. Zu den Grafiken zählen neben der Zeichnung auch [[Druckvorlage|Drucke]], [[Mosaik]]e und [[Sgraffito]].
+
+Nach der klassischen Auffassung betont eine Zeichnung im engeren Sinne die [[Umriss]]&lt;nowiki/&gt;linien eines Motivs. Diese Linien können mit Hilfe von weiteren Strichen ([[Schraffur]]en) ergänzt werden, um einen [[3-D|räumlichen]] Eindruck zu erzeugen. Die Darstellung ist dabei entweder [[Monochrome Malerei|monochrom]] oder verwendet vorgegebene [[Farbe]]n, die vor dem Auftragen nicht zusammengemischt werden. Heute kommen in der [[Kunst|künstlerischen]] Zeichnung allerdings zahlreiche Mischtechniken zum Einsatz, durch die in der Praxis die akademische Grenze zur Malerei nicht immer eindeutig zu ziehen ist. Bereits die [[Pinsel]]&lt;nowiki/&gt;zeichnung setzt neben Linien und Strichen die [[Lavierung]] als Darstellungsmittel ein.
+
+In der Regel ist die künstlerische Zeichnung eine Handzeichnung (auch Freihandzeichnung). Zeichnungen können aber auch mit Hilfsmitteln ([[Lineal]]en, [[Schablone]]n) gestaltet werden; oft ist dies bei [[Technische Zeichnung|technischen Zeichnungen]] der Fall.
+
+== Geschichte ==
+=== Anfänge ===
+[[Datei:Egypte louvre 105.jpg|mini|[[Ägypten|Ägyptisches]] [[Ostrakon]], [[Louvre]]]]
+
+Die Anfänge der Zeichnung fallen mit dem Beginn der menschlichen Kulturgeschichte zusammen. Älteste Zeugnisse sind Felszeichnungen aus der Zeit von ca. 36.000 v. Chr. Motive sind vor allem die Jagd, der Krieg und vermutlich [[Magie|magische]] [[Symbol]]e. Es wird angenommen, dass diese Werke insgesamt religiös-magischen Ursprungs sind, etwa um Einfluss zu nehmen auf den Ausgang der Jagd oder kriegerische Auseinandersetzungen. Neben in den Fels geritzten Zeichnungen haben die urzeitlichen Maler [[Holzkohle]] und aus Erden und Pflanzen gewonnene Mal- und Zeichenmittel wie [[Ocker]] verwendet. Bedeutende Funde stammen aus dem spanischen [[Höhle von Altamira|Altamira]] und dem französischen [[Höhle von Lascaux|Lascaux]].
+
+Alle späteren Hochkulturen haben Werke hervorgebracht, die auf der Verwendung von Linien beruhen. Oft stehen diese Werke entweder in enger Verbindung mit der Entwicklung der Schrift oder sind formalisierte [[Zeichen]] und [[Symbol]]e ohne individuellen Ausdruck. Eine bedeutsame Weiterentwicklung erfährt die Zeichnung ab etwa 3000 v.&amp;nbsp;Chr. in Ägypten und später im Römischen Reich mit dem [[Fresko]], einer dekorativen Wandmalerei, die oft Spuren von Vorzeichnungen aufweisen. Zeichnerische Entwürfe für solche Fresken sind auf Tonscherben ([[Ostrakon|Ostraka]]) überliefert. Ab 1000 v.&amp;nbsp;Chr. werden Tonvasen zu einem bedeutenden Zeichnungsträger, insbesondere in der attischen Kultur. Zunächst wurden Linien in den unbehandelten Ton geritzt. Aus späterer Zeit finden sich aufwendig gestaltete Zeichnungen auf weiß grundierten Gefäßen. Aus der schriftlichen Überlieferung ist bekannt, dass ab 500 v.&amp;nbsp;Chr. im gesamten Mittelmeerraum Zeichnungen auf grundiertem Holz und mit Silberstift auf Pergament angefertigt wurden. Weil das Material aber leicht vergänglich ist, sind keine Beispiele überliefert.
+
+==== Mittelalter ====
+[[Datei:Sachsenspiegel die wahl des deutschen Königs.jpg|mini|Mittelalterliche Buchmalerei aus dem [[Heidelberger Sachsenspiegel]], um 1300]]
+
+Im [[Mittelalter]] hat die Zeichnung nicht nur Bedeutung als Mittel des Entwurfs für Malerei, [[Skulptur]] und [[Architektur]], sondern gewinnt insbesondere in der [[Buchmalerei]] einen neuen Entwicklungshöhepunkt. Allerdings bleibt sie in ihrer Funktion eingebunden, ist also nicht selbstständiges Kunstwerk. Wichtigster Ausdruck der Zeichenkunst sind [[Miniaturmalerei|Miniaturen]] und [[Marginal]]zeichnungen am Rande wertvoller Handschriften. Die meisterhafte Beherrschung findet ihren Ausdruck insbesondere in den Handschriften iroschottischer und italienischer Klöster und Abteien. Eines der wichtigsten Dokumente ist das irische ''[[Book of Kells]]'' aus dem 9. Jahrhundert. Mit der Möglichkeit der [[Papier]]herstellung, das ab dem 14. Jahrhundert zunehmend an die Stelle des teuren [[Pergament]]s tritt, werden Studien und Übungszeichnungen möglich. In den europäischen Malschulen sind Meisterzeichnungen und Skizzenbücher weit verbreitet, die den Schülern als Vorlagen für ihr reproduzierendes Schaffen nach den Malregeln des jeweiligen Meisters gelten. Obwohl für die mittelalterlichen Buchillustrationen die Bezeichnung ''Malerei'' üblich ist, handelt es sich in der Regel um kolorierte Zeichnungen, bei deren Erstellung Zeichner ([[Buchmaler|Adumbrator]]) und Maler ([[Buchmaler|Illuminator]]) nacheinander die [[Illustration]] erstellten.
+
+==== Neuzeit ====
+Im 15. Jahrhundert beginnt die Zeichnung an Eigenständigkeit zu gewinnen. Die wichtigste ästhetische Neuerung dieser Zeit ist die Entwicklung der [[Zentralprojektion|Zentralperspektive]], die einhergeht mit einem neuen Bemühen um realistische Darstellung. Die Antike und ihre Kunstwerke werden zum ästhetischen Ideal erhoben ([[Renaissance]]). Der Zeichnung kommt hier als Mittel des Studiums und als Entwurfsmedium eine besondere Bedeutung zu. Zudem wird sie zu einem beliebten Sammlerobjekt, was die reichhaltige Überlieferung seit dieser Zeit erklärt.
+
+Einen neuen Höhepunkt erreicht die Zeichnung in der italienischen Renaissance und insbesondere im [[Manierismus]]. Viele Zeichnungen sind in Skizzenbüchern enthalten, was darauf verweist, dass die Zeichnung das bevorzugte Medium für bildliche Studien war. In der Regel wird auf Papier gezeichnet, wobei Silberstift, Kohle, Rötel und weiße Kreide zu den wichtigsten Zeichenwerkzeugen zählen. Auch Feder, Pinsel und Tinte werden verwendet. Stilistisch lassen sich deutliche Unterschiede zwischen Nord- und Südeuropa ausfindig machen. Während in Südeuropa das künstlerische Leitmedium die Malerei ist, sind es in Nordeuropa in besonderer Weise Drucke und Stiche. In den Zeichnungen aus Deutschland und Holland ist dieser Einfluss unverkennbar. In [[Barock]]zeit und im [[Rokoko]] dominiert aber auch im Norden die Malerei den Zeichenstil. Bedeutendster Zeichner dieser Zeit ist [[Rembrandt van Rijn|Rembrandt]], der über 2000 Zeichnungen hinterlassen hat, meist Studien und Entwürfe.
+
+Im 18. Jahrhundert geht ein neuer Entwicklungsimpuls für die Zeichnung von der Neuentwicklung von Buntkreiden und Pastellfarben aus. Vor allem [[Antoine Watteau]] hat mit diesen neuen Medien experimentiert und eine prägende Formsprache entwickelt. Beliebte Sujets sind [[Porträt]]studien – Ausdruck der bürgerlichen Betonung des [[Individuum]]s – und Landschaftszeichnungen. Die Zeichnung gewinnt immer stärker an unterschiedlichen gestalterischen Elementen. Ausdruck dafür ist zum Beispiel die enge Verbindung von Zeichnung und [[Aquarell]].
+
+[[Datei:GB 1981-029.jpg|mini|[[Gunter Böhmer]]: ''Zirzensische Szene'', Tuschzeichnung 1981]]
+
+==== Moderne ====
+[[Datei:Max Slevogt.jpg|mini|links|Porträtstudie ''[[Max Slevogt]]'' von [[Emil Orlik]], Bleistiftzeichnung 1917]]
+
+Die moderne Zeichnung seit Ende des 19. Jahrhunderts ist geprägt durch eine große Freiheit in der Wahl zeichnerischer Mittel. Die Grenze zwischen Malerei und Zeichnung verwischt umso stärker, als die farbliche Gestaltung etwa mit Hilfe von Pastellfarben und Kreiden oder die plastische Gestaltung durch Verwischen und Verreiben die Eindeutigkeit der Linie in den Hintergrund treten lassen. In einigen Richtungen, etwa dem [[Pointillismus]] und [[Impressionismus]], scheinen zeichnerische Mittel ganz zu verschwinden. Im Expressionismus weicht die Linie dem ausdrucksstarken, dramatischen Strich. Auf der anderen Seite finden sich zum Beispiel bei [[Pablo Picasso]] Gemälde, die aus nichts weiter als der Linie aufgebaut sind. Ob ein Bild Zeichnung oder Malerei ist, lässt sich mit Hilfe der klassischen Kriterien nicht mehr eindeutig beantworten. Das aber ist gerade ein Ziel der unterschiedlichen Kunstbewegungen bis zur ersten Hälfte des 20. Jahrhunderts: Die akademischen Formregeln sollen nicht mehr ohne weiteres gelten.
+
+Obwohl einige bedeutende Künstler seit Ende des 19. Jahrhunderts immer wieder Zeichnungen produziert haben, spricht man aufgrund der Uneindeutigkeit der zeichnerischen Mittel von einer Krise der Zeichnung in der Moderne. Die ästhetische Hochkultur konzentriert sich auf die klassischen Modi Malerei, Skulptur und Architektur. Als eigenständiges Medium erlangt die Zeichnung Bedeutung vor allem in der Populärkultur, zum Beispiel in Gestalt der [[Karikatur]] und des [[Comic]]. Dessen ungeachtet ist die zeichnerische Produktivität seit Ende des Zweiten Weltkriegs ungebrochen. Zeichner wie [[Alberto Giacometti]], [[Horst Janssen]], [[Gunter Böhmer]] und [[A. R. Penck]] haben auf ihre Weise neue Impulse für die moderne Zeichnung gegeben.
+
+=== Ostasiatische Zeichenkunst ===
+[[Datei:SesshuShuutouTou.jpg|mini|links|Japanische Tuschmalerei von [[Sesshū Tōyō]]]]
+
+Im ostasiatischen Raum, insbesondere in [[China]] und [[Japan]], hat sich seit der [[Tang-Dynastie]] (6. Jahrhundert) eine Zeichenkunst entwickelt, die sich nur bedingt in den europäischen Kategorien von Zeichnung und Malerei einordnen lässt. Diese sogenannte [[Tuschmalerei]] ist aus der chinesischen [[Kalligrafie]] entstanden und entsteht unter der Verwendung von [[Pinsel]]n und schwarzer [[Stangentusche|Tusche]] bzw. [[Ruß]]. Als Zeichentechniken dominieren die Pinselzeichnung und die Lavierung, weshalb der ostasiatische Tuschestil oft mit dem [[Aquarell]] verglichen wird.
+
+Als Begründer gilt der chinesische Dichter und Kalligraph [[Wang Wei]]. Ausgehend vom Pinselstrich beim Schreiben von Schriftzeichen entwickelte er eine Zeichentechnik, die eine Landschaft auf ihre wesentlichen Linien und Schattierungen reduziert. Bis ins 11. Jahrhundert ([[Song-Dynastie]]) wird die Technik immer weiterentwickelt und verfeinert. Es entwickelt sich ein reichhaltiges Formenvokabular, mit dem die Motive dargestellt werden. Ab dem 12. Jahrhundert treten neben das Landschaftsmotiv weitere Naturmotive und zunehmend auch Detailstudien. Oft werden kalligrafierte Gedichte in die Bildgestaltung miteinbezogen.
+
+Die Tuschezeichnung steht von Anfang an in enger Verbindung mit dem [[Chan]]-[[Buddhismus]] und ist deshalb zugleich eine [[Meditation]]sübung. Ab dem 13. Jahrhundert bringen japanische Mönche, die in China den Chan-Buddhismus studierten, die Tuschezeichnung nach [[Japan]], wo sie unter dem Namen [[Sumi-e]] zu einem wichtigen Bestandteil des [[Zen]]-Buddhismus wurde. Wie in China waren die meisten Zeichner keine Künstler, sondern Mönche und Priester. Zunächst bleibt der japanische Stil dem chinesischen sehr ähnlich, insbesondere was das Formenvokabular betrifft. Mit [[Sesshū Tōyō]] (1420–1506), auch er ein Zen-Priester, entwickelt sich allmählich ein eigener japanischer Stil, der die klassischen Darstellungsformen zurücklässt und zunehmend realistische Abbildungen anstrebt. Mit Sesshu wird Sumi-e zu einer eigenständigen Kunstform, die allerdings den Zen-Hintergrund nie ganz verlässt.
+
+Die asiatische Tuschzeichnung hat auf die europäische Zeichnung und Malerei spätestens seit dem [[Impressionismus]] eine starke Faszination ausgeübt. Maler und Zeichner wie [[Edgar Degas|Degas]], [[Claude Monet|Monet]], [[Pablo Picasso|Picasso]] bis hin zu [[Horst Janssen]] haben sich in ihren Werken deutlich von der Tuschezeichnung inspirieren lassen und selbst Werke insbesondere im Sumi-e-Stil geschaffen.
+
+== Theorie ==
+[[Datei:New Harmony 1831 sketch by Charles Alexandre Lesueur.jpg|mini|links|Beispiel einer Skizze (von [[Charles-Alexandre Lesueur]], 1831)]]
+
+Die Zeichnung betont die Linienführung und Umrisse eines dargestellten Gegenstandes. Dabei ist die Linie als künstlerisches Mittel selbst abstrakt. Insofern die Zeichnung Gegenstände ''naturalistisch'', d.&amp;nbsp;h. „nach der [[Natur]]“ darstellt, reduziert der Zeichner die Natur auf das für das Auge Wesentliche der [[Wahrnehmung]]. Abstraktion und Reduktion von visueller [[Information]] auf die bloße Kontur ist eine bedeutende intellektuelle Leistung. Deshalb gilt die Schule der Zeichnung gemeinhin auch als Grundschule des aufmerksamen und genauen Sehens.
+
+Dennoch ist der eigenständige Wert einer Zeichnung erst seit dem 15. Jahrhundert allmählich erkannt worden. Zwar galt bereits in der mittelalterlichen Kunstlehre die Zeichnung als eine Grundlage der Kunst, aber sie war nur Mittel der Einübung und des Erlernens, kein autonomes Kunstwerk. Unklar war in der theoretischen Bewertung der Zeichnung im Verhältnis zur [[Malerei]], was grundlegendere Bedeutung hat: die Entwicklung des Bildes aus der Linie oder aus der Farbe. Überlieferte Zeichnungen aus dieser Zeit sind [[Skizze]]n, [[Entwerfen|Entwürfe]], Studien und Vorstudien zur Malerei. Dass überhaupt Zeichnungen überliefert sind, ist dem Umstand zu verdanken, dass diese Zeichnungen als Geschenkblätter sehr beliebt waren, insbesondere wenn sie von berühmten Malern stammten oder Vorstudien berühmter Werke waren. An der grundlegenden Wertung hielt man allerdings fest: Die theoretische Betrachtung ging von einem Zwei-Stufen-Modell aus, nämlich der [[Idee]] für ein Bild, wie sie sich in einer skizzierten Zeichnung niederschlägt und der Ausführung der Idee als der eigentlichen künstlerischen Leistung. Bedeutende Zeichner wie [[Leonardo da Vinci]] und [[Albrecht Dürer]] haben in der Zeichnung in erster Linie eine Möglichkeit gesehen, sich ein Sujet systematisch zu erarbeiten, mit dem Ziel, diese Studien für die zweite Stufe, die Ausarbeitung etwa in einem Gemälde, zu verwenden. Als Zwischenschritt von der Idee zur Ausführung galt das [[Aquarell]], das in der Kunsttheorie lange Zeit der Zeichnung selbst zu- und untergeordnet wurde, und zwar als nachträglich kolorierte Zeichnung.
+
+Die Aufwertung der Zeichnung in der Kunsttheorie setzt mit [[Federico Zuccaro]]s Überlegungen zum Verhältnis von Idee (concetto) und Zeichnung (disegno) (1607) ein. Im Streit zwischen dem ''Primat der Linie'' und dem ''Primat der Farbe'' stellt er sich auf die Seite der ''Zeichner''. Zuccari vergleicht die Zeichnung mit dem göttlichen Schöpfungsakt. Am Anfang der [[Schöpfung]] steht die Idee als einer Art innerer Zeichnung (concetto; Konzept). Dieser geistige Akt äußert sich in der Zeichnung (disegno), die in ihrer Ursprünglichkeit mit der Idee eins ist. Sie ist die notwendige äußere Gestalt der Idee. Die weitere künstlerische Ausgestaltung ist dann nur noch Zugabe und Vollendung. Zuccari nimmt mit seinen Äußerungen Stellung zu einem zunächst in der akademischen Kunst Italiens geführten Streit, der aber schon bald in ganz Europa geführt wird. Neben Italien ist ein Schwerpunkt der Auseinandersetzung Frankreich, wo sich für das Primat der Linie die sogenannten ''[[Ästhetik#Frankreich|Poussinisten]]'' einsetzen, für das Primat der Farbe die ''[[Ästhetik#Frankreich|Rubenisten]]''.
+
+[[Datei:Klimt Mulher sentada.jpg|mini|Beispiel einer farbigen Zeichnung von [[Gustav Klimt]]]]
+
+Der akademische Diskurs mündet in eine allgemeine Anerkennung des Primats der Linie, mit der Folge, dass in der Zeichenlehre die Zeichnung zur Grundtechnik erklärt wird. Allerdings gibt es eine Tendenz, die Zeichnung auf Zeichentechnik zu verkürzen und ihr verstärkt wieder den Charakter der vorbereitenden Studie und Übung zuzuschreiben. Zugleich wird die Zeichnung aber auch zunehmend als eigenständiger künstlerischer Ausdruck anerkannt. Eine breite Sammlerbewegung tut ihr Übriges, um die Zeichnung neben den akademischen Auseinandersetzungen auf dem sich entwickelnden Kunstmarkt zu etablieren. Es sind vor allen Liebhaber und Kenner, die im 18. Jahrhundert dem Eigenwert der linearen Darstellung zum Durchbruch verhelfen. Insbesondere [[Pierre-Jean Mariette]] betont in seinen Publikationen den besonderen Wert des Schwarzweiß-Kontrastes ohne Kolorierung. Mariettes Auffassung, der Strich lasse die Sache erkennen und arbeite damit das Wesentliche einer bildlichen Darstellung heraus, setzt sich allgemein durch und wird wegbereitend für die Aufwertung der Zeichnung als eigenständige Kunstgattung im 20. Jahrhundert.
+
+Unterstützt wird dieser Prozess im 19. Jahrhundert durch die romantische Entdeckung des ästhetischen Reizes des Fragments. Das Fragment als das Abgebrochene und Unvollendete wird gerade in der Zeichnung entdeckt. Es birgt die [[Genie|genialische]] Ursprungsidee, die gerade deshalb fasziniert, weil sie unausgeführt bleibt. Stattdessen wird in der Zeichnung die Handschrift des Zeichners sichtbar: Man sieht ihm gewissermaßen bei der Arbeit zu. Bei [[Georg Wilhelm Friedrich Hegel]] wird deshalb die Zeichnung als eine der höchsten Künste angesehen.
+
+Bis gegen Ende des 19. Jahrhunderts bleibt es bei der theoretischen Unterscheidung von Zeichnung und Malerei. In der akademischen Bewertung behält die Zeichnung zudem ihren untergeordneten Rang. Die künstlerische Praxis beginnt sich aber zunehmend von den [[normativ]]en Ansprüchen der akademischen [[Ästhetik]] zu lösen. Künstler wie [[Paul Cézanne]] beginnen damit, das Prinzip der Linie für die Zeichnung anzuzweifeln und entwickeln Zeichnungen aus farblichen Eindrücken heraus. Die alte Diskussion zwischen „Zeichnern“ und „Malern“, die nach dem Primat von Linie oder Farbe für die Malerei gefragt hatten, betrifft nun die Zeichnung selbst. Sie ist nicht mehr festgelegt auf lineare Darstellung und reduzierten Farbeinsatz. Die verschiedenen Kunstbewegungen am Anfang des 20. Jahrhunderts nehmen diesen Ansatz auf, so dass die theoretische Grenze zwischen Malerei und Zeichnung zunehmend verwischt. In der gegenwärtigen ästhetischen Theorie wird das Fehlen einer Theorie der Zeichnung beklagt.
+
+== Zeichenmaterial ==
+[[Datei:Drawing.JPG|mini|links|Verschiedene Zeichenmittel und -geräte]]
+
+=== Zeichengründe ===
+Zeichnungsträger kann grundsätzlich jede Fläche sein, auf der Zeichenmittel haften oder in die sich Linien einritzen lassen. Das war in der Höhlenkunst eine Felswand, später Holz-, Ton- und Steinplatten sowie bis ins Mittelalter hinein Leder und Pergament. In den meisten Fällen dient heute [[Papier]] als Träger von Zeichnungen. Dazu zählt auch farbiges oder farblich grundiertes Papier sowie [[Karton (Werkstoff)|Karton]]. Künstlerpapiere sind oft schwere Papiere mit deutlicher [[Textur (Oberflächenattribute)|Textur]], oft handelt es sich um spezielle Aquarell- oder Pastellpapiere oder um handgeschöpftes Papier.
+
+=== Zeichenmittel ===
+Bei den Zeichenmitteln unterscheidet man zwischen ''trockenen'' und ''flüssigen'' Zeichenmitteln. Zu den trockenen Zeichenmitteln zählen u.&amp;nbsp;a. [[Graphit]]- und Metallminen, [[Zeichenkohle|Kohle]], verschiedene [[Tafelkreide|Kreiden]] und [[Wachs]]. Zu den flüssigen Zeichenmitteln gehören [[Eisengallustinte|Gallustinte]], [[Sepia (Farbstoff)|Sepia]] (ein Farbstoff, der im 18. Jahrhundert auch für künstlerische Zwecke nutzbar gemacht wurde) und der aus [[Ruß]] hergestellte [[Bister (Malerei)|Bister]]. Zu nennen wäre noch [[Tuschezeichner|Tusche]], Acryl- und Ölfarben und außer den verschiedenen Aquarellfarben vor allem noch [[Deckweiß]], das dem ''Höhen'' der Zeichnungen dient. Zum Auftragen vor allem der nassen Zeichenmittel werden verschiedene Zeichengeräte verwendet.
+
+=== Zeichengeräte ===
+Das am weitesten verbreitete Zeichengerät zum Auftragen trockener Zeichenmittel sind Graphit-, [[Bleistift|Blei-]] und [[Rötel]]stifte unterschiedlicher Härtegrade. Im 15. und 16. Jahrhundert verwendete man vorwiegend [[Silberstift]]e, später auch [[Mine (Schreibgerät)|Minen]] aus [[Blei]]. Heute haben Bleistifte eine Mine aus Graphit, die von einem Holzmantel umgeben ist. Graphitstifte haben keine Holzummantelung, tragen aber zur besseren Handhabung einen Überzug aus [[Lack]] oder [[Kunststoff]]. Als Halter der Minen kommen außerdem technische Halter wie Druck- und Drehbleistifte zum Einsatz.
+
+Auch [[Zeichenkohle|Kohle]] und [[Conté (Bleistifte)|Conté]]-Stifte werden häufig in Holzummantelung oder mit speziellen Haltern verwendet, das Gleiche gilt für [[Pastellmalerei|Pastellkreiden]]. [[Ölkreide|Öl-]] und [[Wachskreide]] wird dagegen oft bloß mit einer Papierummantelung verwendet. Auch hierfür gibt es allerdings spezielle Halter.
+
+Flüssige Zeichenmittel ([[Tinte]]n bzw. Tuschen) werden in der Regel mit [[Schreibfeder|Federn]] oder [[Pinsel]]n aufgetragen. Als Federn kommen neben [[Bambus]]- und [[Qalam|Rohrfedern]] sowie [[Kielfeder]]n vor allem [[Schreibfeder#Federn aus Metall|Stahlfedern]] zum Einsatz. Bei technischen Zeichnungen werden vor allem [[Tuschezeichner|Isographen]] verwendet. Prinzipiell lassen sich auch [[Filzstift|Faserstifte]] verwenden, allerdings sind die darin verwendeten flüssigen Zeichenmittel oft wenig [[Lichtechtheit|lichtbeständig]]. Das gleiche Problem tritt bei [[Kugelschreiber]]n, [[Füllfederhalter]]n und [[Kalligraphie]]füllern zutage, da die verwendeten Tinten in der Regel nicht lichtecht sind und leicht ausbleichen.
+
+Pinsel werden sowohl für das Zeichnen von Linien wie für [[Lavierung]]en, das heißt für malerische Techniken, verwendet. Meistens handelt es sich um feine Haarpinsel oder höherwertige Synthetikpinsel bzw. Mischungen aus beidem. Beliebt für die [[Pinselzeichnung]] sind vor allem sogenannte ''Chinesische Pinsel''.
+
+== Techniken ==
+[[Datei:Schraff.jpg|mini|Beispiel für Linienzeichnung mit Schraffuren und Schattierung („Schummern“)]]
+[[Datei:Schumm.jpg|mini|Unterschied: Schraffur und „Schummern“]]
+[[Datei:Lavier.jpg|mini|Tintenzeichnung mit Lavierung]]
+
+=== Linie ===
+Grundtechnik der Zeichnung ist das Zeichnen einer Linie. Die Konturlinie oder Umrisslinie markiert die Grenzen, den Umriss, eines Gegenstandes und charakteristische Kontraste, wie sie sich zum [[Schatten]] ergeben. Ohne jede Schattierung lassen sich so die Grundzüge eines Gegenstandes festhalten, beispielsweise die Umrisse einer Frucht, die sich von ihrem Hintergrund abgrenzt, und Falten, die ja nichts weiter sind als kontraststarke Schatten. Die Binnenlinie zeigt die Struktur eines Gegenstandes innerhalb seiner Kontur. Auch bei nicht-gegenständlicher Darstellung ist die Linie das hervorstechende Merkmal, auch wenn in der modernen Zeichnung die Grenzen nicht immer eindeutig zu ziehen sind.
+
+Die Linie als das spezifische Charakteristikum der Zeichnung hat historische Entwicklungen durchlebt: Obgleich die Linie als individuelles Markenzeichen jedes Zeichners anzusehen ist, gab es in der [[Renaissance]] einen allgemein anerkannte Linientyp, die „schöne“ Linie, die rund, schwingend oder kurvig war. Darüber hinaus existierten gerade und starre Linientypen im Bereich des [[Zeichnung (Architektur)|architektonischen Zeichnens]]. Der volle Linienreichtum entstand mit dem [[Impressionismus]], weil sich die Beziehung zum beschreibenden Gegenstand lockerte. Eine „Befreiung der Linie“ hin zur gegenstandslosen Zeichnung erfolgte erst im 19. Jahrhundert, etwa im Werk von [[Honoré Daumier]]. Die bis dahin dominante schön-kurvige Linie wurde nun um bisher als nicht bildwürdig erachtete eckige, sperrige und ruinöse Linientypen ergänzt. Neue Ausdrucksmöglichkeiten der Linie fanden sich überdies im Werk von [[Paul Klee]] und der expressiven Zeichnung [[Pablo Picasso]]s.
+
+=== Schraffur ===
+Die [[Schraffur]] setzt den zeichnerischen Gedanken der Linie in der Fläche fort. Sie wird eingesetzt, um in der Zeichnung räumliche Effekte (Plastizität) und unterschiedliche [[Tonwert]]e darzustellen. Dazu werden in gleichmäßigen Abständen dünne Linien in einem Winkel schräg zur Hauptlinie gezogen. In der reinen Zeichnung ist es verpönt, dabei die Linien so eng zu ziehen, dass sie verschmieren – zum Beispiel durch einen schräg gehaltenen Bleistift – weil damit die Grenze zu Malerei als einem flächigen Arbeiten überschritten wird. Man nennt das „schummern“. Mittlerweile ist aber auch dieses flächige Arbeiten mit Graphit und Kohlestiften weit verbreitet.
+
+Weitere Abstufungen in den Tonwerten lassen sich durch eine zweite Schraffur erzeugen, die leicht versetzt über die erste Schraffur gesetzt wird und deren Linien kreuzt. Man spricht deshalb auch von ''Kreuzschraffur''. Mit dem Mittel der Kreuzschraffur lassen sich bei gleichbleibender Linienstärke viele verschiedenen Schattierungen und Tonwerte erzeugen. Besondere Bedeutung hat die Kreuzschraffur beim farbigen Arbeiten, weil durch verschiedenfarbige Schraffuren neue [[Farbe]]n erzeugt werden können.
+
+=== Lavieren ===
+Die Lavierung kommt bei flüssigen Zeichenmitteln als Technik zur Schattierung und Tönung zum Einsatz. Das klassische Einsatzgebiet ist das Lavieren von Tuschezeichnungen. Dazu wird die fertige Linienzeichnung durch stark verdünnte, wasserlösliche Tusche getönt. Wie beim [[Aquarell]], von dem diese Technik übernommen wurde, arbeitet man von hellen zu dunklen Tönungen. Die Nähe von Aquarellmalerei und Zeichnung wird auch darin sichtbar, dass Zeichnungen mit Hilfe von Aquarellfarben farblich eingetönt werden – entweder monochrom oder mit mehreren Farben. Zwar kommen in der Praxis zuweilen auch andere Farben zum Einsatz, aber Aquarellfarben und wasserlösliche Tinten eignen sich vor allem deshalb, weil sie [[Transparenz (Physik)|transparent]] oder zumindest nur teilweise [[Opazität|opak]] sind und dadurch den Eindruck vermeiden, bloß nachträgliche Eintönungen bzw. -färbungen zu sein.
+
+=== Kombinierte Techniken ===
+[[Datei:William-Adolphe Bouguereau (1825-1905) - Study of a Seated Veiled Female Figure (19th Century).png|mini|Skizzenzeichnung mit [[Weißhöhung]]en von [[William Adolphe Bouguereau]]]]
+
+Viele Künstler überschreiten die Grenzen, die bestimmten Zeichentechniken gesetzt sind, indem sie unterschiedliche Zeichen- und Maltechniken miteinander kombinieren. Klassische Beispiele sind kombinierte Graphit- und Tuschezeichnungen, mit Tusche lavierte Bleistiftzeichnungen oder Tusche- und Bleistiftzeichnungen mit Aquarelltechniken. Auch das Höhen, also das Setzen von Glanzlichtern durch den Einsatz von Deckweiß gehört zu den klassischen Methoden.
+
+Je stärker die Grenzen zwischen Malerei und Zeichnung verwischt wurden, desto stärker kamen auch flächige Malmethoden zum Einsatz. Dazu gehört zum Beispiel das ''Schattieren'' mit Hilfe des „''Schummerns''“. ''Schummern'' heißt, mit einem Graphit- oder Kohlestift großflächig vermalen, statt zu schraffieren. Auch das nachträgliche Verwischen mit dem Finger oder einem speziellen Wischer ([[Estompe]]s) oder das ''Polieren'' mit einem weißen Stift bzw. einem Polierstift gehören dazu. Umgekehrt werden in der Malerei ursprünglich klassische Zeichenmethoden eingesetzt, und zwar nicht nur als Vorskizze, sondern bereits als Ausführung. In der Aquarellmalerei kommt häufig die [[Pinselzeichnung]] zum Einsatz.
+
+Weitere Beispiele für kombinierte Techniken sind die [[Collage]], [[Sgraffito]] und verschiedene Nasspinseltechniken.
+
+== Herausragende Zeichner der Kunstgeschichte ==
+[[Datei:Martin Heidegger for WP.jpg|mini|''Porträt [[Martin Heidegger]]'', [[Pinselzeichnung]] von [[Herbert Wetterauer]]]]
+[[Datei:Menzel.toter.offizier.jpg|mini|[[Adolph von Menzel#Als Zeichner|Adolph von Menzel]]: ''Leiche eines Offiziers'', 1873 (Bleistiftzeichnung)]]
+
+&lt;!-- bitte alphabetisch einordnen --&gt;
+* [[Hans Baldung]]
+* [[Max Beckmann]]
+* [[Joseph Beuys]]
+* [[Lovis Corinth]]
+* [[Honoré Daumier]]
+* [[Gustave Doré]]
+* [[Albrecht Dürer]]
+* [[M. C. Escher]]
+* [[Francisco de Goya]]
+* [[George Grosz]]
+* [[Jean-Auguste-Dominique Ingres]]
+* [[Horst Janssen]]
+* [[Käthe Kollwitz]]
+* [[Alfred Kubin]]
+* [[Michelangelo]]
+* [[Pablo Picasso]]
+* [[Rembrandt]]
+* [[Raffaello Santi]]
+* [[Egon Schiele]]
+* [[Giovanni Battista Tiepolo]]
+* [[Tomi Ungerer]]
+* [[Leonardo da Vinci]]
+
+== Siehe auch ==
+* [[Skizze]]
+* [[Bauzeichnung]]
+* [[Zeichnung (Architektur)]]
+* [[Technisches Zeichnen]]
+* [[Pinselzeichnung]]
+
+== Literatur ==
+* [[An Introduction to Linear Drawing]]
+* [[F. W. Bernstein]]: ''Bernsteins Buch der Zeichnerei''. 1989. Ein Lehr-, Lust-, Sach- und Fach-Buch sondergleichen. Hg. von F. W. Bernstein unter editorischer Mitwirkung von Pedro Zimmermann. Zürich (Haffmans)
+* [[Claus Bernet]]: ''Zeichnungen.'' Norderstedt 2014, ISBN 978-3-7347-0830-5.
+* ''Disegno. Der Zeichner im Bild der Frühen Neuzeit''. Staatliche Museen zu Berlin, 2007. ISBN 978-3-422-06774-5
+* [[Betty Edwards]]: ''Das neue Garantiert zeichnen lernen'', [[Rowohlt Verlag|Rowohlt]] 2000, ISBN 3-498-01669-5.
+* [[Heribert Hutter]]: ''Die Handzeichnung. Entwicklung, Technik, Material''. Schroll-Verlag, Wien und München 1966.
+* [[Ferenc Jádi]]: ''Von der Zeichnung''. 1998, ISBN 3-932865-04-9.
+* [[Walter Koschatzky]]: ''Die Kunst der Zeichnung''. dtv 1981, ISBN 3-423-02867-X.
+* [[Terisio Pignatti]]: ''Die Geschichte der Zeichnung. Von den Ursprüngen bis heute''. Belser-Verlag, Stuttgart 2005, ISBN 3-7630-2451-4.
+* Franco Russoli: ''Meisterzeichnungen des 20. Jahrhunderts'', Schuler Verlag, München 1975, ISBN 3-7796-5044-4.
+* Maurice und Arlette Sèrullaz: ''Französische Meisterzeichnungen des 19. Jahrhunderts'', Schuler Verlag, München 1975, ISBN 3-7796-5060-6.
+* ''Deutsche Zeichnungen vom Mittelalter bis zum Barock'', Bestandskatalog, Hrsg. Graphische Sammlung der Staatsgalerie Stuttgart, Hatje Cantz Verlag, Ostfildern 2007, ISBN 978-3-7757-1910-0.
+* Dieter Brembs: ''Die Kunst-Akademie. Faszination Linie. Zeichnung neu erleben.'' [[Englisch Verlag]], Wiesbaden 2006, ISBN 978-3-8241-1300-2.
+
+== Weblinks ==
+{{Schwesterprojekte
+|commonscat=Drawings
+|wikt=Zeichnung
+|v=Fachbereich Kunst}}
+
+{{Normdaten|TYP=s|GND=4127900-1}}
+
+[[Kategorie:Gattung der bildenden Kunst]]
+[[Kategorie:Künstlerische Technik]]
+[[Kategorie:Zeichnen| ]]
+[[Kategorie:Maltechnik]]</text>
+      <sha1>1rowz3tjksn1edjeebvy3trdif4r1bl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>An Introduction to Linear Drawing</title>
+    <ns>0</ns>
+    <id>6877223</id>
+    <revision>
+      <id>101921021</id>
+      <parentid>101920673</parentid>
+      <timestamp>2012-04-11T09:09:13Z</timestamp>
+      <contributor>
+        <username>Mrtomb</username>
+        <id>1409316</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="843" xml:space="preserve">'''An Introduction to Linear Drawing''' gilt als erstes dokumentiertes Buch um Kunst in öffentlichen Schulen Amerikas zu unterrichten&lt;ref&gt;http://www.personal.psu.edu/mas53/timln820.html&lt;/ref&gt;. Es erschien [[1825]] und ist eine Übersetzung und Überarbeitung (während seiner Lehrtätigkeit an der Female Monitorial School&lt;ref&gt;http://art.unt.edu/ntieva/HistoryofArtEd/1821-documents.html&lt;/ref&gt;) von [[William Bentley Fowle]] nach dem französischen Ursprungswerk von [[M. Louis Francoeur]].
+
+==Weblinks==
+* [http://books.google.de/books?id=fX_6YheE60oC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false Digitale Ausgabe bei google books]
+{{wikisource|en:An_introduction_to_linear_drawing}}
+
+==Einzelnachweise==
+&lt;references /&gt;
+
+[[Kategorie:Historisches Schulbuch]]
+[[Kategorie:Kunstpädagogik]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>69qnao57sncifnr8r28q24qp2nupo7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Zeichnung (Werk)</title>
+    <ns>14</ns>
+    <id>7571851</id>
+    <revision>
+      <id>140861717</id>
+      <parentid>116942753</parentid>
+      <timestamp>2015-04-14T14:48:39Z</timestamp>
+      <contributor>
+        <username>Rilegator</username>
+        <id>838173</id>
+      </contributor>
+      <comment>+ beschreibung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" xml:space="preserve">Diese Kategorie enthält [[:Zeichnung (Kunst)|zeichnerische Werke]] der [[:Bildende Kunst|Bildenden Kunst]].
+
+[[Kategorie:Kunstwerk (Grafik)]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>4otrkqy0rguh86vh3sxr8paewcgvcmo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Handstudie</title>
+    <ns>0</ns>
+    <id>3142985</id>
+    <revision>
+      <id>201406589</id>
+      <parentid>149693058</parentid>
+      <timestamp>2020-06-29T08:51:52Z</timestamp>
+      <contributor>
+        <username>Wheeke</username>
+        <id>1347043</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:HC|HC]]: Entferne [[Kategorie:Hand]]; Ergänze [[Kategorie:Hand in der Kunst]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1059" xml:space="preserve">[[Datei:Duerer-Prayer.jpg|thumb|200px|[[Betende Hände]] von [[Albrecht Dürer|Dürer]]]]
+[[Datei:Goltzius's right Hand.jpg|left|thumb|200px|Goltzius's Right Hand, 1588]]
+Eine '''Handstudie''' ist die grafische, [[Anatomie|anatomisch]] korrekte Erfassung und Darstellung der menschlichen [[Hand]]. 
+
+Eine Handstudie selbst stellt kein endgültiges Werk dar, sondern nur die Vorbereitung auf einen bestimmten Teil des Werkes. Die Hand im künstlerischen Sinne beeindruckte in der [[Bildende Kunst|bildenden Kunst]] auf eine Weise, die es schwer machte, sie realistisch und ausdrucksstark darzustellen. Eine Hand kann mindestens genau so viel, wenn nicht sogar mehr Aussagekraft besitzen als die [[Mimik]] von Augen und Gesicht. 
+
+Aus Handhaltung und Handstellung lässt sich viel aus einem Bild herauslesen, bzw. heraus [[Interpretation|interpretieren]]. 
+
+Die wohl bekannteste Handstudie ist die Zeichnung ''[[Betende Hände]]'' von [[Albrecht Dürer]] vom Anfang des 16. Jh.
+{{Commonscat|Hands in art}}
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Hand in der Kunst]]</text>
+      <sha1>9cwuqievuy6bsqbmeehs59pk6yx108n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schnellzeichner</title>
+    <ns>0</ns>
+    <id>7896796</id>
+    <revision>
+      <id>201372104</id>
+      <parentid>200564563</parentid>
+      <timestamp>2020-06-28T07:51:10Z</timestamp>
+      <contributor>
+        <ip>2A02:810A:113F:8FB8:556F:7B31:324D:966A</ip>
+      </contributor>
+      <comment>/* Tätigkeit */ Tippfehler korrigiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3731" xml:space="preserve">'''Schnellzeichner'''  ist die Berufsbezeichnung für einen [[Grafiker]], der in wenigen Minuten ein vereinfachtes, stilisiertes [[Porträt]] bzw. eine [[Karikatur]] von einer Person erstellt. Die englische Bezeichnung dafür ist ''live caricature artist''.&lt;ref&gt;''[http://berufenet.arbeitsagentur.de/berufe/?dest=profession&amp;prof-id=15931 Schnellzeichner/in]'' auf Bundesagentur für Arbeit&lt;/ref&gt;
+
+== Tätigkeit ==
+[[Datei:Schnellzeichnung Stefan Raab Schnellzeichner Daniel Stieglitz.ogv|mini|thumbtime=18|[[Stefan Raab]], gezeichnet von Schnellzeichner [[Daniel Stieglitz]]]]
+
+Bekannt ist die Beschäftigung eines Kunstgrafikers als öffentlicher Schnellzeichner schon mindestens seit dem 19.&amp;nbsp;Jahrhundert. Zu den Vertretern gehört der Däne [[Robert Storm Petersen]] (1882–1949). Abgesehen vom Nebenerwerb für Künstler im Varieté waren auch Dokumentationszeichner für Ereignisse, etwa Gerichtssitzungen, mit der Fähigkeit zu überschnellem, präzisem Zeichnen gefragt. In diese Zeit gehen Traditionen des gewerblichen Schnellzeichnens in Künstlerquartien wie dem [[Place du&amp;nbsp;Tertre]] in Paris zurück. Einen Aufschwung erlebte die Tätigkeit dann mit dem aufkommenden Tourismus unter anderem im Mittelmeerraum, beispielsweise am [[Markusplatz]] in Venedig oder an den Stränden. Das hat durch die allgemeine Verfügbarkeit von Fotoapparaten wieder abgenommen.
+
+Schnellzeichner sind meist freiberuflich tätig, wie zum Beispiel auf Jahrmärkten, Messeveranstaltungen oder auch als [[Gerichtszeichner]]. Es gibt hierbei die Gruppe der [[Straßenkünstler]], die auf eigenes finanzielles Risiko an touristischen Orten wie Strandpromenaden, Vergnügungsparks oder Fußgängerzonen arbeiten und von ihrer [[Laufkundschaft]] pro Bild bezahlt werden, sowie die Gruppe der Messe-, Hochzeits- oder Eventzeichner, die von dem jeweiligen Veranstalter mit einem zuvor verhandeltem Honorar vergütet werden. Dabei wird z.&amp;nbsp;B. ein Stunden-oder Tagessatz vereinbart, die Menge der gezeichneten Bilder ist nicht relevant. Für die zu zeichnenden Gäste sind die Bilder in diesem Fall kostenlos.
+
+Gezeichnet werden häufig freche Karikaturen. Genauso beliebt sind aber auch Schnellportraits, die mit weniger Übertreibung das Wesentliche betonen und dabei den Portraitierten in seiner Persönlichkeit erfassen. Auch gezeichnete Live-Dokumentationen von Hochzeiten und Feiern werden als Partyunterhaltung und besondere Erinnerung immer beliebter. Schnellzeichner lassen sich dabei immer über die Schulter gucken.
+
+Bekannte zeitgenössische Schnellzeichner sind zum Beispiel [[Oskar (Zeichner)|Oskar]], der ab 1971 in [[Hans Rosenthal]]s Fernsehshow ''[[Dalli Dalli]]'' innerhalb einer knapp bemessenen Zeit eine Karikatur eines Kandidaten anfertigte. Im Jahr 1993 wurde [[Gero Hilliger]] als Schnellzeichner erstmals in das Guinness-Buch der Rekorde aufgenommen, nachdem er in nur 9,4 Sekunden das Porträt einer ihm unbekannten Person gezeichnet hatte.&lt;ref&gt;Das neue [[Guinness-Buch der Rekorde]], Ausgabe 1993, Schnellzeichner, Seite 344.&lt;/ref&gt;
+
+Jährliche internationale Treffen von Schnellzeichnern und Karikaturisten sind die [[Eurocature]] in Wien&lt;ref&gt;https://eurocature.org/&lt;/ref&gt;&lt;ref&gt;https://winnie-jakob-archiv.com/2018/03/09/eurocature-kongress-der-cartoonisten-illustratoren-und-karikaturisten/&lt;/ref&gt; und die ISCA (International Society of Caricature Artists) Convention&lt;ref&gt;http://www.caricature.org/Convention&lt;/ref&gt;&lt;ref&gt;https://www.mittelbayerische.de/region/cham-nachrichten/chamer-zeichner-siegt-in-memphis-20909-art1856038.html&lt;/ref&gt; in wechselnden Städten in den USA.
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Beruf (Bildende Kunst)]]
+[[Kategorie:Wikipedia:Artikel mit Video]]</text>
+      <sha1>qcdr21tr6bw6wfy6b81ix0huqncn3o0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pantografie</title>
+    <ns>0</ns>
+    <id>3926557</id>
+    <revision>
+      <id>213669754</id>
+      <parentid>203881865</parentid>
+      <timestamp>2021-07-08T11:16:11Z</timestamp>
+      <contributor>
+        <username>Aka</username>
+        <id>568</id>
+      </contributor>
+      <minor/>
+      <comment>https, Kleinkram</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="812" xml:space="preserve">[[Datei:Pantograph animation.gif|miniatur|Entstehung einer Pantografie]]
+'''Pantografie''' ist eine Zeichnung, die mit einem mechanischen Präzisionsinstrument, dem [[Pantograf]]en, gefertigt wurde.
+
+In der [[Zahntechnik]] wird der Begriff synonym für eine [[Axiographie]] verwendet.
+
+In der [[Glasschleiferei|Glasbearbeitung]] ist die Pantografie eine Art der [[Gravur]] äußerst filigraner Motive.
+
+Im Fahrradrahmenbau bezeichnet [[Pantografie (Rahmenbau)|Pantografie]] eine [[Fräsen|Fräsung]] oder Gravur im Rahmen, meist mit der Marke des Herstellers. Vor allem bei italienischen Stahlrahmen war dies neben den [[Decal (Fahrrad)|Decals]] markenbildend für viele Hersteller.
+
+== Weblinks ==
+* https://www.retrobibliothek.de/retrobib/seite.html?id=112442
+
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Kartografie]]</text>
+      <sha1>1b8dwk2pk9abocxuf05kjl581pvra8b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skizze</title>
+    <ns>0</ns>
+    <id>136746</id>
+    <revision>
+      <id>211809353</id>
+      <parentid>211807124</parentid>
+      <timestamp>2021-05-10T11:09:33Z</timestamp>
+      <contributor>
+        <username>Georg Hügler</username>
+        <id>2234691</id>
+      </contributor>
+      <comment>Änderung [[Spezial:Diff/211807124|211807124]] von [[Special:Contribs/2003:6:5157:9D51:A971:1924:BC05:29FD|2003:6:5157:9D51:A971:1924:BC05:29FD]] rückgängig gemacht;  bitte belegen</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5361" xml:space="preserve">[[Datei:Duerer - Ritter zu Pferde.jpg|mini|Skizze von [[Albrecht Dürer]]]]
+[[Datei:Velvis.jpg|mini|Architekturskizze]]
+[[Datei:Sprossenrad leibniz.png|mini|Skizze eines [[Sprossenrad]]es aus der Hand von [[Gottfried Wilhelm Leibniz]]]]
+[[Datei:Braunschweig Amt Eich Mascop 1574.jpg|mini|Landkartenskizze im Ämteratlas des Fürstentums Braunschweig-Wolfenbüttel, [[Gottfried Mascop]], 1574]]
+
+Die '''Skizze''' ({{itS|schizzo}}) ist der Versuch der Darstellung einer [[Idee]], auch ein [[Entwurf]], ein Konzept, ein erster Überblick. Der Begriff wird in unterschiedlichen Zusammenhängen benutzt.
+
+== Bildende Kunst ==
+In der [[Bildende Kunst|bildenden Kunst]] dient sie als Grundlage für ein späteres Werk, eine '''Vorzeichnung''', die nicht detailliert oder ausgearbeitet sein muss, aber die für den Künstler wesentlichen Impressionen enthält. Berühmte Skizzenbücher wie von [[Manuskripte Leonardo da Vincis|Leonardo da Vinci]] und [[Edgar Degas]] werden manchmal selbst als Kunstobjekte angesehen.
+
+Als Vorzeichnung oder Unterzeichnung wird in der bildenden Kunst auch eine Skizze bezeichnet, die vor der Ausführung einer Malerei auf ihrem [[Bildträger]] gezeichnet und anschließend mit einer oder mehreren Farbschichten übermalt wird.&lt;ref&gt;''Vorzeichnung.'' In: {{Literatur |Herausgeber=Angela Weyer et al. |Titel=EwaGlos. European Illustrated Glossary Of Conservation Terms For Wall Paintings And Architectural Surfaces |TitelErg=English Definitions with translations into Bulgarian, Croatian, French, German, Hungarian, Italian, Polish, Romanian, Spanish and Turkish |Verlag= Michael Imhof |Ort=Petersberg |Jahr=2015 |Seiten=130 |ISBN=978-3-7319-0260-7 |Online=[http://elearn.hawk-hhg.de/projekte/ewaglos/pages/download.php Download] |DOI=10.5165/hawk-hhg/233 }}&lt;/ref&gt;
+
+== Architektur ==
+In der [[Architektur]] verhält es sich ähnlich. Die Skizze dient dem [[Architekt]]en als schnelle Gedächtnisstütze und als einfache Ausdrucksmöglichkeit, bei der es nicht auf Genauigkeit, sondern die markante Darstellung einer Idee ankommt. Darstellungsmittel sind weiche [[Bleistift]]e, [[Buntstift]]e oder [[Filzstift]]e, Faserstifte, Kugelschreiber wie auch Aquarelle, Kreide und Kohle auf Skizzenpapier-Rollen, Skizzenbüchern oder die berühmte „Serviette beim Italiener“. Seit einigen Jahren ermöglichen Grafikprogramme wie [[Google SketchUp|Sketchup]], auch im Computer erstellten Modellen ein skizzenhaftes Erscheinungsbild zu geben.
+
+== Mathematik ==
+In der [[Mathematik]] stellt man [[Funktionsgraph|Graphen]] in ihrem wesentlichen Verlauf als Skizze dar. Eine Besonderheit ist die [[Planskizze]] in der [[Geometrie]], die einen groben Überblick verschafft, aber [[Metrischer Raum|metrisch]] nicht korrekt sein muss.
+
+== Literatur ==
+In der [[Literatur]] beschreibt der Begriff Skizze:
+# einen ersten Entwurf, Handlungsgerüst, vorläufige Fassung eines literarischen Werks.
+# eine nicht eindeutig definierbare Bezeichnung für einen kurzen, formal und oft auch stilistisch bewusst nicht ausgeformten Prosatext verschiedensten Inhalts.
+# ein kurzes Theaterstück, meist komischen oder satirischen Inhalts, wie im [[Kabarett]].
+
+== Musik ==
+In der [[Musik]] können Skizzen sowohl einfache, jedoch formal [[Tonsatz|ausgesetzte]] Stücke, als auch verbal formulierte musikalische Gedanken sein. Viele Komponisten haben eine [[Notation (Musik)#Alternative Notationssysteme|eigene, mehr oder weniger formale Notation]] entwickelt. Vereinzelt wird für eine musikalische Skizze der französische Begriff der ''Esquisse'' verwendet.
+
+== Vermessungstechnik ==
+In der [[Vermessungstechnik]] wird die Feldskizze verwendet, um die Situation im Vermessungsgebiet festzuhalten. Dazu werden die Objekte von Interesse sowie zusätzliche Information, zum Beispiel die Art der Vermarkung von Grenzpunkten, in einem skizzierten, ungefähr maßstabsgerechten Lageplan erfasst. Außerdem enthält die Feldskizze das Datum und den Ersteller der Aufnahme, eine Angabe über den näherungsweisen Maßstab und einen Nordpfeil. [[Kompass]]e verschiedener Bauart, Maßband, ev. [[Messtisch]] mit [[Kippregel]] oder [[Diopterlineal]] sind neben allgemeinem Schreib- und Zeichengerät wichtige Hilfsmittel. Durch die zunehmende Automatisierung von Vermessungsarbeiten hat die Feldskizze heute nicht mehr so große Bedeutung. Sie wird häufig ersetzt durch die computergestützte Auswertung in Form von [[codierte Aufnahme|codierter Aufnahme]] mit [[elektronisches Feldbuch|elektronischem Feldbuch]], [[Laserscanning]] und digitaler [[Fotografie]].
+
+== Siehe auch ==
+* [[Croquis]]
+* In der [[Architektur]]: [[Zeichnung (Architektur)]], [[Bauzeichnung]]
+* In der [[Kartografie]]: [[Augenscheinkarte]]
+* In der [[Kunst]]: [[Abbozzo]], [[Speedpainting]]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+== Literatur ==
+* Lonni Bahmer: ''Skizze''. In: [[Gert Ueding]] (Hrsg.): ''[[Historisches Wörterbuch der Rhetorik]]''. Bd. 10. WBG, Darmstadt 2011, Sp. 1224–1229.
+* {{OeML|Skizze|Skizze|DSchm}}
+* Taschenwelten. Skizzenbücher von Architekten, Schriften des Südwestdeutschen Archivs für Architektur und Ingenieurbau (saai), Bad Saulgau 2013, ISBN 978-3-944258-01-0.
+
+== Weblinks ==
+{{Wiktionary|Skizze}}
+{{Commonscat|Sketches|Skizzen}}
+{{Wikiquote}}
+
+{{Normdaten|TYP=s|GND=4181668-7}}
+
+[[Kategorie:Architekturdarstellung]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Dokument]]</text>
+      <sha1>rz646za610romvju97qzayan88waktk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Etch A Sketch</title>
+    <ns>0</ns>
+    <id>772222</id>
+    <revision>
+      <id>210882319</id>
+      <parentid>210865542</parentid>
+      <timestamp>2021-04-13T06:56:41Z</timestamp>
+      <contributor>
+        <username>Koyaanisqatsi01</username>
+        <id>403636</id>
+      </contributor>
+      <comment>Reference-Tag eingefügt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3511" xml:space="preserve">[[Datei:EtchASketch10-23-2004.jpg|mini|Etch A Sketch]]
+'''Etch A Sketch™''' ist eine Variante der [[Zaubertafel]], deren nicht absetzbarer Stift von zwei Drehknöpfen jeweils horizontal und vertikal bewegt wird. Die besondere Malweise und das dahinterstehende Funktionsprinzip machten das seinerzeit als Spielzeug verkaufte Gerät besonders in den 1970er Jahren populär.
+
+In Österreich war dieses Spielzeug auch schon in den 1960ern äußerst beliebt. Der Rahmen des klassischen Gerätes ist rot mit einem goldfarbenen erhabenen Schriftzug "Magic Etch A Sketch Screen", weißen Drehknöpfen und schwarzer Rückseite. Die Zeichenfläche ist grau und es können nur schwarze Linien gezeichnet werden. Die eher eckig daherkommenden Striche machen den besonderen Reiz aus, weil die Zeichenmethode eine Herausforderung an das Geschick des Zeichners darstellt.
+
+== Funktionsweise ==
+[[Datei:EtchASketch Inside Shown.jpg|mini|Ein Pocket Etch A Sketch, bei dem ein Großteil des Pulvers entfernt wurde, wodurch der Mechanismus sichtbar ist]]
+Die Zeichenfläche besteht aus einer Glasscheibe, die von hinten mit einem klebrigen, silbern glänzenden Pulver ([[Aluminium]] und [[Polystyrol]]) beschichtet ist. Der federnd andrückende Zeichenstift schabt mit jeder Bewegung das Pulver ab und hinterlässt so eine Linie, die den Blick ins Gehäuseinnere freigibt, wegen des geringen Lichteinfalls aber dunkel erscheint. Jeder der beiden Drehknöpfe bewegt den Stift in einer rechtwinklig zueinanderstehenden Dimension&amp;nbsp;– für diagonale Linien müssen beide Knöpfe daher mit gleicher Drehgeschwindigkeit bewegt werden. Die Glasscheibe verschließt das flache Kunststoffgehäuse des Etch A Sketch mit dem darin befindlichen Pulver und der Mechanik für den Stift; durch Umdrehen und Schütteln wird das Pulver wieder auf der Zeichenfläche verteilt und das alte Bild wird gelöscht.
+
+Die Stiftführung des Etch A Sketch entspricht mit ihrer X- und Y-Steuerung der eines [[Plotter]]s und verlangt vom Zeichner ein gehöriges Maß an motorischer Koordination. Da man den Stift nicht absetzen kann, muss das Motiv zudem in einem Zug gezeichnet werden.
+
+== Geschichte ==
+[[Datei:Etch-A-Sketch Animator.jpg|mini|Etch A Sketch (elektronische Ausführung)]]
+{{Belege fehlen}}
+Der erste [[Prototyp (Technik)|Prototyp]] wurde im Jahr 1957 vom französischen Erfinder André Cassagnes entwickelt und zwei Jahre später auf der [[Nürnberger Spielwarenmesse]] vorgestellt. 1960 erwarb die [[Ohio Art Company]] die Lizenzrechte für 25.000 USD und begann die ersten Exemplare kurz vor Weihnachten in jenem Jahr zu verkaufen. Seit 2016 gehört das Spiel zum Portfolio des kanadischen Spielzeugkonzerns ''Spin Masters''.&lt;ref&gt;[https://www.cp24.com/news/u-s-company-sells-etch-a-sketch-to-toronto-toy-firm-1.2775265 ''U.S. company sells Etch A Sketch to Toronto toy firm''], vom 12. Februar 2016, geladen am 12. April 2021&lt;/ref&gt;
+
+Neben der klassischen Gehäusefarbe Rot wurde das Etch A Sketch später auch in anderen Farben angeboten. In den 1980ern erschien ein Computerspiel, das einen Etch A Sketch simulierte.
+
+== Weblinks ==
+{{commonscat|Etch A Sketch}}
+* [https://entertainment.howstuffworks.com/etch-a-sketch-pictures.htm How does Etch-A-Sketch work?] (englisch)
+* [https://gvartwork.com# Mit dem Etch A Sketch erstellte Bilder]
+* [https://scratch.mit.edu/projects/14578558/ Web Etch-A-Sketch]
+* [https://ohioart.com/ Herstellerseite]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Spielgerät]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>h8fa0baugqqt8ljwuw534pi8tug11xb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spirograph (Spielzeug)</title>
+    <ns>0</ns>
+    <id>1558811</id>
+    <revision>
+      <id>203054167</id>
+      <parentid>203053873</parentid>
+      <timestamp>2020-08-24T10:50:30Z</timestamp>
+      <contributor>
+        <username>Funkmich008</username>
+        <id>2429265</id>
+      </contributor>
+      <minor/>
+      <comment>/* Mathematische Beschreibung */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6391" xml:space="preserve">[[Datei:Spirograph set (UK Palitoy early 1980s).jpg|mini|Original Spirograph Box]]
+[[Datei:Spirograph3.jpg|mini|Spirograph-Klon in Verwendung]]
+[[Datei:Various Spirograph Designs.jpg|mini|verschiedene Muster]]
+[[Datei:Hypotrochoid2 2.gif|mini|Animation zur Entstehung einer Hypotrochoide]]
+[[Datei:EpitrochoidIn3.gif|mini|Animation zur Entstehung einer Epitrochoide]]
+
+'''Spirograph''' ist ein [[Geometrie|geometrisches]] [[Spielzeug]], mit dem man verschiedene Muster oder [[Kurve (Mathematik)|mathematische Kurven]] zeichnen kann.
+
+== Funktionsweise ==
+Der Spirograph besteht aus mehreren, meist runden, dünnen [[Zahnrad|Zahnrädern]] aus Plastikscheiben. Zunächst wird ein Blatt Papier auf eine Pappe gelegt. Dann wird, je nach Ausführung, ein größerer verzahnter Plastikring oder eine innenverzahnte [[Schablone|Lochschablone]] darauf (im Original mit Nadeln) befestigt. Im Inneren (oder auch am Äußeren) des [[Zahnkranz]]es wird eines der Zahnräder angelegt. Durch die Zähne greifen diese wie bei einer [[Zahnstange]] ineinander. In den Zahnrädern befinden sich in verschiedenen Abständen Löcher, durch die die Spitze eines [[Schreibgerät]]es gesteckt wird. Hier muss man z.&amp;nbsp;B. mit einem [[Kugelschreiber]] in der Zahnscheibe einen Kreis beschreiben.
+
+Durch die Verwendung mehrerer farbiger Kugelschreiber oder Stifte in unterschiedlichen Löchern erhält man verschiedene geometrische Figuren, sogenannte [[Hypozykloide]]n und [[Epizykloide]]n.
+
+Der Erfinder war [[1965]] [[Denys Fisher]], der das Spielzeug erstmals auf der [[Nürnberger Spielwarenmesse]] vorführte. Es gibt viele verschiedene Versionen, auch mit einem Motor. Der Spirograph war Gewinner des [[Toy of the Year Award]] des Jahres 1967.
+
+Doch bereits vor Denys Fisher gab es mindestens zwei Erfinder, die sich Spiralenzeichner patentieren ließen: [[Bruno Abdank-Abakanowicz]]&lt;ref&gt;{{Webarchiv|url=http://www.reunion.iufm.fr/dep/mathematiques/calculsavant/Exposition/ArtsetMetiers/13300-0005-d.html |wayback=20100914080049 |text=Spiralenzeichner (bei Reunion) |archiv-bot=2019-05-15 00:00:47 InternetArchiveBot }}.&lt;/ref&gt;&lt;ref&gt;{{Webarchiv|url=http://www.reunion.iufm.fr/dep/mathematiques/calculsavant/Exposition/ArtsetMetiers/Resources/AbdankSpirographe.jpg |wayback=20110928032753 |text=Der Spiralzeichner von 1885 im Bild |archiv-bot=2019-05-15 00:00:47 InternetArchiveBot }}.&lt;/ref&gt; im Jahre 1885, sowie [[Ernst Barthel]]&lt;ref&gt;VDI-Nachrichten, 19. April 1933, Beschreibung des Patents zu Ernst Barthels Transformationszirkel.&lt;/ref&gt; im Jahre 1933.
+
+== Mathematische Beschreibung ==
+Die Hypotrochoide entsteht, wenn ein kleiner Kreis im Inneren eines großen Kreises abgerollt wird und die Epitrochoide, wenn ein kleiner Kreis im Äußeren eines großen Kreises abgerollt wird. Die nebenstehenden Animationen verdeutlichen dies. Mit den nachfolgend aufgelisteten Parametern lässt sich die Parametrisierung von Epi- und Hypotrochoide wie folgt angeben:
+
+* &lt;math&gt;R
+&lt;/math&gt; : Radius des feststehenden Kreises (Innenverzahnte Lochschablone bei Hypo- und außenverzahnte Epitrochoide)
+* &lt;math&gt;r
+&lt;/math&gt; : Radius des bewegten Kreises (Zahnrad)
+* &lt;math&gt;a
+&lt;/math&gt; : Radius der Stift-Position bezüglich des Zahnradmittelpunktes
+* &lt;math&gt;\nu = 
+\begin{cases}
+1 &amp; : \text{Epitrochoide}\\
+-1 &amp; : \text{Hypotrochoide}
+\end{cases}
+&lt;/math&gt; : Auswahl-Parameter
+
+:&lt;math&gt;\boldsymbol {x}(t) = 
+(R+ \nu \cdot r)\cdot 
+\begin{pmatrix} 
+\cos(t) \\
+\sin(t) 
+\end{pmatrix}
+-
+a \cdot
+\begin{pmatrix}
+\nu \cos\left(\frac{R+ \nu \cdot r}{r} \cdot t\right) \\
+\sin\left(\frac{R+ \nu \cdot r}{r} \cdot t\right) 
+\end{pmatrix}
+
+&lt;/math&gt;
+
+Wird der Parameter &lt;math&gt;a = r&lt;/math&gt; gewählt, so werden die Kurven als Epi- bzw. Hypozykloide bezeichnet. Diese stellen sozusagen einen Spezialfall der Epi- und Hypotrochoide dar. Beim klassischen Spriograph-Spielzeug ist eine solche Konfiguration jedoch nicht möglich. Der Stift befindet sich hier stets in einer Position &lt;math&gt;a &lt; r&lt;/math&gt;. 
+
+Die nachfolgende Darstellung dient mit &lt;math&gt;n,m \in \mathbb{N}
+&lt;/math&gt; zur Beschreibung von [[Periodische Funktion|periodischen Figuren]]. Sind &lt;math&gt;m&lt;/math&gt; und &lt;math&gt;n&lt;/math&gt; [[Teilerfremdheit|teilerfremd]], so steht &lt;math&gt;n&lt;/math&gt; für die Anzahl der Umläufe des Zahnrades bis die Kurve geschlossen ist. Die gemeinsame Periodendauer bezüglich des Parameter &lt;math&gt;t
+&lt;/math&gt; ist folglich &lt;math&gt;T = 2\pi n&lt;/math&gt;.
+
+:&lt;math&gt;\boldsymbol{x}(t) = \frac{R m}{m - \nu n} \cdot  
+\begin{pmatrix}
+\cos(t) \\ 
+\sin(t)  
+\end{pmatrix} 
+- 
+a \cdot 
+\begin{pmatrix} 
+\nu \cos(\frac{m}{n}\cdot t) \\ 
+\sin(\frac{m}{n} \cdot t) 
+\end{pmatrix}  \quad \text{mit}\quad  \frac{R}{r} = \frac{m}{n}-\nu 
+&lt;/math&gt;
+Spezielle Hypotrochoiden (&lt;math&gt;\nu = -1&lt;/math&gt;), welche durch den Mittelpunkt des Kreises mit Radius &lt;math&gt;R&lt;/math&gt; verlaufen, ergeben sich durch die Wahl von &lt;math&gt;a = \frac{R \cdot m}{m + n}&lt;/math&gt;. In diesem Fall gilt weiterhin das Verhältnis &lt;math&gt;\frac{a}{r} = \frac{m}{n}&lt;/math&gt;. Bei der in der nebenstehenden Animation dargestellten Hypotrochoide ist dies der Fall. Wird hingegen &lt;math&gt;a = \frac{R \cdot n}{m+n}&lt;/math&gt; gewählt, so ergeben sich sternförmige Kurven, deren Spitzen auf dem Kreis mit Radius &lt;math&gt;R&lt;/math&gt; liegen. Weiterhin ergibt sich in diesem Fall die Anzahl der Stern-Spitzen zu &lt;math&gt;k = n+m&lt;/math&gt; und es gilt das Verhältnis &lt;math&gt;\frac{a}{r} = 1&lt;/math&gt;.
+
+== Siehe auch ==
+
+* [[Guilloche]]
+* [[Zykloide]]
+
+== Literatur ==
+* Bruno Abdank-Abakanowicz: ''Les Intégraphes la Courbe Integrale et ses Applications.'' Paris: Gauthier-Villars (1. Januar 1886)&lt;ref&gt;{{Webarchiv|url=http://www.reunion.iufm.fr/Dep/mathematiques/calculsavant/Textes/planimetres_angleterre.html |wayback=20090307134758 |text=Frz. Seite |archiv-bot=2019-05-15 00:00:47 InternetArchiveBot }}.&lt;/ref&gt;
+
+== Weblinks ==
+{{Commonscat|Spirograph|Spirograph (Spielzeug)}}
+* [http://www.mathematische-basteleien.de/spirograph.htm Private Webseite mit Beispielen und Formeln]
+* [http://www.journalofantiques.com/Jan07/playing_around.html the journal of antiques: Spirograph]
+* [http://www.retrowow.co.uk/retro_collectibles/60s/spirograph.php Retro collectibles Spirograph]
+* [http://www.softgame.net/math/spirograph-history.htm Spirograph History] (englisch)
+* [http://nathanfriend.io/inspirograph/ Virtueller Spirograph von Nathan Friend]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Spielgerät]]
+[[Kategorie:Lineal oder Schablone]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>dtlrg5ug208dbilf7cez5istv9i89r7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zaubertafel</title>
+    <ns>0</ns>
+    <id>6307648</id>
+    <revision>
+      <id>209960201</id>
+      <parentid>207741548</parentid>
+      <timestamp>2021-03-19T13:49:11Z</timestamp>
+      <contributor>
+        <ip>2001:16B8:3018:D600:86B:3A15:F7B5:FA21</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3263" xml:space="preserve">[[Datei:EtchASketch10-23-2004.jpg|mini|Zaubertafel: Variante [[Etch A Sketch]]]]
+
+Eine '''Zaubertafel''' ist ein [[Zeichenbrett]], auf dem man mit einem speziellen [[Schreibstift|Stift]] lediglich mittels mechanischen [[Druck (Physik)|Druck]]s oder [[Magnetismus]] ohne Verbrauch von [[Schreibmaterial]] schreiben und das Geschriebene wieder löschen kann. Erfunden wurde die Zaubertafel von [[André Cassagnes]], der am 16. Januar 2013 im Alter von 86 Jahren starb&lt;ref&gt;[https://www.spiegel.de/netzwelt/gadgets/etch-a-sketch-zaubertafel-erfinder-andre-cassagnes-ist-gestorben-a-881184.html Spielzeug-Erfinder Cassagnes tot: Trauer um Monsieur Zaubertafel], Spiegel.de, aufgerufen am 3. Februar 2013.&lt;/ref&gt;.
+
+== Arten ==
+Es gibt verschiedene Arten solcher „Zaubertafeln“.
+
+* Bei der einen Variante ([[Etch A Sketch]]) ist innen ein silbrig-helles Pulver, das an der Innenseite der durchsichtigen Platte haftet. Mit zwei Rädchen wird über Schnurzug ein eingebauter, von außen nicht sichtbarer Metallstift in X- und Y-Richtung bewegt. Dieser zeichnet eine Linie in den Staub.
+[[Datei:Magna Doodle.jpg|mini|Magna Doodle]]
+* Das Funktionsprinzip der zweiten Variante („'''Magna Doodle'''“) sind Waben, in denen eine weiße undurchsichtige Flüssigkeit und feine magnetische Eisenspäne sind. Man zeichnet mit einem Stift, der eine magnetische Spitze hat (man kann auch mit magnetischen Stempeln „zeichnen“). Durch die magnetische Anziehung werden die Späne in der Wabe nach oben gezogen, dadurch wird die Wabe dunkel. Mit dem Schieber wird ein Magnet unter den Waben bewegt, dieser zieht die Späne wieder nach unten und die Wabe wird wieder hell. Erfunden wurde diese Tafel im Jahre 1974.
+
+* Die dritte Variante funktioniert sehr einfach, sie gibt es bereits seit den 1960er-Jahren. Diese Tafeln sind dünn und bestehen aus einer einfachen Platte mit einer dünnen Folie darauf. Sie funktionieren so, dass die Folie mit Hilfe des Stiftes an die Platte gedrückt wird, dort anhaftet und dadurch dunkler erscheint. Diese Tafeln können gelöscht werden, indem man die Folie wieder vom Untergrund trennt.
+
+* Auch in den 1960er-Jahren existierten im freien Handel bereits Zaubertafeln, bestehend aus einer zwischen zwei durchsichtigen Folien flächig eingeschlossenen schwarz durchgefärbten Paste, die eine steife, flächig bunt gefärbte Hintergrundplatte vollkommen bedeckt. Durch mechanischen Druck mit einem - möglichst glatten und abgerundeten - Malwerkzeug oder mit den Fingern kann die Paste bewegt und lokal verdrängt werden, wodurch an diesen Stellen der bunt gefärbte Hintergrund sichtbar wird. Auch kann die gesamte Paste in der Mitte der Zaubertafel zusammengeschoben und als geschlossene dunkle Silhouette vor dem bunten Hintergrund bearbeitet werden. Zum Löschen wird die Paste mit einem Rakel in gleichmäßiger Dicke verteilt, so dass sie den Hintergrund wieder überall undurchsichtig bedeckt.
+
+== Siehe auch ==
+* [[Etch A Sketch]]
+* [[Palimpsest]]
+
+== Weblinks ==
+* [https://entertainment.howstuffworks.com/magna-doodle.htm Erklärung mit Bildern]
+* [https://www.youtube.com/watch?v=pxxPDD3Esc4 Erklärung im Video]
+
+== Einzelnachweise ==
+
+&lt;references /&gt;
+[[Kategorie:Spielgerät]]
+[[Kategorie:Beschreibstoff]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>nbxddk922b31n0dqldk2j696hl627ic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unterzeichnungsmittel</title>
+    <ns>0</ns>
+    <id>10981186</id>
+    <revision>
+      <id>197333806</id>
+      <parentid>193182707</parentid>
+      <timestamp>2020-03-02T02:24:54Z</timestamp>
+      <contributor>
+        <username>Orthographus</username>
+        <id>3348819</id>
+      </contributor>
+      <minor/>
+      <comment>Fugen-s</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3214" xml:space="preserve">[[Datei:Unterzeichnung Kreide.jpg|mini|Die Unterzeichnung wurde vermutlich mit einem weich und breit zeichnenden Stift (schwarze Kreide) angelegt (Infrarotreflektogramm).]]
+'''Unterzeichnungsmittel''' oder Unterzeichnungsinstrumente dienen zur Herstellung einer [[Unterzeichnung]] (Vorzeichnung) auf einem Bildträger. 
+
+Über die von den Künstlern für ihren Bildentwurf verwendeten Unterzeichnungsmittel werden in den Quellenschriften nur sehr wenige Angaben gemacht. [[Cennino Cennini]] (um 1400) erwähnt für die frühe italienische Malerei die Kohle und den Pinsel mit schwarzer Tinte, [[Giorgio Vasari]] (1568) erwähnt weißen Schneidergips und Weidenkohle als Unterzeichnungsmittel und [[Karel van Mander (1548–1606)|Karel van Mander]] (1604) für die niederländische Malerei Kreiden und Bleistift, die mit Wasserfarben nachgezogen wurden. Trotzdem muss angenommen werden und wird auch heute teilweise durch die Infrarountersuchung bestätigt, dass für Unterzeichnungen auch andere vom Künstler üblicherweise zum Zeichnen und Malen benutzte Mittel für die Unterzeichnung verwendet wurden. So kommen neben der Kohle, Fettkohle, der schwarzen Kreide, der roten Kreide (Rötelstift), dem Silberstift, dem Bleigriffel und dem Graphitstift (heute Bleistift) auch die Kielfeder und die Rohrfeder als Unterzeichnungsmittel in Frage.&lt;ref&gt;{{Literatur |Autor=Knut Nicolaus |Titel=DuMont’s Bild-Lexikon zur Gemäldebestimmung |Hrsg= |Sammelwerk= |Band= |Nummer= |Auflage= |Verlag=DuMont Buchverlag |Ort=Köln |Datum=1982 |ISBN=3-7701-1243-1 |Seiten=229ff}}&lt;/ref&gt; 
+[[Datei:Unterzeichnung ritz 1.jpg|mini|Auf diesem Goldgrundbild wurde eine Nadel als Unterzeichnungsmittel verwendet.]]
+Ebenfalls zu den Unterzeichnungsmitteln gehört die Nadel, mit der die Künstler in der frühen europäischen Tafelmalerei die Unterzeichnung auf ihren [[Goldgrundbild]]ern vornahmen. 
+
+== Nachweis ==
+Dass eines der genannten Unterzeichnungsmittel verwendet wurde, lässt sich z.&amp;nbsp;B. an Selbstporträts feststellen, bei denen der Künstler vor der Staffelei sitzt und sich mit einem Unterzeichnungsmittel in der Hand dargestellt, an Bildern, die nicht fertiggestellt wurden oder mit Hilfe der Infrarotuntersuchung, wenn die darüberliegende Farbschicht von den infraroten Strahlen durchdrungen werden können.
+
+Die Erscheinungsbilder der verschiedenen Unterzeichnungsmittel können sich im Infrarot so ähneln, dass sie – in aller Vorsicht – bestenfalls in die Gruppen breit und weichzeichnende Unterzeichnungsmittel (Kohle, Fettkohle, schwarze Kreide, Graphitstift), fein zeichnende Unterzeichnungsmittel (Silberstift, Bleigriffel) und Federn einzuteilen sind. 
+
+Eine Ausnahme bilden die weiße Kreide und Unterzeichnungen mit roter bis brauner Farbe. Diese werden von den Infrarotstrahlen durchdrungen und sind damit nicht nachweisbar.&lt;ref&gt;{{Literatur |Autor=Knut Nicolaus |Titel=Gemälde, Untersucht-Entdeckt-Erforscht |Hrsg= |Sammelwerk= |Band= |Nummer= |Auflage= |Verlag=Klinckhardt &amp; Biermann |Ort=Braunschweig |Datum=1979 |ISBN= |Seiten=}}&lt;/ref&gt;
+
+== Literatur ==
+* Joseph Meder: ''Die Handzeichnung''. Wien 1923
+
+== Einzelnachweis ==
+&lt;references /&gt;
+
+[[Kategorie:Zeichnen]]
+[[Kategorie:Technik der Malerei]]</text>
+      <sha1>cbr7md2qlgzcqb3sy3vedbbhjov66sd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zeichenschule für Handwerker an der Akademie der Künste Berlin</title>
+    <ns>0</ns>
+    <id>1725701</id>
+    <revision>
+      <id>202882571</id>
+      <parentid>198167282</parentid>
+      <timestamp>2020-08-18T09:43:04Z</timestamp>
+      <contributor>
+        <username>Wheeke</username>
+        <id>1347043</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:HC|HC]]: Ergänze [[Kategorie:Akademie der Künste (Berlin)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1460" xml:space="preserve">Die '''Zeichenschule für Handwerker an der Akademie der Künste Berlin''' war die erste berufsbildende Einrichtung in [[Berlin]]. Sie wurde im April 1786 an der [[Akademie der Künste (Berlin)|Akademie der Künste und mechanischen Wissenschaften]] auf die Initiative des im Januar des Jahres als Direktors eingesetzten Geheimen Staats- und Kriegsministers [[Friedrich Anton von Heynitz|Friedrich Anton Freiherr von Heinitz]] eingerichtet.
+
+Es handelte sich bei der Zeichenschule für Handwerker um eine Teilzeitschule, an der in den Monaten von April bis September jeweils im Zeitraum von 16:30 bis 19:00 Uhr Lehrlinge und Gesellen aus verschiedenen Handwerksberufen unterrichtet wurden, der Unterricht war kostenfrei.
+
+Die Handwerker-Zeichenschule entwickelte sich um die Jahrhundertwende vom 18. zum 19. Jahrhundert zur Kunstzeichenschule. Im Jahr 1886 wurde sie mit der [[Unterrichtsanstalt des Kunstgewerbemuseums Berlin]] verbunden und als eigene Institution aufgelöst.
+
+== Literatur ==
+* W. Karow, R. Egdmann, H. Wagner, K. Wiese: ''Berliner Berufsschulgeschichte.'' Edition Hentrich, Berlin 1993, ISBN 3-89468-006-7
+
+{{SORTIERUNG:Zeichenschule fur Handwerker an der Akademie der Kunste Berlin}}
+[[Kategorie:Schule für Angewandte Kunst]]
+[[Kategorie:Zeichnen]]
+[[Kategorie:Berufsbildende Schule in Berlin]]
+[[Kategorie:Gegründet 1786]]
+[[Kategorie:Aufgelöst 1886]]
+[[Kategorie:Ehemalige Schule in Berlin]]
+[[Kategorie:Akademie der Künste (Berlin)]]</text>
+      <sha1>kupk96sf72d3w14o3emxv45fddjwhae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zentangle</title>
+    <ns>0</ns>
+    <id>11142518</id>
+    <revision>
+      <id>212574394</id>
+      <parentid>211280805</parentid>
+      <timestamp>2021-06-01T11:48:11Z</timestamp>
+      <contributor>
+        <username>Mosmas</username>
+        <id>178974</id>
+      </contributor>
+      <comment>Wortwahl</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2958" xml:space="preserve">[[Datei:Zentangle Musterbeispiel.jpeg|mini|Zentangle, Musterbeispiel]]
+
+Das '''Zentangle''' (Aussprache [[Liste der IPA-Zeichen|'zɛn-tæŋgl]], von [[Zen]] bzw. [[Zen-Meditation]] und [[Englische Sprache|engl.]] ''tangle'': Knäuel, Gewirr, Durcheinander&lt;ref&gt;[https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/tangle?bidir=1 ''tangle''] auf [[Pons]].de&lt;/ref&gt;) ist eine freie [[Zeichnung (Kunst)|Zeichnung]], die aus Formen mit immer wiederkehrenden Mustern aus einer Kombination von Punkten, Linien, einfachen Kurven und Kreisen strukturiert ist.
+
+Charakteristisch ist, dass das entstehende Zentangle-Bild von allen Seiten gleichermaßen betrachtet werden kann und die gezeichneten Formen in der Regel kein gegenständliches Objekt ergeben. Die Zeichnungen werden auf einem besonderen Papier angefertigt, dem nur etwa 9×9&amp;nbsp;cm großen Zentangle-„Tile“ (engl. [[Liste der IPA-Zeichen|taɪl]]: Fliese&lt;ref&gt;[https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/tile?bidir=1 ''tile''] auf [[Pons]].de&lt;/ref&gt;, Kachel). Das Zeichnen auf dem Zentangle-Tile wird auch eingedeutscht als ''tanglen'' bezeichnet. Alles, was vom Format der kleinen Papierkacheln abweicht oder in Farbe gestaltet wird, ist ZIA = ''zentangle inspired art'', also von Zentangle inspirierte Kunst.
+
+Der meditative Vorgang des Zeichnens ist vorrangig und folgt einer eigenen Philosophie. Das Zeichnen ist absichtslos und es gibt keine konkreten Vorstellungen von einem bestimmten Ergebnis. Vielmehr wird der Intuition gestattet, sich zu entfalten. Erfunden wurde Zentangle in den USA von dem ehemaligen Mönch Rick Roberts und der Künstlerin Maria Thomas, die damit eine Kombination aus Meditation und Kunst erschaffen haben.
+
+== Weitere Zentangle-Beispiele ==
+&lt;gallery&gt;
+Vorgehensweise Zentangle.jpg|Vorgehensweise Zentangle
+Zentangle, técnica de los cuadrantes.jpg|Zentangle, Quadrantentechnik
+Kresba zentangle.jpg|Zentangle
+Zentangle Argentina.jpg|Zentangle Argentina
+&lt;/gallery&gt;
+
+== Beleg ==
+&lt;references/&gt;
+
+== Literatur ==
+* Marbaix, Jane: ''Zentangle'', Arcturus Publishing, 2015, ISBN 9781784281649
+* Kass Hall: ''Zentangle Untangled: Inspiration and Prompts for Meditative Drawing'', 2012, ISBN 978-1-4403-1832-0
+* Anya Lothrop: ''Freude mit Zentangle – Der Einsteigerkurs: Zeichnen Sie sich glücklich!'' 2014, ISBN 978-3955501051
+* Beate Winkler: ''Das große Zentangle-Buch: 101 Lieblingsmuster. Von genial einfach bis einfach genial'', 2015, ISBN 978-3772482151
+
+== Weblinks ==
+{{Wikiversity|Fachbereich Kunst|In diesem Bereich ist Platz für Fragen zum Thema Kunst.}}
+{{Wiktionary|Zeichnung}}
+* [https://simonesass.de/zentangle/ Die Zentangle Methode]
+* [https://zentangle.com/pages/about-the-zentangle-methodAbout the Zentangle Method]
+* [https://www.conzentric.art/zentangle/ Was ist die Zentangle-Methode?]
+* [https://www.kunstkurs-online.de/Seiten/zeichnen-technik/zentangle.php Was ist ein Zentangle]
+
+[[Kategorie:Künstlerische Technik]]
+[[Kategorie:Zeichnen]]</text>
+      <sha1>1v3pwta2nxkvqpu7yos1cyeal7a134w</sha1>
+    </revision>
+  </page>
+</mediawiki>

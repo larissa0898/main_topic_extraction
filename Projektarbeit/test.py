@@ -10,7 +10,7 @@ from preprocessing_text import save_corpus_in_json
 
 
 def get_top_n_words(corpus, n=None):
-    """ A function that returns the most frequently occuring words.. 
+    """ A function that returns the most frequently occuring words.
 
     Parameters
     ----------
@@ -34,7 +34,7 @@ def get_top_n_words(corpus, n=None):
 
 
 def sort_coo(coo_matrix):
-    """ A function that sorts tf_idf in descending order. 
+    """ A function that sorts the tf-idf vectors by descending order of scores.
 
     Parameters
     ----------
@@ -43,7 +43,7 @@ def sort_coo(coo_matrix):
 
     Returns
     -------
-    tuples : tuple
+    sorted(tuples) : list[tuple]
         Returns sorted matrix.
     """
     tuples = zip(coo_matrix.col, coo_matrix.data)
@@ -58,7 +58,7 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
     feature_names : list
         Contains feature names.
     sorted_items : list[Tuple]
-        Contains 
+        Contains the output of function 'sort_coo()'.
     topn : int
         Contains a number, that defines the top n items of the vector that should be used.
     
@@ -67,7 +67,6 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
     results : dict
         Contains 
     """
-    
     #use only topn items from vector
     sorted_items = sorted_items[:topn]
  
@@ -88,6 +87,8 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
         results[feature_vals[idx]] = score_vals[idx]
     
     return results
+
+
 
 #############################################################################
 # Do you want to store the data in a json file or load the current json file? 

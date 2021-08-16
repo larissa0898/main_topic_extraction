@@ -31,11 +31,11 @@ def extracting_titles_and_texts(filename):
 
     # iterate through all the titles
     for title in root.findall(".//title", namespaces=root.nsmap):
-        wiki_titles.append(title.text)
+        wiki_titles.append(title.text.lower())
 
     # iterate through all the texts
     for text in root.findall(".//text", namespaces=root.nsmap):
-        wiki_texts.append(text.text)
+        wiki_texts.append(text.text.lower())
 
 
     wiki_dic = dict(zip(wiki_titles, wiki_texts))
@@ -62,7 +62,7 @@ def regex_for_text_smoothing(wiki_dic, wiki_titles):
     wiki_dic : dict
         Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets and other things.
     """
-    regex = [r'\[\[Datei(.*?)\]\]',r'\<ref(.*?)ref\>', r'z\.B\.', r'\b\w{1,2}\b', r'\[\[(.*?)\|', r'\[', r'\]', r'\<(.*?)\>', r'\{\{(.*?)\}\}', r'(\=\=\sSiehe\sauch\s\=\=)(?s)(.*$)', r'\'\'', r'\=\=\s',  r'\s\=\=', r'\*\s', r'\&nbsp\;', r'\'']
+    regex = [r'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)',r'\[\[Datei(.*?)\]\]',r'\<ref(.*?)ref\>', r'z\.B\.', r'\b\w{1,2}\b', r'\[\[(.*?)\|', r'\[', r'\]', r'\<(.*?)\>', r'\{\{(.*?)\}\}', r'(\=\=\sSiehe\sauch\s\=\=)(?s)(.*$)', r'\'\'', r'\=\=\s',  r'\s\=\=', r'\*\s', r'\&nbsp\;', r'\'']
 
     for r in regex:
         pattern = re.compile(r)

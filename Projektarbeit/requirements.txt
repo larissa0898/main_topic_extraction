@@ -1,0 +1,6 @@
+nltk
+scikit_learn
+scipy
+click
+gensim
+spacy

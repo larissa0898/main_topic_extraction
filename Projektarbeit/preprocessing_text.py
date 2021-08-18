@@ -144,15 +144,19 @@ def remove_stopwords(data_lemma, fromhand=True):
 
 def save_corpus_in_json():
     corpus = []
+    titles = []
 
     for name in filenames:
         wiki_dic, wiki_titles = extracting_titles_and_texts(name)
         wiki_dic = regex_for_text_smoothing(wiki_dic, wiki_titles)
         for title in wiki_titles:
+            titles.append(title)
             corpus.append(remove_stopwords(tok_lemmatizing(wiki_dic, title),fromhand=False))
+    
+    corpus2 = dict(zip(titles, corpus))
 
-    with open('corpus.json', 'w', encoding='utf-8') as f:
-        json.dump(corpus, f, ensure_ascii=False, indent=4)
+    with open('corpus2.json', 'w', encoding='utf-8') as f:
+        json.dump(corpus2, f, ensure_ascii=False, indent=4)
 
 
 filenames = ["WikipediaZeichnen.xml", "WikipediaSportarten.xml", "WikipediaKlettern.xml"]

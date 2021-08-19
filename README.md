@@ -1,9 +1,9 @@
 # Advanced NLP project - topic extraction
 This repository contains a 
 
-##### Table of Contents
-- [Installation]
-- [Usage]
+#### Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Installation 
 Download all the files on this GitHub repository.  

@@ -1,4 +1,0 @@
-- accuracy kategorien (zeichnen, klettern, usw) untereinander vergleichen
-- accuracy "tf idf vs. manuell" vergleichen
-- beispiel plots, die die titel sowie keywords jeweils zeigen
-      --> tf idf vs. manuell vergleichen

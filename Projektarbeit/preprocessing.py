@@ -31,11 +31,11 @@ def extracting_titles_and_texts(filename):
     wiki_titles = []
     wiki_texts = []
 
-    # iterate through all the titles
+
     for title in root.findall(".//title", namespaces=root.nsmap):
         wiki_titles.append(title.text.lower())
 
-    # iterate through all the texts
+
     for text in root.findall(".//text", namespaces=root.nsmap):
         wiki_texts.append(text.text.lower())
 
@@ -140,9 +140,16 @@ def remove_stopwords(data_lemma, manual=True):
 
 
 def save_corpus_in_json():
-    """ A function that stores the data in a json file to access it for
-    tf idf extraction.
-    Has no parameters and returns. Just creates a json file with data.
+    """ A function that stores the data (preprocessed titles and texts) for the tf-idf method 
+    in a json file to access it for tf-idf extraction.
+
+    Parameters
+    ----------
+    -
+
+    Returns
+    -------
+    None
     """
     texts = []
     titles = []

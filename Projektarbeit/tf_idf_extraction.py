@@ -92,9 +92,9 @@ feature_names = cv.get_feature_names()
 
 
 
-list_all_Articles_keywords = []
+all_articles_keywords = []
 for i in range(len(corpus)):
-    list_article_keywords = []
+    one_article_keywords = []
     tf_idf_vector = tfidf_transformer.transform(cv.transform([corpus[i]])) 
 
     sorted_items = sort_coo_matrix(tf_idf_vector.tocoo()) 
@@ -107,14 +107,14 @@ for i in range(len(corpus)):
     #    print(k, keywords[k])
 
     for k in keywords:
-        list_article_keywords.append(k)
-    list_all_Articles_keywords.append(list_article_keywords)
+        one_article_keywords.append(k)
+    all_articles_keywords.append(one_article_keywords)
 
 realcount = 0
 
 for i in range(len(title)):
     count = 0
-    for key in list_all_Articles_keywords[i]:
+    for key in all_articles_keywords[i]:
         if key in title[i]:
             count += 1
     if count >= 1:

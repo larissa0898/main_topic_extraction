@@ -1,11 +1,11 @@
-import re
 from lxml import etree
 from gensim.utils import tokenize
-import spacy
 from nltk.corpus import stopwords
 from collections import Counter
+import spacy
 import heapq
 import json
+import re
 
 
 
@@ -15,13 +15,13 @@ def extracting_titles_and_texts(filename):
 
     Parameters
     ----------
-    filenames : str
-        Name of file we want to extracts titles and texts.
+    filename : str
+        Name of the file from which the titles and texts are to be extracted.
 
     Returns
     -------
     wiki_dic : dict
-        Contains the extracted titles (key) and texts (value) of Wikipedia articles.
+        Contains the extracted titles (keys) and texts (values) of Wikipedia articles.
     wiki_titles : list
         Contains list of titles of Wikipedia articles. 
     """
@@ -62,7 +62,9 @@ def regex_for_text_smoothing(wiki_dic, wiki_titles):
     wiki_dic : dict
         Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets and other things.
     """
-    regex = [r'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)',r'\[\[Datei(.*?)\]\]',r'\<ref(.*?)ref\>', r'z\.B\.', r'\b\w{1,2}\b', r'\[\[(.*?)\|', r'\[', r'\]', r'\<(.*?)\>', r'\{\{(.*?)\}\}', r'(\=\=\sSiehe\sauch\s\=\=)(?s)(.*$)', r'\'\'', r'\=\=\s',  r'\s\=\=', r'\*\s', r'\&nbsp\;', r'\'']
+    regex = [r'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)', 
+            r'\[\[Datei(.*?)\]\]', r'\<ref(.*?)ref\>', r'z\.B\.', r'\b\w{1,2}\b', r'\[\[(.*?)\|', r'\[', r'\]', r'\<(.*?)\>', 
+            r'\{\{(.*?)\}\}', r'(\=\=\sSiehe\sauch\s\=\=)(?s)(.*$)', r'\'\'', r'\=\=\s',  r'\s\=\=', r'\*\s', r'\&nbsp\;', r'\'']
 
     for r in regex:
         pattern = re.compile(r)

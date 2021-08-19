@@ -4,28 +4,29 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from scipy.sparse import coo_matrix
 import json
 import click
-from preprocessing_text import save_corpus_in_json
+from preprocessing import save_corpus_in_json
 
 
-def sort_coo(coo_matrix):
+def sort_coo_matrix(coo_matrix):
     """ A function that sorts the tf-idf vectors by descending order of scores.
 
     Parameters
     ----------
     coo_matrix : scipy.sparse.coo.coo_matrix
+        Contains matrix with encoded words and the scores.
         
 
     Returns
     -------
     sorted(tuples) : list[Tuple]
-        Returns sorted matrix.
+        Return sorted list of tuples, that contain the encoded word (=index) and the corresponding score.
     """
     tuples = zip(coo_matrix.col, coo_matrix.data)
 
     return sorted(tuples, key=lambda x: (x[1], x[0]), reverse=True)
  
 
-def extract_topn_from_vector(feature_names, sorted_items, topn=5):
+def extract_first_n_from_vector(feature_names, sorted_items, n=5):
     """ A function that extracts the feature names and tf-idf score of top n items.
     
     Parameters
@@ -33,23 +34,25 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=5):
     feature_names : list
         Contains feature names.
     sorted_items : list[Tuple]
-        Contains the output of function 'sort_coo()'.
-    topn : int
-        Contains a number, that defines the top n items of the vector that should be used.
+        Contains the encoded words and scores per article. 
+        Has following structure: [(Index of word1, highest_score), (Index of a word2, second_highest_score), ...]
+    n : int
+        Contains a number, that defines the first n items of the vector that should be used.
     
     Returns
     -------
     results : dict
-        Contains the top n keywords (key) with their corresponding scores (values).
+        Contains the first n keywords (key) with their corresponding scores (values).
     """
-    sorted_items = sorted_items[:topn]   # use only topn items from vector
- 
+    sorted_tuples = sorted_items[:n]
+
+
     score_values = []
     feature_values = []
     
     # word index and corresponding tf-idf score
-    for idx, score in sorted_items:
-        score_values.append(round(score, 3))   #keep track of feature name and its corresponding score
+    for idx, score in sorted_tuples:
+        score_values.append(round(score, 3))         # keep track of feature name and its corresponding score
         feature_values.append(feature_names[idx])
 
     results= {}
@@ -60,11 +63,11 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=5):
 
 
 
-#############################################################################
-# Do you want to store the data in a json file or load the current json file? 
+######################################################################################
+# Do you want to store the data in a json file (y) or load the existing json file (n)? 
 # Y - preprocessing starts and new json file is generated
 # n - programm runs further with existing json file
-############################################################################# 
+###################################################################################### 
 
 if click.confirm('Do you want to store the data in a new json file or load the current json file?', default=True):
     save_corpus_in_json()
@@ -89,29 +92,29 @@ feature_names = cv.get_feature_names()
 
 
 
-list_list = []
+list_all_Articles_keywords = []
 for i in range(len(corpus)):
-    tmp_list = []
-    tf_idf_vector = tfidf_transformer.transform(cv.transform([corpus[i]]))   # generate tf-idf for the given document
+    list_article_keywords = []
+    tf_idf_vector = tfidf_transformer.transform(cv.transform([corpus[i]])) 
 
-    sorted_items = sort_coo(tf_idf_vector.tocoo())                           # sort the tf-idf vectors by descending order of scores
+    sorted_items = sort_coo_matrix(tf_idf_vector.tocoo()) 
 
-    keywords = extract_topn_from_vector(feature_names, sorted_items, 5)      # extract only the top n; n here is 5
+    keywords = extract_first_n_from_vector(feature_names, sorted_items, n=5)
         
-    print("\nTitel: ", title[i])
-    print("Keywords:")
-    for k in keywords:
-        print(k, keywords[k])
+    #print("\nTitel: ", title[i])
+    #print("Keywords:")
+    #for k in keywords:
+    #    print(k, keywords[k])
 
     for k in keywords:
-        tmp_list.append(k)
-    list_list.append(tmp_list)
+        list_article_keywords.append(k)
+    list_all_Articles_keywords.append(list_article_keywords)
 
 realcount = 0
 
 for i in range(len(title)):
     count = 0
-    for key in list_list[i]:
+    for key in list_all_Articles_keywords[i]:
         if key in title[i]:
             count += 1
     if count >= 1:

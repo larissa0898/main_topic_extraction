@@ -1,4 +1,9 @@
 # Advanced NLP project - topic extraction
+This repository contains a 
+
+##### Table of Contents
+- [Installation]
+- [Usage]
 
 ## Installation 
 Download all the files on this GitHub repository.  
@@ -7,7 +12,7 @@ With 'pip install -r requirements.txt' all required libraries are installed.
 ![Step1](/Projektarbeit/images/step1.PNG)
 
 
-## Getting started
+## Usage
 ### tf_idf method
 If you want to use the tf_idf-method, you have to run the code in 'tf_idf_extraction.py'. While running the code, you will be asked, whether you want to use the existing json file with the pre-processed data ('corpus.json') or wether you want to preprocess the data again and create a new json file (this takes about 8 minutes).  
 ![Step2](/Projektarbeit/images/step2.PNG)  

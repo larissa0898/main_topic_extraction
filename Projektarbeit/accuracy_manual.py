@@ -1,13 +1,11 @@
 import json
 
-f = open('fromhand.json', encoding='utf-8')
+f = open('manual_extraction.json', encoding='utf-8')
 fromhand = json.load(f)
 
 
 title = list(fromhand.keys())
 keywords = list(fromhand.values())
-
-
 
 
 realcount = 0

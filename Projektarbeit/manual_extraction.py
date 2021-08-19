@@ -14,5 +14,5 @@ for name in pt.filenames:
 
 final = dict(zip(title_list, final_list))     
 
-with open('fromhand.json', 'w', encoding='utf-8') as f:
+with open('manual_extraction.json', 'w', encoding='utf-8') as f:
         json.dump(final, f, ensure_ascii=False, indent=4)

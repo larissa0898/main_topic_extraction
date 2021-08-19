@@ -46,8 +46,6 @@ def extracting_titles_and_texts(filename):
 
 
 
-
-
 def regex_for_text_smoothing(wiki_dic, wiki_titles):
     """ A function using regex for smoothing the texts to get rid of brackets 
     and stuff.
@@ -71,8 +69,6 @@ def regex_for_text_smoothing(wiki_dic, wiki_titles):
         for title in wiki_titles:
             wiki_dic[title] = re.sub(pattern,'', wiki_dic[title])
     return wiki_dic
-
-
 
 
 
@@ -107,7 +103,7 @@ def tok_lemmatizing(wiki_dic, title):
 
 
 
-def remove_stopwords(data_lemma, fromhand=True):
+def remove_stopwords(data_lemma, manual=True):
     """ A function that removes stop words from data and finding frequencies 
     of words.
 
@@ -123,7 +119,7 @@ def remove_stopwords(data_lemma, fromhand=True):
     """
     german_stop_words = stopwords.words('german')
  
-    if fromhand == True:
+    if manual == True:
         new_data=[]
 
         for word in data_lemma:
@@ -142,8 +138,13 @@ def remove_stopwords(data_lemma, fromhand=True):
         return text
 
 
+
 def save_corpus_in_json():
-    corpus = []
+    """ A function that stores the data in a json file to access it for
+    tf idf extraction.
+    Has no parameters and returns. Just creates a json file with data.
+    """
+    texts = []
     titles = []
 
     for name in filenames:
@@ -151,12 +152,14 @@ def save_corpus_in_json():
         wiki_dic = regex_for_text_smoothing(wiki_dic, wiki_titles)
         for title in wiki_titles:
             titles.append(title)
-            corpus.append(remove_stopwords(tok_lemmatizing(wiki_dic, title),fromhand=False))
+            texts.append(remove_stopwords(tok_lemmatizing(wiki_dic, title), manual=False))
     
-    corpus2 = dict(zip(titles, corpus))
+    corpus = dict(zip(titles, texts))
 
-    with open('corpus2.json', 'w', encoding='utf-8') as f:
-        json.dump(corpus2, f, ensure_ascii=False, indent=4)
+    with open('corpus.json', 'w', encoding='utf-8') as f:
+        json.dump(corpus, f, ensure_ascii=False, indent=4)
+
+
 
 
 filenames = ["WikipediaZeichnen.xml", "WikipediaSportarten.xml", "WikipediaKlettern.xml"]

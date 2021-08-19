@@ -7,30 +7,6 @@ import click
 from preprocessing_text import save_corpus_in_json
 
 
-def get_top_n_words(corpus, n=None):
-    """ A function that returns the most frequently occuring words.
-
-    Parameters
-    ----------
-    corpus : list
-        Contains the texts of the Wikipedia articles.
-    n : None
-        Contains a title of the list of Wikipedia topics.
-
-    Returns
-    -------
-    words_freq : list[tuple]
-        Contains the most frequent words.
-    """
-    vec = CountVectorizer().fit(corpus)
-    bag_of_words = vec.transform(corpus)
-    sum_words = bag_of_words.sum(axis=0) 
-    words_freq = [(word, sum_words[0, idx]) for word, idx in vec.vocabulary_.items()]
-    words_freq = sorted(words_freq, key = lambda x: x[1], 
-                       reverse=True)
-    return words_freq[:n]
-
-
 def sort_coo(coo_matrix):
     """ A function that sorts the tf-idf vectors by descending order of scores.
 
@@ -98,7 +74,7 @@ if click.confirm('Do you want to store the data in a new json file or load the c
     save_corpus_in_json()
 
 
-f = open('corpus2.json', encoding='utf-8')
+f = open('corpus.json', encoding='utf-8')
 data = json.load(f)
 
 title = list(data.keys())
@@ -131,8 +107,6 @@ for i in range(len(corpus)):
     keywords = extract_topn_from_vector(feature_names, sorted_items,5)
  
     # now print the results
-    #print("\nAbstract:")
-    #print(corpus[i])
     print("\nTitel: ", title[i])
     print("Keywords:")
     for k in keywords:
@@ -154,26 +128,3 @@ for i in range(len(title)):
         realcount += 1
 
 print(realcount/247*100) """
-
-
-
-""" # fetch document for which keywords needs to be extracted
-doc = corpus[0]
- 
-# generate tf-idf for the given document
-tf_idf_vector = tfidf_transformer.transform(cv.transform([doc]))
-
-# sort the tf-idf vectors by descending order of scores
-sorted_items = sort_coo(tf_idf_vector.tocoo())
-
-# extract only the top n; n here is 10
-keywords = extract_topn_from_vector(feature_names, sorted_items,5)
- 
-# now print the results
-print("\nAbstract:")
-print(doc)
-print("\nKeywords:")
-for k in keywords:
-    print(k,keywords[k]) """
-
-

@@ -1,5 +1,6 @@
 # Advanced NLP Project - Main Topic Extraction
-This repository contains two methods for main topic extraction with Wikipedia articles. One with tf_idf and the other one is manual (most frequently words in text). 
+This repository contains two methods for main topic extraction with Wikipedia articles. One with tf-idf and the other one is manual (most frequently words in text).  
+In the further course, the two methods are compared with each other on the basis of some statistics.
 
 #### Table of Contents
 - [Installation](#installation)

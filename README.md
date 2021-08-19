@@ -1,5 +1,5 @@
-# Advanced NLP project - topic extraction
-This repository contains a 
+# Advanced NLP Project - Main Topic Extraction
+This repository contains two methods for main topic extraction with Wikipedia articles. One with tf_idf and the other one is manual (most frequently words in text). 
 
 #### Table of Contents
 - [Installation](#installation)

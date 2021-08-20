@@ -47,8 +47,8 @@ def extracting_titles_and_texts(filename):
 
 
 def regex_for_text_smoothing(wiki_dic, wiki_titles):
-    """ A function using regex for smoothing the texts to get rid of brackets 
-    and stuff.
+    """ A function using regex for smoothing the texts to getting rid
+    of brackets, etc.
 
     Parameters
     ----------
@@ -60,7 +60,7 @@ def regex_for_text_smoothing(wiki_dic, wiki_titles):
     Returns
     -------
     wiki_dic : dict
-        Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets and other things.
+        Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets, etc.
     """
     regex = [r'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)', 
             r'\[\[Datei(.*?)\]\]', r'\<ref(.*?)ref\>', r'z\.B\.', r'\b\w{1,2}\b', r'\[\[(.*?)\|', r'\[', r'\]', r'\<(.*?)\>', 
@@ -81,7 +81,7 @@ def tok_lemmatizing(wiki_dic, title):
     Parameters
     ----------
     wiki_dic : dict
-        Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets and other things.
+        Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets, etc.
     title : str
         Contains a title of the list of Wikipedia topics.
 

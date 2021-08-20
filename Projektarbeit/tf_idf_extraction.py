@@ -19,7 +19,7 @@ def sort_coo_matrix(coo_matrix):
     Returns
     -------
     sorted(tuples) : list[Tuple]
-        Return sorted list of tuples, that contain the encoded word (=index) and the corresponding score.
+        Return sorted list of tuples, which contain the encoded words (=index) and the corresponding scores.
     """
     tuples = zip(coo_matrix.col, coo_matrix.data)
 
@@ -69,7 +69,7 @@ def extract_first_n_from_vector(feature_names, sorted_items, n=5):
 # n - programm runs further with existing json file
 ###################################################################################### 
 
-if click.confirm('Do you want to store the data in a new json file or load the current json file?', default=True):
+if click.confirm('Do you want to store the data in a new json file (y) or load the current json file (n)?', default=True):
     save_corpus_in_json()
 
 
@@ -101,10 +101,10 @@ for i in range(len(corpus)):
 
     keywords = extract_first_n_from_vector(feature_names, sorted_items, n=5)
         
-    #print("\nTitel: ", title[i])
-    #print("Keywords:")
-    #for k in keywords:
-    #    print(k, keywords[k])
+    print("\nTitel: ", title[i])
+    print("Keywords:")
+    for k in keywords:
+        print(k, keywords[k])
 
     for k in keywords:
         one_article_keywords.append(k)

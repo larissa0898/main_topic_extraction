@@ -113,6 +113,7 @@ for i in range(len(corpus)):
 realcount = 0
 
 for i in range(len(title)):
+    number_wikiarticles = 247
     count = 0
     for key in all_articles_keywords[i]:
         if key in title[i]:
@@ -120,4 +121,4 @@ for i in range(len(title)):
     if count >= 1:
         realcount += 1
 
-print("\nTotal Accuracy: ", realcount/247*100)
+print("\nTotal Accuracy: ", realcount/number_wikiarticles*100)

@@ -3,7 +3,7 @@ This repository contains two methods for main topic extraction with Wikipedia ar
 In the further course, the two methods are compared with each other on the basis of some statistics.
 
 #### Table of Contents
--[Data](#data)
+- [Data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
 

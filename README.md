@@ -21,7 +21,7 @@ Some example articles of the total 202 Wikipedia articles, which are used in thi
 ## Installation 
 Download all the files on this GitHub repository.  
 With 'pip install -r requirements.txt' all required libraries are installed.  
-For this project I used Python Version 3.9.5.
+For this project I used Python Version 3.9.5. The versions of the libraries, which are in requirements.txt, can also be found in just that. 
 
 ![Step1](/Projektarbeit/images/step1.PNG)
 

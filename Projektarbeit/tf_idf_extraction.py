@@ -80,6 +80,7 @@ data = json.load(f)
 title = list(data.keys())
 corpus = list(data.values())
 
+
 german_stop_words = stopwords.words('german')
 cv = CountVectorizer(max_df=0.8, stop_words=german_stop_words, max_features=10000, ngram_range=(1,3))
 doc_term_matrix = cv.fit_transform(corpus)
@@ -93,6 +94,7 @@ feature_names = cv.get_feature_names()
 
 
 all_articles_keywords = []
+
 for i in range(len(corpus)):
     one_article_keywords = []
     tf_idf_vector = tfidf_transformer.transform(cv.transform([corpus[i]])) 
@@ -113,12 +115,12 @@ for i in range(len(corpus)):
 realcount = 0
 
 for i in range(len(title)):
-    number_wikiarticles = 247
+    number_wikiarticles = 202
     count = 0
     for key in all_articles_keywords[i]:
-        if key in title[i]:
+        if key in title[i] or title[i] in key:
             count += 1
     if count >= 1:
         realcount += 1
 
-print("\nTotal Accuracy: ", realcount/number_wikiarticles*100)
+print("\nTotal Accuracy: ", realcount/number_wikiarticles*100, "%")

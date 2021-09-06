@@ -1,6 +1,6 @@
-nltk
-scikit_learn
-scipy
-click
-gensim
-spacy
+nltk            # version 3.6.2 
+scikit_learn    # version 0.24.2
+scipy           # version 1.7.1
+click           # version 7.1.2
+gensim          # version 4.1.0
+spacy           # version 3.1.2

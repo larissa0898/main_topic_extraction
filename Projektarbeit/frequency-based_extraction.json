@@ -1,127 +1,101 @@
 {
     "concept art": [
         "concept",
-        "art",
+        "game",
         "design",
-        "entwicklung",
-        "game"
-    ],
-    "kategorie:zeichenwerkzeug": [
-        "kategorie",
-        "handwerkzeug",
-        "zeichnen",
-        "zeichenwerkzeug",
-        "groß"
-    ],
-    "kategorie:technisches zeichnen": [
-        "kategorie",
-        "zeichnen",
-        "technisch",
-        "tun",
-        "umfasst"
+        "art",
+        "entwicklung"
     ],
     "umrisszeichnung": [
         "umrisszeichnung",
         "johann",
+        "bzw",
         "konturenstich",
-        "kategorie",
-        "bzw"
+        "umrissstich"
     ],
     "unterzeichnung": [
         "unterzeichnung",
-        "sichtbar",
+        "künstler",
         "vorzeichnung",
-        "mini",
-        "gemäldes"
-    ],
-    "kategorie:karikatur": [
-        "kategorie",
-        "zeichnen",
-        "bildend",
-        "kunst",
-        "gattung"
+        "gemälde",
+        "sichtbar"
     ],
     "prospekt (ansicht)": [
-        "kategorie",
-        "mini",
-        "ortsprospekt",
-        "steinhöring",
-        "prospekt"
+        "prospekt",
+        "lat",
+        "prospectus",
+        "handeln",
+        "gezeichnet"
     ],
     "hilfslinie": [
         "hilfslinien",
-        "beispiel",
-        "darstellend",
         "geometrie",
-        "linien"
+        "zeichnung",
+        "linie",
+        "ton"
     ],
     "rötel": [
         "rötel",
         "verwenden",
         "seit",
-        "hämatit",
-        "thasos"
+        "rot",
+        "hämatit"
     ],
     "rotstiftfunktion": [
-        "kategorie",
-        "anmerkungen",
+        "zeichnung",
+        "dokument",
+        "anmerkung",
         "ermöglichen",
-        "verschieden",
-        "zeichnen"
+        "verschieden"
     ],
     "drudel": [
         "drudel",
+        "linie",
         "price",
-        "linien",
         "roger",
-        "kategorie"
-    ],
-    "kategorie:zeichner": [
-        "zeichner",
-        "kategorie",
-        "zeichnen"
+        "bilderrätsel"
     ],
     "scribble (kreation)": [
         "scribbles",
-        "kategorie",
+        "papier",
         "verschieden",
-        "scribble",
-        "webseite"
+        "zeichnung",
+        "wichtig"
     ],
     "körperproportion": [
         "körperproportionen",
         "zeichnen",
         "groß",
         "mitte",
-        "mini"
+        "länge"
     ],
     "zeichenschule": [
         "zeichenschule",
         "jahrhundert",
-        "kategorie",
         "zeichenschulen",
-        "deutschland"
+        "deutschland",
+        "einsetzend"
     ],
     "aktzeichnen": [
-        "mini",
-        "proportionen",
-        "wichtig",
+        "körper",
+        "modell",
+        "form",
         "kl",
-        "modell"
+        "proportion"
     ],
     "pinselzeichnung": [
         "pinselzeichnung",
         "zeichnung",
         "malerei",
         "kunst",
-        "technik"
+        "pinsel"
     ],
     "prinzipskizze": [
+        "darstellung",
         "prinzipskizzen",
         "bestimmen",
-        "darstellungen",
-        "graphische",
-        "bereits"
+        "datum",
+        "einsetzen"
     ],
     "angebliche fahrradzeichnung leonardo da vincis": [
         "zeichnung",
@@ -133,317 +107,161 @@
     "zeichnung (kunst)": [
         "zeichnung",
         "linie",
-        "zeichnungen",
-        "mini",
-        "malerei"
+        "jahrhundert",
+        "malerei",
+        "verwenden"
     ],
     "an introduction to linear drawing": [
-        "kategorie",
         "introduction",
+        "to",
         "linear",
         "drawing",
         "gelten"
     ],
-    "kategorie:zeichnung (werk)": [
-        "kategorie",
-        "enthalten",
-        "zeichnerische",
-        "werke",
-        "bildend"
-    ],
     "handstudie": [
         "hand",
         "handstudie",
-        "thumb",
-        "px",
-        "dürer"
+        "werk",
+        "kunst",
+        "grafische"
     ],
     "schnellzeichner": [
         "schnellzeichner",
+        "karikatur",
         "zeichnen",
-        "dabei",
-        "kategorie",
-        "wenig"
+        "bild",
+        "dabei"
     ],
     "pantografie": [
         "pantografie",
         "gravur",
-        "kategorie",
-        "miniatur",
-        "entstehung"
+        "hersteller",
+        "zeichnung",
+        "mechanisch"
     ],
     "skizze": [
         "skizze",
-        "mini",
-        "kunst",
         "architektur",
-        "begriff"
+        "kunst",
+        "begriff",
+        "literatur"
     ],
     "etch a sketch": [
         "etch",
+        "a",
         "sketch",
         "stift",
-        "pulver",
-        "mini"
+        "jahr"
     ],
     "spirograph (spielzeug)": [
         "cdot",
-        "frac",
+        "kreis",
+        "nu",
         "spirograph",
-        "pmatrix",
-        "hypotrochoide"
+        "a"
     ],
     "zaubertafel": [
-        "zaubertafel",
-        "variante",
+        "wabe",
         "zeichnen",
+        "folie",
         "paste",
-        "etch"
+        "zaubertafel"
     ],
     "unterzeichnungsmittel": [
         "unterzeichnungsmittel",
-        "kreide",
         "unterzeichnung",
-        "verwenden",
-        "künstler"
+        "kreide",
+        "künstler",
+        "verwenden"
     ],
     "zeichenschule für handwerker an der akademie der künste berlin": [
-        "kategorie",
         "berlin",
-        "zeichenschule",
-        "handwerker",
-        "akademie"
+        "kunst",
+        "akademie",
+        "schule",
+        "zeichenschule"
     ],
     "zentangle": [
         "zentangle",
         "zeichnen",
-        "jpg",
         "isbn",
-        "einfach"
-    ],
-    "kategorie:wintersportart": [
-        "kategorie",
-        "sportarten",
-        "artikel",
-        "sollen",
-        "all"
-    ],
-    "kategorie:mehrkampfsportart": [
-        "verschieden",
-        "disziplinen",
-        "sportart",
-        "mehrkampf",
-        "kombinationssportart"
-    ],
-    "kategorie:extremsportart": [
-        "artikel",
-        "einzeln",
-        "sportarten",
-        "extremsport",
-        "zurechnen"
-    ],
-    "kategorie:geschicklichkeitsspiel": [
-        "kategorie",
-        "geschicklichkeitsspiel",
-        "enthalten",
-        "portal",
-        "spiele"
-    ],
-    "kategorie:wassersportart": [
-        "art",
-        "kategorie",
-        "sportart"
-    ],
-    "kategorie:tiersportart": [
-        "artikel",
-        "sportarten",
-        "sammeln",
-        "tiere",
-        "maßgeblich"
-    ],
-    "kategorie:kraftsportart": [
-        "kategorie",
-        "sportart",
-        "einzeln",
-        "kraftsport",
-        "artikel"
-    ],
-    "kategorie:brettsportart": [
-        "kategorie",
-        "sportart"
-    ],
-    "kategorie:wurfsportart": [
-        "kategorie",
-        "sportart"
-    ],
-    "kategorie:leichtathletikdisziplin": [
-        "disziplin",
-        "kategorie",
-        "sportart"
-    ],
-    "kategorie:langstreckenlauf": [
-        "kategorie",
-        "beinhalten",
-        "artikel",
-        "langstreckenlauf",
-        "disziplinen"
-    ],
-    "kategorie:turnsportart": [
-        "sportart",
-        "kategorie"
-    ],
-    "kategorie:natursportart": [
-        "kategorie",
-        "sportart"
-    ],
-    "kategorie:motorsportart": [
-        "kategorie",
-        "artikel",
-        "thema",
-        "aufgeführt",
-        "sportarten"
-    ],
-    "kategorie:kampfsportart": [
-        "kategorie",
-        "sportart",
-        "einzeln",
-        "kampfsport",
-        "artikel"
-    ],
-    "kategorie:mannschaftssportart": [
-        "kategorie",
-        "mannschaftssport",
-        "sollen",
-        "sportarten",
-        "einsortieren"
+        "einfach",
+        "engl"
     ],
     "sportdisziplin": [
-        "sportart",
-        "königsdisziplin",
-        "disziplinen",
         "disziplin",
-        "wettbewerbe"
-    ],
-    "kategorie:olympische sportart": [
-        "kategorie",
-        "spiele",
-        "enthalten",
-        "all",
-        "sportarten"
+        "sportart",
+        "znbspb",
+        "königsdisziplin",
+        "wettbewerb"
     ],
     "demonstrationssportart": [
         "demonstrationssportarten",
         "sportart",
         "bezeichnen",
-        "olympische",
+        "olympisch",
         "demonstrationssportart"
     ],
     "friesensport": [
-        "friesensport",
         "klootschießen",
-        "kategorie",
+        "friesensport",
         "ostfriesland",
-        "disziplinen"
+        "variante",
+        "disziplin"
     ],
     "kurzzeitdisziplin": [
+        "disziplin",
         "begriff",
-        "disziplinen",
         "verwenden",
-        "hoch",
-        "ausdauerdisziplinen"
-    ],
-    "kategorie:rollsportart": [
-        "sportart",
-        "kategorie"
-    ],
-    "kategorie:turniertanz": [
-        "kategorie",
-        "artikel",
-        "tanzsport",
-        "objektkategorie",
-        "turniertänze"
-    ],
-    "kategorie:antike sportart": [
-        "kategorie",
-        "sport",
-        "antike",
-        "sportart"
+        "sportarten",
+        "hoch"
     ],
     "königsdisziplin": [
         "weiterleitung",
         "sportdisziplin",
-        "kategorie",
-        "sportart"
-    ],
-    "kategorie:radsportart": [
-        "kategorie",
-        "radsport",
         "sportart"
     ],
     "wurfsportart": [
         "wurfsportarten",
         "werfen",
-        "speerwurf",
         "sportarten",
-        "zählen"
-    ],
-    "kategorie:ballsportart": [
-        "kategorie",
-        "ballsport",
-        "sportart"
-    ],
-    "kategorie:funsportart": [
-        "kategorie",
-        "sportart"
+        "zählen",
+        "beim"
     ],
     "kampfspiele": [
-        "kampfspiele",
-        "mini",
         "spiel",
+        "kampfspiele",
+        "kampfspiel",
         "etwa",
-        "spielerisch"
+        "auseinandersetzung"
     ],
     "liste von sportarten": [
-        "rahmenlos",
         "nein",
-        "torspiel",
+        "rahmenlos",
+        "ja",
         "seit",
-        "rasen"
-    ],
-    "kategorie:variante einer sportart": [
-        "kategorie",
-        "enthalten",
-        "kategorien",
-        "artikel",
-        "varianten"
-    ],
-    "kategorie:randsportart": [
-        "sammlung",
-        "randsportarten",
-        "bzw",
-        "lokal",
-        "sportarten"
+        "rahmenlospräzisionssport"
     ],
     "mauerlauf": [
-        "kategorie",
-        "winden",
+        "wand",
         "nagel",
         "fuß",
-        "mauerlauf"
+        "mauerlauf",
+        "wandlauf"
     ],
     "corsa camarguenca": [
         "stier",
         "course",
-        "trophäen",
-        "mini",
-        "arena"
+        "arena",
+        "trophäe",
+        "horn"
     ],
     "systema": [
         "systema",
         "kampfkunst",
-        "hand",
         "frei",
-        "bewegung"
+        "bewegung",
+        "wörtlich"
     ],
     "pickleball": [
         "pickleball",
@@ -456,180 +274,155 @@
         "hyrox",
         "event",
         "hamburg",
-        "fitness",
-        "sportart"
-    ],
-    "kategorie:ballspiel": [
-        "kategorie",
-        "sportart",
-        "ballsport"
+        "hamburger",
+        "starten"
     ],
     "fantasy sport": [
         "fantasy",
         "sport",
-        "sports",
         "rotisserie",
-        "online"
+        "spiel",
+        "bilden"
     ],
     "randsportart": [
         "randsportarten",
         "px",
         "sportarten",
-        "futsal",
-        "randsportart"
+        "randsportart",
+        "wahrnehmen"
     ],
     "sportart": [
         "sportarten",
         "sportart",
-        "rugby",
-        "sports",
-        "immer"
+        "sport",
+        "fußball",
+        "rugby"
     ],
     "königsklasse": [
         "champions",
         "league",
-        "klasse",
         "volleyball",
-        "königsklasse"
-    ],
-    "kategorie:hockeysportart": [
-        "kategorie",
-        "sportart",
-        "art"
-    ],
-    "kategorie:luftsportart": [
-        "kategorie",
-        "sportart",
-        "art"
-    ],
-    "kategorie:beachsportart": [
-        "kategorie",
-        "sportart",
-        "art"
-    ],
-    "kategorie:behindertensportart": [
-        "kategorie",
-        "sportart",
-        "art"
+        "königsklasse",
+        "hoch"
     ],
     "freiklettern": [
-        "freiklettern",
         "klettern",
-        "kletterer",
-        "sächsisch",
+        "freiklettern",
+        "hilfsmittel",
+        "sächsische",
         "schweiz"
     ],
     "seilschaft": [
         "seilschaft",
-        "personen",
+        "person",
         "klettern",
-        "seilschaften",
-        "beim"
+        "beim",
+        "seilschaften"
     ],
     "klettergebiet": [
         "klettergebiet",
         "klettergebiete",
-        "literatur",
+        "gebiet",
         "frankreich",
-        "verlag"
+        "unterschiedlich"
     ],
     "abseilen": [
         "abseilen",
         "seil",
-        "seils",
-        "karabiner",
-        "beim"
+        "beim",
+        "fixpunkt",
+        "karabiner"
     ],
     "seilklettern": [
-        "tauhangeln",
-        "olympische",
-        "turnen",
+        "olympisch",
         "seilklettern",
-        "sommerspiele"
+        "klettern",
+        "sommerspiele",
+        "turnentauhangeln"
     ],
     "stand (klettern)": [
-        "stehen",
+        "stand",
         "beim",
         "klettern",
-        "seillänge",
-        "seilschaft"
+        "seilschaft",
+        "wand"
     ],
     "eigensicherung": [
         "eigensicherung",
-        "kategorie",
+        "polizei",
+        "beamte",
         "müssen",
-        "sichern",
-        "polizei"
+        "sichern"
     ],
     "kamin (bergsport)": [
         "kamin",
-        "breit",
-        "füße",
-        "kamine",
-        "meter"
+        "fuß",
+        "körper",
+        "breiten",
+        "wand"
     ],
     "biwakschachtel": [
         "biwakschachtel",
-        "jpg",
-        "biwak",
-        "errichten",
-        "hoch"
+        "m",
+        "etwa",
+        "meist",
+        "groß"
     ],
     "doppelseiltechnik": [
         "seil",
+        "baum",
         "doppelseiltechnik",
         "baumpflege",
-        "baum",
         "schnur"
     ],
     "normsturz": [
         "seil",
+        "nbspm",
         "normsturz",
         "sturz",
-        "beim",
-        "statisch"
+        "beim"
     ],
     "klettergarten": [
         "klettergärten",
-        "routen",
+        "route",
         "deutschland",
-        "klettergarten",
-        "kletterer"
+        "znbspb",
+        "klettergarten"
     ],
     "spaltenbergung": [
-        "reepschnur",
-        "bergsteiger",
         "seil",
-        "spaltenrand",
-        "spaltenbergung"
+        "bergsteiger",
+        "reepschnur",
+        "spalte",
+        "spaltenrand"
     ],
     "knotenweite": [
         "knotenweite",
+        "kletterseil",
+        "seil",
         "knotbarkeit",
-        "bzw",
-        "desto",
-        "flexibilität"
+        "bzw"
     ],
     "gipfelbuch": [
         "gipfelbücher",
         "gipfelbuch",
-        "sächsisch",
         "gipfelbüchern",
-        "schweiz"
+        "kletterer",
+        "eintragung"
     ],
     "sturzfaktor": [
+        "seil",
         "sturzfaktor",
         "beim",
         "sturz",
-        "seil",
-        "f_s"
+        "klettern"
     ],
     "erstbegehung": [
+        "route",
         "erstbegehung",
         "fels",
         "kletterer",
-        "kategorie",
-        "bergsteigerischen"
+        "durchsteigung"
     ],
     "erstbesteigung": [
         "gipfel",
@@ -638,33 +431,26 @@
         "erreichen",
         "erstbesteigungen"
     ],
-    "kategorie:klettersteig": [
-        "kategorie",
-        "stehen",
-        "all",
-        "einzeln",
-        "klettersteig"
-    ],
     "schwierigkeitsklettern": [
+        "athlet",
         "schwierigkeitsklettern",
-        "onsight",
-        "athleten",
+        "route",
         "höhe",
-        "olympisch"
+        "climbing"
     ],
     "speedklettern": [
-        "juli",
-        "class",
-        "zeit",
+        "route",
         "speedklettern",
-        "name"
+        "klettern",
+        "zeit",
+        "rekord"
     ],
     "topo": [
-        "px",
-        "topo",
         "topos",
         "route",
-        "symbol"
+        "topo",
+        "fels",
+        "verlauf"
     ],
     "technisches klettern": [
         "klettern",
@@ -674,262 +460,224 @@
         "kletterei"
     ],
     "krangeln": [
+        "seil",
         "beim",
         "krangeln",
-        "seil",
-        "stark",
+        "krangel",
         "aufnehmen"
     ],
     "quacke": [
-        "quacke",
-        "sächsisch",
-        "schweiz",
+        "quacken",
         "bezeichnen",
-        "quacken"
+        "quacke",
+        "geben",
+        "zittauer"
     ],
     "sanduhr (felsformation)": [
         "sanduhr",
         "fels",
+        "fixpunkt",
         "klein",
-        "finden",
-        "dabei"
+        "sanduhren"
     ],
     "klettergipfel": [
         "klettergipfel",
         "klettergebieten",
         "schweiz",
         "sowie",
-        "mindestens"
+        "fels"
     ],
     "karabinersitz": [
-        "dülfersitz",
-        "karabinersitz",
         "sitzschlinge",
         "außerdem",
-        "miniatur"
-    ],
-    "kategorie:klettermaterial": [
-        "kategorie",
-        "klettern",
-        "bergsportausrüstung"
+        "karabinersitz",
+        "historische",
+        "abseilmethode"
     ],
     "zentralpunkt": [
         "zentralpunkt",
+        "klettern",
         "beim",
-        "standhaken",
-        "selbstsicherung",
-        "gefährtensicherung"
+        "meist",
+        "standhaken"
     ],
     "absturzsicherung (mensch)": [
-        "absturzsicherung",
         "absturz",
-        "gerätesatz",
-        "kategorie",
-        "mini"
-    ],
-    "kategorie:kletterroute": [
-        "kategorie",
-        "klettern",
-        "route"
+        "absturzsicherung",
+        "verstehen",
+        "praktik",
+        "vorrichtung"
     ],
     "kletterroute": [
+        "kletterroute",
         "oft",
         "route",
-        "kletterroute",
         "kletterrouten",
-        "führen"
+        "zeichnung"
     ],
     "zwischensicherung": [
         "zwischensicherung",
+        "klettern",
         "sturzhöhe",
-        "zwischensicherungen",
         "beim",
-        "klettern"
+        "zwischensicherungen"
     ],
     "direttissima (klettern)": [
         "gipfel",
         "direttissima",
         "route",
         "direkt",
-        "aufsteigen"
-    ],
-    "kategorie:klettergebiet": [
-        "kategorie",
-        "kletterfelsen",
-        "eintragen",
-        "klettern",
-        "sollen"
+        "aufstieg"
     ],
     "seildehnung": [
+        "beim",
         "dehnung",
         "gebrauchsdehnung",
         "maximal",
-        "beschreiben",
-        "messen"
+        "seil"
     ],
     "schwierigkeitsskala (klettern)": [
         "skala",
-        "style",
-        "text",
-        "align",
-        "center"
+        "schwierigkeit",
+        "klettern",
+        "route",
+        "bewertung"
     ],
     "schrofen": [
         "schrofengelände",
-        "kategorie",
-        "schrofen",
-        "verwenden",
-        "begriff"
+        "t",
+        "finden",
+        "karte",
+        "schrofen"
     ],
     "eissanduhr": [
         "eissanduhr",
-        "abalakow",
-        "mini",
-        "schlingen",
-        "sanduhr"
+        "eis",
+        "kanal",
+        "abalakoweissanduhr",
+        "zwei"
     ],
     "zwergentod": [
         "zwergentod",
         "stelle",
-        "begriff",
-        "beim",
-        "sportklettern"
+        "kletterer",
+        "körpergröße",
+        "begriff"
     ],
     "bouldern": [
-        "boulder",
         "bouldern",
-        "beim",
-        "usa",
-        "gill"
+        "boulder",
+        "b",
+        "fb",
+        "jahr"
     ],
     "sturz ins seil": [
-        "kategorie",
         "redirect",
         "normsturz",
         "bergsteigen",
         "klettern"
     ],
     "vorstieg": [
-        "vorstieg",
+        "seil",
         "sturz",
-        "kletterer",
-        "beim",
-        "standplatz"
-    ],
-    "kategorie:kletterfelsen": [
-        "kategorie",
-        "klettern",
-        "felsen",
-        "eintragen",
-        "sollen"
+        "vorstieg",
+        "zwischensicherungen",
+        "zwischensicherung"
     ],
     "einstieg (klettern)": [
-        "einsteigen",
+        "einstieg",
         "erreichen",
         "alpin",
         "punkt",
         "kletterroute"
     ],
     "nachstieg": [
-        "nachsteigen",
-        "oben",
         "kletterer",
         "nachsteiger",
-        "vergleich"
+        "nachstieg",
+        "oben",
+        "seil"
     ],
     "quergang": [
         "klettern",
         "quergang",
+        "kletterroute",
         "beim",
-        "traverse",
-        "bezeichnen"
+        "quergänge"
     ],
     "seilkommando": [
-        "seil",
         "seilkommandos",
         "beim",
-        "style",
-        "text"
+        "klettern",
+        "seil",
+        "stand"
     ],
     "climb!": [
-        "climb",
-        "januar",
+        "klettern",
         "erscheinen",
-        "kategorie",
-        "titel"
+        "climb",
+        "zeitschrift",
+        "groß"
     ],
     "höhlenklettern": [
         "klettern",
         "höhlenklettern",
         "zweck",
         "speläologie",
-        "kategorie"
+        "dienen"
     ],
     "liste der kletterbegriffe": [
         "klettern",
         "synonym",
         "seil",
-        "route",
-        "bezeichnung"
+        "griff",
+        "kletterer"
     ],
     "clean climbing": [
         "redirect",
-        "begehungsstil",
-        "clean",
-        "kategorie",
+        "begehungsstilclean",
         "klettern"
     ],
     "rotpunkt": [
         "redirect",
-        "begehungsstil",
-        "rotpunkt",
-        "kategorie",
+        "begehungsstilrotpunkt",
         "klettern"
     ],
     "flash (klettern)": [
-        "redirectbegehungsstil",
-        "flash",
-        "kategorie",
+        "redirectbegehungsstilflash",
         "klettern"
     ],
     "on sight": [
         "redirect",
-        "begehungsstil",
+        "begehungsstilon",
         "sight",
-        "kategorie",
         "klettern"
     ],
     "a.f. (klettern)": [
         "redirect",
-        "begehungsstil",
-        "kategorie",
+        "begehungsstila",
+        "f",
         "klettern"
     ],
     "pinkpoint": [
         "redirect",
-        "begehungsstil",
-        "pinkpoint",
-        "kategorie",
+        "begehungsstilpinkpoint",
         "klettern"
     ],
     "rotkreis": [
-        "redirectbegehungsstil",
-        "rotkreis",
-        "kategorie",
+        "redirectbegehungsstilrotkreis",
         "klettern"
     ],
     "ernsthaftigkeit": [
         "ernsthaftigkeit",
+        "anforderung",
         "schwierigkeit",
         "kletterrouten",
-        "skalen",
-        "psychisch"
+        "je"
     ],
     "plaisirklettern": [
         "redirect",
-        "sportklettern",
-        "plaisirklettern",
-        "kategorie",
+        "sportkletternplaisirklettern",
         "klettern"
     ],
     "affenindex": [
@@ -941,360 +689,347 @@
     ],
     "sturzzahl": [
         "sturzzahl",
-        "kategorie",
+        "kletterseil",
         "bezeichnen",
-        "normstürze",
-        "bevor"
+        "zahl",
+        "bestanden"
     ],
     "seilunterstützte baumklettertechnik": [
+        "baum",
         "faelltechnik",
-        "jpg",
         "baumpflege",
-        "seilklettertechnik",
-        "baum"
+        "ast",
+        "en"
     ],
     "t-anker (alpinismus)": [
+        "schnee",
         "anker",
         "beim",
         "firn",
-        "schnee",
-        "bandschlinge"
+        "vergraben"
     ],
     "dülfersitz": [
         "seil",
-        "abseilen",
-        "dülfersitz",
         "hand",
+        "dülfersitz",
+        "abseilen",
         "schulter"
     ],
     "biwak": [
         "biwak",
-        "frei",
+        "wort",
+        "oft",
         "biwaks",
-        "beiwache",
-        "miniatur"
+        "hoch"
     ],
     "difficulty climbing": [
         "redirect",
         "schwierigkeitsklettern",
-        "kategorie",
         "klettern"
     ],
     "tauklettern": [
-        "kategorie",
         "redirect",
         "seilklettern",
         "klettern",
-        "trainingsübung"
+        "trainingsübung",
+        "turnsportart"
     ],
     "urban climbing": [
         "redirectbuildering",
-        "kategorie",
         "klettern"
     ],
     "gipfelbibliothek südtirol laugen": [
-        "kategorie",
+        "buch",
         "gipfelbibliothek",
-        "bücher",
+        "südtirol",
         "projekt",
         "gipfel"
     ],
     "partnercheck": [
+        "partnercheck",
         "klettern",
+        "kontrolle",
         "kletterer",
-        "prüfen",
-        "kontrollieren",
-        "sicherungskette"
+        "jed"
     ],
     "alpenskala": [
         "klettern",
-        "kategorie",
         "redirect",
         "schwierigkeitsskala",
-        "ordinale"
+        "ordinale",
+        "skala"
     ],
     "international federation of sport climbing": [
         "ifsc",
-        "kategorie",
         "international",
-        "sportverband",
-        "climbing"
+        "seit",
+        "internationale",
+        "mitglied"
     ],
     "difficulty (climbing)": [
         "redirect",
         "schwierigkeitsklettern",
-        "kategorie",
         "klettern"
     ],
     "lead (klettern)": [
         "redirect",
         "schwierigkeitsklettern",
-        "kategorie",
         "klettern"
     ],
     "on sight wettkampf": [
         "redirect",
         "schwierigkeitsklettern",
-        "kategorie",
         "klettern"
     ],
     "vertikalsprint": [
         "redirect",
         "speedklettern",
-        "kategorie",
         "klettern"
     ],
     "nordwand (film)": [
         "toni",
         "film",
+        "nordwand",
         "seil",
-        "willy",
-        "nordwand"
+        "beid"
     ],
     "hängetrauma": [
         "hängetrauma",
         "frei",
-        "hängen",
-        "schock",
-        "gurtsystem"
+        "gurtsystem",
+        "auftreten",
+        "beim"
     ],
     "therapeutisches klettern": [
         "klettern",
-        "therapeutisch",
+        "therapeutisches",
         "sowie",
         "isbn",
-        "dynamisch"
+        "psychotherapie"
     ],
     "berufskletterschule": [
         "level",
         "ausbildung",
         "vermitteln",
-        "höhenarbeiter",
+        "prüfung",
         "bestehen"
     ],
     "hüsler-skala": [
-        "klettern",
-        "kategorie",
         "redirect",
         "schwierigkeitsskala",
-        "klettersteige"
+        "kletternklettersteige",
+        "klettern",
+        "ordinale"
     ],
     "kletterschein": [
         "kletterschein",
-        "dav",
         "klettern",
+        "dav",
         "sichern",
-        "vorstieg"
+        "kletterer"
     ],
     "überhang (felsformation)": [
-        "mini",
-        "überhang",
         "dach",
+        "überhängen",
         "stark",
-        "groß"
+        "klettern",
+        "überhang"
     ],
     "mount st. elias (film)": [
-        "film",
         "naglich",
         "ressmann",
-        "peter",
-        "mount"
+        "mount",
+        "st",
+        "elias"
     ],
     "klettern (zeitschrift)": [
         "klettern",
-        "kategorie",
-        "zeitschrift",
+        "sowie",
         "stuttgart",
-        "special"
+        "deutschsprachig",
+        "specialinterestzeitschrift"
     ],
     "alpinklettern": [
+        "route",
         "beim",
-        "klettern",
-        "alpin",
         "alpinklettern",
-        "kletterer"
+        "begehung",
+        "sicherung"
     ],
     "ig klettern": [
         "klettern",
+        "ig",
         "igs",
         "bundesverband",
-        "gründen",
-        "dav"
+        "gründen"
     ],
     "riss (klettern)": [
-        "risse",
-        "riss",
-        "breit",
-        "dabei",
-        "miniatur"
+        "riß",
+        "kamin",
+        "klettern",
+        "fortbewegung",
+        "nutzen"
     ],
     "die alpen (film)": [
         "john",
-        "alpen",
-        "harlin",
+        "alpe",
         "film",
-        "stephen"
+        "harlin",
+        "eigernordwand"
     ],
     "mixed-klettern": [
-        "mixed",
-        "erste",
         "m",
-        "klettern",
-        "steigeisen"
+        "erste",
+        "steigeisen",
+        "jahr",
+        "klettern"
     ],
     "kletterclub alpstein": [
-        "kategorie",
         "schweiz",
         "kca",
-        "gründen",
-        "kletterclub"
+        "kletterclub",
+        "alpstein",
+        "gründen"
     ],
     "liste der gesamtweltcupsieger im klettern": [
-        "style",
-        "background",
-        "f",
-        "text",
-        "align"
+        "ende",
+        "erfolg",
+        "stand",
+        "kletterer",
+        "nation"
     ],
     "liste der weltcupsieger im klettern": [
-        "style",
-        "background",
-        "f",
-        "a",
-        "dce"
+        "erfolg",
+        "kletterer",
+        "nation",
+        "erst",
+        "jahr"
     ],
     "west-alpen-club": [
-        "kategorie",
-        "alpen",
-        "club",
+        "bergsteiger",
         "schweiz",
+        "kampf",
+        "wac",
         "vereinigung"
     ],
     "begehungsstil": [
         "route",
-        "rotpunkt",
-        "begehung",
         "klettern",
-        "kletterer"
+        "kletterer",
+        "rotpunkt",
+        "stil"
     ],
     "hard grit": [
+        "e",
         "film",
-        "kategorie",
-        "the",
-        "hard",
-        "grit"
+        "c",
+        "a",
+        "the"
     ],
     "free solo": [
-        "solo",
-        "free",
         "route",
         "klettern",
-        "freesolo"
-    ],
-    "kategorie:liste (klettern)": [
-        "klettern",
-        "kategorie"
+        "solo",
+        "free",
+        "b"
     ],
     "schwindelfreiheit": [
         "höhenschwindel",
         "schwindelfreiheit",
+        "blick",
         "sollen",
-        "höhenangst",
-        "ausgesetzt"
+        "höhenangst"
     ],
     "buildering": [
         "buildering",
         "klettern",
         "mainz",
-        "neben",
-        "mini"
+        "sport",
+        "stadt"
     ],
     "bigwall-klettern": [
-        "bigwall",
         "klettern",
         "englisch",
+        "bigwall",
         "site",
-        "kategorie"
+        "bigwallklettern"
     ],
     "bergsteigergruppe alpina": [
         "schweiz",
-        "kategorie",
         "bga",
-        "gründen",
-        "vereinigung"
+        "bergsteigergruppe",
+        "alpina",
+        "gründen"
     ],
     "grasklettern": [
+        "klettern",
         "grasklettern",
-        "beim",
-        "kategorie",
-        "thumb",
-        "upright"
+        "fels",
+        "alpe",
+        "beim"
     ],
     "höhenarbeiter": [
         "anwender",
         "höhenarbeiter",
-        "kategorie",
-        "thumb",
-        "funksendemast"
+        "berufsbezeichnung",
+        "seilzugangstechnik",
+        "dabei"
     ],
     "kletterführer": [
         "kletterführer",
         "topos",
-        "routen",
+        "route",
         "topoführer",
         "beschreiben"
     ],
     "schlüsselstelle": [
+        "route",
         "schlüsselstelle",
         "schlüsselstellen",
-        "route",
         "beim",
-        "kletterroute"
+        "klettern"
     ],
     "klettern": [
         "klettern",
         "kletterer",
+        "fels",
         "beim",
-        "kletterns",
-        "meist"
+        "seil"
     ],
     "fangstoß": [
         "seil",
-        "max",
         "fangstoß",
-        "frac",
-        "kraft"
+        "kraft",
+        "kletterer",
+        "q"
     ],
     "seilzug (klettern)": [
-        "mehr",
         "seilzug",
-        "sicherungspunkten",
+        "seil",
         "groß",
-        "seilverlauf"
+        "mehr",
+        "seilgewicht"
     ],
     "seillänge": [
+        "seil",
+        "meter",
         "länge",
-        "metern",
-        "seillänge",
-        "seillängen",
-        "meter"
+        "nbspm",
+        "seillänge"
     ],
     "sac-absicherungsskala": [
         "gut",
-        "nat",
-        "sac",
-        "align",
-        "center"
+        "route",
+        "skala",
+        "beschreibungskopf",
+        "p"
     ],
     "dry-tooling": [
         "redirect",
-        "eisklettern",
-        "dry",
-        "tooling",
-        "kategorie"
+        "eiskletterndrytooling",
+        "klettern"
     ],
     "gefährtensicherung": [
-        "kategorie",
         "redirect",
         "klettersicherung",
         "klettern",
@@ -1303,359 +1038,332 @@
     "gebäudeklettern": [
         "redirect",
         "buildering",
-        "kategorie",
         "klettern"
     ],
     "roofing": [
         "klettern",
-        "lattice",
         "roofing",
-        "rooftopper",
-        "deutschland"
+        "jahr",
+        "deutschland",
+        "hoch"
     ],
     "panico alpinverlag": [
-        "kategorie",
         "panico",
         "alpinverlag",
+        "klettern",
         "verlag",
         "köngen"
     ],
     "tauhangeln": [
-        "kategorie",
         "redirect",
         "seilklettern",
         "klettern",
-        "trainingsübung"
+        "trainingsübung",
+        "turnsportart"
     ],
     "geoquest": [
         "verlag",
-        "geoquest",
-        "halle",
-        "saale",
-        "gerald"
+        "jahr",
+        "gerald",
+        "krug",
+        "halle"
     ],
     "partnersicherung": [
-        "kategorie",
         "redirect",
-        "klettersicherung",
-        "kameradensicherung",
-        "klettern"
+        "klettersicherungkameradensicherung",
+        "klettern",
+        "bergsteigen"
     ],
     "vorstiegssicherung": [
-        "kategorie",
         "redirect",
-        "klettersicherung",
-        "kameradensicherung",
-        "klettern"
+        "klettersicherungkameradensicherung",
+        "klettern",
+        "bergsteigen"
     ],
     "nachstiegssicherung": [
-        "kategorie",
         "redirect",
-        "klettersicherung",
-        "kameradensicherung",
-        "klettern"
+        "klettersicherungkameradensicherung",
+        "klettern",
+        "bergsteigen"
     ],
     "fangstoßkraft": [
         "redirect",
         "fangstoß",
-        "kategorie",
         "klettern"
     ],
-    "kategorie:klettertechnik": [
-        "kategorie",
-        "klettern",
-        "beinhalten",
-        "artikel",
-        "einzeln"
-    ],
     "wurfbeutel": [
-        "leinen",
-        "wurfbeutel",
+        "leine",
         "dünn",
-        "kategorie",
-        "wurfleine"
+        "wurfbeutel",
+        "wurfleine",
+        "wurfbeutels"
     ],
     "campusboard": [
-        "campusboard",
         "trainingsgerät",
-        "beim",
-        "leisten",
-        "kletterer"
-    ],
-    "kategorie:kletterwettbewerb": [
-        "wettbewerb",
-        "kategorie",
-        "sportwettbewerb"
+        "campusboard",
+        "klettern",
+        "güllich",
+        "beim"
     ],
     "sporthelm": [
         "beispielsweise",
-        "beim",
-        "tragen",
         "helm",
-        "kategorie"
-    ],
-    "kategorie:klettergebiet als thema": [
-        "kategorie",
-        "klettern",
-        "klettergebiet"
+        "beim",
+        "besonders",
+        "tragen"
     ],
     "industrieklettern": [
-        "arbeiten",
+        "arbeit",
+        "seil",
         "deutschland",
-        "seilunterstützte",
-        "szt",
-        "seil"
+        "arbeitsverfahren",
+        "seilunterstützte"
     ],
     "seilgarten": [
         "seilgärten",
-        "mini",
         "teilnehmer",
-        "sicherung",
-        "durchlaufend"
+        "element",
+        "seil",
+        "system"
     ],
     "ablassen (klettern)": [
         "ablassen",
         "beim",
         "abseilen",
-        "klettern",
+        "seil",
         "dadurch"
     ],
     "3-bein-logik": [
         "hand",
         "beim",
-        "grigri",
         "bremshand",
+        "grigri",
         "bremshandprinzip"
     ],
     "gaswerkmethode": [
-        "sicher",
+        "gerät",
         "ausgeben",
-        "geraten",
+        "seil",
         "gaswerkmethode",
-        "beim"
+        "sicher"
     ],
     "st. peter (waldhausen)": [
-        "rundfenster",
-        "kirche",
-        "annexbauten",
         "seitenschiffe",
-        "kategorie"
+        "rundfenster",
+        "annexbauten",
+        "besitzen",
+        "kirche"
     ],
     "bethlehemkirche (hannover)": [
         "bethlehemkirche",
-        "hannover",
-        "linden",
-        "kirche",
-        "jpg"
+        "stadtteil"
     ],
     "gewichtsfaktor (klettern)": [
-        "sichernd",
-        "kletterer",
-        "gewicht",
+        "sichernde",
         "beim",
-        "gewichtsfaktor"
+        "kletterer",
+        "dynamisch",
+        "seil"
     ],
     "catores": [
         "catores",
-        "kategorie",
         "gröden",
         "vereinigung",
+        "mitglied",
         "dolomiten"
     ],
     "schmelzverbrennung": [
         "seil",
-        "seiles",
-        "schlingen",
-        "mathrm",
-        "mathbf"
+        "schlinge",
+        "mathbfs",
+        "mathbff_mathrmn",
+        "mm"
     ],
     "zustieg (klettern)": [
-        "kategorie",
-        "zusteigen",
+        "zustieg",
         "bezeichnen",
         "ausgangspunkt",
-        "bzw"
+        "bzw",
+        "einstieg"
     ],
     "deep water soloing": [
+        "route",
         "deep",
         "water",
-        "psicobloc",
-        "soloing",
-        "dws"
+        "wasser",
+        "soloing"
     ],
     "künstliche kletteranlage": [
-        "kletterwand",
+        "griff",
         "klettern",
-        "greifen",
-        "anforderungen",
-        "frei"
+        "m",
+        "anlage",
+        "kletterwand"
     ],
     "kronsberg life tower": [
         "kronsberg",
-        "kategorie",
         "life",
-        "tower",
-        "kunstwerk"
+        "hannover",
+        "kunstwerk",
+        "tower"
     ],
     "traditionelles klettern": [
         "klettern",
-        "traditionell",
+        "sicherung",
         "beim",
-        "sicherungen",
-        "sportklettern"
+        "fixpunkt",
+        "verwenden"
     ],
     "paraclimbing": [
-        "rowspan",
         "kategorie",
-        "kategorien",
         "behinderung",
-        "px"
+        "athlet",
+        "klettern",
+        "art"
     ],
     "kombination (klettern)": [
-        "bgcolor",
-        "f",
-        "a",
-        "dce",
-        "e"
+        "route",
+        "klettern",
+        "qualifikation",
+        "halbfinale",
+        "athlet"
     ],
     "sächsische skala": [
-        "klettern",
-        "kategorie",
         "redirect",
         "schwierigkeitsskala",
-        "bewertungsskalen"
+        "kletternbewertungsskalen",
+        "freiklettern",
+        "klettern"
     ],
     "yosemite decimal system": [
         "klasse",
-        "system",
         "route",
-        "klassen",
-        "sicherung"
+        "system",
+        "klettern",
+        "beschreiben"
     ],
     "einseiltechnik": [
         "seil",
-        "einseiltechnik",
-        "stellen",
         "überwinden",
-        "beim"
+        "beim",
+        "sichern",
+        "zusätzlich"
     ],
-    "kategorie:sportklettern": [],
     "south african national climbing federation": [
-        "kategorie",
         "sancf",
-        "south",
         "national",
-        "climbing"
+        "climbing",
+        "sport",
+        "federation"
     ],
     "mountain club of south africa": [
         "mcsa",
+        "sektion",
         "club",
         "mountain",
-        "south",
-        "sektion"
+        "of"
     ],
     "norges klatreforbund": [
-        "kategorie",
         "norwegisch",
-        "sportverband",
+        "mitglied",
         "norges",
-        "klatreforbund"
+        "klatreforbund",
+        "norwegen"
     ],
     "union internationale des associations d’alpinisme": [
-        "style",
-        "text",
-        "align",
-        "right",
-        "vollmitglied"
+        "uiaa",
+        "internationale",
+        "schweizer",
+        "schweiz",
+        "union"
     ],
     "international council for competition climbing": [
-        "kategorie",
         "international",
         "internationale",
         "icc",
-        "wettkampfklettern"
+        "wettkampfklettern",
+        "disziplin"
     ],
     "ssc karlsruhe": [
         "karlsruhe",
         "ssc",
-        "deutsch",
-        "bundesliga",
-        "baden"
+        "deutsche",
+        "jahr",
+        "verein"
     ],
     "anseilen": [
         "anseilen",
         "knoten",
+        "seil",
         "karabiner",
-        "beim",
-        "zwei"
+        "beim"
     ],
     "toprope": [
-        "toprope",
         "seil",
-        "beim",
         "kletterer",
-        "umlenkung"
+        "beim",
+        "umlenkung",
+        "toprope"
     ],
     "fixpunkt (alpinismus)": [
-        "fixpunkte",
-        "align",
-        "sicherungspunkte",
+        "fixpunkt",
         "verwenden",
-        "eis"
+        "sicherungspunkte",
+        "route",
+        "bohrhaken"
     ],
     "stunt rigging": [
         "stunt",
         "rigging",
-        "kategorie",
         "rigger",
-        "bedienung"
+        "bedienung",
+        "head"
     ],
     "dav kletter- und boulderzentrum münchen-süd": [
-        "sektion",
         "münchen",
         "kletter",
-        "style",
-        "text"
+        "thalkirchen",
+        "anlage",
+        "dav"
     ],
     "hochseilgarten nagold": [
         "hochseilgarten",
         "nagold",
-        "kategorie",
-        "baden",
-        "württemberg"
+        "verschieden",
+        "ehemalig",
+        "badenwürttemberg"
     ],
     "eisklettern": [
-        "beim",
         "eis",
+        "beim",
+        "klettern",
         "anbringen",
-        "eisschraube",
-        "klettern"
+        "verwenden"
     ],
     "échelles de la mort": [
-        "kategorie",
-        "mort",
         "échelles",
-        "les",
-        "mini"
+        "de",
+        "la",
+        "mort",
+        "bzw"
     ],
     "felsklettern": [
         "klettern",
-        "kategorie",
         "weiterleitung",
         "natursportart"
     ],
     "uiaa-skala": [
-        "kategorie",
-        "klettern",
-        "skala",
         "weiterleitung",
-        "schwierigkeitsskala"
+        "schwierigkeitsskala",
+        "kletternerklärung",
+        "uiaaskala",
+        "union"
     ],
     "wasserturm (moosburg an der isar)": [
-        "kategorie",
-        "wasserturm",
         "moosburg",
+        "wasserturm",
         "isar",
-        "ehemalig"
+        "landkreis",
+        "freising"
     ]
 }

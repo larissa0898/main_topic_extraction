@@ -12,19 +12,21 @@ def calulate_accuracy(frequency_based):
 
     Returns
     -------
-    finalcount/247*100 : float
+    finalcount/number_wikiarticles*100 : float
         'finalcount' contains number of cases, in which the title occured in at least one 
-        of the five keywords. 247 is the number of all Wikipedia articles.
+        of the five keywords. number_wikiarticles is the number of all Wikipedia articles.
     """
-    number_wikiarticles = 247
+    number_wikiarticles = 202
     titles = list(frequency_based.keys())
     keywords = list(frequency_based.values())
 
+
     finalcount = 0
+    
     for i in range(len(titles)):
         tmp_count = 0
         for key in keywords[i]:
-            if key in titles[i]:
+            if key in titles[i] or titles[i] in key:
                 tmp_count += 1
         if tmp_count >= 1:
             finalcount += 1
@@ -34,12 +36,12 @@ def calulate_accuracy(frequency_based):
 
 def frequency_based_extraction():
     """ A function that extracts the five most frequently keywords (lemmas) of 
-    the Wikipedia texts and stores them together with the 
-    titles in a json file.
+    the Wikipedia texts and stores them together with the titles in 
+    a json file.
 
     Parameters
     ----------
-    -
+    None
 
     Returns
     -------
@@ -48,9 +50,9 @@ def frequency_based_extraction():
     keyword_list = []
     title_list = []
     for name in pp.filenames:
-        wiki_dic, wiki_titles = pp.extracting_titles_and_texts(name)
-        wiki_dic = pp.regex_for_text_smoothing(wiki_dic, wiki_titles)
-        for title in wiki_titles:
+        wiki_dic = pp.extracting_titles_and_texts(name)
+        wiki_dic = pp.regex_for_text_smoothing(wiki_dic)
+        for title in wiki_dic:              # changed wiki_title zu wiki_dic
             title_list.append(title)
             keyword_list.append(pp.remove_stopwords(pp.tok_lemmatizing(wiki_dic, title)))
 
@@ -79,4 +81,4 @@ if click.confirm('Do you want to extract the data with the frequency-based metho
 if click.confirm('Do you want to calculate the accuracy?', default=True):
     f = open('frequency-based_extraction.json', encoding='utf-8')
     frequency_based = json.load(f)
-    print("\nTotal Accuracy: ", calulate_accuracy(frequency_based))
+    print("\nTotal Accuracy: ", calulate_accuracy(frequency_based), "%")

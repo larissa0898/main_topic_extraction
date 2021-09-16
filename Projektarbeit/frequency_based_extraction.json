@@ -3,15 +3,15 @@
         "concept",
         "game",
         "design",
-        "art",
-        "entwicklung"
+        "entwicklung",
+        "film"
     ],
     "umrisszeichnung": [
         "umrisszeichnung",
         "johann",
-        "bzw",
         "konturenstich",
-        "umrissstich"
+        "umrissstich",
+        "scherenschnitt"
     ],
     "unterzeichnung": [
         "unterzeichnung",
@@ -20,12 +20,12 @@
         "gemälde",
         "sichtbar"
     ],
-    "prospekt (ansicht)": [
+    "prospekt  ansicht ": [
         "prospekt",
-        "lat",
         "prospectus",
         "handeln",
-        "gezeichnet"
+        "gezeichnet",
+        "ortsansicht"
     ],
     "hilfslinie": [
         "hilfslinien",
@@ -38,8 +38,8 @@
         "rötel",
         "verwenden",
         "seit",
-        "rot",
-        "hämatit"
+        "hämatit",
+        "rot"
     ],
     "rotstiftfunktion": [
         "zeichnung",
@@ -55,7 +55,7 @@
         "roger",
         "bilderrätsel"
     ],
-    "scribble (kreation)": [
+    "scribble  kreation ": [
         "scribbles",
         "papier",
         "verschieden",
@@ -80,8 +80,8 @@
         "körper",
         "modell",
         "form",
-        "kl",
-        "proportion"
+        "proportion",
+        "wichtig"
     ],
     "pinselzeichnung": [
         "pinselzeichnung",
@@ -104,7 +104,7 @@
         "vinci",
         "codex"
     ],
-    "zeichnung (kunst)": [
+    "zeichnung  kunst ": [
         "zeichnung",
         "linie",
         "jahrhundert",
@@ -113,10 +113,10 @@
     ],
     "an introduction to linear drawing": [
         "introduction",
-        "to",
         "linear",
         "drawing",
-        "gelten"
+        "gelten",
+        "erst"
     ],
     "handstudie": [
         "hand",
@@ -148,17 +148,17 @@
     ],
     "etch a sketch": [
         "etch",
-        "a",
         "sketch",
         "stift",
-        "jahr"
+        "jahr",
+        "pulver"
     ],
-    "spirograph (spielzeug)": [
+    "spirograph  spielzeug ": [
         "cdot",
         "kreis",
-        "nu",
         "spirograph",
-        "a"
+        "radius",
+        "verschieden"
     ],
     "zaubertafel": [
         "wabe",
@@ -238,16 +238,16 @@
     "liste von sportarten": [
         "nein",
         "rahmenlos",
-        "ja",
         "seit",
-        "rahmenlospräzisionssport"
+        "rahmenlospräzisionssport",
+        "torspiel"
     ],
     "mauerlauf": [
         "wand",
         "nagel",
-        "fuß",
         "mauerlauf",
-        "wandlauf"
+        "wandlauf",
+        "wehrübungen"
     ],
     "corsa camarguenca": [
         "stier",
@@ -265,12 +265,12 @@
     ],
     "pickleball": [
         "pickleball",
-        "the",
-        "usa",
         "erst",
-        "gründung"
+        "gründung",
+        "schläger",
+        "ball"
     ],
-    "hyrox (sportart)": [
+    "hyrox  sportart ": [
         "hyrox",
         "event",
         "hamburg",
@@ -286,10 +286,10 @@
     ],
     "randsportart": [
         "randsportarten",
-        "px",
         "sportarten",
         "randsportart",
-        "wahrnehmen"
+        "wahrnehmen",
+        "medieninteresse"
     ],
     "sportart": [
         "sportarten",
@@ -340,7 +340,7 @@
         "sommerspiele",
         "turnentauhangeln"
     ],
-    "stand (klettern)": [
+    "stand  klettern ": [
         "stand",
         "beim",
         "klettern",
@@ -354,19 +354,19 @@
         "müssen",
         "sichern"
     ],
-    "kamin (bergsport)": [
+    "kamin  bergsport ": [
         "kamin",
-        "fuß",
         "körper",
         "breiten",
+        "fuß",
         "wand"
     ],
     "biwakschachtel": [
         "biwakschachtel",
-        "m",
         "etwa",
         "meist",
-        "groß"
+        "groß",
+        "biwakschachteln"
     ],
     "doppelseiltechnik": [
         "seil",
@@ -401,7 +401,7 @@
         "kletterseil",
         "seil",
         "knotbarkeit",
-        "bzw"
+        "desto"
     ],
     "gipfelbuch": [
         "gipfelbücher",
@@ -473,7 +473,7 @@
         "geben",
         "zittauer"
     ],
-    "sanduhr (felsformation)": [
+    "sanduhr  felsformation ": [
         "sanduhr",
         "fels",
         "fixpunkt",
@@ -501,7 +501,7 @@
         "meist",
         "standhaken"
     ],
-    "absturzsicherung (mensch)": [
+    "absturzsicherung  mensch ": [
         "absturz",
         "absturzsicherung",
         "verstehen",
@@ -510,10 +510,10 @@
     ],
     "kletterroute": [
         "kletterroute",
-        "oft",
         "route",
         "kletterrouten",
-        "zeichnung"
+        "zeichnung",
+        "klettern"
     ],
     "zwischensicherung": [
         "zwischensicherung",
@@ -522,7 +522,7 @@
         "beim",
         "zwischensicherungen"
     ],
-    "direttissima (klettern)": [
+    "direttissima  klettern ": [
         "gipfel",
         "direttissima",
         "route",
@@ -536,7 +536,7 @@
         "maximal",
         "seil"
     ],
-    "schwierigkeitsskala (klettern)": [
+    "schwierigkeitsskala  klettern ": [
         "skala",
         "schwierigkeit",
         "klettern",
@@ -545,17 +545,17 @@
     ],
     "schrofen": [
         "schrofengelände",
-        "t",
         "finden",
         "karte",
-        "schrofen"
+        "schrofen",
+        "verwenden"
     ],
     "eissanduhr": [
         "eissanduhr",
-        "eis",
         "kanal",
         "abalakoweissanduhr",
-        "zwei"
+        "zwei",
+        "liegend"
     ],
     "zwergentod": [
         "zwergentod",
@@ -567,9 +567,9 @@
     "bouldern": [
         "bouldern",
         "boulder",
-        "b",
-        "fb",
-        "jahr"
+        "jahr",
+        "versuch",
+        "schweiz"
     ],
     "sturz ins seil": [
         "redirect",
@@ -584,7 +584,7 @@
         "zwischensicherungen",
         "zwischensicherung"
     ],
-    "einstieg (klettern)": [
+    "einstieg  klettern ": [
         "einstieg",
         "erreichen",
         "alpin",
@@ -612,7 +612,7 @@
         "seil",
         "stand"
     ],
-    "climb!": [
+    "climb ": [
         "klettern",
         "erscheinen",
         "climb",
@@ -643,7 +643,7 @@
         "begehungsstilrotpunkt",
         "klettern"
     ],
-    "flash (klettern)": [
+    "flash  klettern ": [
         "redirectbegehungsstilflash",
         "klettern"
     ],
@@ -653,10 +653,9 @@
         "sight",
         "klettern"
     ],
-    "a.f. (klettern)": [
+    "a f   klettern ": [
         "redirect",
         "begehungsstila",
-        "f",
         "klettern"
     ],
     "pinkpoint": [
@@ -673,7 +672,7 @@
         "anforderung",
         "schwierigkeit",
         "kletterrouten",
-        "je"
+        "psychisch"
     ],
     "plaisirklettern": [
         "redirect",
@@ -698,10 +697,10 @@
         "baum",
         "faelltechnik",
         "baumpflege",
-        "ast",
-        "en"
+        "seilklettertechnik",
+        "ast"
     ],
-    "t-anker (alpinismus)": [
+    "t anker  alpinismus ": [
         "schnee",
         "anker",
         "beim",
@@ -718,9 +717,9 @@
     "biwak": [
         "biwak",
         "wort",
-        "oft",
         "biwaks",
-        "hoch"
+        "hoch",
+        "beiwache"
     ],
     "difficulty climbing": [
         "redirect",
@@ -766,12 +765,12 @@
         "internationale",
         "mitglied"
     ],
-    "difficulty (climbing)": [
+    "difficulty  climbing ": [
         "redirect",
         "schwierigkeitsklettern",
         "klettern"
     ],
-    "lead (klettern)": [
+    "lead  klettern ": [
         "redirect",
         "schwierigkeitsklettern",
         "klettern"
@@ -786,7 +785,7 @@
         "speedklettern",
         "klettern"
     ],
-    "nordwand (film)": [
+    "nordwand  film ": [
         "toni",
         "film",
         "nordwand",
@@ -814,7 +813,7 @@
         "prüfung",
         "bestehen"
     ],
-    "hüsler-skala": [
+    "hüsler skala": [
         "redirect",
         "schwierigkeitsskala",
         "kletternklettersteige",
@@ -824,25 +823,25 @@
     "kletterschein": [
         "kletterschein",
         "klettern",
-        "dav",
         "sichern",
-        "kletterer"
+        "kletterer",
+        "beim"
     ],
-    "überhang (felsformation)": [
+    "überhang  felsformation ": [
         "dach",
         "überhängen",
         "stark",
         "klettern",
         "überhang"
     ],
-    "mount st. elias (film)": [
+    "mount st  elias  film ": [
         "naglich",
         "ressmann",
         "mount",
-        "st",
-        "elias"
+        "elias",
+        "axel"
     ],
-    "klettern (zeitschrift)": [
+    "klettern  zeitschrift ": [
         "klettern",
         "sowie",
         "stuttgart",
@@ -858,38 +857,38 @@
     ],
     "ig klettern": [
         "klettern",
-        "ig",
-        "igs",
         "bundesverband",
-        "gründen"
+        "gründen",
+        "kletterer",
+        "fels"
     ],
-    "riss (klettern)": [
+    "riss  klettern ": [
         "riß",
         "kamin",
         "klettern",
         "fortbewegung",
         "nutzen"
     ],
-    "die alpen (film)": [
+    "die alpen  film ": [
         "john",
         "alpe",
         "film",
         "harlin",
         "eigernordwand"
     ],
-    "mixed-klettern": [
-        "m",
+    "mixed klettern": [
         "erste",
         "steigeisen",
         "jahr",
-        "klettern"
+        "klettern",
+        "gadd"
     ],
     "kletterclub alpstein": [
         "schweiz",
-        "kca",
         "kletterclub",
         "alpstein",
-        "gründen"
+        "gründen",
+        "erst"
     ],
     "liste der gesamtweltcupsieger im klettern": [
         "ende",
@@ -905,12 +904,12 @@
         "erst",
         "jahr"
     ],
-    "west-alpen-club": [
+    "west alpen club": [
         "bergsteiger",
         "schweiz",
         "kampf",
-        "wac",
-        "vereinigung"
+        "vereinigung",
+        "weiss"
     ],
     "begehungsstil": [
         "route",
@@ -920,18 +919,18 @@
         "stil"
     ],
     "hard grit": [
-        "e",
         "film",
-        "c",
-        "a",
-        "the"
+        "hard",
+        "grit",
+        "dokumentarfilm",
+        "produktion"
     ],
     "free solo": [
         "route",
         "klettern",
         "solo",
         "free",
-        "b"
+        "hoch"
     ],
     "schwindelfreiheit": [
         "höhenschwindel",
@@ -947,7 +946,7 @@
         "sport",
         "stadt"
     ],
-    "bigwall-klettern": [
+    "bigwall klettern": [
         "klettern",
         "englisch",
         "bigwall",
@@ -956,10 +955,10 @@
     ],
     "bergsteigergruppe alpina": [
         "schweiz",
-        "bga",
         "bergsteigergruppe",
         "alpina",
-        "gründen"
+        "gründen",
+        "vereinigung"
     ],
     "grasklettern": [
         "klettern",
@@ -1001,9 +1000,9 @@
         "fangstoß",
         "kraft",
         "kletterer",
-        "q"
+        "cdot"
     ],
-    "seilzug (klettern)": [
+    "seilzug  klettern ": [
         "seilzug",
         "seil",
         "groß",
@@ -1017,14 +1016,14 @@
         "nbspm",
         "seillänge"
     ],
-    "sac-absicherungsskala": [
-        "gut",
+    "sac absicherungsskala": [
         "route",
         "skala",
         "beschreibungskopf",
-        "p"
+        "schweizer",
+        "alpenclub"
     ],
-    "dry-tooling": [
+    "dry tooling": [
         "redirect",
         "eiskletterndrytooling",
         "klettern"
@@ -1126,14 +1125,14 @@
         "seil",
         "system"
     ],
-    "ablassen (klettern)": [
+    "ablassen  klettern ": [
         "ablassen",
         "beim",
         "abseilen",
         "seil",
         "dadurch"
     ],
-    "3-bein-logik": [
+    "3 bein logik": [
         "hand",
         "beim",
         "bremshand",
@@ -1147,18 +1146,18 @@
         "gaswerkmethode",
         "sicher"
     ],
-    "st. peter (waldhausen)": [
+    "st  peter  waldhausen ": [
         "seitenschiffe",
         "rundfenster",
         "annexbauten",
         "besitzen",
         "kirche"
     ],
-    "bethlehemkirche (hannover)": [
+    "bethlehemkirche  hannover ": [
         "bethlehemkirche",
         "stadtteil"
     ],
-    "gewichtsfaktor (klettern)": [
+    "gewichtsfaktor  klettern ": [
         "sichernde",
         "beim",
         "kletterer",
@@ -1177,14 +1176,14 @@
         "schlinge",
         "mathbfs",
         "mathbff_mathrmn",
-        "mm"
+        "durchschmelzen"
     ],
-    "zustieg (klettern)": [
+    "zustieg  klettern ": [
         "zustieg",
         "bezeichnen",
         "ausgangspunkt",
-        "bzw",
-        "einstieg"
+        "einstieg",
+        "berg"
     ],
     "deep water soloing": [
         "route",
@@ -1196,9 +1195,9 @@
     "künstliche kletteranlage": [
         "griff",
         "klettern",
-        "m",
         "anlage",
-        "kletterwand"
+        "kletterwand",
+        "teil"
     ],
     "kronsberg life tower": [
         "kronsberg",
@@ -1219,9 +1218,9 @@
         "behinderung",
         "athlet",
         "klettern",
-        "art"
+        "jeweils"
     ],
-    "kombination (klettern)": [
+    "kombination  klettern ": [
         "route",
         "klettern",
         "qualifikation",
@@ -1261,7 +1260,7 @@
         "sektion",
         "club",
         "mountain",
-        "of"
+        "south"
     ],
     "norges klatreforbund": [
         "norwegisch",
@@ -1270,7 +1269,7 @@
         "klatreforbund",
         "norwegen"
     ],
-    "union internationale des associations d’alpinisme": [
+    "union internationale des associations d alpinisme": [
         "uiaa",
         "internationale",
         "schweizer",
@@ -1280,16 +1279,16 @@
     "international council for competition climbing": [
         "international",
         "internationale",
-        "icc",
         "wettkampfklettern",
-        "disziplin"
+        "disziplin",
+        "climbing"
     ],
     "ssc karlsruhe": [
         "karlsruhe",
-        "ssc",
         "deutsche",
         "jahr",
-        "verein"
+        "verein",
+        "finden"
     ],
     "anseilen": [
         "anseilen",
@@ -1305,7 +1304,7 @@
         "umlenkung",
         "toprope"
     ],
-    "fixpunkt (alpinismus)": [
+    "fixpunkt  alpinismus ": [
         "fixpunkt",
         "verwenden",
         "sicherungspunkte",
@@ -1319,12 +1318,12 @@
         "bedienung",
         "head"
     ],
-    "dav kletter- und boulderzentrum münchen-süd": [
+    "dav kletter  und boulderzentrum münchen süd": [
         "münchen",
         "kletter",
         "thalkirchen",
         "anlage",
-        "dav"
+        "münchensüd"
     ],
     "hochseilgarten nagold": [
         "hochseilgarten",
@@ -1334,32 +1333,32 @@
         "badenwürttemberg"
     ],
     "eisklettern": [
-        "eis",
         "beim",
         "klettern",
         "anbringen",
-        "verwenden"
+        "verwenden",
+        "eisschrauben"
     ],
     "échelles de la mort": [
         "échelles",
-        "de",
-        "la",
         "mort",
-        "bzw"
+        "bois",
+        "kanton",
+        "jura"
     ],
     "felsklettern": [
         "klettern",
         "weiterleitung",
         "natursportart"
     ],
-    "uiaa-skala": [
+    "uiaa skala": [
         "weiterleitung",
         "schwierigkeitsskala",
         "kletternerklärung",
         "uiaaskala",
         "union"
     ],
-    "wasserturm (moosburg an der isar)": [
+    "wasserturm  moosburg an der isar ": [
         "moosburg",
         "wasserturm",
         "isar",

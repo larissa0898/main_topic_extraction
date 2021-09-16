@@ -1,9 +1,8 @@
 from sklearn.feature_extraction.text import CountVectorizer
-from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfTransformer
-from scipy.sparse import coo_matrix
 import json
 import click
+import sys
 from preprocessing import save_corpus_in_json
 
 
@@ -73,16 +72,20 @@ if click.confirm('Do you want to store the data in a new json file (y) or load t
     save_corpus_in_json()
 
 
+try:
+    f = open('tf_idf_extraction.json', encoding='utf-8')
+    data = json.load(f)
+except FileNotFoundError:
+    print("FileNotFoundError: Sorry, there is no current file yet.")
+    sys.exit()
 
-f = open('corpus.json', encoding='utf-8')
-data = json.load(f)
 
 title = list(data.keys())
 corpus = list(data.values())
 
 
-german_stop_words = stopwords.words('german')
-cv = CountVectorizer(max_df=0.8, stop_words=german_stop_words, max_features=10000, ngram_range=(1,3))
+
+cv = CountVectorizer(max_df=0.8, max_features=10000, ngram_range=(1,3))
 doc_term_matrix = cv.fit_transform(corpus)
  
 tfidf_transformer = TfidfTransformer(smooth_idf=True, 

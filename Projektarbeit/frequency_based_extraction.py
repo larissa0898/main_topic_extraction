@@ -1,6 +1,8 @@
 import preprocessing as pp
 import json
 import click
+from collections import Counter
+import heapq
 
 def calulate_accuracy(frequency_based):
     """ A function that calculates the accuracy of the frequency-based method.
@@ -20,7 +22,6 @@ def calulate_accuracy(frequency_based):
     titles = list(frequency_based.keys())
     keywords = list(frequency_based.values())
 
-
     finalcount = 0
     
     for i in range(len(titles)):
@@ -35,7 +36,7 @@ def calulate_accuracy(frequency_based):
 
 
 def frequency_based_extraction():
-    """ A function that extracts the five most frequently keywords (lemmas) of 
+    """ A function that extracts the five most frequently keywords of 
     the Wikipedia texts and stores them together with the titles in 
     a json file.
 
@@ -49,16 +50,20 @@ def frequency_based_extraction():
     """
     keyword_list = []
     title_list = []
+    
     for name in pp.filenames:
         wiki_dic = pp.extracting_titles_and_texts(name)
         wiki_dic = pp.regex_for_text_smoothing(wiki_dic)
-        for title in wiki_dic:              # changed wiki_title zu wiki_dic
+        for title in wiki_dic:
             title_list.append(title)
-            keyword_list.append(pp.remove_stopwords(pp.tok_lemmatizing(wiki_dic, title)))
 
-    final = dict(zip(title_list, keyword_list))     
+            counts = Counter(pp.remove_stopwords(pp.tok_lemmatizing(wiki_dic, title)))
+            newdata = dict(counts)
+            keyword_list.append(heapq.nlargest(5, newdata, key=newdata.get))
 
-    with open('frequency-based_extraction.json', 'w', encoding='utf-8') as f:
+    final = dict(zip(title_list, keyword_list)) 
+
+    with open('frequency_based_extraction.json', 'w', encoding='utf-8') as f:
         json.dump(final, f, ensure_ascii=False, indent=4)
 
 
@@ -79,6 +84,6 @@ if click.confirm('Do you want to extract the data with the frequency-based metho
 ##########################################
 
 if click.confirm('Do you want to calculate the accuracy?', default=True):
-    f = open('frequency-based_extraction.json', encoding='utf-8')
+    f = open('frequency_based_extraction.json', encoding='utf-8')
     frequency_based = json.load(f)
     print("\nTotal Accuracy: ", calulate_accuracy(frequency_based), "%")

@@ -57,17 +57,20 @@ def regex_for_text_smoothing(wiki_dic):
         Contains the smoothed titles (key) and texts (value) of Wikipedia articles without brackets, etc.
     """
 
-    regex = [r'[^\w\s]', r'(?:^|\W)redirect(?:$|\W)']
-    reg = r'\-'
+    regex = r'[^\w\s]'
 
-    pattern2 = re.compile(reg)
+    #pattern2 = re.compile(reg)
 
-    for r in regex:
-        pattern = re.compile(r)
-        for title in wiki_dic:
-            wiki_dic[title] = re.sub(pattern,'', wiki_dic[title])
-            title = re.sub(pattern2,' ', title)   # um bindestriche aus titel zu entfernen !!!!!!!!!!!!!!!!!AUSPROBIEREN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    wiki_titles = []
+    wiki_texts = [] 
+
+    #for r in regex:
+    pattern = re.compile(regex)
+    for title in wiki_dic:
+        wiki_texts.append(re.sub(pattern, '', wiki_dic[title]))
+        wiki_titles.append(re.sub(pattern, ' ', title))
         
+    wiki_dic = dict(zip(wiki_titles, wiki_texts))
 
     return wiki_dic
 
@@ -96,17 +99,17 @@ def tok_lemmatizing(wiki_dic, title):
     data_lemma = []
 
     for word in data:
-        doc = nlp(word)
-        result = ' '.join([x.lemma_ for x in doc]) 
-        data_lemma.append(result.lower())
+        if len(word) > 3:
+           doc = nlp(word)
+           result = ' '.join([x.lemma_ for x in doc]) 
+           data_lemma.append(result.lower())
 
     return data_lemma
 
 
 
 def remove_stopwords(data_lemma, freq_based=True):
-    """ A function that removes stop words from data and finding frequencies 
-    of words.
+    """ A function that removes stopwords from data.
 
     Parameters
     ----------
@@ -118,10 +121,10 @@ def remove_stopwords(data_lemma, freq_based=True):
 
     Returns
     -------
-    main_topic : list
-        Contains the five most frequency keywords per article (frequency-based extraction).
+    new_data : list
+        Contains a list of words of a Wikipedia text without stopwords (frequency-based extraction).
     text : str
-        Contains the Wikipedia text without stopwords (tf-idf extraction). 
+        Contains a Wikipedia text without stopwords (tf-idf extraction). 
     """
     german_stop_words = stopwords.words('german')
  
@@ -131,13 +134,9 @@ def remove_stopwords(data_lemma, freq_based=True):
         for word in data_lemma:
             if word not in german_stop_words:
                 new_data.append(word)
-        counts = Counter(new_data)
-        newdata = dict(counts)
-        main_topic= heapq.nlargest(5, newdata, key=newdata.get)
-        return main_topic
+        return new_data
 
     else:
-        #for word in data_lemma:
         text = [word for word in data_lemma if not word in  
                 german_stop_words] 
         text = " ".join(text)
@@ -163,16 +162,16 @@ def save_corpus_in_json():
     for name in filenames:
         wiki_dic = extracting_titles_and_texts(name)
         wiki_dic = regex_for_text_smoothing(wiki_dic)
-        for title in wiki_dic:        # changed wiki_title zu wiki_dic
+        for title in wiki_dic:
             titles.append(title)
             texts.append(remove_stopwords(tok_lemmatizing(wiki_dic, title), freq_based=False))
     
     corpus = dict(zip(titles, texts))
 
-    with open('corpus.json', 'w', encoding='utf-8') as f:
+    with open('tf_idf_extraction.json', 'w', encoding='utf-8') as f:
         json.dump(corpus, f, ensure_ascii=False, indent=4)
 
 
 
 
-filenames = ["WikipediaZeichnen.xml", "WikipediaSportarten.xml", "WikipediaKlettern.xml"]
+filenames = [ "WikipediaZeichnen.xml" , "WikipediaSportarten.xml", "WikipediaKlettern.xml"]

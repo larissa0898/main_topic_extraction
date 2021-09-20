@@ -59,12 +59,10 @@ def regex_for_text_smoothing(wiki_dic):
 
     regex = r'[^\w\s]'
 
-    #pattern2 = re.compile(reg)
 
     wiki_titles = []
     wiki_texts = [] 
 
-    #for r in regex:
     pattern = re.compile(regex)
     for title in wiki_dic:
         wiki_texts.append(re.sub(pattern, '', wiki_dic[title]))
@@ -174,4 +172,4 @@ def save_corpus_in_json():
 
 
 
-filenames = [ "WikipediaZeichnen.xml" , "WikipediaSportarten.xml", "WikipediaKlettern.xml"]
+filenames = ["WikipediaZeichnen.xml", "WikipediaSportarten.xml", "WikipediaKlettern.xml"]

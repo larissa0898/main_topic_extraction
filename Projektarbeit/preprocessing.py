@@ -1,9 +1,7 @@
 from lxml import etree
 from gensim.utils import tokenize
 from nltk.corpus import stopwords
-from collections import Counter
 import spacy
-import heapq
 import json
 import re
 from wiki_dump_reader import Cleaner, iterate
@@ -90,10 +88,9 @@ def tok_lemmatizing(wiki_dic, title):
     data_lemma : list
         Contains the Wikipedia texts in tokenized and lemmatized form.
     """
-    data = list(tokenize(wiki_dic[title]))
+    data = list(tokenize(wiki_dic[title]))  
 
     nlp = spacy.load('de_core_news_md')
-
     data_lemma = []
 
     for word in data:
@@ -156,7 +153,6 @@ def save_corpus_in_json():
     """
     texts = []
     titles = []
-
     for name in filenames:
         wiki_dic = extracting_titles_and_texts(name)
         wiki_dic = regex_for_text_smoothing(wiki_dic)

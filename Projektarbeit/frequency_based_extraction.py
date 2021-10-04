@@ -4,21 +4,22 @@ import click
 from collections import Counter
 import heapq
 
-def calulate_accuracy(frequency_based):
+def calulate_accuracy(frequency_based, number_wikiarticles):
     """ A function that calculates the accuracy of the frequency-based method.
 
     Parameters
     ----------
     frequency_based : dict
         Contains the Wikipedia titles (keys) and five most frequently used words (values).
+    number_wikiarticles : int
+        Contains the number of all Wikipedia articles.
 
     Returns
     -------
     finalcount/number_wikiarticles*100 : float
         'finalcount' contains number of cases, in which the title occured in at least one 
-        of the five keywords. number_wikiarticles is the number of all Wikipedia articles.
+        of the five keywords.
     """
-    number_wikiarticles = 202
     titles = list(frequency_based.keys())
     keywords = list(frequency_based.values())
 
@@ -86,4 +87,4 @@ if click.confirm('Do you want to extract the data with the frequency-based metho
 if click.confirm('Do you want to calculate the accuracy?', default=True):
     f = open('frequency_based_extraction.json', encoding='utf-8')
     frequency_based = json.load(f)
-    print("\nTotal Accuracy: ", calulate_accuracy(frequency_based), "%")
+    print("\nTotal Accuracy: ", calulate_accuracy(frequency_based, number_wikiarticles=202), "%")

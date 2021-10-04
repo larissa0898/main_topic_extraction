@@ -116,9 +116,8 @@ for i in range(len(corpus)):
     all_articles_keywords.append(one_article_keywords)
 
 realcount = 0
-
+number_wikiarticles = 202
 for i in range(len(title)):
-    number_wikiarticles = 202
     count = 0
     for key in all_articles_keywords[i]:
         if key in title[i] or title[i] in key:

@@ -117,6 +117,7 @@ for i in range(len(corpus)):
 
 realcount = 0
 number_wikiarticles = 202
+
 for i in range(len(title)):
     count = 0
     for key in all_articles_keywords[i]:

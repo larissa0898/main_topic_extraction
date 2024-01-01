@@ -47,7 +47,7 @@ If you want to use the tf_idf-method, run the following command:
     ```
 While the programm is running, you will be asked, whether you want to use the existing json file with the pre-processed data (`tf_idf_extraction.json`) or whether you want to pre-process the data again and create a new json file (this takes about 8 minutes). 
 The output will look like the following:
-    ```
+    ```bash
     Titel: title of Wikipedia article
     Keywords:
     keyword 1 tf-idf-value

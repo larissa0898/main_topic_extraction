@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 import spacy
 import json
 import re
+import os
 from wiki_dump_reader import Cleaner, iterate
 
 
@@ -22,11 +23,16 @@ def extracting_titles_and_texts(filename):
     wiki_dic : dict
         Contains the extracted titles (keys) and texts (values) of Wikipedia articles.
     """
+    data_folder = "data"  # Name des Ordners, in dem die Dateien liegen
+
+    # Pfad zur Datei im data-Ordner
+    file_path = os.path.join(data_folder, filename)
+
     wiki_titles = []
     wiki_texts = []
 
     cleaner = Cleaner()
-    for title, text in iterate(filename):
+    for title, text in iterate(file_path):
         wiki_titles.append(title.lower())
         text = cleaner.clean_text(text)
         cleaned_text, _ = cleaner.build_links(text)

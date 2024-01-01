@@ -73,8 +73,8 @@ if click.confirm('Do you want to store the data in a new json file (y) or load t
 
 
 try:
-    f = open('tf_idf_extraction.json', encoding='utf-8')
-    data = json.load(f)
+    with open('tf_idf_extraction.json', encoding='utf-8') as f:
+        data = json.load(f)
 except FileNotFoundError:
     print("FileNotFoundError: Sorry, there is no current file yet.")
     sys.exit()
@@ -92,7 +92,7 @@ tfidf_transformer = TfidfTransformer(smooth_idf=True,
                                     use_idf=True)
 tfidf_transformer.fit(doc_term_matrix)
 
-feature_names = cv.get_feature_names()
+feature_names = cv.get_feature_names_out()
 
 
 

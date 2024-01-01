@@ -43,14 +43,11 @@ To get started, follow these steps:
 ### tf-idf method
 If you want to use the tf_idf-method, run the following command:
 
-    ```
     python tf_idf_extraction.py
-    ```
 
 While the programm is running, you will be asked, whether you want to use the existing json file with the pre-processed data (`tf_idf_extraction.json`) or whether you want to pre-process the data again and create a new json file (this takes about 8 minutes). 
 The output will look like the following:
 
-    ```
     Titel: title of Wikipedia article
     Keywords:
     keyword 1 tf-idf-value
@@ -58,7 +55,6 @@ The output will look like the following:
     keyword 3 tf-idf-value
     keyword 4 tf-idf-value
     keyword 5 tf-idf-value
-    ```
 
 In the last line the accuracy will be printed.  
   
@@ -66,9 +62,7 @@ In the last line the accuracy will be printed.
 ### frequency-based method
 If you want to use the frequency-based method, run the following command:
 
-    ```
     python frequency_based_extraction.py
-    ```
 
 You will be asked, if you want to extract the data with the frequency-based method again or if you want to use the existing data in the json file `frequency_based_extraction.json`.  
 If you press `y` a new json file `frequency_based_extraction.json` will be created with the titles of the Wikipedia articles and the five most frequently occuring words/lemmas in the Wikipedia texts in descending order.   
